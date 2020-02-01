@@ -1,0 +1,16 @@
+---
+layout: single
+---
+
+{{content}}
+
+<hr/>
+<dl>
+  {% for itm in site.data[page.datafile] %}
+    <dt>
+      <a href="{{ itm.url }}">{{ itm.title }}</a>
+      {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
+    </dt>
+    <dd>{{ itm.description | markdownify }}</dd>
+  {% endfor %}
+</dl>
