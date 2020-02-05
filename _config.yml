@@ -45,6 +45,15 @@ footer:
 
 include:
   - _pages
+  - _issues
+  
+# Collections - expose data via archive pages
+collections:
+  issues:
+    output: true
+    excerpt: "One-Stop-FAQs on Town Issues"
+    label: "Issues For Our Town"
+    permalink: /:collection/:path
 
 defaults:
   # _posts
@@ -65,6 +74,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      related: true
+  - scope:
+      path: "issues"
+      type: issues
+    values:
+      layout: single
+      author_profile: false
       share: true
       related: true
 

@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Town Issues"
+    url: /issues/
+  - title: "By Category"
     url: /categories/
-  - title: "Tags"
+  - title: "By Tag"
     url: /tags/
   - title: "About"
     url: /about/
