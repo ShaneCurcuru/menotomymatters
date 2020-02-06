@@ -10,7 +10,11 @@ layout: single
     <dt>
       <a href="{{ itm.url }}">{{ itm.title }}</a>
       {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
+      {% if itm.icon %}<i class="fa fa-{{ itm.icon }}" aria-hidden="true"></i>{% endif %}
+      {% if itm.date %} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <small>{{ itm.date }}</small>{% endif %}
     </dt>
-    <dd>{{ itm.description | markdownify }}</dd>
+    <dd>
+      {{ itm.content | markdownify }}
+    </dd>
   {% endfor %}
 </dl>
