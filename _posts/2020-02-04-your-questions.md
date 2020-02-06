@@ -3,7 +3,7 @@ title: "What do YOU want to know about?"
 categories:
   - Blog
 tags:
-  - Welcome
+  - How-To
 ---
 
 Here at Menotomy Matters, Shane is workign to bring transparency to town 
