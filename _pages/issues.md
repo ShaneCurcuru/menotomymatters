@@ -4,7 +4,7 @@ excerpt: "Brief listing of various town issues I'm tracking"
 permalink: /issues/
 layout: archive
 header:
-  overlay_image: /assets/images/delfi-de-la-rua-152121-h.jpg
+  overlay_image: /assets/images/issues.jpg
   caption: "Photo: [**Delfi de la Rua / Unsplash**](https://unsplash.com)"
 ---
 
