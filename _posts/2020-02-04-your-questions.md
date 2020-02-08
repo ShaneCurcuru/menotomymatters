@@ -6,7 +6,7 @@ tags:
   - How-To
 ---
 
-Here at Menotomy Matters, Shane is workign to bring transparency to town 
+Here at Menotomy Matters, Shane is working to bring transparency to town 
 government - either by finding actual source records (instead of rumors)
 about town issues, or showing you how to get things done with Arlington
 town departments.
