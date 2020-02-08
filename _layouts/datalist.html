@@ -9,11 +9,11 @@ layout: single
   {% for itm in site.data[page.datafile] %}
     <dt>
       <a href="{{ itm.url }}">{{ itm.title }}</a>
-      {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
       {% if itm.icon %}<i class="fa fa-{{ itm.icon }}" aria-hidden="true"></i>{% endif %}
-      {% if itm.date %} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <small>{{ itm.date }}</small>{% endif %}
+      {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
     </dt>
     <dd>
+      {% if itm.displaydate %} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <small>{{ itm.displaydate }}</small>{% endif %}
       {{ itm.content | markdownify }}
     </dd>
   {% endfor %}
