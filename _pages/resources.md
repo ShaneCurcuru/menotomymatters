@@ -3,7 +3,6 @@ layout: datalist
 title: Town Resource List
 permalink: /resources/
 datafile: resources
-sidebar: true
 ---
 
 Here is a very small selection of useful links about town government 

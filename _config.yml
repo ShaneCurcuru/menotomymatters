@@ -13,6 +13,14 @@ author:
   github    : *scid
   bio       : "Long-time Arlington resident and open source volunteer."
 
+social:
+  type: # Person or Organization (defaults to Person)
+  name: *scname # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/ShaneCurcuru"
+    - "https://github.com/ShaneCurcuru"
+    - "https://linkedin.com/in/ShaneCurcuru"
+
 # Build, theme, style settings
 repository: "shanecurcuru/menotomymatters"
 branch: "master"
