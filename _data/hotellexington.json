@@ -11,15 +11,11 @@
     "preview": "The continued public hearing will occur on March 16, 2020, room TBD. Notice is herewith given that an application has been filed on June 21, 2019, by James F. Doherty for 1211 Mass Ave Realty Trust, at 1207-1211 Massachusetts Avenue, Arlington, MA, 02476, for Special Permit Docket #3602 in ...",
     "htmltitle": "Environmental Design Review Docket 3602, 1207-1211 Massachusetts Avenue",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/9931/3864?backlist=/town-governance/all-boards-and-committees/redevelopment-board",
-    "content": "The continued public hearing will occur on March 16, 2020, room TBD."
-  },
-  {
-    "title": "Hotel proposed for 1211 Massachusetts Ave. - News - The Arlington Advocate - Arlington, MA",
-    "preview": "",
-    "htmltitle": "Hotel proposed for 1211 Massachusetts Ave. - News - The Arlington Advocate - Arlington, MA",
-    "url": "https://arlington.wickedlocal.com/news/20190722/hotel-proposed-for-1211-massachusetts-ave",
-    "content": "Article on original Hotel Lexington proposal (Paywall) ",
-    "icon": "newspaper"
+    "content": "The ARB's continued public hearing will occur on March 16, 2020, room TBD.",
+    "icon": "gavel",
+    "date": "20200316",
+    "displaydate": "16-Mar-2020"
+
   },
   {
     "title": "The Heights Hotel Part V - What is Wrong with this Picture?",
@@ -110,6 +106,16 @@
     "icon": "blog",
     "date": "20190722",
     "displaydate": "22-Jul-2019"
+  },
+  {
+    "title": "Hotel proposed for 1211 Massachusetts Ave. - News - The Arlington Advocate - Arlington, MA",
+    "preview": "",
+    "htmltitle": "Hotel proposed for 1211 Massachusetts Ave. - News - The Arlington Advocate - Arlington, MA",
+    "url": "https://arlington.wickedlocal.com/news/20190722/hotel-proposed-for-1211-massachusetts-ave",
+    "content": "Article on original Hotel Lexington proposal (Paywall) ",
+    "icon": "newspaper",
+    "date": "20190722",
+    "displaydate": "22-July-2019"
   },
   {
     "title": "Original ARB meeting on Hotel Lexington",
