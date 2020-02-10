@@ -1,0 +1,25 @@
+---
+layout: single
+---
+
+{{content}}
+
+<hr/>
+<dl>
+  {% for itm in site.data[page.datafile] %}
+    <dt id="{{ itm.id }}">
+      {{ itm.article }} - {{ itm.title }}
+      <br/><small><a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.url }}"><i class="fa fa-gavel" aria-hidden="true"></i> (view official article)</a></small>
+      {% if itm.status != "" %}<small>{{ itm.status }} (for: {{ itm.for }}, against: {{ itm.against }}, abstain: {{ itm.abstain }}) on {{ itm.voted }} {{ itm.amendments }}</small>{% endif %}
+    </dt>
+    <dd>
+      <p>
+        {{ itm.text | markdownify }}
+        <br/>{% if itm.inserturl %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
+          {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}"></small>
+          {% endif %}
+        {% if itm.related %}<small><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> (see also) {% for rels in itm.related %}<a href="#{{ rels }}">{{ rels }}</a> {% endfor %}</small>{% endif %}
+      </p>
+    </dd>
+  {% endfor %}
+</dl>

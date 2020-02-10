@@ -1,0 +1,13 @@
+<p>DEBUG(datalist): datafile ~{{ datafile }}~</p>
+<dl>
+  {% for itm in site.data[datafile] %}
+    <dt>
+      {% if itm.icon %}<i class="fa fa-{{ itm.icon }}" aria-hidden="true"></i><a href="{{ itm.url }}">{% endif %}{{ itm.title }} </a>
+      {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
+    </dt>
+    <dd>
+      {% if itm.displaydate %}<small><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ itm.displaydate }}</small>{% endif %}
+      {{ itm.content | markdownify }}
+    </dd>
+  {% endfor %}
+</dl>
