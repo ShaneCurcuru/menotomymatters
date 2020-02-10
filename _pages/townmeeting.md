@@ -1,6 +1,9 @@
 ---
 title: Town Meeting Warrant Articles
 permalink: /tm/
+header:
+  overlay_image: /assets/images/indian-h.jpg
+  caption: "Photo: [**Shane Curcuru / CC-BY**]"
 ---
 
 Most of the work of Town Meeting is reviewing, discussing, and voting 
