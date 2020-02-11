@@ -10,7 +10,9 @@ layout: single
     <dt id="{{ itm.id }}">
       {{ itm.article }} - {{ itm.title }}
       <br/><small><a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.url }}"><i class="fa fa-gavel" aria-hidden="true"></i> (view official article)</a></small>
-      {% if itm.status != "" %}<small>{{ itm.status }} (for: {{ itm.for }}, against: {{ itm.against }}, abstain: {{ itm.abstain }}) on {{ itm.voted }} {{ itm.amendments }}</small>{% endif %}
+      {% if itm.status != "" %}<small>{% if itm.status == "Pass" %}<i class="fa fa-check" aria-hidden="true" style="color: green"></i>{% elsif itm.status == "Fail" %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i>{% endif %} {{ itm.status }} (for: {{ itm.for }}, against: {{ itm.against }}, abstain: {{ itm.abstain }}) on {{ itm.voted }} 
+        {% if itm.amendments != "" %}<i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> {{ itm.amendments }}{% endif %}
+      </small>{% endif %}
     </dt>
     <dd>
       <p>
@@ -25,8 +27,9 @@ layout: single
           <small>
             <i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Supplemental documents: 
             {% for supplement in itm.supplements %}
+              {% assign nocomma = forloop.last %}
               {% for hash in supplement %}
-                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if forloop.last == false %},{% endif %}{% endif %}
+                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %},{% endif %}{% endif %}
               {% endfor %}
             {% endfor %}
           </small>
