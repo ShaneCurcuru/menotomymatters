@@ -4,6 +4,7 @@ categories:
   - Business
 tags:
   - HotelLexington
+  - Resources
 ---
 
 You may have heard about one developer's plans to build a new boutique 

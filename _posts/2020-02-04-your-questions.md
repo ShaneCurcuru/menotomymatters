@@ -1,9 +1,9 @@
 ---
 title: "What do YOU want to know about?"
 categories:
-  - Blog
+  - HowTo
 tags:
-  - How-To
+  - Resources
 ---
 
 Here at Menotomy Matters, Shane is working to bring transparency to town 

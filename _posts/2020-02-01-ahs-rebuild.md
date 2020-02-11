@@ -4,6 +4,7 @@ categories:
   - Schools
 tags:
   - AHSRebuild
+  - Resources
 ---
 
 Our town is currently in the middle of a major project to completely rebuild 

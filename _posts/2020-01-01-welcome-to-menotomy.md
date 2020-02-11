@@ -1,7 +1,5 @@
 ---
 title: "Welcome to Menotomy Matters!"
-categories:
-  - Blog
 tags:
   - Welcome
 ---
