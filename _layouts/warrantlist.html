@@ -15,10 +15,22 @@ layout: single
     <dd>
       <p>
         {{ itm.text | markdownify }}
-        <br/>{% if itm.inserturl %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
-          {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}"></small>
-          {% endif %}
-        {% if itm.related %}<small><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> (see also) {% for rels in itm.related %}<a href="#{{ rels }}">{{ rels }}</a> {% endfor %}</small>{% endif %}
+        <br/>
+        {% if itm.inserturl  %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
+        {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}</small>
+        {% endif %}
+        {% if itm.related %}<small><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> See also: {% for rels in itm.related %}{% if rels != itm.id %}<a href="#{{ rels }}">{{ rels }}</a> {% endif %}{% endfor %}</small>{% endif %}
+        <br/>
+        {% if itm.supplements %}
+          <small>
+            <i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Supplemental documents: 
+            {% for supplement in itm.supplements %}
+              {% for hash in supplement %}
+                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if forloop.last == false %},{% endif %}{% endif %}
+              {% endfor %}
+            {% endfor %}
+          </small>
+        {% endif %}
       </p>
     </dd>
   {% endfor %}

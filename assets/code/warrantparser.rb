@@ -24,10 +24,12 @@ module WarrantParser
   HEREDOC
   extend self
   require 'nokogiri'
+  require 'open-uri'
   require 'json'
   require 'optparse'
   require 'date'
 
+  NOVUS_URL = 'https://arlington.novusagenda.com/Agendapublic/' # CoverSheet.aspx?ItemID=7186&MeetingID=881
   ERROR = 'error'
   STACK = 'stack'
   LINK_S = 'style1' # styleX are class names from NOVUSAgenda detail page
@@ -172,6 +174,33 @@ module WarrantParser
     end
   end
 
+  # Add in links to supplments, when we can find them
+  # @param articles list of articles; side effect adds data
+  # NOTE: Must be done *after* process_article
+  def add_supplements(articles)
+    articles.each do |article|
+      begin
+        # Attempt to grab all a's out of official article url
+        unless article['url'].empty?
+          doc = Nokogiri::HTML(open("#{NOVUS_URL}#{article['url']}"))
+          links = doc.search('a')
+          unless links.empty?
+            article['supplements'] = []
+            links.each do |elem|
+              if elem['href'] =~ /http/ # Some href are local
+                article['supplements'] << { elem['href'] => elem.text.strip }
+              else
+                article['supplements'] << { "#{NOVUS_URL}#{elem['href']}" => elem.text.strip }
+              end
+            end
+          end
+        end
+      rescue StandardError => e
+        puts "ERROR: #{e.message}\n\y#{e.backtrace.join("\n\t")}"
+      end
+    end
+  end
+
   # Normal case: parse and process warrant HTML
   def do_warrant(options)
     options[:file] ||= 'warrant.html'
@@ -225,8 +254,18 @@ module WarrantParser
   # Main method for command line use
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
-    warrant = do_warrant(options)
-    crossindex(warrant)
+    warrant = []
+    if options[:infile]
+      # Reprocess an existing .json file to add more data
+      puts "Parsing existing file: #{options[:infile]}"
+      warrant = JSON.parse(File.read(options[:infile]))
+      add_supplements(warrant)
+    else
+      # Default processing is to read HTML and process all data
+      warrant = do_warrant(options)
+      crossindex(warrant)
+      add_supplements(warrant)
+    end
     puts "... Outputting warrant articles: #{warrant.length}"
     File.open("#{options[:out]}", "w") do |f|
       f.puts JSON.pretty_generate(warrant)
