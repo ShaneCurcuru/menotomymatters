@@ -7,7 +7,7 @@ datafile: 2019warrant
 
 The 2019 Annual Town Meeting met over several nights and considered over 70 
 warrant articles, amendments, and other matters.  The same month, 
-there was also a [Special Town Meeting](/tm/2019special) with it's own agenda.
+there was also a [Special Town Meeting](/tm/2019special) with its own agenda.
 
 Here's an easy to read version of the full 2019 Annual Town Meeting Warrant, 
 with some annotations or comments added.  [See how I build this page](/tm/).
