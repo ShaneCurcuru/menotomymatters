@@ -27,7 +27,7 @@ module WarrantParser
   require 'open-uri'
   require 'json'
   require 'optparse'
-  require 'date'
+  require 'csv'
 
   NOVUS_URL = 'https://arlington.novusagenda.com/Agendapublic/' # CoverSheet.aspx?ItemID=7186&MeetingID=881
   ERROR = 'error'
@@ -119,20 +119,14 @@ module WarrantParser
   # Parse warrant and output array of hashes of semi-structured data
   # @param f filename to read
   def parse_warrant(f)
+    doc = Nokogiri::HTML(File.read(f))
+    warrant = doc.css('#warrantparse')
+    rows = warrant.css('tr')
+    raise StandardError("ERROR: Likely couldn't find TABLE id=warrantparse") if 0 == rows
+    puts("... Parsing agenda table rows: #{rows.length}")
     data = []
-    begin
-      doc = Nokogiri::HTML(File.read(f))
-      warrant = doc.css('#warrantparse')
-      rows = warrant.css('tr')
-      (0 == rows) ? puts("ERROR: Likely couldn't find TABLE id=warrantparse") : puts("... Parsing agenda table rows: #{rows.length}")
-      rows.each do |row|
-        parse_row(row, data)
-      end
-    rescue StandardError => e
-      data << { 
-        ERROR => "ERROR #{e.message}",
-        STACK => e.backtrace.join("\n\t")
-      }
+    rows.each do |row|
+      parse_row(row, data)
     end
     return data
   end
@@ -201,6 +195,34 @@ module WarrantParser
     end
   end
 
+  # Add in vote results (from spreadsheet)
+  # @param articles list of articles; side effect adds data
+  # @param votes csv of vote data; id,title,for,against,abstain,status,voted
+  #   Where id is matched unless it includes a '#'
+  #   Named fields (except title) are copied over to article
+  #   If id =~ /#/ append votes[title] to article[amendments]
+  # NOTE: Must be done *after* all other article parsing
+  def add_votes(articles, votes)
+    ctr = 0
+    CSV.foreach(votes, headers: true) do |row|
+      id, amended = row['id'].split('#')
+      if amended # Was an amendment, not original article, annotate it
+        articles.select{|a| a['id'] == id}.each do |article|
+          article['amendments'] ? article['amendments'] += "#{row['title'].strip.gsub(/\s+/, ' ')}" : article['amendments'] = "#{row['title'].strip.gsub(/\s+/, ' ')}"
+          article['amendments'] += ": #{row['status']} (Y #{row['for']}, N #{row['against']}, A #{row['abstain']} on #{row['voted']}), "
+        end
+      else
+        articles.select{|a| a['id'] == id}.each do |article|
+          ['for', 'against', 'abstain', 'status', 'voted'].each do |field|
+            article[field] = row[field].strip.gsub(/\s+/, ' ') if row[field]
+          end
+        end
+      end
+      ctr += 1
+    end
+    puts "... Added #{ctr} rows of votes or amendments"
+  end
+
   # Normal case: parse and process warrant HTML
   def do_warrant(options)
     options[:file] ||= 'warrant.html'
@@ -234,6 +256,9 @@ module WarrantParser
       opts.on('-iINFILE.JSON', '--infile INFILE.JSON', 'Input JSON filename to annotate more data to (previously created)') do |infile|
         options[:infile] = infile
       end
+      opts.on('-vVOTES.CSV', '--votes VOTES.CSV', 'Input CSV filename of voting records to annotate previously created JSON') do |votes|
+        options[:votes] = votes
+      end
 
       opts.on('-h', '--help', 'Print help for this program') do
         puts opts
@@ -255,11 +280,13 @@ module WarrantParser
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
     warrant = []
-    if options[:infile]
-      # Reprocess an existing .json file to add more data
-      puts "Parsing existing file: #{options[:infile]}"
+    if options[:votes]
+      # Append final voting data to existing JSON
+      options[:infile] ||= 'warrant.json'
+      options[:out] ||= 'warrant-votes.json' # Make it a separate file for comparison
+      puts "Parsing existing file: #{options[:infile]}, adding votes: #{options[:votes]}"
       warrant = JSON.parse(File.read(options[:infile]))
-      add_supplements(warrant)
+      add_votes(warrant, options[:votes])
     else
       # Default processing is to read HTML and process all data
       warrant = do_warrant(options)
