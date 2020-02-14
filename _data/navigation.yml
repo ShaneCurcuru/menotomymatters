@@ -1,11 +1,34 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Town Issues"
+    description: "Current blog posts"
+  - title: "Issues Research"
     url: /issues/
-  - title: "By Category"
-    url: /categories/
-  - title: "By Tag"
-    url: /tags/
+    description: "Research links for various issues"
+  - title: "Town Meeting"
+    url: /tm/
+    description: "Visualizing town meeting data and votes"
   - title: "About"
     url: /about/
+
+archive:
+  - title: "Town Resources"
+    children:
+      - title: "Town How-Tos"
+        url: /resources/
+      - title: "Issues Research"
+        url: /issues/
+      - title: "Town Meeting"
+        url: /tm/
+  - title: "About This Site"
+    children:
+      - title: "Your Host"
+        url: /about/
+      - title: "All By Tag"
+        url: /tags/
+      - title: "All By Category"
+        url: /categories/
+      - title: "Credits"
+        url: /colophon/
+      - title: "Terms"
+        url: /terms/

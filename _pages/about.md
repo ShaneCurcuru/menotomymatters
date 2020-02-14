@@ -21,15 +21,16 @@ A 22 year resident of Arlington, Shane lives with his family and cats
 atop the Heights just under the water tower.  Our daughter enjoyed 
 Robbins Farm Park and the Brackett School - especially Mrs. Z! - and 
 made it through Ottoson too.  We love the feel of Arlington, and appreciate 
-the wide variety of stores and restaurants we've attracted along 
+the wide variety of stores and restaurants the town has attracted along 
 Mass Ave - no longer do you need to go to Cambridge or Waltham 
 for an awesome dinner out!
 
 After a long career in software at IBM and a lot of volunteering in 
 open source communities, I'm now taking a little bit of retirement 
 early to work on meaningful projects.  One of the things I'd like to 
-work on if elected to Town Meeting is to work on making town governance 
-and committees more open and transparent.
+work on if elected to Town Meeting is make town governance 
+and committees more open and transparent, so the average voter can 
+more easily understand the workings of our town.
 
 Stay tuned for an updated bio, and I hope to talk to many of the folks 
 in the 12th precinct soon!
