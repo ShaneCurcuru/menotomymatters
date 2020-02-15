@@ -1587,6 +1587,10 @@
       {
         "comment": "The Select Board (5-0 vote) recommends no action.",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=45948 ": "Select Board Report"
+      },
+      {
+        "comment": "Finance Committee recommends no action on this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -1628,6 +1632,10 @@
       {
         "comment": "The Select Board (5-0 vote) supports this.",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=45948 ": "Select Board Report"
+      },
+      {
+        "comment": "Finance Committee supports the favorable action recommendation of the Select Board.",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -1664,6 +1672,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -1687,6 +1701,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee recommends no action on this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -1718,6 +1738,10 @@
       {
         "comment": "The Select Board (5-0 vote) supports this.",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=45948 ": "Select Board Report"
+      },
+      {
+        "comment": "Finance Committee supports the favorable action recommendation of the Select Board.",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -1835,6 +1859,10 @@
       {
         "comment": "The Select Board (5-0 vote) supports this.",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=45948 ": "Select Board Report"
+      },
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -1871,6 +1899,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee recommends no action on this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -1910,6 +1944,10 @@
     "supplements": [
       {
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=6780&ItemID=7246": "Reference Material"
+      },
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -1950,6 +1988,10 @@
     "supplements": [
       {
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=6830&ItemID=7247": "Reference Material"
+      },
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $337K).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -2030,6 +2072,10 @@
       {
         "comment": "Minuteman_Path_Flooding_Memo_5_8_19.pdf",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=6828&ItemID=7249": "Reference Material-Report"
+      },
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with multiple comments and details).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -2046,7 +2092,13 @@
     "title": "RESCIND OR REAPPROPRIATE BORROWING AUTHORIZATIONS FROM PRIOR YEARS",
     "text": "To see if the Town will vote to rescind the authority to borrow or appropriate funds, from prior years' authorizations, the amounts remaining with regard to any numbered prior Annual and/or Special Town Meeting Warrant Articles; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Treasurer)",
-    "inserturl": "https://www.arlingtonma.gov/departments/treasurer"
+    "inserturl": "https://www.arlingtonma.gov/departments/treasurer",
+    "supplements": [
+      {
+        "comment": "Finance Committee recommends no action on this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 60",
@@ -2081,6 +2133,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2116,6 +2174,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2151,6 +2215,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2174,6 +2244,10 @@
       {
         "comment": "Minuteman_Presentation.pdf",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=6815&ItemID=7254": "Reference Material-Report"
+      },  
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -2210,6 +2284,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2245,6 +2325,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2280,6 +2366,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2299,6 +2391,12 @@
     "related": [
       "article2",
       "article67"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2323,6 +2421,10 @@
       {
         "comment": "Melofchik_Amendment_Article_68_(1).pdf",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=6813&ItemID=7260": "Reference Material-Amendment"
+      },
+      {
+        "comment": "Finance Committee voted (12-1) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
       }
     ]
   },
@@ -2342,6 +2444,12 @@
     "inserturl": "https://www.arlingtonma.gov/departments/health-human-services/council-on-aging",
     "related": [
       "article69"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2361,6 +2469,12 @@
     "related": [
       "article70",
       "article71"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $0).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2380,6 +2494,12 @@
     "related": [
       "article70",
       "article71"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2403,6 +2523,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2426,6 +2552,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2449,6 +2581,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2484,6 +2622,12 @@
       "article65",
       "article66",
       "article75"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $1).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2507,6 +2651,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $100K).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -2530,6 +2680,12 @@
       "article74",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
