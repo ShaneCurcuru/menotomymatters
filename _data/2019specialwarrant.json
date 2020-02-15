@@ -19,7 +19,13 @@
     "against": "10",
     "abstain": "4",
     "status": "Pass",
-    "voted": "29-April-2019"
+    "voted": "29-April-2019",
+    "supplements": [
+      {
+        "comment": "The Finance Committee voted (unanimously) to recommend Article 1 (with comments, funding $291.4M).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 2",
@@ -36,6 +42,12 @@
       "article4",
       "article5",
       "article6"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee recommends no action on this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   },
   {
@@ -58,7 +70,13 @@
     "against": "20",
     "abstain": "1",
     "status": "Pass",
-    "voted": "29-April-2019"
+    "voted": "29-April-2019",
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $70K).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 4",
@@ -80,7 +98,13 @@
     "against": "0",
     "abstain": "3",
     "status": "Pass",
-    "voted": "29-April-2019"
+    "voted": "29-April-2019",
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 5",
@@ -102,7 +126,13 @@
     "against": "6",
     "abstain": "2",
     "status": "Pass",
-    "voted": "29-April-2019"
+    "voted": "29-April-2019",
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (9-5) to recommend this article (with comments, funding $50K).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 6",
@@ -119,6 +149,12 @@
       "article4",
       "article5",
       "article6"
+    ],
+    "supplements": [
+      {
+        "comment": "Finance Committee voted (unanimously) to recommend this article (with comments, funding $25K).",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Arlington Finance Committee Report"
+      }
     ]
   }
 ]
