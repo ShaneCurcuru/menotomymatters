@@ -9,7 +9,7 @@ main:
     url: /tm/
     description: "Visualizing town meeting data and votes"
   - title: "Finances"
-    url: /finances/
+    url: /issues/finances/
     description: "Visualizing budget and finances"
   - title: "About"
     url: /about/
@@ -24,7 +24,7 @@ archive:
       - title: "Town Meeting"
         url: /tm/
       - title: "Budgets & Finance"
-        url: /finances/
+        url: /issues/finances/
   - title: "About This Site"
     children:
       - title: "Your Host"
