@@ -1,0 +1,42 @@
+---
+layout: single
+---
+
+{{content}}
+
+<hr/>
+<dl>
+  {% for itm in site.data[page.datafile] %}
+    <dt id="{{ itm.id }}">
+      {{ itm.article }} - {{ itm.title }} - DRAFT - DRAFT - DRAFT
+      <br/>
+      <small>
+        <i class="fa fa-chalkboard" aria-hidden="true" style="color: blue"></i> Draft article, not official.
+        {% if itm.amendments %}<i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> {{ itm.amendments }}{% endif %}
+      </small>
+    </dt>
+    <dd>
+      <p>
+        {{ itm.text | markdownify }}
+        <br/>
+        {% if itm.insertcomment %}<small><i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> Proposer Comments: {{ itm.insertcomment }}</small>{% endif %}
+        {% if itm.inserturl  %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
+        {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}</small>
+        {% endif %}
+        {% if itm.related %}<small><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> See also: {% for rels in itm.related %}{% if rels != itm.id %}<a href="#{{ rels }}">{{ rels }}</a> {% endif %}{% endfor %}</small>{% endif %}
+        <br/>
+        {% if itm.supplements %}
+          <small>
+            <i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Supplemental documents: 
+            {% for supplement in itm.supplements %}
+              {% assign nocomma = forloop.last %}
+              {% for hash in supplement %}
+                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %},{% endif %}{% endif %}
+              {% endfor %}
+            {% endfor %}
+          </small>
+        {% endif %}
+      </p>
+    </dd>
+  {% endfor %}
+</dl>
