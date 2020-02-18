@@ -4,6 +4,9 @@ excerpt: "All the ways you can follow along the AHS Rebuild."
 permalink: /issues/ahsrebuild
 layout: datalist
 datafile: ahsrebuild
+header:
+  overlay_image: /assets/images/ahsrebuild.jpg
+  caption: "Photo: [**Tim Pierce / Public Domain**](https://commons.wikimedia.org/w/index.php?curid=2526743)"
 categories:
   - Issues
 tags:

@@ -45,6 +45,9 @@ analytics:
   google:
     tracking_id: "UA-6070690-9"
 
+google:
+  search_engine_id: "008313295041711467873:f701rjbr93s"
+
 footer:
   links:
     - label: "Twitter"
@@ -91,13 +94,14 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "issues"
+      path: "_issues"
       type: issues
     values:
       layout: single
-      author_profile: true
       share: true
       related: true
+      sidebar:
+        nav: "archive"
 
 category_archive:
   type: liquid
