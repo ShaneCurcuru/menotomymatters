@@ -140,6 +140,10 @@
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8402&MeetingID=989": "Redevelopment Board Agenda 27-Jan-2020"
+      },
+      {
+        "comment": "See also: related 2019 Town Warrant Article",
+        "https://menotomymatters.com/tm/2019/#article8": "2019: ZONING BYLAW AMENDMENT/OPEN SPACE REQUIREMENTS FOR MULTI-FAMILY USES AND MIXED-USE (Failed)"
       }
     ]
   },
@@ -334,7 +338,13 @@
     "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) of the Town of Arlington by renaming the terms 'Open Space', 'Open Space, Usable', and 'Open Space, Landscaped' in Section 2 - Definitions, or take any action related thereto.",
     "submitted": "27-January-2020",
     "insertemail": "steve@srevilak.net",
-    "insertby": "Citizen petition led by: Stephen A. Revilak"
+    "insertby": "Citizen petition led by: Stephen A. Revilak",
+    "supplements": [
+      {
+        "comment": "Related 2019 Town Meeting Article",
+        "https://menotomymatters.com/tm/2019/#article8": "ZONING BYLAW AMENDMENT/OPEN SPACE REQUIREMENTS FOR MULTI-FAMILY USES AND MIXED-USE (Failed)"
+      }
+    ]
   },
   {
     "article": "ARTICLE J-Citizen",
@@ -405,7 +415,13 @@
     "text": "To see if the town will vote to allow Accessory Dwelling Units (ADUs) in single and two-family dwellings in residential districts, or take any action related thereto by amending the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) as follows: \n\n**Section 1.2 Purposes** to add \"to encourage housing for persons at all income levels and stages of life\": and \n\n **Section 2 5 Definitions Associated with Dwelling:** to add An ACCESSORY DWELLING UNIT, or ACCESSORY APARTMENT, \"Accessory dwelling unit\", four or more rooms constituting a self-contained accessory housing unit, inclusive of sleeping, cooking and sanitary facilities on the same premises as the principal dwelling, subject to otherwise applicable dimensional and parking requirements, that: (i) maintains a separate entrance, either directly from the outside or through an entry hall or corridor shared with the principal dwelling sufficient to meet the requirements of the state building code and state fire safety code; (ii) is not larger in floor area than 1/2 the floor area of the principal dwelling., and \n\n **Section 3.3.3 Special Permits** to add \"in the case of requests for special permits for Accessory Dwelling Units, the use will add to the need for a range of affordable housing opportunities for the Town.\" and\n\n**Section 5.2.3 Districts and Uses:** to add 'to allow for the creation of accessory dwelling units in all zoning districts which allow residential use. (include in Section 5.4 Residential Districts); or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "supplements": [
+      {
+        "comment": "Related 2019 Town Meeting Article",
+        "https://menotomymatters.com/tm/2019/#article15": "ZONING BYLAW AMENDMENT/ACCESSORY DWELLING UNITS (Failed)"
+      }
+    ]
   },
   {
     "article": "ARTICLE Q-Citizen",
