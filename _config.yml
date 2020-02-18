@@ -50,15 +50,15 @@ google:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ShaneCurcuru"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/ShaneCurcuru"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ShaneCurcuru"
+    - label: "About"
+      icon: "fa fa-fw fa-address-card"
+      url: "/about/"
+    - label: "Credits"
+      icon: "fa fa-fw fa-hand-holding-heart"
+      url: "/colophon/"
+    - label: "Terms"
+      icon: "fa fa-fw fa-gavel"
+      url: "/terms/"
 
 include:
   - _pages
