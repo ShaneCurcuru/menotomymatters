@@ -1,24 +1,36 @@
 [
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE A-Citizen",
     "status": "Draft",
     "title": "REGULATION OF OUTDOOR LIGHTING - UPLIGHTING",
     "text": "To see if the Town will vote to amend [Title V Article 14 Section 3D of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-v-regulations-upon-the-use-of-private-property#A14) to include structures used for religious purposes, and structures used for commercial purposes, among the exemptions to the prohibition of uplighting; or take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "paul@schlichtman.org",
-    "insertby": "Citizen petition led by: Paul Schlichtman"
+    "insertby": "Citizen petition led by: Paul Schlichtman",
+    "supplements": [
+      {
+        "comment": "Select Board Meeting Materials from P. Schlictman",
+        "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8428&MeetingID=981": "Select Board Meeting Records"
+      }
+    ]
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE B-CitizenB",
     "status": "Draft",
     "title": "Bylaw Amendment Minuteman Bikeway Hours",
     "text": "To see if the town will vote to amend [Title III, Article 1, Section 10 of the town bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-iii-public-and-private-ways#A1) (Minuteman Bikeway Hours) to extend the operating hours of the Minuteman Bikeway; or any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "adamjamesmacneill@gmail.com",
-    "insertby": "Citizen petition led by: Adam MacNeill"
+    "insertby": "Citizen petition led by: Adam MacNeill",
+    "supplements": [
+      {
+        "comment": "Select Board Meeting Materials from Acting Police Chief; J. Raitt, A. MacNeill",
+        "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8428&MeetingID=981": "Select Board Meeting Records"
+      }
+    ]
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE C-Citizen",
     "status": "Draft",
     "title": "Establishment of Town Committee on Residential Development",
     "text": "To see if the Town will vote to establish a Committee of the Town Meeting to examine the current issues related to residential development in the R0, R1, R2, R3, and R4 zoning districts. These issues shall include, but not be limited to, effects on the neighborhood during teardown and construction activities; new construction impacts on neighborhood character/environment; permanent negative impacts on abutters; loss of healthy tree canopy; and exacerbation of particular negative impacts on abutters with existing non-conforming lots. Members of the Committee shall be appointed by the Town Moderator, and consist of not less than 5 nor more than 9  members.  A  quorum  shall consist  of a majority of  the appointed members. Members of the Committee shall be residents of the Town, a majority of whom shall be persons who are not Town employees and/or have no financial interest (either  directly or indirectly) in the development,  building, or real estate communities. The Committee's objectives will include development of recommendations for proposing new zoning and general bylaws and/or amendments, as applicable, to provide long-term mitigation of the significant issues identified; or take any action related thereto.",
@@ -27,7 +39,7 @@
     "insertby": "Citizen petition led by: Paul Parise"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE D-Citizen",
     "status": "Draft",
     "title": "Auto and Property Insurance claims and losses",
     "text": "To see if the Town will vote to establish a committee to learn the annual cost of auto and property insurance premiums and insurance claims in the Town of Arlington, or take any action related thereto.",
@@ -36,16 +48,16 @@
     "insertby": "Citizen petition led by: Andrew Fischer"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE E-Citizen",
     "status": "Draft",
     "title": "VOTE/POLICE CIVILIAN ADVISORY BOARD STUDY COMMITTEE",
-    "text": "To see if the Town will vote to form a committee of Town Meeting to study, craft and submit a Warrant Article to Town Meeting in 2021 for the creation of an Arlington police civilian advisory board comprised of seven (7) voting members and three (3) non-voting members, or take any action related thereto. The study committee would make decisions based on the vote of a simple majority of the committee's voting members who shall be appointed to the committee by: the Envision Arlington Standing Committee (1); the Arlington Human Rights Commission (1); the LGBTQIA & Rainbow Commission (1); the  Disability Commission (1); the  Board of Youth Services (1); the Equali Opportunity  Advisory Committee  (1); and the  Town Moderator  (1). Non-voting  members of  the  committee shall include one  (1)  representative from the Arlington Police Department, the Town's Diversity, Equity and Inclusion Coordinator, and the Town Counsel. The membership of the study committee's voting members will include at  least one Town Meeting member  and shall reflect racial/ethnic  and    other  forms of diversity  of Town residents.",
+    "text": "To see if the Town will vote to form a committee of Town Meeting to study, craft and submit a Warrant Article to Town Meeting in 2021 for the creation of an Arlington police civilian advisory board comprised of seven (7) voting members and three (3) non-voting members, or take any action related thereto. The study committee would make decisions based on the vote of a simple majority of the committee's voting members who shall be appointed to the committee by: the Envision Arlington Standing Committee (1); the Arlington Human Rights Commission (1); the LGBTQIA & Rainbow Commission (1); the  Disability Commission (1); the  Board of Youth Services (1); the Equal Opportunity  Advisory Committee  (1); and the  Town Moderator  (1). Non-voting  members of  the  committee shall include one  (1)  representative from the Arlington Police Department, the Town's Diversity, Equity and Inclusion Coordinator, and the Town Counsel. The membership of the study committee's voting members will include at  least one Town Meeting member  and shall reflect racial/ethnic  and    other  forms of diversity  of Town residents.",
     "submitted": "31-January-2020",
     "insertemail": "jordanweinstein@rcn.com",
     "insertby": "Citizen petition led by: Jordan Weinstein"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE F-Citizen",
     "status": "Draft",
     "title": "ARTICLE",
     "text": "To see if the Town will vote to request and authorize the Select Board to file Home Rule Legislation so as to enable Justin Brown, a resident of the Town, to be eligible for appointment as firefighter in the Town of Arlington notwithstanding the fact that he has attained the;age of 32, or  take any action related there",
@@ -54,17 +66,17 @@
     "insertby": "Citizen petition led by: jb@usbrown.com"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE G-Citizen",
     "status": "Draft",
     "title": "Conversion of Commercial to Residential",
-    "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in **Section 5.2.4**, by inserting in the last sentence of said section, after the wordfootprinr, the words \"if allowed by special permit\" and by inserting, after the words residential use, the words \"provided that the addition or expansion is for affordable housing\" so that said sentence will read as follows:\n\n In the case of an existing commercial use, the addition or expansion of residential use within the building footprint ifallowed bv special permit shall not require adherence to setback regulations for residential uses, provided that the addition or expansion is for affordable housing, even if the residential use becomes the principal use of the building, or take any action relating thereto.",
+    "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in **Section 5.2.4**, by inserting in the last sentence of said section, after the word footprint, the words \"if allowed by special permit\" and by inserting, after the words residential use, the words \"provided that the addition or expansion is for affordable housing\" so that said sentence will read as follows:\n\n In the case of an existing commercial use, the addition or expansion of residential use within the building footprint if allowed bv special permit shall not require adherence to setback regulations for residential uses, provided that the addition or expansion is for affordable housing, even if the residential use becomes the principal use of the building, or take any action relating thereto.",
     "submitted": "15-January-2020",
     "insertemail": "jworden@swwalaw.com",
     "insertby": "Citizen petition led by: John L. Worden III",
-    "insertcomment": "Under the law as it presently stands, a mixed use building, with its minimal setbacks could be converted entirely into residential uses, by right. Since the only kind of additional housing that Arlinggoh needs is affordable housing, the ability to do that would be limited under this amendment, and subject to public review."
+    "insertcomment": "Under the law as it presently stands, a mixed use building, with its minimal setbacks could be converted entirely into residential uses, by right. Since the only kind of additional housing that Arlington needs is affordable housing, the ability to do that would be limited under this amendment, and subject to public review."
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE H-Citizen",
     "status": "Draft",
     "title": "Definition of Foundation",
     "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in Section 2,by addinga new definition as follows:\n\n**Building Foundation:** The masonry or concrete structure in the ground which supports the building. It does not include porches, decks, sheds, patios, one story attached garages, carports, or the like, or take any action related thereto",
@@ -73,34 +85,34 @@
     "insertby": "Citizen petition led by: Patricia B. Worden"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE I-Citizen",
     "status": "Draft",
-    "title": "Zoning Bytaw/Definitions related to Open Space",
+    "title": "Zoning Bylaw/Definitions related to Open Space",
     "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) of the Town of Arlington by renaming the terms 'Open Space', 'Open Space, Usable', and 'Open Space, Landscaped' in Section 2 - Definitions, or take any action related thereto.",
     "submitted": "27-January-2020",
     "insertemail": "steve@srevilak.net",
     "insertby": "Citizen petition led by: Stephen A. Revilak"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE J-Citizen",
     "status": "Draft",
     "title": "NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS",
-    "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in **Section 3.1.8** by appending to the end of this section the sentence: \"No such permit shall be issued until the Building lnspector finds that the applicant is in compliance with the applicable provisions of [Title VI, Article 7 of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-vi-building-regulations#A7).\" or take any action related thereto.",
+    "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in **Section 3.1.8** by appending to the end of this section the sentence: \"No such permit shall be issued until the Building inspector finds that the applicant is in compliance with the applicable provisions of [Title VI, Article 7 of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-vi-building-regulations#A7).\" or take any action related thereto.",
     "submitted": "27-January-2020",
     "insertemail": "amruderman@gmail.com",
     "insertby": "Citizen petition led by: Michael Ruderman"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE K-Citizen",
     "status": "Draft",
-    "title": "lmproving Residential Inclusiveness, Sustainabitity, and Affordability by Ending single Family Zoning",
+    "title": "Improving Residential Inclusiveness, Sustainability, and Affordability by Ending single Family Zoning",
     "text": "To see if the Town will vote to or take any action related thereto: to Amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) for the Town of Arlington by expanding the set of allowed residential uses in the RO and R1 zoning districts with the goal of expanding and diversifying the housing stock by altering the district definitions for the RO and R1 zoning districts.",
     "submitted": "28-January-2020",
     "insertemail": "benrudick@gmail.com",
     "insertby": "Citizen petition led by: Benjamin Rudick"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE L-Citizen",
     "status": "Draft",
     "title": "ZONING BYLAW AMENDMENT/PUBLICATION OF SUPPORTING DOCUMENTATION-ZONING BOARD OF APPEALS",
     "text": "To see if the Town will vote to require the [Zoning Board of Appeals](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/zoning-board-of-appeals) to publish, on the Town Website, supporting documentation pertaining to items on its agenda, or take any action related thereto.",
@@ -109,16 +121,16 @@
     "insertby": "Citizen petition led by: Christopher Loreti"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE M-Citizen",
     "status": "Draft",
     "title": "Clarification of Zoning Bylaw Definition of Mixed Use",
-    "text": "To see if the Town will vote to amend the definition of Mixed Use in the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) to clarify that as enacted by Town Meeting, Iand uses individually prohibited in any particular zoning district are also prohibited as part of Mixed Use developments in the same zoning district, or take any action related thereto.",
+    "text": "To see if the Town will vote to amend the definition of Mixed Use in the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) to clarify that as enacted by Town Meeting, land uses individually prohibited in any particular zoning district are also prohibited as part of Mixed Use developments in the same zoning district, or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "cloreti@verizon.net",
     "insertby": "Citizen petition led by: Christopher Loreti"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE N-Citizen",
     "status": "Draft",
     "title": "NONE",
     "text": "To see if the Town will vote to or take any action related thereto: In support of allowing the [ARB](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board)/[ZBA](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/zoning-board-of-appeals) to reduce parking requirements for applicants in the B3 or B5 zoning districts to zero - especially in support of the new pub!!",
@@ -127,53 +139,59 @@
     "insertby": "Citizen petition led by: Gami Maishlin"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE O-Citizen",
     "status": "Draft",
     "title": "To Amend the Zoning Bylaw Regarding Parking Regulations, or take any action related thereto",
     "text": "To see if the Town Meeting will vote to amend **Section 6.1** of the current [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) regarding off-street parking to encourage new businesses such as restaurants, or take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "mlewiton@yahoo.com",
     "insertby": "Citizen petition led by: Marvin Lewiton",
-    "insertcomment": "The Arlington Heights business district was established when the primary means of transportation was a streetcar line running down Massachusetts Ave., rather than the widespread use of private automobiles. As such, buildings housing commercial establishments were constructed without consideration for off-street parking. Under the current bylaw, it would be virtually impossible for a new business to meet this requirement if it were situated on the north side of the block bordered by Park Avenue on the West, and Davis Rd. on the East. \n\n The Town has expressed a strong desire for three vigorous business districts in the East, Arlington Center,and Arlington Heights. In past years,a number ofb usinesses have closed in the Heights business district, and the current parking bylaw makes it challenging for new businesses to enter the area. We believe that changing the existing bylaw would aid in encouraging the development of new businesses, and helping to create a vibrant and diverse commercial community in Arlington Heights."
+    "insertcomment": "The Arlington Heights business district was established when the primary means of transportation was a streetcar line running down Massachusetts Ave., rather than the widespread use of private automobiles. As such, buildings housing commercial establishments were constructed without consideration for off-street parking. Under the current bylaw, it would be virtually impossible for a new business to meet this requirement if it were situated on the north side of the block bordered by Park Avenue on the West, and Davis Rd. on the East. \n\n The Town has expressed a strong desire for three vigorous business districts in the East, Arlington Center,and Arlington Heights. In past years,a number of businesses have closed in the Heights business district, and the current parking bylaw makes it challenging for new businesses to enter the area. We believe that changing the existing bylaw would aid in encouraging the development of new businesses, and helping to create a vibrant and diverse commercial community in Arlington Heights."
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE P-Citizen",
     "status": "Draft",
     "title": "ZONING BYLAW AMENDMENT: Accessory Dwelling Units (ADUs)",
-    "text": "To see if the town will vote to allow Accessory Dwelling Units (ADUs) in single and two-family dwellings in residential districts, or take any action related thereto by amending the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) as follows: \n\n**Section 1.2 Purposes** to add \"to encourage housing for persons at all income levels and stages of life\": and \n\n **Section 2 5 Definitions Associated with Dwelling:** to add An ACCESSORY DWELLING UNIT, or ACCESSORY APARTMENT, \"Accessory dwelling unit\", four or more rooms constituting a self-contained accessory housing unit, inclusive of sleeping, cooking and sanitary facilities on the same premises as the principal dwelling, subject to otherwise applicable dimensional and parking requirements, that: (i) maintains a separate entrance, either directly from the outside or through an entry hall or corridor shared with the principal dwelling sufficient to meet the requirements of the state building code and state fire safety code; (ii) is not larger in floor area than 1/2 the floor area of the principal dwelling., and \n\n **Section 3.3.3 Special Permits** to add \"in the case of requests for speciol permits for Accessory Dwelling Units, the use will add to the need for a rdnge of affordable housing opportunities for the Town.\" and\n\n**Section 5.2.3 Districts and Uses:** to add 'to allow for the creation of accessory dwelling units in all zoning districts which allow residential use. (include in Section 5.4 Residential Districts); or take any action related thereto.",
+    "text": "To see if the town will vote to allow Accessory Dwelling Units (ADUs) in single and two-family dwellings in residential districts, or take any action related thereto by amending the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) as follows: \n\n**Section 1.2 Purposes** to add \"to encourage housing for persons at all income levels and stages of life\": and \n\n **Section 2 5 Definitions Associated with Dwelling:** to add An ACCESSORY DWELLING UNIT, or ACCESSORY APARTMENT, \"Accessory dwelling unit\", four or more rooms constituting a self-contained accessory housing unit, inclusive of sleeping, cooking and sanitary facilities on the same premises as the principal dwelling, subject to otherwise applicable dimensional and parking requirements, that: (i) maintains a separate entrance, either directly from the outside or through an entry hall or corridor shared with the principal dwelling sufficient to meet the requirements of the state building code and state fire safety code; (ii) is not larger in floor area than 1/2 the floor area of the principal dwelling., and \n\n **Section 3.3.3 Special Permits** to add \"in the case of requests for special permits for Accessory Dwelling Units, the use will add to the need for a range of affordable housing opportunities for the Town.\" and\n\n**Section 5.2.3 Districts and Uses:** to add 'to allow for the creation of accessory dwelling units in all zoning districts which allow residential use. (include in Section 5.4 Residential Districts); or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE Q-Citizen",
     "status": "Draft",
     "title": "Affordable Housing on Privately Owned Parcels of \"Non-Coniorming\" Size",
-    "text": "Creation of a Process Allowing Permanently Affordable Housing to be Built on Privately Owned Parcels of \"Non-Conforming\" Size\n\n To see if the Town will vote, to allow the deveiopment of new sources of permanently affordable housing (affordable in perpetuity and affordability as defined in Arlington Zontng By-Laws) by modifying the requirements for constructing housing units to enable construction on smaller lots as long as those units are permanently committed to be available for rental or ownership according to official regional guidelines (see ([Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) Section 2, Basic Provisions, Definitions Associated with Affordable Housing) of affordability, or take any action related thereto.\n\nSuch construction would be permissibie in all zoning districts allowing residentiai use, providing the tracts were laid out prior to July 7,2079, and receive a special permit from the ZBA.\n\nOwnership, sale, repurchase and rentals of each property would be overseen by the Arlington Housing Trust Fund or a comparable entity that would have the authority to enforce the affordability guidelines in perpetuity",
+    "text": "Creation of a Process Allowing Permanently Affordable Housing to be Built on Privately Owned Parcels of \"Non-Conforming\" Size\n\n To see if the Town will vote, to allow the development of new sources of permanently affordable housing (affordable in perpetuity and affordability as defined in Arlington Zontng By-Laws) by modifying the requirements for constructing housing units to enable construction on smaller lots as long as those units are permanently committed to be available for rental or ownership according to official regional guidelines (see ([Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) Section 2, Basic Provisions, Definitions Associated with Affordable Housing) of affordability, or take any action related thereto.\n\nSuch construction would be permissible in all zoning districts allowing residential use, providing the tracts were laid out prior to July 7,2079, and receive a special permit from the ZBA.\n\nOwnership, sale, repurchase and rentals of each property would be overseen by the Arlington Housing Trust Fund or a comparable entity that would have the authority to enforce the affordability guidelines in perpetuity",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE R-Citizen",
     "status": "Draft",
-    "title": "STDEYARD SKv EXPOSURE PLANES - Zoning By-law Arnendment",
-    "text": "To see if the Town will vote to or take any action related thereto: To amend **Section 5.3** of the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) by inserting, at the end thereof, a new sub­ section **5.3.23** which describes the Purpose & Intent,  Applicability, Definitions, Standards by District, Dimensional and Density Regulations and Exceptions for Sideyard Sky Exposure Planes to accomodate new construction while protecting public health, safety and welfare in residential zoning districts.",
+    "title": "SIDEYARD SKY EXPOSURE PLANES - Zoning By-law Amendment",
+    "text": "To see if the Town will vote to or take any action related thereto: To amend **Section 5.3** of the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) by inserting, at the end thereof, a new sub­ section **5.3.23** which describes the Purpose & Intent,  Applicability, Definitions, Standards by District, Dimensional and Density Regulations and Exceptions for Sideyard Sky Exposure Planes to accommodate new construction while protecting public health, safety and welfare in residential zoning districts.",
     "submitted": "31-January-2020",
     "insertemail": "fields.edwin@gmail.com",
     "insertby": "Citizen petition led by: Ted Fields"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE S-Citizen",
     "status": "Draft",
     "title": "School Committee Member Stipends",
     "text": "To see if the Town will vote pursuant to [M.G.L. c. 71 section 52](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71/section52), to provide all Arlington School Committee Members compensation consisting of an annual stipend of $3,000 per member commencing in Fiscal Year 2022, or take any action related thereto.",
     "submitted": "14-January-2020",
     "insertemail": "christakel@verizon.net",
-    "insertby": "Citizen petition led by: Christa Kelleher"
+    "insertby": "Citizen petition led by: Christa Kelleher",
+    "supplements": [
+      {
+        "comment": "Select Board Meeting Materials from C. Kelleher",
+        "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8428&MeetingID=981": "Select Board Meeting Records"
+      }
+    ]
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE T-Citizen",
     "status": "Draft",
     "title": "Amendment to Zoning Bylaws 5.3.17 Upper Story Building Set Back",
     "text": "To see if the Town will vote to or take any action related thereto: [Zoning Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) **5.3.17 Upper-Story Building Step Backs** (Amended as follows) \n\nFor buildings more than three stories in height, an additional 7.5 foot step-back (upper story building setback) shall be provided after the third story level or 35 feet above grade, whichever is less. The upper story step-back shall be provided along all building elevations with street frontage, excluding alleys. In cases subject to Section 3.4. Environmental Design Review, the Arlington Redevelopment Board in evaluating the proposal may grant a special permit to adjust the required setbacks set forth in this Bylaw to account for specific conditions unique to the proposal.",
@@ -182,25 +200,25 @@
     "insertby": "Citizen petition led by: James Doherty"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE U-Citizen",
     "status": "Draft",
-    "title": "A resolulion to encourage energy efficient and/or sustainable energy installations in historic districts",
+    "title": "A resolution to encourage energy efficient and/or sustainable energy installations in historic districts",
     "text": "To see if the Town will vote to urge the [Arlington Historic Districts Commission](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historic-districts-commission) to allow installation in the Historic Districts ol any solar panel, heat pump, or other energy-efficient technology that does not cause irreversible changes to historic features or materials, or to take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "srdoctrow@gmail.com",
     "insertby": "Citizen petition led by: Susan R. Doctrow"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE V-Citizen",
     "status": "Draft",
-    "title": "Facitritles Department Report Resolution/Clanify Responsibilities, Track Frogress of the Dept. of Facilities & Maintenance",
+    "title": "Facilities Department Report Resolution/Clarify Responsibilities, Track Progress of the Dept. of Facilities & Maintenance",
     "text": "**Clarify Responsibilities, Track Progress of the [Dept. of Facilities & Maintenance](https://www.arlingtonma.gov/departments/facilities)**\n\nTo see if the Town will vote to endorse a resolution calling for a quarterly report of achievements based on the original departmental plan, finalized January 2015, to be provided to be provided to the Select Board; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE W-Citizen",
     "status": "Draft",
     "title": "Broadway Corridor Design Competition",
     "text": "**Resolution to Create a Broadway Corridor Design Competition to Encourage the Development of New Housing Styles Appropriate for Arlington**\n\nThe purpose of this article is to see if the Town Meeting will vote to allow the Town to plan and sponsor a design competition to encourage new housing and mixed use construction in the Broadway Corridor are of Arlington, or take any action related thereto. This warrant article builds on findings from the [Fall 2019 Broadway Corridor Study](https://www.arlingtonma.gov/Home/Components/News/News/9862/16), and creates a \"demonstration area project\".",
@@ -209,30 +227,132 @@
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE X-Citizen",
     "status": "Draft",
     "title": "RESOLUTION Advanced Registration & Organization of Town Meeting Speakers",
-    "text": "**Creation of a Process Prompting Speakers Who Are Proponents or Opponents of Certain Legislation To Register**\n\nTo see if the Town will vote to support the development of a practice by the [Town Meeting Procedures Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/town-meeting-procedures-committee) for prompting proponent and opponents of Town Meeting Warrant Artides to register in advance of the beginning of the first night of Town Meeting to  allow for the  equal presentation of perspectives, and or take any action relative thereto.",
+    "text": "**Creation of a Process Prompting Speakers Who Are Proponents or Opponents of Certain Legislation To Register**\n\nTo see if the Town will vote to support the development of a practice by the [Town Meeting Procedures Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/town-meeting-procedures-committee) for prompting proponent and opponents of Town Meeting Warrant Articles to register in advance of the beginning of the first night of Town Meeting to  allow for the  equal presentation of perspectives, and or take any action relative thereto.",
     "submitted": "29-January-2020",
     "insertemail": "bthornton@assetstewardship.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE Y-Citizen",
     "status": "Draft",
     "title": "RESOLUTION/ Frotocols for Deliberative Collaboration in Town Government Initiated Citizen",
-    "text": "To see if the Town will vote to endorse a resolution in sljpport of directing at least one  member of each Town govemment initiated citizen committee to have formal training or certification as a \"Facilitator\" in order to help ensure that the committee is a place where all members are respected, allowed to speak, are not intimidated and that agendas are developed that lead to productive outcomes or to reassess the productivity and purpose of every committee at least once every five years to re-authorize the committee's purpose and continuity; or limit the number of Town government-initiated committees to no more than seven per year; or take any action related thereto.",
+    "text": "To see if the Town will vote to endorse a resolution in support of directing at least one  member of each Town governent initiated citizen committee to have formal training or certification as a \"Facilitator\" in order to help ensure that the committee is a place where all members are respected, allowed to speak, are not intimidated and that agendas are developed that lead to productive outcomes or to reassess the productivity and purpose of every committee at least once every five years to re-authorize the committee's purpose and continuity; or limit the number of Town government-initiated committees to no more than seven per year; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "bthornton@assetstewardship.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
   },
   {
-    "article": "ARTICLE 0",
+    "article": "ARTICLE Z-Citizen",
     "status": "Draft",
     "title": "Formally Invite Arlington Housing Authority Representatives To Present to Town Meeting",
-    "text": "**Arlington Housing Authority presents to Town Meeting**\n\nTo see if the Town will vote to endorse a resolution calling for a the Director of the [Arlington Housing Authority](https://www.arlingtonma.gov/departments/planning-community-development/affordable-housing-in-arlington) to be formally invited to present the AHA proposed annual budget and other key inltiatives to the Town Meeting as a regular, annual event; or take any action related thereto.",
+    "text": "**Arlington Housing Authority presents to Town Meeting**\n\nTo see if the Town will vote to endorse a resolution calling for a the Director of the [Arlington Housing Authority](https://www.arlingtonma.gov/departments/planning-community-development/affordable-housing-in-arlington) to be formally invited to present the AHA proposed annual budget and other key initiatives to the Town Meeting as a regular, annual event; or take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "HOME RULE/SENIOR WATER DISCOUNT",
+    "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation or other Special Legislation which would permit the Town to discount fees charged to qualifying, means-tested Arlington Seniors for water and sewer usage; or take any action related thereto.",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "As the Board will recall from recent discussions, a number of municipalities have enacted water and sewer discount programs for local seniors. It remains the position of this Office that a straightforward form of such a discount programs may be offered by vote of the Select Board without Town Meeting action or Home Rule Petition. However, further research has revealed that Home Rule Legislation would be required if the Board were to contemplate a model of discount similar to the Board’s recent means-tested tax deferral and “work-off” programs or to certain specific subcategories of senior residents in Arlington, based upon the Department of Revenue’s interpretation of Brand v. Water Commissioners of Billerica, 242 Mass. 223 (1922). Accordingly, it may be in the Board’s interest to place an article on the warrant for further discussion.",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/STORMWATER MANAGEMENT",
+    "text": "To see if the Town will vote to amend [Title V, Article 15](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-v-regulations-upon-the-use-of-private-property#A15) of the Town Bylaws (“Stormwater Mitigation”) to update such bylaw so as to add, remove or amend definitions, clarify the bylaw’s procedures and applicability to certain projects, and adjust fees; or take any action related thereto.",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "This warrant article is jointly requested by the Engineering Division and Environmental Planner/Conservation agent in order to modestly update the Stormwater Mitigation Bylaw in the interests of improving coordinated implementation of the bylaw and clarifying its applicability to smaller scale projects.",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "HOME RULE LEGISLATION/RETIRED POLICE OFFICER DETAILS",
+    "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation, as set forth below, to allow retired police officers to work police details: or take any other action relative thereto. (Please see town counsel document for full proposal.)",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "The purpose of this article is to implement an agreement between the Town and its collectively bargain police unions to retain qualifying retired Arlington police officers to serve on police details as needed.",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/FOSSIL FUEL INFRASTRUCTURE",
+    "text": "To see if the Town will vote to amend [Title VI of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-vi-building-regulations) to add a new provision prohibiting the installation of fossil fuel infrastructure in new construction projects and/or major renovation and rehabilitation projects in Arlington; to set forth the terms and scope of such prohibition, and to provide for exemptions to same; or take any action related thereto.",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "As the Board likely knows, several communities in the Commonwealth have considered or adopted a prohibition on installation of new infrastructure for fossil fuel-based systems (including natural gas and oil-based systems) in new construction and major renovation projects; most notably [Brookline at its November 2019 Special Town Meeting](https://www.brooklinema.gov/DocumentCenter/View/20106/November-19-2019-Special-Town-Meeting-Warrant). The overall purpose of these ordinances is to take action to reduce carbon emissions in response to the climate change crisis. Such ordinances have generally been limited in scope to prohibit installation of new gas or oil pipping and systems such as certain boilers, furnaces, and cooktops, primarily in new residential construction but could be broader or narrower in Arlington. Similarly, the scope of exemptions to such prohibitions likely varies considerably.",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/WATER & SEWER LINE REPLACEMENT",
+    "text": "To see if the Town will vote to amend the Town Bylaws to require inspection, and as needed, repair or replacement of residential and commercial water and/or Sewer connections prior to the sale of any privately owned property within the Town of Arlington; or take any action related thereto.",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "A version of this article limited to water lines appeared on last year’s warrant. The Director of Public Works requests your consideration of whether or not further discussion is merited on the subject both for water and sewer lines. In short, the goals of a water and/or sewer line replacement bylaw are to conserve water, address water costs associated with leaks, and replace environmentally disadvantageous materials, hopefully at a time when homeowners will have additional financial resources to make any necessary repairs or replacements.",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 0-TownCounsel",
+    "status": "Draft",
+    "title": "TOWN BYLAW AMENDMENT/ MUNICIPAL AFFORDABLE HOUSING TRUST FUND",
+    "text": "To see if the Town will vote to accept [Massachusetts General Laws c. 44 § 55C](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section55C), to authorize the creation of a Municipal Affordable Housing Trust Fund to support the development of affordable housing in Arlington, establish a new bylaw for the administration of same; or take any action related thereto.",
+    "submitted": "24-January-2020",
+    "insertemail": "town.arlington.ma.us",
+    "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
+    "insertby": "Town Counsel potential proposed articles",
+    "insertcomment": "This warrant article is requested by the Housing Plan Implementation Committee (“HPIC”) as a means to provide a new and invaluable tool to the Town’s goal of creating and supporting affordable housing in Arlington. An Affordable Housing Trust provides significant flexibility and additional resources over and above existing resources for affordable housing. HPIC continues to work on a proposed version of the bylaw itself, but the following provides an overview of the operation and scope of an Affordable Housing Trust bylaw in Arlington for the Board in its consideration of whether or not to support an article on the 2020 Warrant: (See town counsel memo for complete details.)",
+    "supplements": [
+      {
+        "comment": "For discussion and approval",
+        "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
+      }
+    ]
   }
 ]
