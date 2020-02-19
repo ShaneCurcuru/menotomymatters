@@ -1,13 +1,13 @@
 # Menotomy Matters by Shane Curcuru
 # Many thanks for the awesome Minimal Mistakes theme and Jekyll sitebuilder
 title: Menotomy Matters
-email: alist@shanecurcuru.org
+email: shane@menotomymatters.com
 description: &description "Making sense of Arlington town government, one source document or news story at a time."
 author:
   name      : &scname "Shane Curcuru"
   avatar    : "/assets/images/gravatar.png"
   location  : "Arlington, MA"
-  email     : "alist@shanecurcuru.org"
+  email     : "shane@menotomymatters.com"
   twitter   : &scid "ShaneCurcuru"
   linkedin  : *scid
   github    : *scid

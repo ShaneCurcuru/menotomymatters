@@ -44,4 +44,4 @@ If what you need isn't there, then try submitting a Request here:
 ## Have More Ideas?
 
 If you've got other good tips for how to get things done with town 
-government, let me know at [alist@shanecurcuru.org](mailto:alist@shanecurcuru.org?Subject=[MM] My Question Idea)!
+government, let me know at [shane@menotomymatters.com](mailto:shane@menotomymatters.com?Subject=[MM] My Question Idea)!
