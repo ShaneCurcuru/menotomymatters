@@ -10,7 +10,7 @@ layout: single
     <dt id="{{ itm.id }}">
       {{ itm.article }} - {{ itm.title }}
       <br/><small><a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.url }}"><i class="fa fa-gavel" aria-hidden="true"></i> (view official article)</a></small>
-      {% if itm.status != "" %}<small>{% if itm.status == "Pass" %}<i class="fa fa-check" aria-hidden="true" style="color: green"></i>{% elsif itm.status == "Fail" %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i>{% endif %} {{ itm.status }} (for: {{ itm.for }}, against: {{ itm.against }}, abstain: {{ itm.abstain }}) on {{ itm.voted }} 
+      {% if itm.status != "" %}<small>{% if itm.status == "Pass" %}<i class="fa fa-check" aria-hidden="true" style="color: green"></i>{% elsif itm.status == "Fail" %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i>{% endif %} {{ itm.status }} {% if itm.for %}(for: {{ itm.for }}, against: {{ itm.against }}, abstain: {{ itm.abstain }}){% endif %} on {{ itm.voted }} 
         {% if itm.amendments != "" %}<i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> {{ itm.amendments }}{% endif %}
       </small>{% endif %}
     </dt>
