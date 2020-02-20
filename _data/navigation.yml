@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /posts/
     description: "Current blog posts"
-  - title: "Issues Research"
+  - title: "Research"
     url: /issues/
     description: "Research links for various issues"
   - title: "Town Meeting"
@@ -34,6 +34,8 @@ archive:
       - title: "All By Category"
         url: /categories/
       - title: "Credits"
-        url: /colophon/
+        url: /colophon
       - title: "Terms"
-        url: /terms/
+        url: /terms
+      - title: "Code"
+        url: https://github.com/ShaneCurcuru/menotomymatters/tree/master/assets/code

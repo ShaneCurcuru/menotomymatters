@@ -8,8 +8,8 @@ author:
   avatar    : "/assets/images/gravatar.png"
   location  : "Arlington, MA"
   email     : "shane@menotomymatters.com"
-  twitter   : &scid "ShaneCurcuru"
-  linkedin  : *scid
+  twitter   : "MenotomyMatters"
+  linkedin  : &scid "ShaneCurcuru"
   github    : *scid
   bio       : "Long-time Arlington resident and open source volunteer."
 
@@ -17,7 +17,7 @@ social:
   type: # Person or Organization (defaults to Person)
   name: *scname # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/ShaneCurcuru"
+    - "https://twitter.com/MenotomyMatters"
     - "https://github.com/ShaneCurcuru"
     - "https://linkedin.com/in/ShaneCurcuru"
 
