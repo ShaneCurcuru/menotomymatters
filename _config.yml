@@ -59,6 +59,10 @@ footer:
     - label: "Terms"
       icon: "fa fa-fw fa-gavel"
       url: "/terms"
+    - label: "Code"
+      icon: "fa fa-fw fa-file-code"
+      url: "https://github.com/ShaneCurcuru/menotomymatters/tree/master/assets/code"
+
 
 include:
   - _pages
@@ -93,6 +97,8 @@ defaults:
       author_profile: true
       share: true
       related: true
+      sidebar:
+        nav: "archive"
   - scope:
       path: "_issues"
       type: issues

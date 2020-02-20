@@ -3,6 +3,7 @@ layout: warrantlist
 title: 2019 Special Town Meeting Warrant, Annotated
 permalink: /tm/2019special/
 datafile: 2019specialwarrant
+author_profile: false
 ---
 
 The 2019 Special Town Meeting met last year at almost the same time as 
