@@ -19,6 +19,8 @@ archive:
     children:
       - title: "Town How-Tos"
         url: /resources/
+      - title: "Town Hall Guide"
+        url: /townhall/
       - title: "Issues Research"
         url: /issues/
       - title: "Town Meeting"
