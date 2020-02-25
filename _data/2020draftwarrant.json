@@ -122,6 +122,10 @@
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8402&MeetingID=989": "Redevelopment Board Agenda 27-Jan-2020"
+      },
+      {
+        "comment": "ARB Meeting Minutes",
+        "...": "Draft Zoning Bylaw Amendments, 13-Feb, ARB-ATM2020ZoningBylawAmendmen.pdf"
       }
     ]
   },
@@ -250,6 +254,11 @@
       {
         "comment": "Select Board Meeting Materials from P. Schlictman",
         "https://arlington.novusagenda.com/agendapublic/Coversheet.aspx?ItemID=8428&MeetingID=981": "Select Board Meeting Records"
+      },
+      {
+        "changes": "TBD",
+        "comment": "Select Board Meeting Materials from P. Schlictman",
+        "...": "Town Counsel Memo: 2.24.2020_Final_Votes_and_Comments.pdf"
       }
     ]
   },
@@ -300,10 +309,10 @@
     "insertby": "Citizen petition led by: Jordan Weinstein"
   },
   {
-    "article": "ARTICLE F-Citizen",
-    "id": "draft-f-citizen",
+    "article": "ARTICLE 22",
+    "id": "article 22",
     "status": "Draft",
-    "title": "ARTICLE",
+    "title": "HOME RULE LEGISLATION/JUSTIN BROWN",
     "text": "To see if the Town will vote to request and authorize the Select Board to file Home Rule Legislation so as to enable Justin Brown, a resident of the Town, to be eligible for appointment as firefighter in the Town of Arlington notwithstanding the fact that he has attained the;age of 32, or  take any action related there",
     "submitted": "30-January-2020",
     "insertemail": "Justin Brown",
@@ -528,5 +537,82 @@
     "submitted": "31-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton"
+  },
+  {
+    "article": "ARTICLE 66",
+    "id": "article66",
+    "status": "Draft",
+    "title": "VOTE/ COMMUNITY PRESERVATION PLAN",
+    "text": "To see if the Town will accept, receive, or resolve to endorse the Community Preservation Plan adopted by the Community Preservation Act Committee; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of the Community Preservation Act Committee",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 9",
+    "id": "article9",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/CANINE CONTROL FEES AND FINES",
+    "text": "To see if the Town will vote to amend the Town Bylaws, Title VIII, Article 2 (“Canine Control”) to reduce late fees for dog license registration from $50.00 to $25.00; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of the Town Clerk",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 10",
+    "id": "article10",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/DISPLAY OF NOTICE FINES",
+    "text": "To see if the Town will vote to amend the Town Bylaws, Title V, Article 1 Section 2 to reduce fines for violations greater than twenty days from $500 to $300 in accordance with state law; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of the Town Manager",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 11",
+    "id": "article11",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/STREET PERFORMANCE DEFINITIONS",
+    "text": "To see if the Town will vote to amend the Town Bylaws, Title III, Article 1, Section 18 (“Street Performances”) to expand the definition of “Perform” to allow the creation of items for sale; and further to remove or amend the prohibition of street performances in Town parks and recreation areas; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of the Town Manager",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 12",
+    "id": "article12",
+    "status": "Draft",
+    "title": "BYLAW AMENDMENT/STORMWATER MANAGEMENT",
+    "text": "To see if the Town will vote to amend Title V, Article 15 of the Town Bylaws (“Stormwater Mitigation”) to update such bylaw so as to add, remove or amend definitions, clarify the bylaw’s procedures and applicability to certain projects, and adjust fees; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted by the Select Board",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 15",
+    "id": "article15",
+    "status": "Draft",
+    "title": "VOTE/ESTABLISHMENT OF TOWN COMMITTEE ON RESIDENTIAL DEVELOPMENT",
+    "text": "To see if the Town will vote to establish a Committee of the Town Meeting to examine the current issues related to residential development in the R0, R1, R2, R3, and R4 zoning districts. These issues shall include, but not be limited to, effects on the neighborhood during teardown and construction activities; new construction impacts on neighborhood character/environment; permanent negative impacts on abutters; loss of healthy tree canopy; and exacerbation of particular negative impacts on abutters with existing non-conforming lots.\nMembers of the Committee shall be appointed by the Town Moderator, and consist of not less than 5 nor more than 9 members. A quorum shall consist of a majority of the appointed members. Members of the Committee shall be residents of the Town, a majority of whom shall be persons who are not Town employees and/or have no financial interest (either directly or indirectly) in the development, building, or real estate communities.\nThe Committee’s objectives will include development of recommendations for proposing new zoning and general bylaws and/or amendments, as applicable, to provide long-term mitigation of the significant issues identified; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of Paul Parise and ten registered voters",
+    "insertsource": "W.A._Text.pdf"
+  },
+  {
+    "article": "ARTICLE 18",
+    "id": "article18",
+    "status": "Draft",
+    "title": "VOTE/BYLAW AMENDMENT/ENVISION ARLINGTON UPDATED LANGUAGE",
+    "text": "To see if the Town will vote to amend Title I, Article 15 to change the name of “Vision 2020” to comport with its current name “Envision Arlington;” to revise the Bylaw’s articulation of “Goals” as a “Statement of Community Values” or similar term; and to modernize the “Goals” as set forth in the vote of the 1993 Town Meeting (Article 19) with more inclusive language; or take any action related thereto.",
+    "submitted": "",
+    "insertemail": "",
+    "insertby": "Inserted at the request of the Envision Arlington Standing Committee",
+    "insertsource": "W.A._Text.pdf"
   }
 ]
