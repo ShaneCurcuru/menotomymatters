@@ -1,5 +1,101 @@
 [
   {
+    "article": "ARTICLE 1",
+    "id": "article1",
+    "status": "Draft",
+    "title": "TO ELECT BY BALLOT:",
+    "text": "**TO ELECT BY BALLOT:**\n- **A) One Assessor for three years**\n- **B) Two Select Board Members for three years**\n- **C) One Town Clerk for three years**\n- **D) Two School Committee Members for three years**\n- **E) One Arlington Housing Authority Member for five years**\n\nAlso, in accordance with the provisions of Chapter 43A of the General Laws, the number of Town Meeting Members hereinafter specified: (Four TMM per precinct, plus additional one in each of 1, 5, 6, 18). etc.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 2",
+    "id": "article2",
+    "status": "Draft",
+    "title": "STATE OF THE TOWN ADDRESS",
+    "text": "To hear the Chair of the Select Board review important events in the past year in Arlington and preview expectations for next year.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "(Inserted at the request of Envision Arlington)",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 3",
+    "id": "article3",
+    "status": "Draft",
+    "title": "REPORTS OF COMMITTEES",
+    "text": "To receive, hear, and act upon the reports of the Select Board, Finance Committee, Redevelopment Board, School Committee and other committees, commissions, and boards heretofore appointed, or dissolve any inactive committees; and take any action related thereto.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "(Inserted at the request of the Town Moderator)",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 4",
+    "id": "article4",
+    "status": "Draft",
+    "title": "APPOINTMENT OF MEASURER OF WOOD AND BARK",
+    "text": "To choose and appoint all the usual Town Officers not hereinbefore mentioned, in such a manner as the Town may determine; or take any action related thereto.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "(Inserted by the Select Board)",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 5",
+    "id": "article5",
+    "status": "Draft",
+    "title": "ELECTION OF ASSISTANT TOWN MODERATOR",
+    "text": "To elect a Town Meeting Member as Assistant Moderator for a term of one year, as provided in Title I, Article 1, Section 11.A, of the Bylaws; or take any action related thereto.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "(Inserted at the request of the Town Moderator)",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
+    "article": "ARTICLE 6",
+    "id": "article6",
+    "status": "Draft",
+    "title": "CONSENT AGENDA",
+    "text": "To see if the Town will vote to take affirmative action on the Warrant Articles listed on the Consent Agenda as printed in the Moderator’s Report, without debate on any of the Articles, provided that, upon the request of any one Town Meeting Member present made before a vote is taken on this Article, an Article requested to be omitted shall be removed from the Consent Agenda and shall be acted upon in the ordinary course of business at this Town Meeting; or take any action related thereto.",
+    "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
+    "insertby": "(Inserted at the request of the Town Moderator)",
+    "insertcomment": "",
+    "supplements": [
+      {
+        "comment": "TBD-comment",
+        "TBD-url": "TBD-file"
+      }
+    ]
+  },
+  {
     "article": "ARTICLE A-TownCounsel",
     "id": "draft-a-counsel",
     "status": "Draft",
