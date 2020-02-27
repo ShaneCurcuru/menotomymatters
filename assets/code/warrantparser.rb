@@ -237,6 +237,25 @@ module WarrantParser
     return warrant
   end
 
+  # Sort by "article" number
+  def sort_warrant(warrant)
+    return warrant.sort_by.sort_by{ |itm| itm['article'].split(' ')[1].to_i }
+  end
+
+  # Link to a committee homepage, if found
+  def add_insertlinks(warrant)
+    warrant.each do |hash|
+      unless hash[INSERT_BY].empty?
+        BOARD_MAP.each do |regex, l|
+          if regex =~ hash[INSERT_BY]
+            hash[INSERT_URL] = l
+            break
+          end
+        end
+      end
+    end
+  end
+
   # ## ### #### ##### ######
   # Check commandline options (examplar code; overkill for this purpose)
   def parse_commandline
@@ -259,6 +278,12 @@ module WarrantParser
       opts.on('-vVOTES.CSV', '--votes VOTES.CSV', 'Input CSV filename of voting records to annotate previously created JSON') do |votes|
         options[:votes] = votes
       end
+      opts.on('-s', 'ONLY sort a previously created JSON') do |sort|
+        options[:sort] = true
+      end
+      opts.on('-c', 'ONLY add inserturls to committees from a previously created JSON') do |comm|
+        options[:comm] = true
+      end
 
       opts.on('-h', '--help', 'Print help for this program') do
         puts opts
@@ -280,7 +305,20 @@ module WarrantParser
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
     warrant = []
-    if options[:votes]
+    
+    if options[:comm] # Only add links
+      options[:infile] ||= 'warrant.json'
+      options[:out] ||= 'warrant-links.json' # Make it a separate file for comparison
+      puts "Parsing existing file: #{options[:infile]}"
+      warrant = JSON.parse(File.read(options[:infile]))
+      add_insertlinks(warrant)
+    elsif options[:sort] # Only sort
+      options[:infile] ||= 'warrant.json'
+      options[:out] ||= 'warrant-sorted.json' # Make it a separate file for comparison
+      puts "Parsing existing file: #{options[:infile]}"
+      warrant = JSON.parse(File.read(options[:infile]))
+      warrant = sort_warrant(warrant)
+    elsif options[:votes]
       # Append final voting data to existing JSON
       options[:infile] ||= 'warrant.json'
       options[:out] ||= 'warrant-votes.json' # Make it a separate file for comparison
@@ -293,6 +331,7 @@ module WarrantParser
       crossindex(warrant)
       add_supplements(warrant)
     end
+    
     puts "... Outputting warrant articles: #{warrant.length}"
     File.open("#{options[:out]}", "w") do |f|
       f.puts JSON.pretty_generate(warrant)
