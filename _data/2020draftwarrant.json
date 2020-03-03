@@ -23,7 +23,73 @@
     "title": "REPORTS OF COMMITTEES",
     "text": "To receive, hear, and act upon the reports of the Select Board, Finance Committee, Redevelopment Board, School Committee and other committees, commissions, and boards heretofore appointed, or dissolve any inactive committees; and take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/town-meeting",
-    "insertby": "(Inserted at the request of the Town Moderator)"
+    "insertby": "(Inserted at the request of the Town Moderator)",
+    "supplements": [
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45948": "Select Board"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45954": "Redevelopment Board"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Finance Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46505": "Library"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "http://www.arlington.k12.ma.us/administration/budget/fy20/fy20budgettownmeeting04-22-19.pdf": "Arlington Public Schools Report & FY2020 Budget Summary"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45938": "Capital Planning Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46403": "High School Building Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46465": "Permanent Town Building Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45942": "Envision Arlington"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46405": "Water Bodies Assessment & Recommendation"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45940": "Community Development Block Grant"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45946": "Master Plan Implementation Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45958": "Community Preservation Committee"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=45950": "Town Meeting Procedures"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46568": "Minuteman Presentation"
+      },
+      {
+        "comment": "LAST YEAR - 2019 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=46634": "Zero Waste Arlington Committee"
+      }
+    ]
   },
   {
     "article": "ARTICLE 4",
@@ -737,6 +803,10 @@
       {
         "comment": "Reference: Town employee collective bargaining documentation",
         "https://www.arlingtonma.gov/departments/human-resources/for-employees": "Official Town HR Plans"
+      },
+      {
+        "comment": "FinCom noted: 'VOTED $251,000 eventual back payments for FY21. Unanimous.'",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50460": "FinCom Meeting Minutes 19-Feb-2020"
       }
     ]
   },
@@ -834,7 +904,13 @@
     "title": "APPROPRIATION/FINANCING OF CONSTRUCTION OR OF SEWERS AND SEWERAGE FACILITIES",
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of sewers and sewerage facilities for inflow/infiltration reduction or system rehabilitation, including costs incidental and related thereto, and to determine how the appropriation shall be raised or expended, including the possibility of borrowing all or some of same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)"
+    "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)",
+    "supplements": [
+      {
+        "comment": "FinCom noted: 'W&S Enterprise SubCom Gibian recommended supporting the FY21 sewer renovation program w/ a no interest loan from the MWRA. VOTED $800,000 Unanimous.'",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50460": "FinCom Meeting Minutes 19-Feb-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 60",
@@ -843,7 +919,13 @@
     "title": "APPROPRIATION/FINANCING OF CONSTRUCTION OR RECONSTRUCTION OF WATER MAINS AND WATER FACILITIES",
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of water mains and water facilities, including costs incidental and related thereto, and to determine how the appropriation shall be raised and expended including the possibility of borrowing all or some of same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)"
+    "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)",
+    "supplements": [
+      {
+        "comment": "FinCom noted: 'W&S Enterprise SubCom Gibian recommended supporting the FY21 water supply renovation program w/ a no interest loan from the MWRA. VOTED $1,300,000 Unanimous.'",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50460": "FinCom Meeting Minutes 19-Feb-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 61",
