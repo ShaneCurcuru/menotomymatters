@@ -275,6 +275,10 @@
     "insertby": "Citizen petition led by: Christa Kelleher",
     "supplements": [
       {
+        "comment": "Finance Committee is positive on this issue, with detailed discussion.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      },
+      {
         "comment": "Select Board votes 4-0 to recommend this article, with detailed discussion.",
         "https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MinutesMeetingID=657": "Select Board Meeting Minutes 10-Feb-2020"
       },
@@ -450,7 +454,13 @@
     "title": "HOME RULE LEGISLATION/FINANCIAL ESTIMATES AND BUDGET DOCUMENTS",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to amend the Town Manager Act sections 31 (Estimates of Expenditures) and/or 32 (Preparation of and Annual Budget and Final Budget) so as to afford additional time for the Town Manager to submit, and the Select Board and Finance Committee to consider financial estimates and budget documents required by such sections; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
-    "insertby": "(Inserted by the Select Board)"
+    "insertby": "(Inserted by the Select Board)",
+    "supplements": [
+      {
+        "comment": "Finance Committee votes no action on this issue, noting the delay in creating budgets makes it harder for FinCom and TMM to review in a timely manner.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 26",
@@ -991,7 +1001,13 @@
     "title": "APPROPRIATION/COMMITTEES AND COMMISSIONS",
     "text": "To see if the Town will vote to appropriate a sum or sums of money to be expended under the direction of various committees, commissions, and boards of the Town, determine how the money shall be raised; provided that any funds appropriated hereunder shall remain under the jurisdiction of said entities until expended at their direction, unless otherwise appropriated by the Town Meeting; the entities included hereunder, without limitation, are: Arlington Historical Commission, Arlington Recycling Committee, Avon Place Historic District Commission, Broadway Historic District Commission, Central Street Historic District Commission, Mt. Gilboa/Crescent Hill Historic District Commission, Jason/Gray Historic District Commission, Pleasant Street Historic District Commission, Russell Historic District Commission, Conservation Commission, Capital Planning Committee, Commission on Disability, Human Recourses Board, Public Memorial Committee, Human Rights Commission, Arlington Committee on Tourism and Economic Development, Envision Arlington, Transportation Advisory Committee, Arlington Commission for Arts and Culture, Open Space Committee, and any other Town Committee or Commission; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "supplements": [
+      {
+        "comment": "Finance Committee votes unanimously to allocate funding for this article, totaling $93,835.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 63",
@@ -1055,7 +1071,13 @@
     "title": "APPROPRIATION/HARRY BARBER COMMUNITY SERVICE PROGRAM",
     "text": "To see if the Town will vote to appropriate the sum of money for the Harry Barber Community Service Program for the Council on Aging, to determine how the money will be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/health-human-services/council-on-aging",
-    "insertby": "(Inserted at the request of the Council on Aging)"
+    "insertby": "(Inserted at the request of the Council on Aging)",
+    "supplements": [
+      {
+        "comment": "Finance Committee votes unanimously to allocate funding $7,500.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 69",
@@ -1073,7 +1095,13 @@
     "title": "APPROPRIATION/OTHER POST EMPLOYMENT BENEFITS (OPEB) TRUST FUND",
     "text": "To see if the Town will vote to accept into the [Other Post Employment Benefits](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board) (OPEB) Trust Fund, established by Chapter 161 of the Acts of 2005, an appropriation of funds and/or the transfer of additional monies that the Town may deem advisable from other sources, including any monies previously deposited into any of the Town’s stabilization funds for this purpose, in order to administer and fund its OPEB obligation as described in the said Chapter 161 of the Acts of 2005; determine how the monies shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
-    "insertby": "(Inserted at the request of the Contributory Retirement Board)"
+    "insertby": "(Inserted at the request of the Contributory Retirement Board)",
+    "supplements": [
+      {
+        "comment": "Finance Committee votes unanimously to allocate funding $936,532 with comments.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 71",
@@ -1082,7 +1110,13 @@
     "title": "APPROPRIATION/PENSION ADJUSTMENT FOR FORMER TWENTY-FIVE YEAR/ACCIDENTAL DISABILITY EMPLOYEES",
     "text": "To see if the Town will vote to appropriate a sum of money to implement the provisions of [Chapter 32 of Massachusetts General Laws](https://malegislature.gov/laws/generallaws/parti/titleiv/chapter32) Section 90A, 90C, 90D and 90E, pursuant to which the Town pays up to fifty percent of the maximum salary as set forth in the Compensation and Pay Plan for the position formerly held by retired employees with twenty-five or more years of service to the Town and those employees who retired under an Accidental Disability; provided, however, that no one who retires after May 1, 2010 shall be eligible under this vote unless they qualify for at least a fifty percent pension, without this vote upon their retirement; this adjustment to be paid to those who qualify and administered in accordance with prior practice and understanding relating to the retirement allowance of said retirees; determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
-    "insertby": "(Inserted at the request of the Contributory Retirement Board)"
+    "insertby": "(Inserted at the request of the Contributory Retirement Board)",
+    "supplements": [
+      {
+        "comment": "Finance Committee votes 15-0-1 for favorable action on this article.",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 72",
@@ -1118,7 +1152,13 @@
     "title": "USE OF FREE CASH",
     "text": "To see if the Town will vote to authorize the taking of a sum of money voted for appropriations heretofore made at the Town Meeting under the Warrant and not voted to be borrowed from available funds in the Treasury, and authorize the Assessors to use [free cash in the Treasury](https://www.arlingtonma.gov/departments/treasurer) to that amount in the determination of the tax rate for the Fiscal Year beginning July 1, 2020; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "supplements": [
+      {
+        "comment": "Finance Committee 'VOTED to appropriate half the free cash certified last July, $5,901,388. Unanimous. This has been the standing policy for many years.'",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 76",
@@ -1127,7 +1167,13 @@
     "title": "APPROPRIATION/LONG TERM STABILIZATION FUND",
     "text": "To see if the Town will make an appropriation to the Long Term Stabilization Fund in accordance with the provisions of the [General Laws, Chapter 40, Section 5B](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40/Section5B), as amended, or other appropriate provisions of law, determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "supplements": [
+      {
+        "comment": "Finance Committee 'As has been the custom, VOTED to transfer $100,000 to this fund. Unanimous.'",
+        "https://www.arlingtonma.gov/Home/ShowDocument?id=50571": "Finance Committee Meeting Minutes 2-Mar-2020"
+      }
+    ]
   },
   {
     "article": "ARTICLE 77",
