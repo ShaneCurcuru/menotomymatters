@@ -221,6 +221,10 @@
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "supplements": [
       {
+        "comment": "Your Arlington News coverage with comments from 24-Feb Select Board meeting",
+        "https://www.yourarlington.com/arlington-archives/town-school/selectboard/16814-sb-030920.html": "Your Arlington news story"
+      },
+      {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article developed by the Arlington Commission on Arts and Culture.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
       }
@@ -319,6 +323,10 @@
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
     "supplements": [
       {
+        "comment": "Your Arlington News coverage with detailed comments from 24-Feb Select Board meeting",
+        "https://www.yourarlington.com/arlington-archives/town-school/selectboard/16814-sb-030920.html": "Your Arlington news story"
+      },
+      {
         "comment": "Town Counsel email: Select Board (5-0) votes NO ACTION on this article, and notes 'principal concern is that much of such work is precisely the role of the ARB'.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
       },
@@ -350,7 +358,13 @@
     "text": "To see if the Town will vote to form a committee of Town Meeting to study, craft and submit a Warrant Article to Town Meeting in 2021 for the creation of an Arlington police civilian advisory board comprised of seven (7) voting members and three (3) non-voting members, or take any action related thereto. The study committee would make decisions based on the vote of a simple majority of the committee's voting members who shall be appointed to the committee by: the Envision Arlington Standing Committee (1); the Arlington Human Rights Commission (1); the LGBTQIA & Rainbow Commission (1); the  Disability Commission (1); the  Board of Youth Services (1); the Equal Opportunity  Advisory Committee  (1); and the  Town Moderator  (1). Non-voting  members of  the  committee shall include one  (1)  representative from the Arlington Police Department, the Town's Diversity, Equity and Inclusion Coordinator, and the Town Counsel. The membership of the study committee's voting members will include at  least one Town Meeting member  and shall reflect racial/ethnic  and    other  forms of diversity  of Town residents.",
     "submitted": "31-January-2020",
     "insertemail": "jordanweinstein@rcn.com",
-    "insertby": "Citizen petition led by: Jordan Weinstein"
+    "insertby": "Citizen petition led by: Jordan Weinstein",
+    "supplements": [
+      {
+        "comment": "Your Arlington news story covering Select Board comments and vote of no action.",
+        "https://www.yourarlington.com/arlington-archives/town-school/selectboard/16826-police-031020": "Your Arlington News Coverage"
+      }
+    ]
   },
   {
     "article": "ARTICLE 18",
