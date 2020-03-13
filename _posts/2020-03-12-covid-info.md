@@ -25,7 +25,7 @@ The town announced public facilities closures on Thursday March 12th:
         - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
         - [Belmont Public Library](https://belmontpubliclibrary.net/) - OPEN 13-March, [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
         - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March
-        - [Cambridge Public Library Main Branch](https://www.cambridgema.gov/cpl) - apprently OPEN 13-March
+        - [Cambridge Public Library Main Branch](https://www.cambridgema.gov/cpl) - apparently OPEN 13-March
         - [Medford Public Library](http://www.medfordlibrary.org/) - apparently OPEN 13-March
         - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March
         - [Waltham Public Library](http://www.waltham.lib.ma.us/) - CLOSED
@@ -59,6 +59,7 @@ article on some website you found.
 - [New York Times coverage on COVID-19](https://www.nytimes.com/news-event/coronavirus) is now **free for all** (not paywalled).
 - [NPR's guide on preparing your home](https://www.npr.org/sections/goatsandsoda/2020/02/26/809650625/a-guide-how-to-prepare-your-home-for-coronavirus).
 - This [well-researched Medium article by Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) gives a good overview of the larger implications of COVID-19.
+- [Bob Sprague's Your Arlington](https://www.yourarlington.com/) is worth reading regularly for hyper-local Arlington news.
 
 ## Data Visualizations Related To COVID-19
 
