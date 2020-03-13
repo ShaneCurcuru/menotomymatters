@@ -27,6 +27,9 @@ The town announced public facilities closures on Thursday March 12th:
     - Arlington Senior Center - CLOSED
     - Senior rides and meals **will operate**
 - [Sign up for town alerts](https://www.arlingtonma.gov/communications-center) or follow on social media in the Communications Center
+- [League of Women's Voters Candidates Night](http://www.lwva.com/elections.html#candnight) is cancelled.  They still offer an online candidate's guide for brief statements.
+- **ELECTIONS** Anyone can request an [absentee ballot by filling in the application](https://www.arlingtonma.gov/home/showdocument?id=49768), signing it, and either mailing or emailing a scanned/picture copy of it to the [town clerk's office](https://www.arlingtonma.gov/Home/Components/BusinessDirectory/BusinessDirectory/35/).  Be sure to allow time for it to be mailed to you.
+- [**Town Meeting** is scheduled to start 27-April.](https://www.arlingtonma.gov/town-governance/town-meeting)  A decision will be made later if postponement or other changes are needed.
 
 ## Local Government Resources
 
@@ -47,6 +50,21 @@ article on some website you found.
 - [WHO's meta-listing of scientific papers on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov).
 - [New York Times coverage on COVID-19](https://www.nytimes.com/news-event/coronavirus) is now **free for all** (not paywalled).
 - [NPR's guide on preparing your home](https://www.npr.org/sections/goatsandsoda/2020/02/26/809650625/a-guide-how-to-prepare-your-home-for-coronavirus).
+- This [well-researched Medium article by Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) gives a good overview of the larger implications of COVID-19.
+
+## Data Visualizations Related To COVID-19
+
+There are a **lot** of fancy data maps or visualizations tracking the 
+spread of COVID-91, including one by a high school student.  A handful
+ of ones from well-researched sources are here:
+
+- [Johns Hopkins public health](https://systems.jhu.edu/research/public-health/ncov/) has one of the [best datasets and visualizations](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
+- [The COVID19 Tracker team (from the Atlantic)](https://covidtracking.com/) are also analyzing detailed US data.
+- [Tableau software offers free visualizations](https://www.tableau.com/covid-19-coronavirus-data-resources) you can re-use.
+- [Datawrapper software also has some free reusable charts](https://blog.datawrapper.de/coronaviruscharts/#column-chart-Germany).
+
+
+ https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 ## Other Great Resources? Send In Updates!
 
