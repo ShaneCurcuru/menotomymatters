@@ -30,7 +30,7 @@ The town announced public facilities closures on Thursday March 12th:
         - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March [(map)](https://goo.gl/maps/8fLxDtUWWzdJa8H19)
         - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
         - [Waltham Public Library](http://www.waltham.lib.ma.us/) - CLOSED
-        - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too!
+        - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too, or check out books using [OverDrive on your phone](https://minuteman.overdrive.com/) (screen reading).
         - [Belmont Books is offering free delivery to Arlington](https://www.belmontbooks.com/free-delivery?shane) on orders over $25 - a great way for a local business to support us!
     - Arlington Recreation Department - CLOSED
     - Arlington Youth Counseling Center (AYCC) - CLOSED
