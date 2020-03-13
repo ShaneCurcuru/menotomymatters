@@ -21,15 +21,17 @@ The town announced public facilities closures on Thursday March 12th:
 - [Public schools closed](http://www.arlington.k12.ma.us/news//Arlington_Bedford_Belmont_Burlington_Lexington_and_Winchester_Schools_to_Close_Starting_Tomorrow_March_13th_through_at_Least_March_27th.pdf) through "at least 27 March", including sports and other events.
 - [Town offices are limiting services](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) - "through at least March 27... suspend most nonessential town services and cancel board and committee meetings until further notice.":
     - All town committee/group meetings cancelled
-    - Arlington Public Library - CLOSED
-        - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
-        - [Belmont Public Library](https://belmontpubliclibrary.net/) - OPEN 13-March, [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
-        - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March
+    - **Arlington Public Library - CLOSED**
+        - [Belmont Public Library](https://belmontpubliclibrary.net/) - OPEN 13-March, but may close later today [(map)](https://goo.gl/maps/3BhZ7SMwCYoTzxme9), [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
+        - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/nWfFe6d7jWYT33dZ7)
+        - [Watertown Free Public Library](https://www.watertownlib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/5TnafVN93yuUnX4y6)
         - [Cambridge Public Library Main Branch](https://www.cambridgema.gov/cpl) - apparently OPEN 13-March
-        - [Medford Public Library](http://www.medfordlibrary.org/) - apparently OPEN 13-March
-        - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March
+        - [Medford Public Library](http://www.medfordlibrary.org/) - apparently OPEN 13-March [(map)](https://g.page/Medford-Public-Library-temp?share)
+        - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March [(map)](https://goo.gl/maps/8fLxDtUWWzdJa8H19)
+        - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
         - [Waltham Public Library](http://www.waltham.lib.ma.us/) - CLOSED
-        - Arlington's part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries!
+        - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too!
+        - [Belmont Books is offering free delivery to Arlington](https://www.belmontbooks.com/free-delivery?shane) on orders over $25 - a great way for a local business to support us!
     - Arlington Recreation Department - CLOSED
     - Arlington Youth Counseling Center (AYCC) - CLOSED
     - Arlington Senior Center - CLOSED
