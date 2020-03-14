@@ -12,6 +12,12 @@ Now that [Arlington town government](https://www.arlingtonma.gov/Home/Components
 for two weeks, here are some key novel coronavirus / COVID-19 
 resources, both local and scientific for everyone.
 
+## Food Resources
+
+- Arlington schools are planning to [provide to-go lunches for APS students](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) from the [Thompson School lobby](https://goo.gl/maps/vGGJhEhfj86waUg18) starting Monday 16-March, from 10:30AM - Noon.
+- [Arlington Eats](https://www.arlingtoneats.org/) is continuing operations, and appreciates donations!
+- [Food Link](https://www.foodlinkma.org/) is still operating from their new location at [888 Mass Ave](https://goo.gl/maps/oa7fq9HGKWAN4jmx7) and also appreciates donations!
+
 ## What Is Arlington Doing?
 
 **Short-term emergency Town Hotline** (Friday only): +1-781-316-3952
@@ -22,7 +28,7 @@ The town announced public facilities closures on Thursday March 12th:
 - [Town offices are limiting services](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) - "through at least March 27... suspend most nonessential town services and cancel board and committee meetings until further notice.":
     - All town committee/group meetings cancelled
     - **Arlington Public Library - CLOSED**
-        - [Belmont Public Library](https://belmontpubliclibrary.net/) - OPEN 13-March, but may close later today [(map)](https://goo.gl/maps/3BhZ7SMwCYoTzxme9), [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
+        - [Belmont Public Library](https://belmontpubliclibrary.net/) - CLOSED for weekend [(map)](https://goo.gl/maps/3BhZ7SMwCYoTzxme9), [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here) or [Belmont Library Twitter](https://twitter.com/belmontlibma) if they reopen
         - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/nWfFe6d7jWYT33dZ7)
         - [Watertown Free Public Library](https://www.watertownlib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/5TnafVN93yuUnX4y6)
         - [Lincoln Public Library](https://www.lincolnpl.org/) - OPEN 13-March [(map)](https://goo.gl/maps/C2ZPiifuJVkozo8V8)
@@ -34,9 +40,10 @@ The town announced public facilities closures on Thursday March 12th:
         - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too, or check out books using [OverDrive on your phone](https://minuteman.overdrive.com/) (screen reading).
         - [Belmont Books is offering free delivery to Arlington](https://www.belmontbooks.com/free-delivery?shane) on orders over $25 - a great way for a local business to support us!
     - Arlington Recreation Department - CLOSED
-    - Arlington Youth Counseling Center (AYCC) - CLOSED
+    - Arlington Youth Counseling Center (AYCC) - CLOSED, however "AYCC clinicians will continue to offer their regular counseling and mental health sessions to current clients and client families via phone calls and telemedicine services."
     - Arlington Senior Center - CLOSED
     - Senior rides and meals **will operate**
+    - Arlington Police are of course still on the job! However they urge everyone to call or [use online forms to make requests or reports](https://www.arlingtonma.gov/departments/police) when possible.
 - [Sign up for town alerts](https://www.arlingtonma.gov/communications-center) or follow on social media in the Communications Center
 - [League of Women's Voters Candidates Night](http://www.lwva.com/elections.html#candnight) is cancelled.  They still offer an online candidate's guide for brief statements.
 - **ELECTIONS** Anyone can request an [absentee ballot by filling in the application](https://www.arlingtonma.gov/home/showdocument?id=49768), signing it, and either mailing or emailing a scanned/picture copy of it to the [town clerk's office](https://www.arlingtonma.gov/Home/Components/BusinessDirectory/BusinessDirectory/35/).  Be sure to allow time for it to be mailed to you.
