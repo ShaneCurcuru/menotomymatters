@@ -22,6 +22,7 @@ With your library card, you can still read books on your devices:
 - Try the [Minuteman Overdrive application](https://minuteman.overdrive.com/) to read on your device!  
 - Or see the newer [Libby library reader app](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) for Android/iPhone.
 - Don't have a library card, or lost yours?  [Register for a new library number online](https://library.minlib.net/selfreg)!
+- There are over a dozen [Free Little Libraries scattered around Arlington](https://littlefreelibrary.org/ourmap/), for book trading with neighbors.
 
 ## Local Bookstores
 
