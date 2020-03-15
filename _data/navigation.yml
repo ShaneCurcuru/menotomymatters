@@ -1,4 +1,8 @@
 main:
+  - title: "COVID-19"
+    url: /howto/covid-info/
+    description: "COVID-19 Resources"
+
   - title: "Posts"
     url: /posts/
     description: "Current blog posts"
@@ -17,6 +21,8 @@ main:
 archive:
   - title: "Town Resources"
     children:
+      - title: "COVID-19 Resources"
+        url: /howto/covid-info/
       - title: "Town How-Tos"
         url: /resources/
       - title: "Town Hall Guide"

@@ -6,33 +6,32 @@ categories:
 tags:
   - Maps
   - News
+header:
+  overlay_image: /assets/images/libraries.jpg
+  caption: "Photo: [**Susan Yin / Unsplash**]"
 ---
 
-Now that [Arlington town government](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) and the library is closed, where can people go for reading materials?
+## Most Library Facilities Closed
 
-## Close-By Library Status
+Nearly all of the [Minuteman Library Network's](https://www.minlib.net) libraries are now closed due to [COVID-19 health issues](/howto/covid-info/).  Boston Public Libraries, and libraries and Ashland and Holliston may still be open - See the [updated listing of open libraries nearby](/libraries/).
 
-- **Arlington Public Library - CLOSED**
-  - [Belmont Public Library](https://belmontpubliclibrary.net/) - CLOSED for weekend [(map)](https://goo.gl/maps/3BhZ7SMwCYoTzxme9), [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here) or [Belmont Library Twitter](https://twitter.com/belmontlibma) if they reopen
-  - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/nWfFe6d7jWYT33dZ7)
-  - [Watertown Free Public Library](https://www.watertownlib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/5TnafVN93yuUnX4y6)
-  - [Lincoln Public Library](https://www.lincolnpl.org/) - OPEN 13-March [(map)](https://goo.gl/maps/C2ZPiifuJVkozo8V8)
-  - [Cambridge Public Library Main Branch](https://www.cambridgema.gov/cpl) - apparently OPEN 13-March
-  - [Medford Public Library](http://www.medfordlibrary.org/) - apparently OPEN 13-March [(map)](https://g.page/Medford-Public-Library-temp?share)
-  - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March [(map)](https://goo.gl/maps/8fLxDtUWWzdJa8H19)
-  - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
-  - [Waltham Public Library](http://www.waltham.lib.ma.us/) - CLOSED
-  - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too, or check out books using [OverDrive on your phone](https://minuteman.overdrive.com/) (screen reading).
+## Online Library Resources
 
-## Nearest Open Libraries
+With your library card, you can still read books on your devices:
 
-I'm working on a map covering all [Minutman Library Network libraries](https://www.minlib.net/) 
-and their open/close status - stay tuned!
+- Try the [Minuteman Overdrive application](https://minuteman.overdrive.com/) to read on your device!  
+- Or see the newer [Libby library reader app](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) for Android/iPhone.
+- Don't have a library card, or lost yours?  [Register for a new library number online](https://library.minlib.net/selfreg)!
 
-## Buying Books
+## Local Bookstores
 
-- [Belmont Books is offering free delivery to Arlington](https://www.belmontbooks.com/free-delivery?shane) on orders over $25 - a great way for a local business to support us!
-- [Craft Beer Cellar Belmont](https://belmont.craftbeercellar.com/) also has free local delivery, and they'll even deliver your Belmont Books books too!
+Several local bookstores now may offer delivery or pickup.
+
+- [The Book Rack](http://www.book-rack.com/covid-update/) is closed to customers, will be doing online orders starting Tuesday
+- [Belmont Books](https://www.belmontbooks.com/free-delivery?shane), in downtown Belmont, offers free delivery on $25 orders
+- [Book Ends](https://bookendswinchester.indielite.org/) in Winchester center appears open still
+- [Porter Square Books](https://www.portersquarebooks.com/) also offers free shipping on some orders
+- [Harvard Book Store](http://www.harvard.com/updates_on_covid-19) also offers free shipping, and is open reduced hours
 
 ## Other Great Resources? Send In Updates!
 
