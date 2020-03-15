@@ -18,6 +18,12 @@ resources, both local and scientific for everyone.
 - [Arlington Eats](https://www.arlingtoneats.org/) is continuing operations, and appreciates donations!
 - [Food Link](https://www.foodlinkma.org/) is still operating from their new location at [888 Mass Ave](https://goo.gl/maps/oa7fq9HGKWAN4jmx7) and also appreciates donations!
 
+## Housing Resources
+
+- [Arlington Housing Authority](https://www.arlingtonhousing.org/) _(no new programs posted 14-Mar)_
+- [Housing Corporation Of Arlington](https://www.housingcorparlington.org/) _(no new programs posted 14-Mar)_
+- [Somerville Homeless Coalition](https://donatenow.networkforgood.org/shc) _(donation link for their program)_
+
 ## What Is Arlington Doing?
 
 **Short-term emergency Town Hotline** (Friday only): +1-781-316-3952
@@ -28,17 +34,7 @@ The town announced public facilities closures on Thursday March 12th:
 - [Town offices are limiting services](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) - "through at least March 27... suspend most nonessential town services and cancel board and committee meetings until further notice.":
     - All town committee/group meetings cancelled
     - **Arlington Public Library - CLOSED**
-        - [Belmont Public Library](https://belmontpubliclibrary.net/) - CLOSED for weekend [(map)](https://goo.gl/maps/3BhZ7SMwCYoTzxme9), [future Belmont town updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here) or [Belmont Library Twitter](https://twitter.com/belmontlibma) if they reopen
-        - [Winchester Public Library](https://www.winpublib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/nWfFe6d7jWYT33dZ7)
-        - [Watertown Free Public Library](https://www.watertownlib.org/) - OPEN 13-March [(map)](https://goo.gl/maps/5TnafVN93yuUnX4y6)
-        - [Lincoln Public Library](https://www.lincolnpl.org/) - OPEN 13-March [(map)](https://goo.gl/maps/C2ZPiifuJVkozo8V8)
-        - [Cambridge Public Library Main Branch](https://www.cambridgema.gov/cpl) - apparently OPEN 13-March
-        - [Medford Public Library](http://www.medfordlibrary.org/) - apparently OPEN 13-March [(map)](https://g.page/Medford-Public-Library-temp?share)
-        - [Somerville Public Library](https://www.somervillepubliclibrary.org/) - OPEN but CLOSING 16-March [(map)](https://goo.gl/maps/8fLxDtUWWzdJa8H19)
-        - [Lexington Carey Library](https://www.carylibrary.org/coronavirus) - CLOSED
-        - [Waltham Public Library](http://www.waltham.lib.ma.us/) - CLOSED
-        - Arlington is part of the [Minuteman Library Network](https://www.minlib.net/our-libraries), you can go to many libraries further out of town too, or check out books using [OverDrive on your phone](https://minuteman.overdrive.com/) (screen reading).
-        - [Belmont Books is offering free delivery to Arlington](https://www.belmontbooks.com/free-delivery?shane) on orders over $25 - a great way for a local business to support us!
+    - [What libraries are open](https://menotomymatters.com/howto/covid-libraries/)?  Check out my [handy list here](https://menotomymatters.com/howto/covid-libraries/)!
     - Arlington Recreation Department - CLOSED
     - Arlington Youth Counseling Center (AYCC) - CLOSED, however "AYCC clinicians will continue to offer their regular counseling and mental health sessions to current clients and client families via phone calls and telemedicine services."
     - Arlington Senior Center - CLOSED
