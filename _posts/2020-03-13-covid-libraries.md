@@ -13,7 +13,7 @@ header:
 
 ## Most Library Facilities Closed
 
-Nearly all of the [Minuteman Library Network's](https://www.minlib.net) libraries are now closed due to [COVID-19 health issues](/howto/covid-info/).  Boston Public Libraries, and libraries and Ashland and Holliston may still be open - See the [updated listing of open libraries nearby](/libraries/).
+Essentially all of the [Minuteman Library Network's](https://www.minlib.net) libraries are now closed due to [COVID-19 health issues](/howto/covid-info/).  Any libraries that may have been open today may well be closed tomorrow, or are likely already overburdened by other, more local people.  So it's time to think outside the library, for online resources, or break down and buy used books if you can afford it.
 
 ## Online Library Resources
 
@@ -33,6 +33,8 @@ Several local bookstores now may offer delivery or pickup.
 - [Book Ends](https://bookendswinchester.indielite.org/) in Winchester center appears open still
 - [Porter Square Books](https://www.portersquarebooks.com/) also offers free shipping on some orders
 - [Harvard Book Store](http://www.harvard.com/updates_on_covid-19) also offers free shipping, and is open reduced hours
+
+There are also several great online used bookstores that have great prices and selection - if you're desperate for new books, but don't want to pay Amazon or Barnes & Noble prices, check out [Better Worlds Books](https://about.betterworldbooks.com/) (a certified B corporation!), [Abe Books](https://www.abebooks.com/books/used-books.shtml), or [ALibris](https://www.alibris.com/books) for ideas.
 
 ## Other Great Resources? Send In Updates!
 
