@@ -21,15 +21,24 @@ header:
 
 ## What's Open
 
-- Grocery stores should **still be open** - but check their hours; many are closing early so their staff can clean and restock.  Note that low supplies should be a temporary issue while supply chains catch up. 
-  - [Stop & Shop](https://stores.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-646-3625, now open 7:30AM - 8PM
-  - [Trader Joes](https://locations.traderjoes.com/ma/arlington/505/), +1-781-646-9138, now closing at 7PM
-  - [Whole Foods](https://www.wholefoodsmarket.com/stores/arlington-ma), +1-781-777-7200, limits on prepared food bar hours
+- Grocery stores should **still be open** - but check their hours; many are closing early so their staff can clean and restock.  Note that [low supplies should be a temporary issue](https://www.eater.com/2020/3/6/21168480/what-people-are-panic-buying-because-of-coronavirus-worries) while supply chains catch up; [some ideas for ordering delivery](https://www.theatlantic.com/health/archive/2020/03/coronavirus-how-get-food-safely/608008/). 
+  - [Stop & Shop](https://stores.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-646-3625, now open 7:30AM - 8PM, [Stop & Shop COVID update](https://stopandshop.com/news-and-media/article-03-13-20/)
+    - [Stop & Shop **pharmacy**](https://pharmacy.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-643-3267, hours still reported to be 9AM - 7PM (5PM weekends)
+  - [Trader Joes](https://locations.traderjoes.com/ma/arlington/505/), +1-781-646-9138, now closing at 7PM, [Trader Joe's COVID update](https://www.traderjoes.com/announcement/coronavirus-update-trader-joes)
+  - [Whole Foods](https://www.wholefoodsmarket.com/stores/arlington-ma), +1-781-777-7200, limits on prepared food bar hours, see [Whole Foods COVID Update](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19)
 - Pharmacies will **still be open** - but check hours, and please call the pharmacist if you just have questions.
+  - [CVS offers free 1-2 day Rx delivery](https://www.cvs.com/content/delivery?icid=cvs-home-covid19-banner-Rx-delivery) - new program!
   - [CVS - by high school - 833 Mass Ave](https://www.cvs.com/store-locator/cvs-pharmacy-address/833+Mass+Avenue-Arlington-MA-02476/storeid=278), +1-781-643-4272
   - [CVS - Cambridge line - 23 Mass Ave](https://www.cvs.com/store-locator/cvs-pharmacy-address/23+Massachusetts+Avenue-Arlington-MA-02474/storeid=130), +1-781-648-0557
+  - [Walgreens offers free Rx shipping](https://www.walgreens.com/topic/pharmacy/walgreens-express.jsp)
   - [Walgreens - East Arlington - 324 Mass Ave](https://www.walgreens.com/locator/walgreens-324+massachusetts+ave-arlington-ma-02474/id=1864), +1-781-643-4112
   - [Walgreens - by Trader Joes - 1425 Mass Ave](https://www.walgreens.com/locator/walgreens-1425+massachusetts+ave-arlington-ma-02476/id=3112), +1-781-646-3869
+
+**Delivery Updates**
+- [How to Sanitize your groceries](https://www.consumerreports.org/food-shopping/how-to-protect-yourself-from-coronavirus-when-grocery-shopping/) when you bring them inside, from Consumer Reports.
+- [Instacart has a new Leave At The Door](https://news.instacart.com/introducing-leave-at-my-door-delivery-new-doorstep-delivery-service-now-available-across-north-f06f9e3bd346) feature.
+- Peapod sounds like they're [having issues with timely deliveries](https://twitter.com/PeapodDelivers/with_replies)
+
 
 ## What's Closed & State Changes
 
