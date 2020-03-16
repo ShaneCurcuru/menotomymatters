@@ -22,7 +22,7 @@ header:
 ## What's Open
 
 - Grocery stores should **still be open** - but check their hours; many are closing early so their staff can clean and restock.  Note that [low supplies should be a temporary issue](https://www.eater.com/2020/3/6/21168480/what-people-are-panic-buying-because-of-coronavirus-worries) while supply chains catch up; [some ideas for ordering delivery](https://www.theatlantic.com/health/archive/2020/03/coronavirus-how-get-food-safely/608008/). 
-  - [Stop & Shop](https://stores.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-646-3625, now open 7:30AM - 8PM, [Stop & Shop COVID update](https://stopandshop.com/news-and-media/article-03-13-20/)
+  - [Stop & Shop](https://stores.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-646-3625, now open 8AM - 8PM, [Stop & Shop COVID update](https://stopandshop.com/news-and-media/article-03-13-20/), [Open early for **seniors 60+ ONLY** 6AM-7:30AM](https://drive.google.com/file/d/1nDlFxETdN5wFnkrxYDmhGisqG4kyUYFY/view)
     - [Stop & Shop **pharmacy**](https://pharmacy.stopandshop.com/ma/arlington/905-massachusetts-avenue), +1-781-643-3267, hours still reported to be 9AM - 7PM (5PM weekends)
   - [Trader Joes](https://locations.traderjoes.com/ma/arlington/505/), +1-781-646-9138, now closing at 7PM, [Trader Joe's COVID update](https://www.traderjoes.com/announcement/coronavirus-update-trader-joes)
   - [Whole Foods](https://www.wholefoodsmarket.com/stores/arlington-ma), +1-781-777-7200, limits on prepared food bar hours, see [Whole Foods COVID Update](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19)
