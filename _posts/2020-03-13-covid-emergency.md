@@ -38,7 +38,8 @@ header:
 - [How to Sanitize your groceries](https://www.consumerreports.org/food-shopping/how-to-protect-yourself-from-coronavirus-when-grocery-shopping/) when you bring them inside, from Consumer Reports.
 - [Instacart has a new Leave At The Door](https://news.instacart.com/introducing-leave-at-my-door-delivery-new-doorstep-delivery-service-now-available-across-north-f06f9e3bd346) feature.
 - Peapod sounds like they're [having issues with timely deliveries](https://twitter.com/PeapodDelivers/with_replies)
-
+- [Wilson Farm now offers delivery](http://www.wilsonfarm.com/v2.0/home.php) through Mercato
+- Whole Foods and Amazon as always offer a variety of deliveries to Prime members; personally, all non-crisis things are still being delivered on time, although finding things like oatmeal or rice available is now difficult (for the short term; long term, it'll be fine)
 
 ## What's Closed & State Changes
 
