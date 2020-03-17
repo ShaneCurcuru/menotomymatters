@@ -16,11 +16,11 @@ resources, both local and scientific.
 
 ## Quick Links - Updated
 
-- Need books? [Library online resources](https://menotomymatters.com/howto/covid-libraries/#online-library-resources) or [local bookstores](https://menotomymatters.com/howto/covid-libraries/#local-bookstores) with free shipping.
-- Need food? Check out [updated grocery store hours](https://menotomymatters.com/howto/covid-emergency/#whats-open---groceries), or [seek help (or donate) to ArlingtonEats/FoodLink](https://menotomymatters.com/howto/covid-info/#food-resources).
-- Need drugs? Here's all the [local pharmacies with phone numbers](https://menotomymatters.com/howto/covid-emergency/#whats-open---pharmacies) and estimated hours.
-- Want delivery? [Delivery services are still working](https://menotomymatters.com/howto/covid-emergency/#whats-open---delivery-services), but with delays.
-- Need help from neighbors?  There are [several Arlington-specific groups and lists](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) for you!
+- **Need books?** [Library online resources](https://menotomymatters.com/howto/covid-libraries/#online-library-resources) or [local bookstores](https://menotomymatters.com/howto/covid-libraries/#local-bookstores) with free shipping.
+- **Need food?** Check out [updated grocery store hours](https://menotomymatters.com/howto/covid-emergency/#whats-open---groceries), or [seek help (or donate) to ArlingtonEats/FoodLink](https://menotomymatters.com/howto/covid-info/#food-resources).
+- **Need drugs?** Here's all the [local pharmacies with phone numbers](https://menotomymatters.com/howto/covid-emergency/#whats-open---pharmacies) and estimated hours.
+- **Want delivery?** [Delivery services are still working](https://menotomymatters.com/howto/covid-emergency/#whats-open---delivery-services), but with delays.
+- **Need help from neighbors?**  There are [several Arlington-specific groups and lists](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) for you!
 
 ## What Is Arlington Doing?
 
@@ -50,6 +50,7 @@ The town announced public facilities closures starting Thursday March 12th, for 
 - Arlington schools are planning to [provide to-go lunches for APS students](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) from the [Thompson School lobby](https://goo.gl/maps/vGGJhEhfj86waUg18) starting Monday 16-March, from 10:30AM - Noon.
 - [Arlington Eats](https://www.arlingtoneats.org/) is continuing operations, and appreciates donations!
 - [Food Link](https://www.foodlinkma.org/) is still operating from their new location at [888 Mass Ave](https://goo.gl/maps/oa7fq9HGKWAN4jmx7) and also appreciates donations!
+- Great article from [The Atlantic on How To Get Food During A Pandemic](https://www.theatlantic.com/health/archive/2020/03/coronavirus-how-get-food-safely/608008/?fbclid=IwAR0zsp74ntdXOjs5y1Yr499izr5O2ZzqeB1y2krCqU7zRghfXkK4dMcOPzE)
 
 ## Housing Resources
 
