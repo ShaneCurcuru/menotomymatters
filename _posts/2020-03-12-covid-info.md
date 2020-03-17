@@ -11,8 +11,16 @@ sidebar:
 ---
 
 Now that [Arlington town government](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) and [all public schools are closed](http://www.arlington.k12.ma.us/news//Arlington_Bedford_Belmont_Burlington_Lexington_and_Winchester_Schools_to_Close_Starting_Tomorrow_March_13th_through_at_Least_March_27th.pdf) 
-for two weeks, here are some key novel coronavirus / COVID-19 
-resources, both local and scientific for everyone.
+for ~two weeks~ a while, here are some key COVID-19 
+resources, both local and scientific.
+
+## Quick Links - Updated
+
+- Need books? [Library online resources](https://menotomymatters.com/howto/covid-libraries/#online-library-resources) or [local bookstores](https://menotomymatters.com/howto/covid-libraries/#local-bookstores) with free shipping.
+- Need food? Check out [updated grocery store hours](https://menotomymatters.com/howto/covid-emergency/#whats-open---groceries), or [seek help (or donate) to ArlingtonEats/FoodLink](https://menotomymatters.com/howto/covid-info/#food-resources).
+- Need drugs? Here's all the [local pharmacies with phone numbers](https://menotomymatters.com/howto/covid-emergency/#whats-open---pharmacies) and estimated hours.
+- Want delivery? [Delivery services are still working](https://menotomymatters.com/howto/covid-emergency/#whats-open---delivery-services), but with delays.
+- Need help from neighbors?  There are [several Arlington-specific groups and lists](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) for you!
 
 ## What Is Arlington Doing?
 
