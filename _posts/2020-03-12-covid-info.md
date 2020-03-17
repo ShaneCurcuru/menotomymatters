@@ -21,6 +21,8 @@ resources, both local and scientific.
 - **Need drugs?** Here's all the [local pharmacies with phone numbers](https://menotomymatters.com/howto/covid-emergency/#whats-open---pharmacies) and estimated hours.
 - **Want delivery?** [Delivery services are still working](https://menotomymatters.com/howto/covid-emergency/#whats-open---delivery-services), but with delays.
 - **Need help from neighbors?**  There are [several Arlington-specific groups and lists](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) for you!
+- - [MassLive news site list of **open or closed**](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html) categories of businesses.
+
 
 ## What Is Arlington Doing?
 

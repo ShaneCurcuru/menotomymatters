@@ -16,6 +16,7 @@ header:
 - [US Federal State of Emergency](https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.html) (NYTimes article, free to read)
 - [Commonwealth of Massachusetts State of Emergency](https://www.mass.gov/executive-orders/no-591-declaration-of-a-state-of-emergency-to-respond-to-covid-19) declared 10-March: [Detailed state news updates](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19), [Detailed list of state-recommended closures](https://www.mass.gov/info-details/covid-19-state-of-emergency).  
 - [Town of Arlington COVID-19 emergency update news](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525?backlist=%2fdepartments%2fhealth-human-services%2fhealth-department), updated with new info daily.
+- [MassLive news site list of open/close](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html) categories of businesses.
 
 **Health news:** [Coronavirus survivability timelines for different surfaces](https://www.npr.org/sections/health-shots/2020/03/14/811609026/the-new-coronavirus-can-live-on-surfaces-for-2-3-days-heres-how-to-clean-them?utm_source=facebook.com&utm_term=nprnews&utm_campaign=npr&utm_medium=social&fbclid=IwAR0VJ3H3a8H92DjCdtMzaHeKvntUfolD2C4it0MZRbq2hioUdzUUR7-2AG4), via NPR based on a new scientific study.
 
