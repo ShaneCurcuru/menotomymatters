@@ -29,11 +29,14 @@ The town announced public facilities closures starting Thursday March 12th, for 
 - [Public schools closed](http://www.arlington.k12.ma.us/news//Arlington_Bedford_Belmont_Burlington_Lexington_and_Winchester_Schools_to_Close_Starting_Tomorrow_March_13th_through_at_Least_March_27th.pdf) through "at least 27 March", including sports and other events.
 - [Town offices are limiting services](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) - "through at least March 27... suspend most nonessential town services and cancel board and committee meetings until further notice.":
     - All town committee/group meetings cancelled
+    - Town Hall - CLOSED in person, only use telephone or email/request forms
     - **Arlington Public Library - CLOSED**
     - [What other libraries are open](/howto/covid-libraries/)?  Check out my [handy list here](https://menotomymatters.com/howto/covid-libraries/)!
     - Arlington Recreation Department - CLOSED
     - Arlington Youth Counseling Center (AYCC) - CLOSED, however "AYCC clinicians will continue to offer their regular counseling and mental health sessions to current clients and client families via phone calls and telemedicine services."
     - Arlington Senior Center - CLOSED
+    - Playgrounds - CLOSED to groups
+    - Local gyms (all kinds) - CLOSED
     - Senior rides and meals **will operate**
     - Arlington Police are of course still on the job! However they urge everyone to call or [use online forms to make requests or reports](https://www.arlingtonma.gov/departments/police) when possible.
 - [Sign up for town alerts](https://www.arlingtonma.gov/communications-center) or follow on social media in the Communications Center
@@ -43,6 +46,7 @@ The town announced public facilities closures starting Thursday March 12th, for 
 
 ## Food Resources
 
+- **UPDATE:** [Arlington official updates on food services being continued](https://www.arlingtonma.gov/Home/Components/News/News/10055/1525?backlist=%2fdepartments%2fhealth-human-services).
 - Arlington schools are planning to [provide to-go lunches for APS students](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525) from the [Thompson School lobby](https://goo.gl/maps/vGGJhEhfj86waUg18) starting Monday 16-March, from 10:30AM - Noon.
 - [Arlington Eats](https://www.arlingtoneats.org/) is continuing operations, and appreciates donations!
 - [Food Link](https://www.foodlinkma.org/) is still operating from their new location at [888 Mass Ave](https://goo.gl/maps/oa7fq9HGKWAN4jmx7) and also appreciates donations!
@@ -55,6 +59,7 @@ The town announced public facilities closures starting Thursday March 12th, for 
 
 ## Local Government Resources
 
+- Quick high-level [help and pointers come from Mass 211](https://mass211.org/)
 - The [CDC still has excellent advice](https://www.cdc.gov/coronavirus/2019-ncov/index.html), even in the face of reports of not enough tests.
 - [CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
 - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local resources, with updates our the MA State of Emergency
