@@ -1,10 +1,10 @@
 [
   {
-    "status": "open",
-    "statusdate": "15-March",
+    "status": "closed",
+    "statusdate": "17-March",
     "type": "public",
     "name": "Boston Public Library",
-    "description": "Boston Public Library locations remain open, although all scheduled programs are cancelled.",
+    "description": "Boston Public Library locations closed.  All due dates, fines, and library card expirations are extended. BPL offers many online resources!",
     "address": "700 Boylston Street, Boston MA 02116",
     "telephone": "617-536-5400",
     "url": "https://www.bpl.org/",
@@ -13,8 +13,8 @@
     "title": "Boston Public Library"
   },
   {
-    "status": "open",
-    "statusdate": "15-March",
+    "status": "closed",
+    "statusdate": "17-March",
     "type": "public",
     "name": "Ashland Public Library",
     "description": "The Ashland Public Library provides free access to information in a variety of formats to stimulate creativity, critical thinking and lifelong learning.  We strive to be responsive to the diverse cultural, educational and recreational needs of a growing community.",
@@ -26,11 +26,11 @@
     "title": "Ashland Public Library"
   },
   {
-    "status": "open",
-    "statusdate": "15-March",
+    "status": "closed",
+    "statusdate": "17-March",
     "type": "public",
     "name": "Holliston Public Library",
-    "description": "The Holliston Public Library at its permanent downtown location came into being in 1904 with donated land and funding from philanthropist Andrew Carnegie. An addition was built in 1987 and the library joined the Minuteman Library Network in 1994. Today we circulate 176,000 items per year with a staff of fifteen, six trustees and a dedicated group of volunteers and Friends.",
+    "description": "**CLOSED as of 18-March, only pre-order pickups allowed (building is closed).**\n\nThe Holliston Public Library at its permanent downtown location came into being in 1904 with donated land and funding from philanthropist Andrew Carnegie. An addition was built in 1987 and the library joined the Minuteman Library Network in 1994. Today we circulate 176,000 items per year with a staff of fifteen, six trustees and a dedicated group of volunteers and Friends.",
     "address": "752 Washington Street, Holliston, MA 01746",
     "telephone": "508-429-0617",
     "url": "https://www.hollistonlibrary.org/",
