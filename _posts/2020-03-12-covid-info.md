@@ -82,6 +82,7 @@ article on some website you found.
 - [NPR's guide on preparing your home](https://www.npr.org/sections/goatsandsoda/2020/02/26/809650625/a-guide-how-to-prepare-your-home-for-coronavirus).
 - This [well-researched Medium article by Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) gives a good overview of the larger implications of COVID-19.
 - [Bob Sprague's Your Arlington](https://www.yourarlington.com/) is worth reading regularly for hyper-local Arlington news.
+- [SSRN scientific papers custom listing of COVID-19 ](https://www.ssrn.com/index.cfm/en/coronavirus/)related topics.
 
 ## Data Visualizations Related To COVID-19
 
