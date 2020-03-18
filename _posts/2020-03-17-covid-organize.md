@@ -7,8 +7,8 @@ tags:
   - Maps
   - News
 header:
-  overlay_image: /assets/images/emergency.jpg
-  caption: "Photo: [**Benedikt Geyer / Unsplash**]"
+  overlay_image: /assets/images/organize.jpg
+  caption: "Photo: [**ray sangga kusuma / Unsplash**]"
 ---
 
 ## We Need To Get Organized
