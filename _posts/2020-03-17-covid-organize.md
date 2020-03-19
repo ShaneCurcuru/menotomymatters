@@ -41,27 +41,26 @@ explains how to [replicate their system for other communities](https://docs.goog
 
 ## Can You Help?
 
-This is something I've love to get started, but ironically I just 
-put my back out and have limited time for typing this week.  Is there 
-anyone else out there who wants to work on duplicating the kind of 
-meta-organization that Medford and Somerville have here in Arlington?
+There are many different Google docs or Facebook volunteer groups in Arlington - but there isn't a good way to find all of them (especially if you don't use Facebook).  
 
-Personally, I'm unemployed and a 20-year [open source coder and community organizer](http://shanecurcuru.org/); 
-I've been volunteering at the ASF for over 20 years 
-and have plenty of experience helping out.  But this kind of work needs 
-a team of people - some who can do the "good enough" technical setup 
-to have an effective website, and some who can do the community work
-of corraling various exising volunteer efforts to work with them together.
+So please check out **[mutualaidarlington.org](https://mutualaidarlington.org)** where I'm collecting links to all local volunteer groups, and am actively [looking for volunteers to help meta-coordinate](https://forms.gle/uwiPfacsSabgk9v67) all the other great volunteer groups in Arlington.
 
-In particular, we don't need "just one group" - that makes coordinating 
-the admins who run technical or privacy issues complicated.  We need a 
-meta-group who can easily point to various existing volunteer efforts, 
-many of whom may already have their own way of doing things.
+Bonus: [Support Local Businesses](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) is a Google Spreadsheet of various kinds of local Arlington/Lexington area businesses that are still open - often for take-out or drive-up service.  Help them out!
 
-**Does that make sense?  Who wants to help?**
+## Mutual Aid Organizations Elsewhere
 
-I've registered **mutualaidarlington.org** as a homepage for this effort, 
-and will ensure it links to wherever we get meta-organized.
+- Medford and Somerville have an [amazing MAMAS group, using Google Docs](https://mutualaidmamas.com/), and includes instructions on how to replicate their structure for other groups. 
+- [Brookline Mutual Aid](https://docs.google.com/document/d/18wyL-f2x2j-tFMCsbaxWW98PjY5bVUKfPluFibmX9u8/edit) (Google doc)
+- [Allston / Brighton Mutual Aid](https://docs.google.com/document/d/1elvhLVePZdLRpTWgNKNYKYacu9wI__7ILMerXPUZjSg/edit?fbclid=IwAR3-SuJl0vthhJfsHhhwhqwE0GPVYak6gl1o6TwfZuZF6QhfkWk5DhxSAi4) (Google Doc)
+- [Charles River Mutual Aid](https://crmutualaid.com/) (includes BU) (website)
+- [Mutual Aid JP & Roxbury](https://bit.ly/jpmutualaid?fbclid=IwAR1sIc6mfwlXqohl61LcdSWZNTDjZoJFpYyC7WALIDX8u1yyBIPIbPdaV4o) (MAMAS style Google Docs)
+- [Mutual Aid Cambridge](https://docs.google.com/forms/d/e/1FAIpQLScescGf_Knel1KGJ8fq0MUMzWa-6-CdKHzr5QT8RId8OMU8HA/viewform?fbclid=IwAR2yNMsS2ovYC1j63COmp8c6CK8NOrdy2PJhFsMSHoBBXqjqknBXFidQsO0) (Google Form volunteer intake only)
+- [Mutual Aid Worcester](https://www.facebook.com/MutualAidWorcester/) (Facebook groups)
+
+One great meta-list is this [Google Spreadsheet of various mutual aid groups](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552). and another [larger meta-list of groups](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=1455689482), and there's a [nice map of mutual aid groups in the US](https://www.mutualaidhub.org).
+
+There's a huge [list of technology and organizing resources](https://coronavirustechhandbook.com/) from the UK.
+
 
 ## Other Great Resources? What Should I Add?
 
