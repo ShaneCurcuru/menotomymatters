@@ -76,6 +76,7 @@ Check sources before sending articles along - it's almost always worth finding
 the underlying scientific report or alert, instead of sharing that clickbait 
 article on some website you found.
 
+- [Elsevier COVID-19 Information center and Science Direct](https://www.elsevier.com/connect/coronavirus-information-center) with various peer-reviewed journals and practical papers.
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
 - [WHO's meta-listing of scientific papers on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov).
 - [New York Times coverage on COVID-19](https://www.nytimes.com/news-event/coronavirus) is now **free for all** (not paywalled).
