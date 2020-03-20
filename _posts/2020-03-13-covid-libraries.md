@@ -19,6 +19,7 @@ All [Minuteman Library Network](https://www.minlib.net) libraries are now closed
 
 With your library card (NOTE: local libraries offer free online signup for a new card!), you can still read books on your devices:
 
+- NEW! Robbins Library cards can now get a [free Hoopla account for reading books online](https://buff.ly/2IYOj8G) if you sign up!
 - See [Boston Public Library online resources](https://www.bpl.org/news/covid-19-update-march-16th/) like Kanopy, Hoopla, and lynda.com.
 - Try the [Minuteman Overdrive application](https://minuteman.overdrive.com/) to read on your device!  
 - Or see the newer [Libby library reader app](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) for Android/iPhone.

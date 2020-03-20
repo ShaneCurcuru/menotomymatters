@@ -50,6 +50,7 @@ Bonus: [Support Local Businesses](https://docs.google.com/spreadsheets/d/1H8XgJ5
 ## Mutual Aid Organizations Elsewhere
 
 - Medford and Somerville have an [amazing MAMAS group, using Google Docs](https://mutualaidmamas.com/), and includes instructions on how to replicate their structure for other groups. 
+- [Cambridge Mutual Aid](https://www.cambridgemutualaid.info) (website)
 - [Brookline Mutual Aid](https://docs.google.com/document/d/18wyL-f2x2j-tFMCsbaxWW98PjY5bVUKfPluFibmX9u8/edit) (Google doc)
 - [Allston / Brighton Mutual Aid](https://docs.google.com/document/d/1elvhLVePZdLRpTWgNKNYKYacu9wI__7ILMerXPUZjSg/edit?fbclid=IwAR3-SuJl0vthhJfsHhhwhqwE0GPVYak6gl1o6TwfZuZF6QhfkWk5DhxSAi4) (Google Doc)
 - [Charles River Mutual Aid](https://crmutualaid.com/) (includes BU) (website)
