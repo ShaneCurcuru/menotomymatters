@@ -1,11 +1,8 @@
 main:
-  - title: "COVID-19"
-    url: /howto/covid-info/
-    description: "COVID-19 Resources"
+  - title: "Mutual Aid Arlington"
+    url: https://mutualaidarlington.org/?mm
+    description: "Neighbors Helping Neighbors"
 
-  - title: "Posts"
-    url: /posts/
-    description: "Current blog posts"
   - title: "Research"
     url: /issues/
     description: "Research links for various issues"
@@ -21,6 +18,8 @@ main:
 archive:
   - title: "Town Resources"
     children:
+      - title: "Mutual Aid Arlington"
+        url: https://mutualaidarlington.org/?mm
       - title: "COVID-19 Resources"
         url: /howto/covid-info/
       - title: "Town How-Tos"
