@@ -11,7 +11,10 @@ header:
   caption: "Photo: [**Susan Yin / Unsplash**]"
 ---
 
-## Most Library Facilities Closed
+**UPDATE**  Please see [https://mutualaidarlington.org](https://mutualaidarlington.org/?mm) for more current information!
+
+
+## All Library Facilities Closed
 
 All [Minuteman Library Network](https://www.minlib.net) libraries are now closed due to [COVID-19 health issues](/howto/covid-info/).  So it's time to think outside the library, for online resources, or break down and buy used books if you can afford it!
 

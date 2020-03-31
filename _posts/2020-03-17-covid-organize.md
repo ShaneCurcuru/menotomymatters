@@ -11,6 +11,8 @@ header:
   caption: "Photo: [**ray sangga kusuma / Unsplash**]"
 ---
 
+**UPDATE**  Please see [https://mutualaidarlington.org](https://mutualaidarlington.org/?mm) for more current information!
+
 ## We Need To Get Organized
 
 Arlington neighbors are doing some amazing things to help each other out 

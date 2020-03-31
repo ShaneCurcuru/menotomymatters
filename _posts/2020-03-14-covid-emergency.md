@@ -11,6 +11,8 @@ header:
   caption: "Photo: [**Benedikt Geyer / Unsplash**]"
 ---
 
+**Looking to volunteer, or need help from neighbors?**  Please checkout [https://mutualaidarlington.org](https://mutualaidarlington.org/?mm)!
+
 ## It's Official: State of Emergency Almost Everywhere
 
 - [US Federal State of Emergency](https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.html) (NYTimes article, free to read)
@@ -76,10 +78,11 @@ Per the [MA Emergency Declaration](https://www.mass.gov/info-details/covid-19-st
 - [Looking for **books**](/howto/covid-libraries/)? Libraries are closed, but they offer online app checkouts, and I list some [great bookstores with free delivery](/howto/covid-libraries/).
 - Use Email? [Sign up for The Arlington List](https://www.arlingtonlist.org/) for tons of help.
 - Use Facebook? Sign up for the many great Arlington-related groups - note these are **private groups** and you'll have to wait for an admin to approve you joining.
-  - [The Arlington List](https://www.facebook.com/groups/160644117397/) (not related to the email one)
+  - [The Arlington List](https://www.facebook.com/groups/160644117397/) (not directly related to the email one)
   - [Arlington Parents](https://www.facebook.com/groups/130314923723551/) with lots of great kid information
-  - [Arlington, MA COVID-19 Community Support](https://www.facebook.com/groups/201015774573867/) specifically focused on coordinating volunteer efforts in town
-  - [Everything Is Free Arlington](https://www.facebook.com/groups/1666602076957678/) where friendly neighbors swap everything for free
+  - [Arlington, MA Helps: Coronavirus/COVID-19 Community Support](https://www.facebook.com/groups/201015774573867/) specifically focused on coordinating volunteer efforts in town
+  - [Everything Is Free Arlington](https://www.facebook.com/groups/1666602076957678/) where friendly neighbors swap everything for free (NOTE: restricted to only essential items during our current stay at home orders, to prevent spread of the pandemic)
+  - [Vibrant Arlington](https://www.facebook.com/groups/2149484068477792/) where neighbors post photos and tips about businesses that are still open during the pandemic (mostly restaurants with takeout - yum!)
 
 ## Other Great Resources? What Should I Add?
 
