@@ -45,6 +45,7 @@ module WarrantParser
     TEXT_S => 'text',
     INSERT_S => INSERT_BY,
   }
+  ARTICLE_TYPE = 'type'
 
   BOARD_MAP = { # Note: some articles are inserted by multiple entities; only first one here is used
     /Town Manager/ => 'https://www.arlingtonma.gov/departments/town-manager',
@@ -64,7 +65,23 @@ module WarrantParser
     /Arlington Conservation Commission/ => 'https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-commission',
     /Council on Aging/ => 'https://www.arlingtonma.gov/departments/health-human-services/council-on-aging',
     /Contributory Retirement Board/ => 'https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board',
-    /ten registered voters/ => 'https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067' # (Inserted at the request of Elizabeth Pyle and ten registered voters)
+    /ten registered voters/ => 'https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067', # (Inserted at the request of Elizabeth Pyle and ten registered voters)
+    /Citizen petition/ => 'https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067' # Citizen petition led by: Paul Schlichtman
+  }
+  
+  PETITIONS = [ # Special processing if found in BOARD_MAP
+    /ten registered voters/,
+    /Citizen petition/
+  ]
+  
+  TYPES_MAP = {
+    'election' => 'Elections/appointments or TMM procedures',
+    'funding' => 'Appropriations or funding',
+    'bylaw' => 'Town Bylaw amendments',
+    'zoning' => 'Zoning Bylaw amendments',
+    'housing' => 'Housing-related non-bylaw articles',
+    'housekeeping' => 'Other TMM or town organizational articles',
+    'misc' => 'Various other articles'
   }
 
   # Parse a single NOVUSAgenda table row
@@ -255,9 +272,31 @@ module WarrantParser
       end
     end
   end
-
+  
+  # Add crossindex and table of contents map
+  # NOTE: inefficient loops, don't use on giant files 8-)
+  # @return crossindex hash
+  def create_tocindex(warrant)
+    insertby = Hash.new{|h,k| h[k] = []} 
+    types = Hash.new{|h,k| h[k] = []} 
+    warrant.each do |article|
+      if article.has_key?(ARTICLE_TYPE)
+        types[article[ARTICLE_TYPE]] << article['id']
+      end
+      if article.has_key?(INSERT_BY)
+        BOARD_MAP.each do |regex, l|
+          if regex =~ article[INSERT_BY]
+            insertby[regex.source] << article['id']
+            break
+          end
+        end
+      end
+    end
+    return { INSERT_BY => insertby, ARTICLE_TYPE => types}
+  end
+  
   # ## ### #### ##### ######
-  # Check commandline options (examplar code; overkill for this purpose)
+  # Check commandline options
   def parse_commandline
     options = {}
     OptionParser.new do |opts|
@@ -280,6 +319,9 @@ module WarrantParser
       end
       opts.on('-s', 'ONLY sort a previously created JSON') do |sort|
         options[:sort] = true
+      end
+      opts.on('-x', 'ONLY crossindex a previously created JSON') do |crossindex|
+        options[:crossindex] = true
       end
       opts.on('-c', 'ONLY add inserturls to committees from a previously created JSON') do |comm|
         options[:comm] = true
@@ -325,6 +367,13 @@ module WarrantParser
       puts "Parsing existing file: #{options[:infile]}, adding votes: #{options[:votes]}"
       warrant = JSON.parse(File.read(options[:infile]))
       add_votes(warrant, options[:votes])
+    elsif options[:crossindex]
+      # Create a secondary crossindex about articles
+      options[:infile] ||= 'warrant.json'
+      options[:out] ||= 'warrant-crossindex.json' # Make it a separate file for comparison
+      puts "Parsing existing file: #{options[:infile]}, crossindexing into: #{options[:out]}"
+      warrant = JSON.parse(File.read(options[:infile]))
+      warrant = create_tocindex(warrant) # We only write out the TOC, not back to original file
     else
       # Default processing is to read HTML and process all data
       warrant = do_warrant(options)
@@ -332,7 +381,8 @@ module WarrantParser
       add_supplements(warrant)
     end
     
-    puts "... Outputting warrant articles: #{warrant.length}"
+    options[:crossindex] ? tmp = "... Outputting TOC entries: #{warrant.length}" : tmp = "... Outputting warrant articles: #{warrant.length}"
+    puts tmp
     File.open("#{options[:out]}", "w") do |f|
       f.puts JSON.pretty_generate(warrant)
     end
