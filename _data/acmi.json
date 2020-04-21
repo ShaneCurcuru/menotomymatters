@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Select Board Meeting Recordings",
+    "url": "https://acmi.tv/selectmen/",
+    "content": "The Select Board appoints a Town Manager responsible for the daily management of the Town. The Manager’s powers are specified in the Town Manager Act. The Select Board approves the Town Manager’s appointments of most official boards and commissions.",
+    "icon": "gavel",
+    "related": "https://menotomymatters.com/townhall/#select"
+  },
+  {
+    "title": "School Committee Meeting Recordings",
+    "url": "https://acmi.tv/schoolcommittee/",
+    "content": "The School Committee manages budget, policy, and overall administration of all public schools in Arlington, including our relationship with LABB and Minuteman schools.",
+    "icon": "gavel",
+    "related": "https://menotomymatters.com/townhall/#school"
+  },
+  {
+    "title": "Redevelopment Board (ARB) Meeting Recordings",
+    "url": "https://acmi.tv/redevelopmentboardmeetings/",
+    "content": "The ARB serves as the Town’s special permit granting authority for projects which require an Environmental Design Review (EDR) as identified in the Zoning Bylaw. The ARB is also the Town’s Urban Renewal Authority under M.G.L. Chapter 121; with Town Meeting approval, the Board may hold land or buildings to improve and rehabilitate them to meet community development goals. The ARB currently manages three properties: the Central School at 20 Academy Street, 23 Maple Street, and the Jefferson Cutter House at 611 Massachusetts Avenue, which includes Whittemore Park. Building tenants include the Senior Center, Town departments, and nonprofit organizations.",
+    "icon": "gavel",
+    "related": "https://menotomymatters.com/townhall/#arb"
+  },
+  {
+    "title": "Town Meeting Annual Recordings",
+    "url": "https://acmi.tv/townmeeting/",
+    "content": "Town Meeting is the Legislative branch of Arlington. It is made up of 252 representatives from 21 precincts. It is governed by the Massachusetts General Laws Chapter 43A, Standard Form of Representative Town Meeting Government and the Town of Arlington Bylaw Title I- General Government, Article 1.",
+    "icon": "gavel",
+    "related": "https://menotomymatters.com/townhall/#townmeeting"
+  },
+  {
+    "title": "Finance Committee Recordings",
+    "url": "https://acmi.tv/financecommittee/",
+    "content": "The Arlington Finance Committee (FinCom) is a standing committee of the Town Meeting. Its purpose is to recommend a vote to Town Meeting on the Town budget and all articles that require an appropriation. The FinCom reviews each department’s budget in detail and holds hearings on Town Meeting appropriation articles. In conjunction with the Town Manager, the Budget and Revenue Task Force, and other Town offices, the FinCom integrates revenue and expense projections to present a balanced budget to Town Meeting.",
+    "icon": "gavel",
+    "related": "https://menotomymatters.com/townhall/#finance"
+  },
+  {
+    "title": "ACMI's Million Dollar Gift",
+    "url": "https://acmi.tv/milliondollargift/",
+    "content": "Have you ever stopped to think about all of the volunteer energy expended in Arlington, from the work of our boards, agencies, and committees, to the dedicated efforts of Town Meeting members? ACMi’s Public Affairs department is interested in recognizing, and possibly quantifying, the contributions made by countless residents who spend their own time to inventory our trees, steward our resources, monitor our finances, and so much more. This is the genesis of “The Million Dollar Gift,” a new series that profiles volunteers to illuminate what they do, and why they do it. Among the episodes currently airing: we shine a light on the PicturePost project that enables anyone with a smartphone to chronicle our changing environment in real time; we look at the work of the Open Space committee to get folks out into Arlington’s natural world; and we get the low-down on the town-wide tree inventory that has just wrapped up.",
+    "icon": "video"
+  },
+  {
+    "title": "Your Arlington Dollar",
+    "url": "https://acmi.tv/your-arlington-dollar/",
+    "content": "Your Arlington Dollar breaks down how taxpayer money is spent in the town of Arlington, MA. Guests to the show include local government officials like the Town Manager that discuss city finances. This is an ACMi produced show.",
+    "icon": "video"
+  },
+  {
+    "title": "Talk of the Town With Sara and James",
+    "url": "https://acmi.tv/talkofthetown/",
+    "content": "An occasional interview with different town government figures by Sara Alfaro Franco and James Milan.",
+    "icon": "video"
+  },
+  {
+    "title": "Driving Forces",
+    "url": "https://acmi.tv/driving-forces/",
+    "content": "Interviews with various social activists around town, from gender identity, climate change, to animal rights.",
+    "icon": "video"
+  },
+  {
+    "title": "Criminal Justice Reform Interviews",
+    "url": "https://acmi.tv/criminal-justice-reform/",
+    "content": "A series of interviews on Criminal Justice Reform: Restorative Justice and the Culture of the Arlington Police Department, by ACMi Public Affairs.",
+    "icon": "video",
+    "related": ""
+  },
+  {
+    "title": "Education Channel",
+    "url": "http://acmi.tv/edulive/",
+    "content": "ACMI coverage of education stories from all schools in Arlington.",
+    "icon": "video"
+  }
+]

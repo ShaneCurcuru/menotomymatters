@@ -34,7 +34,9 @@ archive:
         url: /issues/finances/
   - title: "About This Site"
     children:
-      - title: "Your Host"
+      - title: "Shane for 12 TMM!"
+        url: /townmeeting/campaign/
+      - title: "About This Site"
         url: /about/
       - title: "All By Tag"
         url: /tags/
@@ -42,7 +44,7 @@ archive:
         url: /categories/
       - title: "Credits"
         url: /colophon
-      - title: "Terms"
+      - title: "Terms / Legal"
         url: /terms
       - title: "Code"
         url: https://github.com/ShaneCurcuru/menotomymatters/tree/master/assets/code
