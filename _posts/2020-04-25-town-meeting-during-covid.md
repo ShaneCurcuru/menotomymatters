@@ -34,3 +34,5 @@ It's clear that this summer's Town Meeting will look very different than traditi
 
 For more information, see the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting), or follow along with [Bob Sprague's Your Arlington coverage](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17030-plans-042420.html).
 
+**UPDATE** The Town Moderator has just posted the [formal recess and continuation of Town Meeting until May 27th](http://www.arlingtonma.gov/home/showdocument?id=51036).  MA state town meeting laws are complex, so the meeting can't simply be postponed; only continued by 30 days at a time.  The moderator has previously stated they plan to re-continue the meeting again, with a final date in mid-June. 
+
