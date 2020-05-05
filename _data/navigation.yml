@@ -2,8 +2,7 @@ main:
   - title: "Mutual Aid Arlington"
     url: https://mutualaidarlington.org/?mm
     description: "Neighbors Helping Neighbors"
-
-  - title: "Research"
+  - title: "Issues Research"
     url: /issues/
     description: "Research links for various issues"
   - title: "Town Meeting"
@@ -16,24 +15,28 @@ main:
     url: /about/
 
 archive:
+  - title: "Issues Research"
+    children: &issuesnav
+      - title: "What do YOU want to know?"
+        url: https://forms.gle/XzEDSidcPs5aWc658
+      - title: "AHS Rebuild"
+        url: /issues/ahsrebuild/
+      - title: "Hotel Lexington"
+        url: /issues/hotellexington/
+      - title: "Budgets & Finance"
+        url: /issues/finances/
   - title: "Town Resources"
-    children:
+    children: &resourcenav
       - title: "Mutual Aid Arlington"
         url: https://mutualaidarlington.org/?mm
-      - title: "COVID-19 Resources"
-        url: /howto/covid-info/
       - title: "Town How-Tos"
         url: /resources/
       - title: "Town Hall Guide"
         url: /townhall/
-      - title: "Issues Research"
-        url: /issues/
       - title: "Town Meeting"
         url: /tm/
-      - title: "Budgets & Finance"
-        url: /issues/finances/
   - title: "About This Site"
-    children:
+    children: &aboutnav
       - title: "Shane for 12 TMM!"
         url: /townmeeting/campaign/
       - title: "About This Site"

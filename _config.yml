@@ -2,7 +2,7 @@
 # Many thanks for the awesome Minimal Mistakes theme and Jekyll sitebuilder
 title: Menotomy Matters
 email: shane@menotomymatters.com
-description: &description "Making sense of Arlington town government, one source document or news story at a time."
+description: &description "Making sense of Arlington town government, one source document or issue at a time."
 author:
   name      : &scname "Shane Curcuru"
   avatar    : "/assets/images/gravatar.png"
@@ -11,7 +11,7 @@ author:
   twitter   : "MenotomyMatters"
   linkedin  : &scid "ShaneCurcuru"
   github    : *scid
-  bio       : "Long-time Arlington resident and open source volunteer."
+  bio       : "Long-time Arlington resident; open source volunteer; Candidate for TMM 12 Precinct."
 
 social:
   type: # Person or Organization (defaults to Person)

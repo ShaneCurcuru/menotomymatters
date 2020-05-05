@@ -72,6 +72,8 @@
     "telephone": "781-316-3200",
     "url": " https://www.robbinslibrary.org",
     "twitterurl": "https://twitter.com/RobbinsLib",
+    "facebookurl": "https://www.facebook.com/RobbinsLibraryArlMa",
+    "instagramurl": "https://www.instagram.com/robbinslibraryteens/",
     "hoursurl": "https://www.robbinslibrary.org",
     "title": "Robbins Library"
   },
@@ -96,6 +98,8 @@
     "telephone": "617-489-2000",
     "url": "https://belmontpubliclibrary.net/",
     "twitterurl": "https://twitter.com/belmontlibma",
+    "facebookurl": "https://www.facebook.com/belmontlibma",
+    "instagramurl": "https://instagram.com/belmontlibma/",
     "hoursurl": "https://belmontpubliclibrary.net/contact/",
     "title": "Belmont Public Library"
   },
@@ -120,6 +124,8 @@
     "telephone": "617-349-4041",
     "url": "http://www.cambridgema.gov/cpl",
     "twitterurl": "https://twitter.com/cambridgepl",
+    "facebookurl": "https://www.facebook.com/CambridgePL",
+    "instagramurl": "https://www.instagram.com/cambridgepubliclibrary/",
     "hoursurl": "https://www.cambridgema.gov/cpl/hoursandlocations/mainlibrary",
     "title": "Cambridge Public Library"
   },
@@ -191,6 +197,9 @@
     "telephone": "781-862-6288",
     "url": "https://www.carylibrary.org",
     "twitterurl": "https://twitter.com/carymemlibrary",
+    "facebookurl": "https://www.facebook.com/carylibrary",
+    "instagramurl": "https://www.instagram.com/carymemlibrary/",
+    "youtubeurl": "https://www.youtube.com/c/CaryMemorialLibrary",
     "hoursurl": "https://www.carylibrary.org/hours",
     "title": "Cary Memorial Library"
   },
@@ -239,6 +248,9 @@
     "telephone": "781-395-7950",
     "url": "http://www.medfordlibrary.org/",
     "twitterurl": "https://twitter.com/medfordlib",
+    "facebookurl": "https://www.facebook.com/MedfordLibrary",
+    "instagramurl": "http://instagram.com/mplteensection",
+    "youtubeurl": "https://www.youtube.com/channel/UCQWGtLkEryZ3q_jDWxLNA2w?feature=watch",
     "hoursurl": "http://www.medfordlibrary.org/",
     "title": "Medford Public Library"
   },
@@ -333,6 +345,8 @@
     "telephone": "617-623-5000",
     "url": "https://www.somervillepubliclibrary.org/",
     "twitterurl": "https://twitter.com/SomervillePL",
+    "facebookurl": "https://www.facebook.com/SomervilleLibrary",
+    "instagramurl": "https://www.instagram.com/somervillelibrary/",
     "hoursurl": "https://www.somervillepubliclibrary.org/library-community/hours-locations/central-library",
     "title": "Somerville Public Library"
   },
@@ -369,6 +383,8 @@
     "telephone": "781-314-3425 TTY: 781-314-3439",
     "url": "http://www.waltham.lib.ma.us/",
     "twitterurl": "https://twitter.com/walthamlibrary",
+    "facebookurl": "http://www.facebook.com/walthamlibrary",
+    "instagramurl": "http://www.instagram.com/walthamlibrary/",
     "hoursurl": "http://www.waltham.lib.ma.us/hours_directions.php",
     "title": "Waltham Public Library"
   },
@@ -381,6 +397,9 @@
     "telephone": "617-972-6431",
     "url": "https://www.watertownlib.org/",
     "twitterurl": "https://twitter.com/watertownpublib",
+    "facebookurl": "https://www.watertownlib.org/facebook",
+    "instagramurl": "https://www.watertownlib.org/instagram",
+    "youtubeurl": "https://www.watertownlib.org/youtube",
     "hoursurl": "https://www.watertownlib.org/150/Hours-Directions",
     "title": "Watertown Free Public Library"
   },
@@ -440,6 +459,9 @@
     "telephone": "781-721-7171",
     "url": "http://www.winpublib.org/",
     "twitterurl": "https://twitter.com/winpublib",
+    "facebookurl": "https://www.facebook.com/winpublib/",
+    "instagramurl": "https://www.instagram.com/winpublib/",
+    "youtubeurl": "https://www.youtube.com/channel/UCBCLZwm8PSg9q9LiOf9uSPw/playlists",
     "hoursurl": "http://www.winpublib.org/about-the-library/hours",
     "title": "Winchester Public Library"
   },

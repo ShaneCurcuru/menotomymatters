@@ -56,6 +56,37 @@
     "content": "If you prefer Facebook, follow this page for official updates from the town committee for the AHS Rebuild."
   },
   {
+    "icon": "gavel",
+    "title": "MSBA Statement On Coronavirus Funding Issues",
+    "htmltitle": "Message For Districts | Massachusetts School Building Authority, ",
+    "url": "https://www.massschoolbuildings.org/news_events/Message_For_Districts",
+    "content": "The MSBA commits to continuing pre-approved funding for building projects, including AHS; however they note that additional funding due to any Coronavirus issues is not available from MSBA."
+  },
+  {
+    "icon": "newspaper",
+    "title": "Sitework for construction of new AHS: Week of May 4 | Your Arlington (article)",
+    "displaydate": "4-May-2020",
+    "url": "https://www.yourarlington.com/search/news-archive/371-schools/16622-ahs-011620.html",
+    "content": "Coverage of construction breaking ground on the AHS rebuild; fences up and construction hours expected."
+  },
+  {
+    "icon": "newspaper",
+    "title": "Your Arlington | School administrators propose $82.8M budget for fiscal '21 (article)",
+    "displaydate": "17-Feb-2020",
+    "htmltitle": "School administrators propose $82.8M budget for fiscal '21",
+    "url": "https://www.yourarlington.com/arlington-archives/town-school/schools/16735-budget-021720.html",
+    "content": "Coverage of the FY21 budget planning and some notes on rebuild status and how plans affect other facilities."
+  },
+  {
+    "icon": "newspaper",
+    "title": "Your Arlington | Work on AHS rebuild to begin this month (article)",
+    "displaydate": "5-Feb-2020",
+    "preview": "UPDATED, Feb. 5: A public forum to discuss site work to rebuild Arlington High School was held Tuesday, Feb. 4, from 7 to 8:30 p.m. at Lowe Auditorium, and an estimated 70 people attended, a number with questions. Site work for the new high school...",
+    "htmltitle": "Work on AHS rebuild to begin this month",
+    "url": "https://www.yourarlington.com/search/news-archive/371-schools/16622-ahs-011620.html",
+    "content": "Coverage of the recent committee meeting on the start of the rebuild project; includes links to past AHS Rebuild stories."
+  },
+  {
     "icon": "newspaper",
     "title": "Your Arlington's Feed of all School News",
     "preview": "",
@@ -64,24 +95,7 @@
     "content": "Your Arlington is a local online newspaper; this is their feed of all school-related articles (AHS or otherwise)."
   },
   {
-    "icon": "newspaper",
-    "title": "Your Arlington | School administrators propose $82.8M budget for fiscal '21 (article)",
-    "date": "17-Feb-2020",
-    "htmltitle": "School administrators propose $82.8M budget for fiscal '21",
-    "url": "https://www.yourarlington.com/arlington-archives/town-school/schools/16735-budget-021720.html",
-    "content": "Coverage of the FY21 budget planning and some notes on rebuild status and how plans affect other facilities."
-  },
-  {
-    "icon": "newspaper",
-    "title": "Your Arlington | Work on AHS rebuild to begin this month (article)",
-    "date": "5-Feb-2020",
-    "preview": "UPDATED, Feb. 5: A public forum to discuss site work to rebuild Arlington High School was held Tuesday, Feb. 4, from 7 to 8:30 p.m. at Lowe Auditorium, and an estimated 70 people attended, a number with questions. Site work for the new high school...",
-    "htmltitle": "Work on AHS rebuild to begin this month",
-    "url": "https://www.yourarlington.com/search/news-archive/371-schools/16622-ahs-011620.html",
-    "content": "Coverage of the recent committee meeting on the start of the rebuild project; includes links to past AHS Rebuild stories."
-  },
-  {
-    "icon": "newspaper",
+    "icon": "video",
     "title": "Local Cable Channel Coverage of AHS Rebuild",
     "preview": "",
     "htmltitle": "Show: AHS Building Project - Arlington Community Media, Inc.",
