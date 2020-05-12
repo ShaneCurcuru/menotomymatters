@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+# Modified 202005-sc
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+.pullrightbox {
+  float: right;
+  width: 180px;
+  padding: 5px;
+  margin: 5px !important;
+  font-size: $type-size-6 !important; // Slightly smaller to stand out
+  border: 1px solid #717D7E; // Darker than theme to stand out
+  border-radius: 4px;
+  -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+.agendaheader {
+  background-color: #ebf5f8;
+  background-clip: border-box;
+}
+.agendadetailheader {
+  background-color: #f1f1f2;
+  background-clip: border-box;
+  margin: 1em 0 0.5em; // Slightly smaller
+}

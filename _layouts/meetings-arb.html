@@ -1,0 +1,45 @@
+---
+layout: single
+classes: wide
+---
+
+{{content}}
+
+<hr/>
+<div id="2020"></div>
+{% for entry in site.data[page.datafile] %}
+{% assign itm = entry[1] %}
+<div class="agenda" id="{{ entry[0] }}">
+  {% if itm.altid %}<div id="{{ itm.altid }}"></div>{% endif %}
+  <div class="agendaheader"><h3>{{ itm.title }} meeting {{ itm.date }}</a></h3></div>
+  <div class="agendalinks">
+    <small>
+      Location: {{ itm.location }}<br/>
+      {% if itm.video %}<i class="fa fa-fw fa-video" aria-hidden="true"></i> <a href="{{ itm.video }}">Watch on ACMi</a>{% endif %}
+      <i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Official downloads: 
+      <a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.viewurl }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Online Agenda</a>
+      | <a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.pdfurl }}"><i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> Agenda PDF</a>
+      {% if itm.minurl %}| <a href="https://arlington.novusagenda.com/Agendapublic/{{ itm.minurl }}"><i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> Legal Minutes</a>{% endif %}
+    </small>
+  </div>
+  <div class="agendadetail">
+    <ol>
+      {% for lineitm in itm.agenda.items %}
+      <li value="{{ lineitm.num }}">
+        <h4 class="agendadetailheader">{{ lineitm.title }}</h4>
+        <small>
+          {% if lineitm.url %}<a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Item attachments</a>{% endif %}
+          {% if lineitm.dockets %} Dockets heard: 
+            {% for docket in lineitm.dockets %}
+              <b>#{{ docket[0] }}</b>, {{ docket[1] }} |
+            {% endfor %}
+          {% endif %}
+        </small>
+        {{ lineitm.details | markdownify }}
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div> 
+{% endfor %}
+
