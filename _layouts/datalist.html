@@ -14,7 +14,7 @@ layout: single
     </dt>
     <dd>
       {% if itm.displaydate %} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <small>{{ itm.displaydate }}</small>{% endif %}
-      {% if itm.video %}<i class="fa fa-fw fa-video" aria-hidden="true"></i><small><a href="{{ itm.videl }}"> ACMi Video</a></small>{% endif %}
+      {% if itm.video %}<i class="fa fa-fw fa-video" aria-hidden="true"></i><small><a href="{{ itm.video }}"> ACMi Video</a></small>{% endif %}
       {{ itm.content | markdownify }}
     </dd>
   {% endfor %}
