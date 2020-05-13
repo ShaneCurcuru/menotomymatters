@@ -30,7 +30,7 @@ classes: wide
 <hr/>
 {% for itm in site.data[page.datafile] %}
 <div class="committee" id="{{ itm.id }}">
-  <h3><a href="{{ itm.url }}">{{ itm.title }}</a></h3>
+  <h3 class="agendaheader"><a href="{{ itm.url }}">{{ itm.title }}</a></h3>
   <div class="ctteflex">
     <div class="ctteitem" style="flex: 3 1 70%;">
       <p>{{ itm.desc1 | markdownify }}</p>
@@ -45,6 +45,7 @@ classes: wide
       <nav class="toc">
         <header><h4 class="nav__title">Committee Links</h4></header>
         <ul class="toc__menu">
+          {% if itm.tracker %}<li><a href="{{ itm.tracker }}">Meeting Tracker</a></li>{% endif %}
           <li><a href="{{ itm.url }}">Homepage</a></li>
           <li><a href="{{ itm.agenda }}">Documents</a>
             <ul>
