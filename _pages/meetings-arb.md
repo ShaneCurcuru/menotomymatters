@@ -1,5 +1,5 @@
 ---
-title: ARB Historical Meeting Agendas
+title: Redevelopment Board Meeting Agendas, 2018-2020
 permalink: /meetings/arb/
 layout: meetings-arb
 datafile: meetings-arb
