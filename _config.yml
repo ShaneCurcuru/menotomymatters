@@ -11,7 +11,7 @@ author:
   twitter   : "MenotomyMatters"
   linkedin  : &scid "ShaneCurcuru"
   github    : *scid
-  bio       : "Long-time Arlington resident; open source volunteer; Candidate for TMM 12 Precinct."
+  bio       : "Long-time Arlington resident; [open source volunteer](http://shanecurcuru.org/); [Candidate for TMM 12 Precinct](/townmeeting/campaign/)."
 
 social:
   type: # Person or Organization (defaults to Person)
@@ -88,6 +88,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "archive"
   # _pages
   - scope:
       path: "_pages"
