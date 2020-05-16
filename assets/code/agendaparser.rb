@@ -21,7 +21,8 @@ module AgendaParser
   https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board/agendas-minutes
   
   Which embeds an IFrame of this, parseable by parse_list_html() 
-  https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=45
+  https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=45 ARB
+  https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=50 Select board
   
   Which points to an Online Agenda of: parseable by parse_arb_agenda()
   https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1043&MinutesMeetingID=-1&doctype=Agenda
@@ -66,6 +67,7 @@ module AgendaParser
   AGENDA = 'agenda'
   AGENDAS = 'agendas'
   BYLAWS = 'bylaws'
+  ATTACHMENTS = 'attachments'
   ARBHTML = '-arb.html'
   CORRESPONDENCE = 'correspondence'
   CORRESPONDENCE_MATCH = /Correspondence received/i
@@ -74,7 +76,58 @@ module AgendaParser
   ARB_BYLAW_MATCH2 = /ARTICLE \d+ ZONING [^a-z]*/
   BOGUS_CHAR = " " # Not sure where this comes from in the html
   CROSSINDEX = 'crossindex'
+  SUBHEAD = 'subhead'
+  COVERSHEET_MATCH = /CoverSheet.aspx\?ItemID=\d{1,5}&MeetingID=\d{1,5}/
   
+  # Add coversheet data to existing meeting hash
+  # @param io to read meetings-select.json or similar 
+  # Side Effect: mutates original data
+  def index_coversheets(json)
+    # Find *any* Coversheet references and expand them
+    json.each do |date, mtg|
+      mtg[AGENDA][ITEMS].each do |item|
+        urls = [] # Some items may have multiple links
+        urls << item[ITEMLINK] if item.has_key?(ITEMLINK)
+        # Note: depending on type of agenda, may be embedded in [DETAILS]
+        matches = item[DETAILS].scan(COVERSHEET_MATCH) if item[DETAILS]
+        urls = (urls + matches).uniq if matches
+        urls.each do |url|
+          attach = parse_coversheet(open(NOVUS_URL + url))
+          if attach
+            if item.has_key?(ATTACHMENTS)
+              item[ATTACHMENTS].merge!(attach)
+            else
+              item[ATTACHMENTS] = attach
+            end
+          end
+        end
+      end
+    end
+  end
+
+  # Parse a CoverSheet.aspx, typically for correspondence received links
+  # @param io to read
+  # @return hash of correspondences {url => [filename, description]} or nil if no attachments therein
+  def parse_coversheet(io)
+    data = {}
+    begin
+      doc = Nokogiri::HTML(io)
+      table = doc.css('#myTabContent table')[0] # First table inside the myTabContent div
+      rows = doc.css('tbody table tr').drop(2) # Remove two header rows
+      puts("parse_coversheet() Parsing attachments table, children #{rows.length}")
+      rows.each do |row|
+        data[row.elements[1].children[0]['href']] = 
+        [
+          row.elements[2].text.strip,
+          row.elements[3].text.strip
+        ]
+      end
+    rescue StandardError => e
+      data[ERROR] = e.message + e.backtrace.join("\n\t")
+    end
+    return data unless data.empty?
+  end
+
   # Parse an agenda listing html item row 
   # @param row of tr holding the item
   # @return hash of this agenda's links
@@ -120,8 +173,8 @@ module AgendaParser
         data << parse_list_item(row)
       end
     rescue StandardError => e
-      data = e.message
-      data = e.backtrace.join("\n\t")
+      data << e.message
+      data << e.backtrace.join("\n\t")
     end
     return data
   end
@@ -290,6 +343,126 @@ module AgendaParser
     return data
   end
   
+  # Parse each Select agenda from a predownloaded directory
+  # @param dir to scan for *.html files
+  # @param io of the json details
+  # @return array of agenda detail hashes, annotated
+  def parse_select_agendas(dir, json)
+    errors = []
+    hash = {}
+    begin
+      puts("parse_select_agendas() Parsing agendas # #{json.length} from #{dir}")
+      json.each do |mtg|
+        # Annotate each item by parsing corresponding file
+        fn = File.join(dir, "#{mtg[ISODATE]}-select.html")
+        if File.file?(fn)
+          mtg[AGENDA] = parse_select_agenda(File.open(fn), fn, mtg[ISODATE])
+        else
+          mtg[ERROR] = "File not found: #{fn}"
+        end
+        hash[mtg[ISODATE]] = mtg # Transform array format to hash   
+      end
+    rescue StandardError => e
+      errors << e.message
+      errors << e.backtrace.join("\n\t")
+    end
+    if errors.any?
+      errors.each do |e|
+        puts e
+      end
+    end
+    return hash
+  end 
+ 
+  SELECTLINK_PREFIX = '<a href="https://arlington.novusagenda.com/Agendapublic/'
+  SELECTLINK_POSTFIX = '"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i></a> '
+  SELECT_ACTIONS_RX = /(For Approval:|Request:|Minutes of Meetings:|Presentation:|Reappointments|Discussion:|Discussion & Approval:|Discussion & Vote:|Request:)/
+  SELECT_ACTIONS = [
+    'For Approval:',
+    'Minutes of Meetings:',
+    'Presentation:',
+    'Reappointments',
+    'Discussion & Approval:',
+    'Discussion & Vote:',
+    'Discussion:',
+    'Request:'
+  ]
+  # Parse a single "row" (actually a <table>) element of a Select agenda
+  # @param table element
+  # @return hash of data; or nil if blank spacer
+  def parse_select_row(table, parentid)
+    item = {}
+    subhead = table.css('.style2') # Simple case: subheader in single cell
+    if subhead.any?
+      txt = subhead.text.strip
+      unless txt.empty?
+        item[TITLE] = txt
+        item[SUBHEAD] = 'true'
+      end
+    else
+      cells = table.css('.style1, .style4')
+      # For now, just aggregate all non-blank cells that match
+      blob = ''
+      cells.each do |cell|
+        txt = cell.text.strip
+        if /\A(?<item_num>\d+)\.\Z/ =~ txt
+          blob.concat("<span class='itemnum' id='#{parentid}_#{item_num}'>#{item_num}.</span>")
+        elsif txt.length > 0
+          # <a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Item attachments</a>
+          anchors = cell.css('a')
+          anchors.each do |a|
+            blob.concat(SELECTLINK_PREFIX, a['href'], SELECTLINK_POSTFIX)
+          end
+          if SELECT_ACTIONS_RX =~ txt # Wow, this is inefficient
+            SELECT_ACTIONS.each do |act|
+              txt = txt.gsub(act, "<span class='itemact'>#{act}</span>")
+            end
+          end
+          blob.concat(txt.gsub("\r\n", "\n"), "\n\n")
+        end 
+      end
+      unless blob.empty?
+        item[DETAILS] = blob
+        item['nextmtg'] = true if blob.start_with?('Next Scheduled Meeting')
+      end
+    end
+    if item.any?
+      return item
+    else
+      return nil
+    end
+  end
+  
+  # Parse a Select Board agenda page and output array of hashes of semi-structured data
+  # This is customized to the specific Select agenda formats from 2020
+  # @param io stream to read
+  # @param id identifier of stream (filename or URL)
+  # @return data hash listing agenda metadata and details; includes ERROR key if any
+  def parse_select_agenda(io, id, parentid)
+    data = {}
+    begin
+      doc = Nokogiri::HTML(io)
+      tables = doc.css('td > table') # All tables inside a cell
+      puts("... Parsing agenda table rows: #{tables.length} for #{id}")
+      raise ArgumentError.new("Agenda data not found; perhaps meeting was cancelled?") if tables.length < 3
+      # Grab header info from first table
+      notice = tables.shift
+      data[NOTICE] = notice.css("[colspan]#column1").text.strip
+      # Process all remaining tables depending on cell contents (order may be random or repeated)
+      # Push each table's data into list depending on type
+      data[ITEMS] = []
+      tables.each do |table|
+        item = parse_select_row(table, parentid)
+        data[ITEMS] << item if item
+      end
+    rescue StandardError => e
+      data[ERROR] = "#{id} #{e.message}"
+      data[STACK] = e.backtrace.join("\n\t")
+    end
+    return data
+  end
+  
+  
   # Crossindex an existing json of parsed agendas
   # @param hash to annotate
   # Side effect: adds metadata at head and in items
@@ -422,12 +595,19 @@ module AgendaParser
       opts.on('-j', 'Read agenda json listing and parse each file in :dir into individual agendas') do |pjson|
         options[:pjson] = true
       end
+      opts.on('-s', 'Read Select board agendas from dir and parse') do |select|
+        options[:select] = true
+      end
       opts.on('-c', 'Only crossindex existing arb agendas json') do |crossindexarb|
         options[:crossindexarb] = true
       end
       opts.on('-v', 'Only add video links existing agendas json') do |video|
         options[:video] = true
       end
+      opts.on('-a', 'Parse a CoverSheet of correspondence received or attachments') do |coversheet|
+        options[:coversheet] = true
+      end
+
       begin
         opts.parse!
       rescue OptionParser::ParseError => e
@@ -455,7 +635,15 @@ module AgendaParser
     else
       puts "WARNING: No apparent -i or -u input provided, expect to crash!"
     end
-    if options.has_key?(:video)
+    if options.has_key?(:coversheet)
+      puts "Adding attachments within: #{ioname}"
+      agenda = JSON.parse(io)
+      index_coversheets(agenda) # Mutuates data
+      #agenda = parse_coversheet(io)
+    elsif options.has_key?(:select)
+      puts "Parsing Select agenda list json #{ioname} from #{options[:dir]}"
+      agenda = parse_select_agendas(options[:dir], JSON.parse(io))
+    elsif options.has_key?(:video)
       puts "Adding video links to list json #{ioname}"
       agenda = add_video(JSON.parse(io))
     elsif options.has_key?(:transform)
