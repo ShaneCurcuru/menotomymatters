@@ -32,6 +32,14 @@ classes: wide
           <a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Item attachments</a>
         </small>
         {% endif %}
+        {% if lineitm.attachments %}
+        <small>
+          {% for attach in lineitm.attachments %}
+            {% assign nocomma = forloop.last %}
+            <a href="https://arlington.novusagenda.com/Agendapublic/{{ attach[0] }}"><i class="fa fa-fw fa-file" aria-hidden="true"></i> {{ attach[1][0] }}</a>{% if nocomma == false %} |{% endif %}
+          {% endfor %}
+        </small>   
+        {% endif %}     
         {% if lineitm.details %}
           {% if lineitm.nextmtg %}<small>{{ lineitm.details | markdownify }}</small>{% else %}{{ lineitm.details | markdownify }}{% endif %}
         {% endif %}
