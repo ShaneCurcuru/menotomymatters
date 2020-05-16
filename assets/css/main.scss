@@ -29,3 +29,10 @@
   background-clip: border-box;
   margin: 1em 0 0.5em; // Slightly smaller
 }
+.itemnum {
+  font-weight: bold;
+  margin: 0px 10px 0px 0px; // Leave slight leading para space
+}
+.itemact {
+  font-style: italic;
+}
