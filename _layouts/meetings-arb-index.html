@@ -1,0 +1,32 @@
+---
+layout: single
+classes: wide
+---
+
+{{content}}
+
+<hr/>
+<dl>
+{% for entry in site.data[page.datafile] %}
+  {% assign itm = entry[1] %}
+  <dt id="{{ entry[0] }}">
+    {% if itm.url %}
+    <a href="{{ itm.url }}">Docket# {{ entry[0] }}</a>
+    {% else %}
+    Docket# {{ entry[0] }}
+    {% endif %}
+  </dt>
+    <ul>
+      <li>Address: <a href="https://www.google.com/maps/place/{{ itm.address }},+Arlington,+MA">{{ itm.address }}</a></li>
+      <li>Owner: {{ itm.owner }}</li>
+      <li>Docket Purpose: {{ itm.purpose }}</li>
+      <li>Meeting List:
+        <ul>
+          {% for mtg in itm.meetings %}
+            <li><a href="/meetings/arb/#{{ mtg }}">{{ mtg }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+{% endfor %}
+</dl>

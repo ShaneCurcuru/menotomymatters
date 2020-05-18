@@ -1,8 +1,18 @@
 {
+  "3625": {
+    "address": "882-892 Massachusetts Avenue",
+    "purpose": "mixed-use redevelopment",
+    "owner": "882-892 Massachusetts Ave., LLC",
+    "url": "https://www.arlingtonma.gov/Home/Components/News/News/10178/3864",
+    "meetings": [
+      "2020-05-18"
+    ]
+  },
   "3616": {
     "address": "434 Massachusetts Avenue",
     "purpose": "signage",
     "owner": "Andy Liam, Taipei-Tokyo",
+    "url": "https://www.arlingtonma.gov/Home/Components/News/News/9967/3864",
     "meetings": [
       "2020-04-27",
       "2020-02-24",
@@ -13,7 +23,9 @@
     "address": "880 Massachusetts Avenue",
     "purpose": "signage",
     "owner": "TD Bank",
+    "url": "https://www.arlingtonma.gov/Home/Components/News/News/10108/3864",
     "meetings": [
+      "2020-05-18",
       "2020-04-27"
     ]
   },
@@ -43,7 +55,9 @@
     "address": "1207-1211 Massachusetts Avenue",
     "purpose": "rezoning",
     "owner": "Hotel Lexington",
+    "url": "https://www.arlingtonma.gov/Home/Components/News/News/9931/3864",
     "meetings": [
+      "2020-05-18",
       "2020-01-27",
       "2019-12-16",
       "2019-07-22"
@@ -53,6 +67,7 @@
     "address": "1386 Massachusetts Avenue",
     "purpose": "marijuana retailer",
     "owner": "Apothca, Inc",
+    "url": "https://www.arlingtonma.gov/Home/Components/News/News/9810/3864?backlist=%2Ftown-governance%2Fall-boards-and-committees%2Fredevelopment-board",
     "meetings": [
       "2020-01-27",
       "2020-01-06",
