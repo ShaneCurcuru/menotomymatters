@@ -1,5 +1,64 @@
 {
-  "2020-05-04": {
+  "2020-05-18": {
+    "date": "05/18/20",
+    "isodate": "2020-05-18",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
+    "viewurl": "MeetingView.aspx?MeetingID=1052&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1052",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMay 18, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by May 18, 2020 at 12:00 p.m. If you are providing visual information as part of your correspondence, the Board requests that it is received by May 15, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, May 18, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=8906&MeetingID=1052",
+          "time": "7:00 p.m.",
+          "details": "**Docket #2818**, 880 Massachusetts Avenue *Continued Public Hearing* Board will continue hearing for _Special Permit Docket #2818_ to review application by Back Bay Signs, for TD Bank, at 880 Massachusetts Avenue. The applicant proposes to install new signage in a B4 Vehicular Oriented Business District. The opening of the Special Permit is to allow the Board to review and approve the application in accordance with the provisions of MGL Chapter 40A and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. \n\n1207-1211 Mass Ave *Continued Public Hearing* Board will continue hearing for **Special Permit Docket #3602** to review application by James F. Doherty for 1211 Mass Ave Realty Trust, at 1207-1211 Massachusetts Avenue, Arlington, MA, 02476, to construct a 50-room hotel and restaurant at 1207-1211 Massachusetts Avenue in the B2 Neighborhood Business District and B4 Vehicular Oriented Business District. The continuation of the hearing is to allow the Board to review and approve the application in accordance with the provisions of MGL Chapter 40A and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. \n\n882-892 Mass Ave *Public Hearing* Board will open public hearing for **Special Permit Docket #3625** to review application by 882-892 Massachusetts Ave., LLC, for 882-892 Massachusetts Avenue, to develop a new mixed-use building with twenty-two (22) one-bedroom residential units and one (1) commercial space in a B2 Business District. The opening of the Special Permit is to allow the Board to review and approve the application in accordance with the provisions of MGL Chapter 40A and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
+          "dockets": {
+            "2818": "880 Massachusetts Avenue",
+            "3602": "1207-1211 Massachusetts Avenue",
+            "3625": "882-892 Massachusetts Avenue"
+          }
+        },
+        {
+          "num": "2.",
+          "title": "DISCUSSION & VOTE",
+          "time": "8:30 p.m.",
+          "details": "Meeting schedule for June, July, August \n-  Board members will discuss and vote. "
+        },
+        {
+          "num": "3.",
+          "title": "Director’s Updates",
+          "time": "8:35 p.m.",
+          "details": "Director will provide updates"
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "8:45 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video. "
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": "Estimated 9:05 p.m. – Adjourn  "
+        },
+        {
+          "num": "6.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=8911&MeetingID=1052",
+          "details": "Correspondence received from:\r\nD. Seltzer 051120\r\nD. Seltzer 051420 with attachments",
+          "correspondence": [
+            "D. Seltzer 051120",
+            "D. Seltzer 051420 with attachments"
+          ]
+        }
+      ]
+    }
+  },
+    "2020-05-04": {
     "date": "05/04/20",
     "isodate": "2020-05-04",
     "title": "Redevelopment Board",
@@ -56,7 +115,7 @@
           "title": "Continued Public Hearings",
           "url": "CoverSheet.aspx?ItemID=8770&MeetingID=1037",
           "time": "7:00 p.m. ",
-          "details": "Docket #3616, 434 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on January 7, 2020 by Andy Liam, Taipei-Tokyo, at 434 Massachusetts Avenue, to open Special Permit Docket #3616 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant seeks approval of signage that is already installed. The opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\nDocket #2818, 880 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on March 3, 2020 by Back Bay Signs, for TD Bank, at 880 Massachusetts Avenue, to re-open Special Permit Docket #2818 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to install new signage in a B4 Vehicular Oriented Business District. The re-opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\nDocket #3348, 833 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that the Arlington Redevelopment Board will re-open Special Permit Docket #3348 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review, in order to review compliance with special condition 5 of the Special Permit Decision, dated April 13, 2009, and in order to hear from the property owner regarding such compliance. Special condition 5 of the Special Permit Decision refers to the future redevelopment of the Atwood House. \n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
+          "details": "**Docket #3616**, 434 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on January 7, 2020 by Andy Liam, Taipei-Tokyo, at 434 Massachusetts Avenue, to open Special Permit Docket #3616 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant seeks approval of signage that is already installed. The opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\n**Docket #2818**, 880 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on March 3, 2020 by Back Bay Signs, for TD Bank, at 880 Massachusetts Avenue, to re-open Special Permit Docket #2818 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to install new signage in a B4 Vehicular Oriented Business District. The re-opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\n**Docket #3348**, 833 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that the Arlington Redevelopment Board will re-open Special Permit Docket #3348 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review, in order to review compliance with special condition 5 of the Special Permit Decision, dated April 13, 2009, and in order to hear from the property owner regarding such compliance. Special condition 5 of the Special Permit Decision refers to the future redevelopment of the Atwood House. \n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
           "dockets": {
             "3616": "434 Massachusetts Avenue",
             "2818": "880 Massachusetts Avenue",
