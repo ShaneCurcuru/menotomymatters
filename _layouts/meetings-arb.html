@@ -31,7 +31,7 @@ classes: wide
           {% if lineitm.url %}<a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Item attachments</a>{% endif %}
           {% if lineitm.dockets %} Dockets heard: 
             {% for docket in lineitm.dockets %}
-              <b>#{{ docket[0] }}</b>, {{ docket[1] }} |
+              <b><a href="/meetings/arb-index/#{{ docket[0] }}">#{{ docket[0] }}</a></b>, <a href="https://www.google.com/maps/place/{{ docket[1] }},+Arlington,+MA">{{ docket[1] }}</a> |
             {% endfor %}
           {% endif %}
         </small>

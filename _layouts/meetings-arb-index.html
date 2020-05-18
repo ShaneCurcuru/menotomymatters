@@ -19,8 +19,16 @@ classes: wide
     <ul>
       <li>Address: <a href="https://www.google.com/maps/place/{{ itm.address }},+Arlington,+MA">{{ itm.address }}</a></li>
       <li>Owner: {{ itm.owner }}</li>
+        {% if itm.parcel %}
+        <ul>
+          <li>Parcel: {{ itm.parcel }}</li>
+          <li><a href="{{ itm.card }}">Property card</a></li>
+          <li><a href="{{ itm.gis }}">Property map</a></li>
+          {% if itm.corp %}<li><a href="{{ itm.corp }}">MA Corporate records</a></li>{% endif %}
+        </ul>
+        {% endif %}
       <li>Docket Purpose: {{ itm.purpose }}</li>
-      <li>Meeting List:
+      <li>Meetings heard at:
         <ul>
           {% for mtg in itm.meetings %}
             <li><a href="/meetings/arb/#{{ mtg }}">{{ mtg }}</a></li>

@@ -4,6 +4,10 @@
     "purpose": "mixed-use redevelopment",
     "owner": "882-892 Massachusetts Ave., LLC",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/10178/3864",
+    "corp": "http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=RQVtLWbP1ECFCNevR_A2n3vhcmGl90dpCR63Dcx5SYY-",
+    "card": "http://documents.arlingtonma.s3.amazonaws.com/patriot_propertycards/For2020/009721_01_2020.PDF",
+    "gis": "https://www.mapsonline.net/arlingtonma/?ts_cama_id=52-1-1#x=-7921624.295972,5223626.66903,-7921451.864785,5223763.568942",
+    "parcel": "126-1-6",
     "meetings": [
       "2020-05-18"
     ]
@@ -33,6 +37,9 @@
     "address": "833 Massachusetts Avenue",
     "purpose": "signage; review compliance with special condition 5 of the Special Permit Decision, dated April 13, 2009",
     "owner": "CVS / Atwood House",
+    "parcel": "52-1-1",
+    "card": "http://documents.arlingtonma.s3.amazonaws.com/patriot_propertycards/For2020/004289_01_2020.PDF",
+    "gis": "https://www.mapsonline.net/arlingtonma/?ts_cama_id=52-1-1#x=-7921624.295972,5223626.66903,-7921451.864785,5223763.568942",
     "meetings": [
       "2020-04-27",
       "2020-02-24",
@@ -56,6 +63,9 @@
     "purpose": "rezoning",
     "owner": "Hotel Lexington",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/9931/3864",
+    "parcel": "57-4-14, 58-11-1",
+    "card": "http://documents.arlingtonma.s3.amazonaws.com/patriot_propertycards/For2020/004906_01_2020.PDF",
+    "gis": "https://www.mapsonline.net/arlingtonma/?ts_cama_id=57-4-14#x=-7923415.791089,5224626.251767,-7923243.359902,5224763.151679",
     "meetings": [
       "2020-05-18",
       "2020-01-27",
@@ -67,7 +77,11 @@
     "address": "1386 Massachusetts Avenue",
     "purpose": "marijuana retailer",
     "owner": "Apothca, Inc",
+    "corp": "http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=mCBPAnUXDNCt3oykBi_K6ItSjxzkTRDEqh8jIEh2g8M-",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/9810/3864?backlist=%2Ftown-governance%2Fall-boards-and-committees%2Fredevelopment-board",
+    "parcel": "170-1-1",
+    "card": "http://documents.arlingtonma.s3.amazonaws.com/patriot_propertycards/For2020/013115_01_2020.PDF",
+    "gis": "https://www.mapsonline.net/arlingtonma/?ts_cama_id=170-1-1#x=-7924335.144931,5224687.2804,-7924162.713744,5224824.180312",
     "meetings": [
       "2020-01-27",
       "2020-01-06",
