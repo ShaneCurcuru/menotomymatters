@@ -2,7 +2,7 @@
 title: "Town Meeting Postponed And Changed During COVID-19"
 excerpt: "Big changes for this summer's Town Meeting - fewer articles, more online."
 toc: true
-ategories:
+categories:
   - TownMeeting
 tags:
   - Data
