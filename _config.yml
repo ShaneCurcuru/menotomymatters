@@ -10,7 +10,6 @@ author:
   email     : "shane@menotomymatters.com"
   twitter   : "MenotomyMatters"
   linkedin  : &scid "ShaneCurcuru"
-  github    : *scid
   bio       : "Long-time Arlington resident; [open source volunteer](http://shanecurcuru.org/); [Candidate for TMM 12 Precinct](/townmeeting/campaign/)."
 
 social:
@@ -18,7 +17,6 @@ social:
   name: *scname # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/MenotomyMatters"
-    - "https://github.com/ShaneCurcuru"
     - "https://linkedin.com/in/ShaneCurcuru"
 
 # Build, theme, style settings

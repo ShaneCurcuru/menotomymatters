@@ -5,9 +5,9 @@ main:
   - title: "Issues Research"
     url: /issues/
     description: "Research links for various issues"
-  - title: "Town Meeting"
-    url: /tm/
-    description: "Visualizing town meeting data and votes"
+  - title: "Town Meetings Tracker"
+    url: /meetings/
+    description: "Following Select and Redevelopment Agendas"
   - title: "Finances"
     url: /issues/finances/
     description: "Visualizing budget and finances"
@@ -29,6 +29,8 @@ archive:
     children: &resourcenav
       - title: "Mutual Aid Arlington"
         url: https://mutualaidarlington.org/?mm
+      - title: "Meeting Tracker (new!)"
+        url: /meetings/
       - title: "Town How-Tos"
         url: /resources/
       - title: "Town Hall Guide"
