@@ -15,11 +15,13 @@ classes: wide
     {% else %}
     Docket# {{ entry[0] }}
     {% endif %}
+    {% if itm.issues %} - <a href="{{ itm.issues }}"><i class="fa fa-fw fa-info" aria-hidden="true"></i> Follow this topic</a>{% endif %}
   </dt>
     <ul>
+      {% if itm.description %}<li>Description: {{ itm.description }}</li>{% endif %}
       <li>Address: <a href="https://www.google.com/maps/place/{{ itm.address }},+Arlington,+MA">{{ itm.address }}</a></li>
       <li>Owner: {{ itm.owner }}</li>
-        {% if itm.parcel %}
+         {% if itm.parcel %}
         <ul>
           <li>Parcel: {{ itm.parcel }}</li>
           <li><a href="{{ itm.card }}">Property card</a></li>

@@ -1,6 +1,7 @@
 {
   "3625": {
     "address": "882-892 Massachusetts Avenue",
+    "description": "Proposed condos/apartments in Toraya/Thana Thai block",
     "purpose": "mixed-use redevelopment",
     "owner": "882-892 Massachusetts Ave., LLC",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/10178/3864",
@@ -61,7 +62,9 @@
   "3602": {
     "address": "1207-1211 Massachusetts Avenue",
     "purpose": "rezoning",
-    "owner": "Hotel Lexington",
+    "description": "Hotel Lexington is a proposed boutique hotel and restaurant.",
+    "issues": "/issues/hotellexington/",
+    "owner": "James F. Doherty for 1211 Mass Ave Realty Trust",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/9931/3864",
     "parcel": "57-4-14, 58-11-1",
     "card": "http://documents.arlingtonma.s3.amazonaws.com/patriot_propertycards/For2020/004906_01_2020.PDF",
@@ -76,6 +79,7 @@
   "3610": {
     "address": "1386 Massachusetts Avenue",
     "purpose": "marijuana retailer",
+    "description": "Apothca runs a medical-only marijuana dispensary in Arlington.",
     "owner": "Apothca, Inc",
     "corp": "http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=mCBPAnUXDNCt3oykBi_K6ItSjxzkTRDEqh8jIEh2g8M-",
     "url": "https://www.arlingtonma.gov/Home/Components/News/News/9810/3864?backlist=%2Ftown-governance%2Fall-boards-and-committees%2Fredevelopment-board",
