@@ -8,7 +8,7 @@ layout: single
 <dl>
   {% for itm in site.data[page.datafile] %}
     <dt>
-      <a href="{{ itm.url }}">{{ itm.title }}</a>
+      <a href="{{ itm.url }}">{{ itm.title }}</a>&nbsp;
       {% if itm.icon %}<i class="fa fa-{{ itm.icon }}" aria-hidden="true"></i>{% endif %}
       {% if itm.related %}<small><a href="{{ itm.related }}"> (see also)</a></small>{% endif %}
     </dt>
