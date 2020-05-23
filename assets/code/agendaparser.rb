@@ -86,8 +86,8 @@ module AgendaParser
           if File.file?(fn)
             meeting[AgendaUtils::AGENDA] = parse_agenda(type, File.open(fn), fn, isodate)
             if meeting[AgendaUtils::AGENDA].has_key?(AgendaUtils::ITEMS)
- ### DEBUG             AgendaUtils::add_coversheets(meeting) 
- ### DEBUG             AgendaUtils::add_video(type, meeting)
+              AgendaUtils::add_coversheets(meeting) 
+              AgendaUtils::add_video(type, meeting)
             end
           else
             meeting[AgendaUtils::ERROR] = "File not found: #{fn}"

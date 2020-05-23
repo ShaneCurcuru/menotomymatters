@@ -75,16 +75,16 @@ module SchoolParser
       # Recursively parse only nodes that are interesting
       next if cell.text?
       cell.children.each do |node|
-        puts "DEBUG: each: #{node.name} == #{node.content}"
-        blobs << "\n"
         parse_node(node, blobs, links)
       end
+      blobs << "\n\n" # Ensure each td cell is a separate line
     end
     if blobs.empty?
       return nil
     else
-      item['xlinks'] = links
-      item[AgendaUtils::DETAILS] = blobs
+      item['urls'] = links if links.any?
+      # Attempt to trim unneeded blank lines and excess space
+      item[AgendaUtils::DETAILS] = blobs.gsub(AgendaUtils::NBSP, ' ').gsub(/\n\s+\n/, "\n\n").gsub(/\n{3,8}/, "\n\n").gsub(/\n\s{3,}/, "\n ")
       return item
     end
   end
@@ -94,14 +94,6 @@ module SchoolParser
   # @param blobs string to aggregate any markdown to
   # @param links array to aggregate any hrefs to
   def parse_node(node, blobs, links)
-    debug = false
-    debug = true if /Mistler/ =~ node.content
-    if debug then
-      puts "DEBUG: pn: #{node.name} == #{node.content}"
-      puts "---------:"
-      puts blobs
-      puts ":---------"
-    end
     if node.text?
       blobs << node.content.strip unless node.content.strip.empty?
     else
@@ -109,24 +101,18 @@ module SchoolParser
       case node.name
       when 'a'
         links << node['href']
-        blobs << "<a href='#{node['href']}'>#{node.content.strip}</a>"
+        blobs << "<a href='#{node['href']}'>#{node.content.strip}</a> "
       when 'p'
         node.children.each do |child|
           parse_node(child, blobs, links)
-        end      
+        end
+        blobs << "  \n" # Use GFM
       when 'ul'
         parse_ul(node, blobs, links)
       else
         # No-op: ignore other nodes; either not needed or we already got contents
       end # case
     end # if
-    if debug then
-      puts "=DEBUG: pn: #{node.name} == #{node.content}"
-      puts "---------:"
-      puts blobs
-      puts ":---------"
-    end
-
   end
 
   # Parse just a flat ul element (grabbing text from each li)
@@ -136,76 +122,11 @@ module SchoolParser
   def parse_ul(node, blobs, links)
     blobs << "\n" # Ensure markdown treats as list
     node.children.each do |child|
-      case child.name
-      when 'li'
+      if 'li'.eql?(child.name)
         blobs << "\n- #{child.content.strip}" unless child.content.strip.empty?
-        next
-      else
-        # No-op: we only take the items
       end
     end
-    blobs << "\n" # Ensure markdown treats as list
+    blobs << "\n\n" # Ensure markdown treats as list
   end
-
-  #require 'json'
-
-  # if __FILE__ == $PROGRAM_NAME
-  #   agenda = {}
-  #   fn = 'schoolagenda.html'
-  #   out = 'schoolagenda.json'
-  #   puts "Shortcut: parsing #{fn} as a one-off into #{out} - debugging!"
-  #   doc = Nokogiri::HTML(File.read(fn))
-  #   tables = doc.css('td > table')
-  #   blobs = ''
-  #   links = []
-  ### NEW WAY
-  #   tables[10].children.each do |tr|
-  #     next if tr.text?
-  #     # Parse each TR's TD children
-  #     tr.children.each do |td|
-  #       next unless 'style1'.eql?(td['class'])
-  #       td.children.each do |node|
-  #         blobs << "\n"
-  #         parse_node(node, blobs, links)
-  #       end
-  #     end
-  #   end
-  #   puts "Links: #{links.uniq}"
-  #   puts "... blobs:"
-  #   puts blobs
-  #   exit 0
-  #   agenda = parse(File.read(fn), fn, 'test9')
-  #   File.open(out, "w") do |f|
-  #     f.puts JSON.pretty_generate(agenda)
-  #   end
-  # end
-        ### OLD WAY - hand-process each type
-      # Process and remove any <a>
-      # anchors = cell.css('a')
-      # anchors.each do |a| # TODO Parse out any time refefence from the child text element and add a style to it
-      #   if /mailto/ =~ a['href']
-      #     blob.concat(FULL_PREFIX, a['href'], MAIL_POSTFIX)
-      #   else
-      #      blob.concat(/http/ =~ a['href'] ? FULL_PREFIX : LOCAL_PREFIX, a['href'], LINK_POSTFIX)
-      #   end
-      #   ### cell.remove(a)
-      # end
-      # # Process and remove any <ul>
-      # lists = cell.css('ul')
-      # lists.each do |ul|
-      #   itms = ul.css('li')
-      #   itms.each do |itm|
-      #     blob.concat("\n", "- ", itm.text.strip)
-      #   end
-      #   ### cell.remove(lists)
-      # end
-      # # Aggregate any remaining text (in case there's unstructured text content)  
-      # txt = cell.text.strip
-      # blob.concat(txt.gsub("\r\n", "\n"), "\n\n")
-      # unless blob.empty?
-      #   item[AgendaUtils::DETAILS] = blob
-      #   item['nextmtg'] = true if blob.start_with?(' Next Scheduled Meeting')
-      # end
-
 end
 

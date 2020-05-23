@@ -20,6 +20,7 @@ module AgendaUtils
   - Parse HTML listings of multiple agendas, and then download individual agenda HTML pages
   - Parse attachment listings in CoverSheet.aspx pages
   - Attempt to add video links to ACMi when available 
+  - Top level hashes keyed by isodate, with a potential prefix (for multiple meetings on same day)
   
   Users go to a board agenda page for ARB:
   https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board/agendas-minutes
@@ -32,27 +33,36 @@ module AgendaUtils
   https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=50 Select board
   School Committee meetings and the many, many subcommittees and other bodies: all of them:
   https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=2&Meetingtype=3&Meetingtype=4&Meetingtype=5&Meetingtype=6&Meetingtype=7&Meetingtype=8&Meetingtype=9&Meetingtype=10&Meetingtype=11&Meetingtype=12&Meetingtype=13&Meetingtype=33&Meetingtype=34&Meetingtype=35&Meetingtype=37&Meetingtype=38&Meetingtype=39&Meetingtype=40&Meetingtype=41&Meetingtype=44&Meetingtype=55
-  All NovusAGENDA meeting types
+ 
+  ## All NovusAGENDA meeting types ##
 	MeetingType=46 Annual Town Meeting
 	MeetingType=49 Board of Health
 	MeetingType=1 Board of Selectmen Meeting
-	MeetingType=52 Conservation Commission Meeting
+  MeetingType=52 Conservation Commission Meeting
+  MeetingType=45 Redevelopment Board
+  MeetingType=50 Select Board Meeting
+  MeetingType=47 Special Town Meeting
+  
+  ### School Committee - Main Meetings ###
+
+	MeetingType=39 School Committee Meeting
+	MeetingType=4 School Committee Organizational Meeting
+	MeetingType=2 School Committee Regular Meeting
+  MeetingType=3 School Committee Special Meeting
+
+  # Skip below meetings since unlikely to have much of a public agenda
+  MeetingType=5 School Committee Executive Session
+	MeetingType=40 School Committee Superintendent Retreat
+
+  ### School Committee - Subcommittees ###
+
 	MeetingType=6 Negotiations Subcommittee: AAA
 	MeetingType=7 Negotiations Subcommittee: AEA
 	MeetingType=8 Negotiations Subcommittee: Bus
 	MeetingType=9 Negotiations Subcommittee: Cafeteria
 	MeetingType=10 Negotiations Subcommittee: Traffic Supervisors
-	MeetingType=11 Negotiations Subcommittee: Unit C
-	MeetingType=45 Redevelopment Board
-	MeetingType=5 School Committee Executive Session
-	MeetingType=39 School Committee Meeting
-	MeetingType=4 School Committee Organizational Meeting
-	MeetingType=2 School Committee Regular Meeting
-  MeetingType=3 School Committee Special Meeting
-	MeetingType=40 School Committee Superintendent Retreat
-	MeetingType=50 Select Board Meeting
-	MeetingType=47 Special Town Meeting
-	MeetingType=33 Standing Subcommittee: Accountablity/Curriculum
+  MeetingType=11 Negotiations Subcommittee: Unit C
+  MeetingType=33 Standing Subcommittee: Accountablity/Curriculum
 	MeetingType=12 Standing Subcommittee: Budget
 	MeetingType=13 Standing Subcommittee: Community Relations
 	MeetingType=34 Standing Subcommittee: Facilities
@@ -114,6 +124,8 @@ module AgendaUtils
   COVERSHEET_MATCH = /CoverSheet.aspx\?ItemID=\d{1,5}&MeetingID=\d{1,5}/
   BOGUS_CHAR = " " # Not sure where this comes from in the html
   FILENAME = 'filename'
+  ALT_MTG = 'alt'
+  NBSP = 160.chr(Encoding::UTF_8) # &nbsp; entity to cleanup excess &nbsp;-only text nodes
   
   # Download various meeting agendas from a preparsed meeting agenda listing html (or use cached files)
   # @param type of agenda: SELECT, ARB, etc. (points to a parser)
@@ -128,7 +140,8 @@ module AgendaUtils
     meetings.each do |isodate, meeting|
       meeting.has_key?(FILENAME) ? fn = meeting[FILENAME] : fn = File.join(dir, "#{isodate}-#{type}.html")
       if File.file?(fn)
-        # No-op: AgendaUtils.log("Found cached file #{fn}")
+        AgendaUtils.log("Found cached file #{fn}")
+        meeting[FILENAME] = fn unless meeting.has_key?(FILENAME)
       else    
         AgendaUtils.log("Downloading file #{fn}")
         begin
@@ -159,7 +172,17 @@ module AgendaUtils
     rows.each do |row|
       next if 'collapse' == row['class'] # Skip duplicate mobile-only rows, if any
       meeting = parse_meeting_item(row)
-      meetings[meeting[ISODATE]] = meeting
+      # Account for multiple meetings on same day
+      if meetings.has_key?(meeting[ISODATE])
+        if meetings.has_key?("#{meeting[ISODATE]}#{ALT_MTG}")
+          # This should be rare, so just bail if more than two per day
+          puts "WARNING: SKIPPING MEETING AGENDA - too many meetings on day: #{meeting[ISODATE]}"
+        else
+          meetings["#{meeting[ISODATE]}#{ALT_MTG}"] = meeting
+        end
+      else
+        meetings[meeting[ISODATE]] = meeting
+      end
     end
     return meetings
   end
@@ -198,7 +221,6 @@ module AgendaUtils
   # Side Effect: mutates original data
   def add_coversheets(meeting)
     # Find *any* Coversheet references and expand them
-    # puts "DEBUG " + meeting.inspect
     meeting[AGENDA][ITEMS].each do |item|
       urls = [] 
       urls << item[ITEMLINK] if item.has_key?(ITEMLINK)
