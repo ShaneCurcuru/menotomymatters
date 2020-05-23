@@ -9,7 +9,7 @@ header:
   caption: "Photo: [**Curtis Macnewton / Unsplash**](https://unsplash.com/@curtismacnewton)"
 ---
 
-Wondering what the Redevelopment Board (ARB) or Select Board have been doing?  Find it hard to navigate the town's website to get to the details of what's happening in board meetings?  Try my new meeting tracker, making following along with current and past committee meetings in town simpler!
+Wondering what the Redevelopment Board (ARB), Select Board, or School Committee have been doing?  Find it hard to navigate the town's website to get to the details of what's happening in board meetings?  Try my new meeting trackers _below_, making following along with current and past committee meetings in town simpler!
 
 See my [guide to all the town hall committees](/townhall/)!
 {: .pullrightbox .notice--info }
@@ -21,7 +21,8 @@ While the town website staff do a great job, the website software is not very en
 I'm working on adding other boards here.   For now, see agendas from 2020-2018 for:
 
 - [**Select Board Meeting Tracker**](/meetings/select/)
+- [**School Committee Meeting Tracker**](/meetings/school/)
 - [**Redevelopment Board Meeting Tracker page**](/meetings/arb/)
 - [**Redevelopment Board Dockets Crossreference page**](/meetings/arb-index/)
 
-If there's interest, I will also analyze past meetings for other boards, and along with my existing work on [visualizing town meeting](/tm/).  Stay tuned on some tips for how to more easily follow [town committee calendars](https://www.arlingtonma.gov/communications-center/calendar), so you know when to dial-in to Zoom!
+If there's interest, I may also analyze past meetings for other boards, and along with my existing work on [visualizing town meeting](/tm/).  Stay tuned on some tips for how to more easily follow [town committee calendars](https://www.arlingtonma.gov/communications-center/calendar), so you know when to dial-in to Zoom!
