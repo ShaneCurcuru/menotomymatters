@@ -19,14 +19,14 @@ module AgendaParser
   AgendaParser: Parse various Agendas (ARB, Select, etc) from NOVUSagenda system
   Common usage:
   - Manually download a listing of agendas you're interested in as flat .html file, from an iframe page like this:
-    https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=45 ARB
-    https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=50 Select board
+  (See AgendaUtils)
+  
   - Feed the resulting html into 
-      AgendaUtils.parse_meeting_list() to get a meeting agenda listing
+  AgendaUtils.parse_meeting_list() to get a meeting agenda listing
   - Feed that data into AgendaUtils.download_meetings() to actually copy individual HTML of agendas locally 
-      This ensures if you need to re-parse later you don't need to keep downloading
+  This ensures if you need to re-parse later you don't need to keep downloading
   - Feed that listing and directory into AgendaUtils.parse_agendas() for your type
-
+  
   Note: various manual cleanup may be needed; some board's agendas are irregularly formatted.
   HEREDOC
   extend self
@@ -35,110 +35,65 @@ module AgendaParser
   require 'optparse'
   require_relative 'arbparser'
   require_relative 'selectparser'
-
-  # Parse an meeting agenda listing html and output array of hashes of semi-structured data
-  # Download html source from: view-source:https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=45
-  #   after selecting the meetings you want
-  # @param io to parse as html of the detail agenda page
-  # @return hash by ISODATE of agenda metadata hashes
-  def parse_meeting_list(io)
-    meetings = {}
-    doc = Nokogiri::HTML(io)
-    table = doc.css('#myTabContent table')[0] # First table inside the myTabContent div
-    rows = table.css('tr').drop(1) # Remove the header row
-    AgendaUtils.log("#{__method__.to_s}() Parsing agenda html list table, children #{rows.length}")
-    rows.each do |row|
-      next if 'collapse' == row['class'] # Skip duplicate mobile-only rows, if any
-      meeting = parse_meeting_item(row)
-      meetings[meeting[AgendaUtils::ISODATE]] = meeting
-    end
-    return meetings
-  end
-  
-  # Parse an meeting agenda listing html item row 
-  # @param row of tr holding the item
-  # @return hash of this agenda's links
-  def parse_meeting_item(row)
-    meeting = {}
-    begin
-      meeting[AgendaUtils::DATE] = row.css('td:nth-child(2)').text.strip
-      meeting[AgendaUtils::ISODATE] = Date.strptime(meeting[AgendaUtils::DATE], "%m/%d/%y")
-      meeting[AgendaUtils::TITLE] = row.css('td:nth-child(3) label').text.strip
-      meeting[AgendaUtils::LOCATION] = row.css('td:nth-child(4)').text.strip
-      a = row.css('td:nth-child(5) a')
-      if a.any?
-        meeting[AgendaUtils::VIEWURL] = a[0]['onclick'].split("'")[1]
-      end
-      a = row.css('td:nth-child(6) a')
-      if a.any?
-        meeting[AgendaUtils::PDFURL] = a[0]['href']
-      end
-      a = row.css('td:nth-child(7) a')
-      if a.any?
-        meeting[AgendaUtils::MINUTESURL] = a[0]['href']
-      end
-    rescue StandardError => e
-      meeting[AgendaUtils::ERROR] = e.message
-      meeting[AgendaUtils::STACK] = e.backtrace.join("\n\t")
-    end
-    return meeting
-  end
-  
-  # Download various meeting agendas from a preparsed meeting agenda listing html (or use cached files)
+  require_relative 'schoolparser'
+    
+  # Download and parse any new meeting agendas from website (or use cached files)
   # @param type of agenda: SELECT_BOARD, ARB_BOARD, etc. (points to a parser)
   # @param dir to place files
-  # @param json hash from parse_meeting_list() output
-  # @return array of agenda detail hashes, annotated with filename; or with error
+  # @param meetings hash of existing meetings to add to
+  # @return hash of all meetings available (both existing and newly parsed)
   # Side effect: creates local dir/2020-05-05-type.html files
-  def download_meetings(type, dir, meetings)
-    AgendaUtils.log("#{__method__.to_s}() Downloading meeting agendas of #{type} meetings #{meetings.length} into #{dir}")
-    meetings.each do |isodate, meeting|
-      meeting.has_key?(AgendaUtils::FILENAME) ? fn = File.join(dir, meeting[AgendaUtils::FILENAME]) : fn = File.join(dir, "#{isodate}-#{type}.html")
-      if File.file?(fn)
-        AgendaUtils.log("Found cached file #{fn}")
-      else    
-        AgendaUtils.log("Downloading file #{fn}")
-        begin
-          File.open(File.join(dir, "#{fn}"), "w") do |f|
-            f.write(open(AgendaUtils::NOVUS_URL + meeting[AgendaUtils::VIEWURL]).read)
-          end
-          meeting[AgendaUtils::FILENAME] = fn
-        rescue StandardError => e
-          meeting[AgendaUtils::ERROR] = e.message
-          meeting[AgendaUtils::STACK] = e.backtrace.join("\n\t")
+  def process_latest(type, dir, meetings)
+    raise ArgumentError, "No type #{type} of meeting to download provided" if type.nil? || type.empty?
+    puts "WARNING: No working directory #{dir} provided, using ." unless dir
+    AgendaUtils.log("#{__method__.to_s}() Processing all new meeting agendas of #{type} into #{dir}, adding to existing #{meetings.length}")
+    # Find list of new agendas of this type
+    hash = AgendaUtils.parse_meeting_list(open(AgendaUtils::DOWNLOAD_URLS[type]))
+    # Merge new MINUTESURL into existing entries, and copy all over
+    meetings.each do |isodate, mtg|
+      if hash.has_key?(isodate)
+        # Add any newly found MINUTESURL into existing meetings
+        if hash[isodate].has_key?(AgendaUtils::MINUTESURL)
+          mtg[AgendaUtils::MINUTESURL] = hash[isodate][AgendaUtils::MINUTESURL]
         end
+        hash[isodate].merge!(mtg)
+      else
+        hash[isodate] = mtg
       end
     end
-    return meetings
+    # Download meetings or find cached files for all
+    hash = AgendaUtils.download_meetings(type, dir, hash)
+    # Process all agendas where needed
+    hash = parse_agendas(type, dir, hash)
+    return hash
   end
   
-  # Parse previously downloaded meeting agendas of specified type 
+  # Parse previously downloaded meeting agendas of specified type when needed
+  #   Only parses when needed; if data already exists in meetings input, skip re-parsing or processing
   # @param type of agenda: SELECT_BOARD, ARB_BOARD, etc. (points to a parser)
   # @param dir to scan for isodate-type.html files
-  # @param io of the json details
+  # @param meetings json of the agendas; either preparsed or just notice listings
   # @return hash of isodate => agenda detail hashes, annotated
   def parse_agendas(type, dir, meetings)
     hash = {}
     begin
       AgendaUtils.log("#{__method__.to_s}() Parsing #{type} agendas # #{meetings.length} from #{dir}")
       meetings.each do |isodate, meeting|
-        # Annotate each item by parsing corresponding file
-        meeting.has_key?(AgendaUtils::FILENAME) ? fn = File.join(dir, meeting[AgendaUtils::FILENAME]) : fn = File.join(dir, "#{isodate}-#{type}.html")
-        if File.file?(fn)
-          case type
-          when AgendaUtils::SELECT
-            meeting[AgendaUtils::AGENDA] = SelectParser.parse(File.open(fn), fn, meeting[AgendaUtils::ISODATE])
-            AgendaUtils::add_video(AgendaUtils::SELECT, meeting[AgendaUtils::AGENDA])
-          when AgendaUtils::ARB
-            meeting[AgendaUtils::AGENDA] = ARBParser.parse(File.open(fn), fn, meeting[AgendaUtils::ISODATE])
-            AgendaUtils::add_video(AgendaUtils::ARB, meeting[AgendaUtils::AGENDA])
+        # Don't re-parse previously processed meetings
+        unless meeting.has_key?(AgendaUtils::AGENDA)
+          # Annotate each item by parsing corresponding file
+          meeting.has_key?(AgendaUtils::FILENAME) ? fn = meeting[AgendaUtils::FILENAME] : fn = File.join(dir, "#{isodate}-#{type}.html")
+          if File.file?(fn)
+            meeting[AgendaUtils::AGENDA] = parse_agenda(type, File.open(fn), fn, isodate)
+            if meeting[AgendaUtils::AGENDA].has_key?(AgendaUtils::ITEMS)
+ ### DEBUG             AgendaUtils::add_coversheets(meeting) 
+ ### DEBUG             AgendaUtils::add_video(type, meeting)
+            end
           else
-            meeting[AgendaUtils::ERROR] = "Unknown agenda type(#{type}) for: #{fn}"
+            meeting[AgendaUtils::ERROR] = "File not found: #{fn}"
           end
-        else
-          meeting[AgendaUtils::ERROR] = "File not found: #{fn}"
         end
-        AgendaUtils::add_coversheets(meeting) if meeting[AgendaUtils::AGENDA].has_key?(AgendaUtils::ITEMS)
+        # Always add this meeting to our return, even if we didn't re-parse
         hash[meeting[AgendaUtils::ISODATE]] = meeting 
       end
     rescue StandardError => e
@@ -148,6 +103,33 @@ module AgendaParser
     return hash
   end
   
+  # Parse a single agendas of specified type from file or url 
+  # @param type of agenda: SELECT_BOARD, ARB_BOARD, etc. (points to a parser)
+  # @param input stream to read
+  # @param ioname of input stream (for error reporting, etc.)
+  # @param mdydate date string for video indexing
+  # @return hash of isodate => agenda detail hashes, annotated
+  def parse_agenda(type, input, ioname, isodate)
+    agenda = {}
+    begin
+      AgendaUtils.log("#{__method__.to_s}() Parsing #{type} agenda from #{ioname}")
+      case type
+      when AgendaUtils::SELECT
+        agenda = SelectParser.parse(input, ioname, isodate)
+      when AgendaUtils::ARB
+        agenda = ARBParser.parse(input, ioname, isodate)
+      when AgendaUtils::SCHOOL
+        agenda = SchoolParser.parse(input, ioname, isodate)
+      else
+        meeting[AgendaUtils::ERROR] = "Unknown agenda type(#{type}) for: #{ioname}"
+      end
+    rescue StandardError => e
+      AgendaUtils.log(e.message)
+      AgendaUtils.log(e.backtrace.join("\n\t"))
+    end
+    return agenda
+  end
+  
   # ## ### #### ##### ######
   # Check commandline options
   def parse_commandline
@@ -155,13 +137,15 @@ module AgendaParser
     OptionParser.new do |opts|
       opts.on('-h', '--help', 'Print help for this program') { puts "#{DESCRIPTION}\n#{opts}"; exit }
       # Various inputs/outputs or options
-      opts.on('-iINPUT', '--input INPUTFILE', 'Input filename to use for current operation') do |file|
-        if File.file?(file)
-          options[:file] = file
-        elsif /http/ =~ file
-          options[:url] = url
+      opts.on('-iINPUT', '--input INPUTFILE', 'Input filename  or http... url to use for current operation') do |input|
+        if File.file?(input)
+          options[:ioname] = input
+          options[:input] = File.read(options[:ioname])
+        elsif /http/ =~ input
+          options[:ioname] = input
+          options[:input] = open(options[:ioname])
         else
-          raise ArgumentError, "-a #{file} is neither a valid file nor an apparent URL" 
+          raise ArgumentError, "-a #{input} is neither a valid file nor an apparent URL" 
         end
       end
       opts.on('-oOUTFILE.JSON', '--out OUTFILE.JSON', 'Output filename to write parsed data (default: agenda.json)') do |out|
@@ -177,20 +161,40 @@ module AgendaParser
       opts.on('-tTYPE', '--type TYPE', 'Type of parsing to do: (select|arb|school,etc.)') do |type|
         options[:type] = type
       end
-
+      opts.on('-cCROSSINDEX', '--crossindex CROSSINDEX.JSON', 'For ARB agendas, crossindex file to update') do |cindex|
+        if File.file?(cindex)
+          options[:cindex] = cindex
+        else
+          raise ArgumentError, "-a #{cindex} is not a valid file" 
+        end
+      end
+      
       # Various commands of what to do
+      opts.on('-n', 'Download and parse any new agendas of a TYPE') do |dldnew|
+        options[:dldnew] = true
+      end
       opts.on('-l', 'Read agenda meeting listing of HTML listing and output json list') do |mlist|
         options[:mlist] = true
       end
       opts.on('-x', 'Download agenda meeting listing and download to individual agendas linked therefrom') do |dld|
         options[:dld] = true
       end
-      opts.on('-p', 'Parse downloaded agendas of a TYPE') do |parse|
+      opts.on('-p', 'Parse downloaded list of agendas of a TYPE') do |parse|
         options[:parse] = true
       end
-
+      opts.on('-s', 'Parse single agenda of a TYPE into single output') do |single|
+        options[:single] = true
+      end
+      opts.on('-eISODATE', 'ISO formatted date for -s single agenda') do |isodate|
+        options[:isodate] = isodate
+      end
+      
       begin
         opts.parse!
+        raise ArgumentError, "No -i input file or url provided!" unless options.has_key?(:input)
+        if options.has_key?(:dld) or options.has_key?(:parse)
+          puts "WARNING: No apparent -d working directory when download/parsing requested, may crash"
+        end    
       rescue OptionParser::ParseError => e
         $stderr.puts e
         $stderr.puts opts
@@ -204,33 +208,37 @@ module AgendaParser
   # Main method for command line use
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
-    options[:out] ||= 'agenda.json'
-    io = nil
-    ioname = ''
-    if options.has_key?(:file)
-      ioname = options[:file]
-      io = File.read(ioname)
-    elsif options.has_key?(:url)
-      ioname = options[:url]
-      io = open(ioname)
-    else
-      puts "WARNING: No apparent -i or -u input provided, expect to crash!"
-    end
+    options[:out] ||= 'agendas.json'
+    options[:dir] ||= '_agendas'
+    options[:cindex] ||= '_data/meetings-arb-index.json'
     agenda = {}
-    if options.has_key?(:mlist)
-      puts "Parsing meeting list html #{ioname}"
-      agenda = parse_meeting_list(io)
+    if options.has_key?(:dldnew)
+      puts "Downloading and parsing any new agendas of #{options[:type]} in dir #{options[:dir]}"
+      agenda = process_latest(options[:type], options[:dir], JSON.parse(options[:input]))
+      if AgendaUtils::ARB.eql?(options[:type])
+        # Also crossindex the data
+        crossindex = ARBParser.post_process(agenda, options[:cindex])
+        File.open("#{options[:cindex]}", "w") do |f|
+          f.puts JSON.pretty_generate(crossindex)
+        end
+      end
+    elsif options.has_key?(:mlist)
+      puts "Parsing meeting list html #{options[:ioname]}"
+      agenda = AgendaUtils.parse_meeting_list(options[:input])
     elsif options.has_key?(:dld)
-      puts "Downloading meeting files #{ioname} of type: #{options[:type]} into dir: #{options[:dir]}"
-      agenda = download_meetings(options[:type], options[:dir], JSON.parse(io))
+      puts "Downloading meeting files #{options[:ioname]} of type: #{options[:type]} into dir: #{options[:dir]}"
+      agenda = AgendaUtils.download_meetings(options[:type], options[:dir], JSON.parse(options[:input]))
     elsif options.has_key?(:parse)
-      puts "Parsing downloaded meeting files #{ioname} of type: #{options[:type]} from dir: #{options[:dir]}"
-      agenda = parse_agendas(options[:type], options[:dir], JSON.parse(io))
+      puts "Parsing downloaded meeting files #{options[:ioname]} of type: #{options[:type]} from dir: #{options[:dir]}"
+      agenda = parse_agendas(options[:type], options[:dir], JSON.parse(options[:input]))
+    elsif options.has_key?(:single)
+      puts "Parsing single agenda #{options[:ioname]} of type: #{options[:type]} of #{options[:isodate]}"
+      agenda = parse_agenda(options[:type], options[:input], options[:ioname], options[:isodate])
     end
-
-    puts "Outputting file #{options[:out]}"
+    
+    puts "Outputting file #{options[:out]}, sorted"
     File.open("#{options[:out]}", "w") do |f|
-      f.puts JSON.pretty_generate(agenda)
+      f.puts JSON.pretty_generate(agenda.sort.reverse.to_h)
     end
   end
 end

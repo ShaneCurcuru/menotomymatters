@@ -20,15 +20,15 @@ module ARBParser
   HEREDOC
   extend self
   require 'nokogiri'
+  require 'json'
   require_relative 'agendautils'
   
   ARB_DOCKET_MATCH = /docket.{1,2}(\d\d\d\d),?([^*]+)/i
   ARB_BYLAW_MATCH = /ARTICLE (\d+) ZONING/
   ARB_BYLAW_MATCH2 = /ARTICLE \d+ ZONING [^a-z]*/
   
-  # TODO update to output isodate => hash format (see transform/crossindex)
-  # Parse a ARB Board agenda page and output array of hashes of semi-structured data
-  # This is customized to the specific Select agenda formats from 2020
+  # Parse an ARB Board agenda page and output hash of items
+  # This is customized to the specific ARB agenda formats from 2020
   # @param io stream to read
   # @param id identifier of stream (filename or URL)
   # @param parentid for anchors
@@ -38,8 +38,8 @@ module ARBParser
     begin
       doc = Nokogiri::HTML(io)
       tables = doc.css('td > table') # A table inside a cell
-      AgendaUtils.log("#{__method__.to_s}() Parsing agenda table rows: #{tables.length} for #{id}")
       raise ArgumentError.new("Agenda data not found; perhaps meeting was cancelled?") if tables.length < 3
+      AgendaUtils.log("#{__method__.to_s}() Parsing agenda table rows: #{tables.length} for #{id}")
       # Grab header info from first table
       agenda[AgendaUtils::NOTICE] = tables[0].css("[colspan]#column1").text.strip.gsub(/\s+/, ' ')
       # Skip second table (just spacer)
@@ -144,79 +144,42 @@ module ARBParser
     return agenda
   end
   
-  # Crossindex an existing json of parsed agendas
-  # @param hash to annotate
-  # Side effect: adds metadata at head and in items
-  def crossindex(json)
-    errors = []
-    dockets = {}
+  # Crossindex a hash of parsed agendas vis-a-vis existing index
+  # @param meetings to index
+  # @param crossindex name of existing crossindex.json file to read
+  # @return crossindex hash of all data combined
+  def post_process(meetings, cindex)
     begin
-      AgendaUtils.log("#{__method__.to_s}() Parsing agendas # #{json.length}")
-      crossindex = {}
-      crossindex[AgendaUtils::TITLE] = AgendaUtils::CROSSINDEX
-      meetings = json.each
-      meetings.each do |meeting|
+      AgendaUtils.log("#{__method__.to_s}() crossindexing agendas # #{meetings.length} into #{cindex}")
+      crossindex = JSON.parse(File.read(cindex))
+      # TODO Rewrite to update both files properly
+      meetings.each do |isodate, meeting|
         agenda = meeting[AgendaUtils::AGENDA]
         next unless agenda 
         next unless agenda.has_key?(AgendaUtils::ITEMS)
         agenda[AgendaUtils::ITEMS].each do |item|
           if item.has_key?(AgendaUtils::DOCKETS)
             item[AgendaUtils::DOCKETS].each do |d, val|
-              # Cache and fillin missing addresses (best attempt)
-              if dockets.has_key?(d)
-                if ''.eql?(dockets[d])
-                  dockets[d] = val
-                elsif ''.eql?(val)
-                  item[AgendaUtils::DOCKETS][d] = dockets[d]
-                elsif ! dockets[d].eql?(val)
-                  AgendaUtils.log("DEBUG: Mismatched addresses(#{d}, #{meeting[AgendaUtils::ISODATE]}, #{item[AgendaUtils::ITEMNUM]}): |#{dockets[d]}|<>|#{item[AgendaUtils::DOCKETS][d]}|")
-                end
-              else
-                dockets[d] = val
-              end
-              # OMG I really need more coffee, this is spaghetti
+              # Fillin our address if previously found
               if crossindex.has_key?(d)
-                crossindex[d]['meetings'] << meeting[AgendaUtils::ISODATE]
+                item[AgendaUtils::DOCKETS][d] = crossindex[d]['address'] unless crossindex[d]['address'].empty?
               else
                 crossindex[d] = {}
                 crossindex[d]['address'] = val
-                crossindex[d]['meetings'] = [meeting[AgendaUtils::ISODATE]]
+                crossindex[d]['meetings'] = []
               end
+              crossindex[d]['meetings'] = crossindex[d]['meetings'] | [isodate] # Add only if unique
             end
           end
         end
       end
     rescue StandardError => e
-      errors << e.message
-      errors << e.backtrace.join("\n\t")
+      AgendaUtils.log(e.message)
+      AgendaUtils.log(e.backtrace.join("\n\t"))
     end
-    json << crossindex 
-    json << errors if errors.any?
-    return json
-  end
-  
-  # TODO Remove this and add equivalent to parse() or crossindex()
-  # Changed data format to make display simpler
-  # Transform the originally parsed array w/crossindex into a single hash
-  def transform(json)
-    transformed = {}
-    AgendaUtils.log("#{__method__.to_s}() Parsing agendas # #{json.length}")
-    agendas, crossindex = json.partition { |h| h.has_key?(AgendaUtils::ISODATE) }
-    agendas.each do |agenda|
-      transformed[agenda[AgendaUtils::ISODATE]] = agenda
+    crossindex.each do |d, hash|
+      hash['meetings'] = hash['meetings'].sort.reverse
     end
-    transformed[AgendaUtils::CROSSINDEX] = {}
-    crossindex[0].each do |k, val|
-      if val.kind_of?(Hash)
-        transformed[AgendaUtils::CROSSINDEX][k] = {} # Force new ordering in hash
-        transformed[AgendaUtils::CROSSINDEX][k]['address'] = val['address']
-        transformed[AgendaUtils::CROSSINDEX][k]['purpose'] = ''
-        transformed[AgendaUtils::CROSSINDEX][k]['owner'] = ''
-        transformed[AgendaUtils::CROSSINDEX][k]['meetings'] = val['meetings']
-      else
-        # no-op, drop string
-      end
-    end
-    return transformed
+    return crossindex
   end
 end
