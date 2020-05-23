@@ -66,6 +66,9 @@ include:
   - _pages
   - _issues
   
+exclude: 
+  - assets/code
+  
 # Collections - expose data via archive pages
 collections:
   issues:
