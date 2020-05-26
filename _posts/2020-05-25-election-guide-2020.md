@@ -18,6 +18,8 @@ Debating how to vote?  The best way to learn about the candidates is to read the
 
 ## Select Board - electing 2 seats for 3 years
 
+Read [all about the Select Board](/townhall/#select), and view my [Meeting Agenda Tracker](/meetings/select/).
+
 ### Lenard T. Diggins
 
 - [Candidate website](https://www.digginsforselectboard.com) / [Facebook page](https://www.facebook.com/LenForSelectBoard/)
@@ -42,6 +44,8 @@ Debating how to vote?  The best way to learn about the candidates is to read the
 
 
 ## School Committee - electing 3 seats for 3 years
+
+Read [all about the School Committee Board](/townhall/#school), and view my [Meeting Agenda Tracker](/meetings/school/).
 
 ### Elizabeth R. Exton
 
@@ -73,6 +77,8 @@ Debating how to vote?  The best way to learn about the candidates is to read the
 
 
 ## Assessors electing 1 seat for 3 years
+
+Read all [about the Board of Assessors](/townhall/#assessors).
 
 ### Errol Tashjian
 
