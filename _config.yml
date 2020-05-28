@@ -68,6 +68,7 @@ include:
   
 exclude: 
   - assets/code
+  - vendor
   
 # Collections - expose data via archive pages
 collections:
