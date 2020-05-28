@@ -3,3 +3,6 @@ _agendas/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor/
+.bundle/
+.DS_Store
