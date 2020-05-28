@@ -12,7 +12,11 @@ header:
   caption: "Photo: [**Kyle Glenn / Unsplash**](https://unsplash.com/@kylejglenn)"
 ---
 
-As we'd all expect, both the town election and Town Meeting will be delayed this year.  Town elections will be held [June 6th from 8AM to 8PM](https://www.arlingtonma.gov/Home/Components/News/News/10088/16?backlist=%2fhome) and the town clerk's office is publicising ways that any voter can use a mail-in absentee ballot.  [Town Meeting itself will also be delayed](https://www.arlingtonma.gov/home/showdocument?id=51032) until after the election; the final date is not yet confirmed.  Reportedly town officials are looking to hold the meeting in a larger space or even outdoors if feasible.
+As we'd all expect, both the town election and Town Meeting will be delayed this year.  Town elections will be held [June 6th from 8AM to 8PM](https://www.arlingtonma.gov/Home/Components/News/News/10088/16?backlist=%2fhome) and the town clerk's office is publicising ways that any voter can use a mail-in absentee ballot.  [Town Meeting itself will also be delayed](https://www.arlingtonma.gov/home/showdocument?id=51032) until after the election.
+
+**UPDATE** [Moderator John D. Leone officially confirms](https://www.arlingtonma.gov/home/showdocument?id=51440):
+
+> Town Meeting will be held **June 15th**, 2020, 6:30 p.m. at Town of **Arlington High School Football Stadium** at W. A. Peirce Field. Rain dates of June 17 or June 22.
 
 ## Major Town Meeting Agenda Changes Due To Coronavirus 
 
@@ -34,5 +38,5 @@ It's clear that this summer's Town Meeting will look very different than traditi
 
 For more information, see the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting), or follow along with [Bob Sprague's Your Arlington coverage](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17030-plans-042420.html).
 
-**UPDATE** The Town Moderator has just posted the [formal recess and continuation of Town Meeting until May 27th](http://www.arlingtonma.gov/home/showdocument?id=51036).  MA state town meeting laws are complex, so the meeting can't simply be postponed; only continued by 30 days at a time.  The moderator has previously stated they plan to re-continue the meeting again, with a final date in mid-June. 
+The Town Moderator previously posted the [formal recess and continuation of Town Meeting until May 27th](http://www.arlingtonma.gov/home/showdocument?id=51036), and has now [formally recessed and continued to 15 June](https://www.arlingtonma.gov/home/showdocument?id=51440).  MA state town meeting laws are complex, so the meeting can't simply be postponed; only continued by 30 days at a time.  The moderator has previously stated they plan to re-continue the meeting again, with a final date in mid-June. 
 
