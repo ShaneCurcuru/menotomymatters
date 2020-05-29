@@ -1,0 +1,108 @@
+{
+  "finance": {
+    "board-of-selectmen": "Select Board",
+    "finance-committee": "Finance Committee",
+    "capital-planning-committee": "Capital Planning Committee",
+    "budget-revenue-task-force": "Budget & Revenue Task Force",
+    "cdbg-sub-committee": "CDBG Subcommittee",
+    "long-range-planning-committee": "Long Range Planning Committee",
+    "master-plan-advisory-committee": "Master Plan Advisory Committee",
+    "retirement-board": "Retirement Board",
+    "trust-fund": "Trust Fund (Board of Commissioners of)"
+  },
+  "zoning": {
+    "redevelopment-board": "Redevelopment Board",
+    "master-plan-implementation-committee": "Master Plan Implementation Committee(Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
+    "zoning-board-of-appeals": "Zoning Board of Appeals"
+  },
+  "development": {
+    "redevelopment-board": "Redevelopment Board",
+    "board-of-assessors": "Board of Assessors",
+    "height-neighborhood-action-plan": "Heights Neighborhood Action Plan Implementation Committee",
+    "housing-plan-advisory-committee": "Housing Plan Implementation Committee",
+    "master-plan-advisory-committee": "Master Plan Advisory Committee",
+    "master-plan-implementation-committee": "Master Plan Implementation Committee(Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
+    "permanent-town-building-committee-ptbc": "Permanent Town Building Committee (PTBC)",
+    "symmes-neighborhood-advisory-committee": "Symmes Neighborhood Advisory Committee",
+    "zoning-board-of-appeals": "Zoning Board of Appeals"
+  },
+  "taxes": {
+    "board-of-assessors": "Board of Assessors",
+    "budget-revenue-task-force": "Budget & Revenue Task Force"
+  },
+  "school": {
+    "school-committee": "School Committee",
+    "board-of-youth-services": "Board of Youth Services",
+    "central-school-feasibility-study-committee": "Central School Feasibility Study Committee",
+    "high-school-building-committee": "High School Building Committee",
+    "school-enrollment-task-force": "School Enrollment Task Force",
+    "school-facilities-working-group": "School Facilities Working Group",
+    "stratton-school-building-committee": "Stratton School Building Committee",
+    "thompson-school-rebuild-subcommittee": "Thompson School Rebuild Subcommittee"
+  },
+  "conservation": {
+    "abc-tri-community-flooding-group-arlington-belmont-cambridge": "(ABC) Tri-Community Flooding Group (Arlington, Belmont, Cambridge)",
+    "cemetery-commission": "Cemetery Commission",
+    "clean-energy-future-committee": "Clean Energy Future Committee",
+    "community-preservation-committee": "Community Preservation Committee (CPAC)",
+    "conservation-commission": "Conservation Commission",
+    "open-space-committee": "Open Space Committee",
+    "park-recreation-commission": "Park & Recreation Commission",
+    "tree-committee": "Tree Committee",
+    "recycling-committee": "Zero Waste Committee"
+  },
+  "transportation": {
+    "bicycle-advisory-committee-abac": "Bicycle Advisory Committee",
+    "lake-street-bikeway-intersection-design-review-committee": "Lake Street / Bikeway Intersection Design Review Committee",
+    "minuteman-bikeway-25th-anniversary": "Minuteman Bikeway 25th Anniversary Committee",
+    "parking-implementation-governance-committee": "Parking Advisory Committee",
+    "sustainable-transportation-advisory-committee": "Sustainable Transportation Advisory Committee",
+    "transportation-advisory-committee": "Transportation Advisory Committee"
+  },
+  "health": {
+    "board-of-health": "Board of Health",
+    "disability-commission": "Disability Commission",
+    "homelessness-task-force": "Homelessness Task Force",
+    "local-emergency-planning-committee": "Local Emergency Planning Committee",
+    "municipal-vulnerability-preparedness": "Municipal Vulnerability Preparedness",
+    "veterans-council": "Veterans Council"
+  },
+  "facilities": {
+    "building-maintenance-committee": "Building Maintenance Committee",
+    "cyrus-e-dallin-museum-trustees": "Cyrus E. Dallin Museum Trustees"
+  },
+  "technology": {
+    "cable-advisory-committee": "Cable Advisory Committee",
+    "information-technology-advisory-committee-itac": "Information Technology Advisory Committee (ITAC)"
+  },
+  "cultural": {
+    "cemetery-commission": "Cemetery Commission",
+    "commission-on-arts-and-culture-acac": "Commission for Arts & Culture (ACAC) (includes /town-governance/all-boards-and-committees/cultural-council Arlington Cultural Council and Arlington Public Art)",
+    "community-preservation-committee": "Community Preservation Committee (CPAC)",
+    "cultural-council": "Cultural Council (part of /town-governance/all-boards-and-committees/commission-on-arts-and-culture-acac Commission for Arts & Culture)",
+    "cyrus-e-dallin-museum-trustees": "Cyrus E. Dallin Museum Trustees",
+    "envision-arlington": "Envision Arlington Committee (Task Groups include: Business, Communication, Community & Citizen Service, Culture & Recreation, Diversity, Education, Environment, Fiscal Resources, and Governance, which include the following Reservoir Committee, Spy Pond Committee, and Sustainable Arlington).",
+    "historic-districts-commission": "Historic Districts Commission",
+    "historical-commission": "Historical Commission",
+    "library-trustees": "Library Board of Trustees",
+    "open-space-committee": "Open Space Committee",
+    "park-recreation-commission": "Park & Recreation Commission",
+    "poet-laureate-committee": "Poet Laureate Committee",
+    "public-memorial-committee": "Public Memorial Committee",
+    "tourism-and-economic-development-a-ted": "Tourism and Economic Development (A-TED)",
+    "uncle-sam-committee": "Uncle Sam Committee"
+  },
+  "rights": {
+    "equal-opportunity-advisory-committee": "Equal Opportunity Advisory Committee",
+    "human-rights-commission": "Human Rights Commission",
+    "human-rights-response-coordination-team": "Human Rights Commission, Response Coordination Team",
+    "lgbtqia-rainbow-commission": "LGBTQIA+ Rainbow Commission"
+  },
+  "housing": {
+    "homelessness-task-force": "Homelessness Task Force",
+    "housing-plan-advisory-committee": "Housing Plan Implementation Committee"
+  },
+  "townmeeting": {
+    "town-meeting-procedures-committee": "Town Meeting Procedures Committee"
+  }
+}

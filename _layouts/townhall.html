@@ -1,0 +1,97 @@
+---
+layout: single
+classes: wide
+---
+
+<style>
+.ctteflex {
+  display: flex;
+}
+.ctteitem {
+  flex-grow: 1;
+}
+.ctteitem + .ctteitem {
+  margin-left: 5%;
+}
+</style>
+
+{{content}}
+
+{% assign datafile = site.data[page.datafile] %}
+{% assign dataindex = site.data[page.datafile-index] %}
+
+<div class="committee" id="town-boards-topics">
+  <h3 class="agendaheader">Town Boards Indexed By Topic</h3>
+  <div class="ctteflex">
+    <div class="ctteitem" style="flex: 3 1 70%;">
+
+      <dl>
+        {% for entry in dataindex %}
+          <dt>{{ entry[0] | capitalize }}</dt>
+          <dd>
+            <ul>
+            {% for board in entry[1] %}
+              <li><a href="/townhall/#{{ board[0] }}">{{ board[1] }}</a></li>
+            {% endfor %}
+            </ul>
+          </dd>
+        {% endfor %}
+      </dl>
+    </div>
+    <div class="ctteitem">
+      <nav class="toc">
+        <header><h4 class="nav__title">Key Town Boards</h4></header>
+        <ul class="toc__menu">
+          {% for board in page.key-boards %}
+          <li><a href="#{{ datafile[board].id }}" class="page__taxonomy-item" rel="tag">{{ datafile[board].title }}</a></li>
+          {% endfor %}
+          <li><a href="#town-boards" class="page__taxonomy-item" rel="tag">All Town Committees</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<h3 id="town-boards">All Town Boards</h3>
+{% for entry in datafile %}
+{% assign itm = entry[1] %}
+<div class="committee" id="{{ itm.id }}">
+  <h3 class="agendaheader"><a href="{{ entry[0] }}">{{ itm.title }}</a></h3>
+  <div class="ctteflex">
+    <div class="ctteitem" style="flex: 3 1 70%;">
+      <p>{{ itm.description| markdownify }}</p>
+      <hr/>
+      <p>
+        {% unless itm.created == blank %}<i>Committee members are:</i> {{ itm.created }}<br/>{% endunless %}
+        {% unless itm.appoints  == blank %}<i>Committee appoints:</i> {{ itm.appoints }}<br/>{% endunless %}
+        {% unless itm.budget == blank %}<a href="{{ itm.budget }}">Committee Budget Information1</a><br/>{% endunless %}
+      </p>
+    </div>
+    <div class="ctteitem">
+      <nav class="toc">
+        <header><h4 class="nav__title">Committee Links</h4></header>
+        <ul class="toc__menu">
+          {% unless itm.tracker == blank %}<li><a href="{{ itm.tracker }}">Meeting Tracker</a></li>{% endunless %}
+          <li><a href="{{ entry[0] }}">Homepage</a></li>
+          <li><a href="{{ itm.agenda }}">Documents</a>
+            <ul>
+              <li><a href="{{ itm.agenda }}">Agenda</a></li>
+              {% unless itm.news == blank %}<li><a href="{{ itm.news }}">News Feed</a></li>{% endunless %}
+              {% unless itm.policy == blank %}<li><a href="{{ itm.policy }}">Policies</a></li>{% endunless %}
+              {% unless itm.bylaw == blank %}<li><a href="{{ itm.bylaw }}">Town Bylaw</a></li>{% endunless %}
+            </ul>
+          </li>
+          {% unless itm.calendar == blank %}<li><a href="{{ itm.calendar }}">Meeting Calendar</a>{% endunless %}
+            <ul>
+              {% unless itm.feed == blank %}<li><a href="{{ itm.feed }}">{{ itm.day }} at {{ itm.time }}</a></li>{% endunless %}
+              {% unless itm.map == blank %}<li><a href="{{ itm.map }}">{{ itm.location }}</a></li>{% endunless %}
+              {% unless itm.video == blank %}<li><a href="{{ itm.video }}">Watch On ACMi</a></li>{% endunless %}
+            </ul>
+          </li>
+          {% if itm.count %}<li>Number of members: {{ itm.count }}</li>{% endif %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div> 
+{% endfor %}
