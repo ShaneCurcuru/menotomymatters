@@ -191,10 +191,7 @@ module AgendaParser
       
       begin
         opts.parse!
-        raise ArgumentError, "No -i input file or url provided!" unless options.has_key?(:input)
-        if options.has_key?(:dld) or options.has_key?(:parse)
-          puts "WARNING: No apparent -d working directory when download/parsing requested, may crash"
-        end    
+        # Instead of error here, attempt to provide sensible defaults below
       rescue OptionParser::ParseError => e
         $stderr.puts e
         $stderr.puts opts
@@ -208,6 +205,12 @@ module AgendaParser
   # Main method for command line use
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
+    unless options.has_key?(:input)
+      # Sensible defaults by type
+      options[:ioname] = "_data/meetings-#{options[:type]}.json"
+      options[:input] = File.read(options[:ioname])
+      options[:out] = "_data/meetings-#{options[:type]}-out.json"
+    end
     options[:out] ||= 'agendas.json'
     options[:dir] ||= '_agendas'
     options[:cindex] ||= '_data/meetings-arb-index.json'
