@@ -180,6 +180,48 @@ module ARBParser
     crossindex.each do |d, hash|
       hash['meetings'] = hash['meetings'].sort.reverse
     end
+    crossindex.sort.reverse # Also ensure docket listing itself is sorted
     return crossindex
+  end
+
+  # Output hash list of meetings a docket appeared at, suitable for a datalist
+  # @param docket number (string of four digits)
+  # @return array of datalist style hashes; empty if docket not found
+  # Uses sensible defaults when run from menotomymatters/,
+  def docket2list(docket, cindex)
+    crossindex = JSON.parse(File.read(cindex))
+    newslist = []
+    if crossindex.has_key?(docket)
+      crossindex[docket]['meetings'].each do |meeting|
+        newsitm = {}
+        newsitm['title'] = "Redevelopment Board meeting on Docket # #{docket} for #{crossindex[docket]['address']}"
+        newsitm['url'] = "/meetings/arb/##{meeting}"
+        newsitm['content'] = "Agenda of Redevelopment Board meeting on Docket # #{docket} (#{crossindex[docket]['description']})"
+        newsitm['icon'] = 'gavel'
+        newsitm['date'] = "#{meeting.gsub('-', '')}"
+        newsitm['displaydate'] = Date.strptime(meeting, "%Y-%m-%d").strftime("%d-%B-%Y")
+        newslist << newsitm
+      end
+    end
+    return newslist
+  end
+
+  # ### #### ##### ######
+  # Main method for command line use
+  if __FILE__ == $PROGRAM_NAME
+    if ARGV.length != 1
+      puts "ERROR: provide a four-digit docket number to grab"
+      exit 1
+    end
+    cindex = '_data/meetings-arb-index.json'
+    newslist = docket2list(ARGV[0], cindex)
+    if newslist.any?
+      puts "Outputting file docket2list.json"
+      File.open("docket2list.json", "w") do |f|
+        f.puts JSON.pretty_generate(newslist)
+      end
+    else
+      puts "WARNING: Docket # #{ARGV[0]} not found in #{cindex}"
+    end
   end
 end
