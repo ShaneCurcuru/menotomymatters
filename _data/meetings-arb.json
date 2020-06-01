@@ -56,9 +56,10 @@
           ]
         }
       ]
-    }
+    },
+    "filename": "_agendas/2020-05-18-arb.html"
   },
-    "2020-05-04": {
+  "2020-05-04": {
     "date": "05/04/20",
     "isodate": "2020-05-04",
     "title": "Redevelopment Board",
@@ -97,7 +98,8 @@
           ]
         }
       ]
-    }
+    },
+    "filename": "_agendas/2020-05-04-arb.html"
   },
   "2020-04-27": {
     "date": "04/27/20",
@@ -166,7 +168,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-27-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-27-2020/",
+    "filename": "_agendas/2020-04-27-arb.html"
   },
   "2020-04-06": {
     "date": "04/06/20",
@@ -223,7 +226,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-6-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-6-2020/",
+    "filename": "_agendas/2020-04-06-arb.html"
   },
   "2020-03-30": {
     "date": "03/30/20",
@@ -233,7 +237,8 @@
     "viewurl": "MeetingView.aspx?MeetingID=1012&MinutesMeetingID=-1&doctype=Agenda",
     "agenda": {
       "error": "arb/2020-03-30-arb.html Agenda data not found; perhaps meeting was cancelled?"
-    }
+    },
+    "filename": "_agendas/2020-03-30-arb.html"
   },
   "2020-03-23": {
     "date": "03/23/20",
@@ -243,7 +248,8 @@
     "viewurl": "MeetingView.aspx?MeetingID=1011&MinutesMeetingID=-1&doctype=Agenda",
     "agenda": {
       "error": "arb/2020-03-23-arb.html Agenda data not found; perhaps meeting was cancelled?"
-    }
+    },
+    "filename": "_agendas/2020-03-23-arb.html"
   },
   "2020-03-19": {
     "date": "03/19/20",
@@ -253,7 +259,8 @@
     "viewurl": "MeetingView.aspx?MeetingID=1010&MinutesMeetingID=-1&doctype=Agenda",
     "agenda": {
       "error": "arb/2020-03-19-arb.html Agenda data not found; perhaps meeting was cancelled?"
-    }
+    },
+    "filename": "_agendas/2020-03-19-arb.html"
   },
   "2020-03-16": {
     "date": "03/16/20",
@@ -264,7 +271,8 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1009",
     "agenda": {
       "error": "arb/2020-03-16-arb.html Agenda data not found; perhaps meeting was cancelled?"
-    }
+    },
+    "filename": "_agendas/2020-03-16-arb.html"
   },
   "2020-03-02": {
     "date": "03/02/20",
@@ -324,7 +332,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-2-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-2-2020/",
+    "filename": "_agendas/2020-03-02-arb.html"
   },
   "2020-02-24": {
     "date": "02/24/20",
@@ -430,7 +439,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-24-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-24-2020/",
+    "filename": "_agendas/2020-02-24-arb.html"
   },
   "2020-02-03": {
     "date": "02/03/20",
@@ -534,7 +544,8 @@
           ]
         }
       ]
-    }
+    },
+    "filename": "_agendas/2020-02-03-arb.html"
   },
   "2020-01-27": {
     "date": "01/27/20",
@@ -607,7 +618,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-27-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-27-2020/",
+    "filename": "_agendas/2020-01-27-arb.html"
   },
   "2020-01-13": {
     "date": "01/13/20",
@@ -676,7 +688,8 @@
           "details": "_(No materials for this item)_"
         }
       ]
-    }
+    },
+    "filename": "_agendas/2020-01-13-arb.html"
   },
   "2020-01-06": {
     "date": "01/06/20",
@@ -742,7 +755,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-6-2020/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-6-2020/",
+    "filename": "_agendas/2020-01-06-arb.html"
   },
   "2019-12-16": {
     "date": "12/16/19",
@@ -791,7 +805,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-16-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-16-2019/",
+    "filename": "_agendas/2019-12-16-arb.html"
   },
   "2019-12-02": {
     "date": "12/02/19",
@@ -846,7 +861,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-2-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-2-2019/",
+    "filename": "_agendas/2019-12-02-arb.html"
   },
   "2019-11-18": {
     "date": "11/18/19",
@@ -896,7 +912,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-18-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-18-2019/",
+    "filename": "_agendas/2019-11-18-arb.html"
   },
   "2019-11-04": {
     "date": "11/04/19",
@@ -979,7 +996,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-4-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-4-2019/",
+    "filename": "_agendas/2019-11-04-arb.html"
   },
   "2019-10-21": {
     "date": "10/21/19",
@@ -1017,7 +1035,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-21-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-21-2019/",
+    "filename": "_agendas/2019-10-21-arb.html"
   },
   "2019-10-07": {
     "date": "10/07/19",
@@ -1082,7 +1101,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-7-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-7-2019/",
+    "filename": "_agendas/2019-10-07-arb.html"
   },
   "2019-09-23": {
     "date": "09/23/19",
@@ -1137,7 +1157,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-23-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-23-2019/",
+    "filename": "_agendas/2019-09-23-arb.html"
   },
   "2019-09-09": {
     "date": "09/09/19",
@@ -1198,7 +1219,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-9-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-9-2019/",
+    "filename": "_agendas/2019-09-09-arb.html"
   },
   "2019-08-12": {
     "date": "08/12/19",
@@ -1252,7 +1274,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-august-12-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-august-12-2019/",
+    "filename": "_agendas/2019-08-12-arb.html"
   },
   "2019-07-22": {
     "date": "07/22/19",
@@ -1306,7 +1329,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-22-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-22-2019/",
+    "filename": "_agendas/2019-07-22-arb.html"
   },
   "2019-07-01": {
     "date": "07/01/19",
@@ -1367,7 +1391,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-1-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-1-2019/",
+    "filename": "_agendas/2019-07-01-arb.html"
   },
   "2019-06-03": {
     "date": "06/03/19",
@@ -1439,7 +1464,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-june-3-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-june-3-2019/",
+    "filename": "_agendas/2019-06-03-arb.html"
   },
   "2019-05-20": {
     "date": "05/20/19",
@@ -1489,7 +1515,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-may-20-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-may-20-2019/",
+    "filename": "_agendas/2019-05-20-arb.html"
   },
   "2019-04-22": {
     "date": "04/22/19",
@@ -1530,7 +1557,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-22-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-22-2019/",
+    "filename": "_agendas/2019-04-22-arb.html"
   },
   "2019-04-08": {
     "date": "04/08/19",
@@ -1565,7 +1593,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-8-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-8-2019/",
+    "filename": "_agendas/2019-04-08-arb.html"
   },
   "2019-04-01": {
     "date": "04/01/19",
@@ -1624,7 +1653,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-1-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-1-2019/",
+    "filename": "_agendas/2019-04-01-arb.html"
   },
   "2019-03-27": {
     "date": "03/27/19",
@@ -1694,7 +1724,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-27-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-27-2019/",
+    "filename": "_agendas/2019-03-27-arb.html"
   },
   "2019-03-25": {
     "date": "03/25/19",
@@ -1754,7 +1785,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-25-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-25-2019/",
+    "filename": "_agendas/2019-03-25-arb.html"
   },
   "2019-03-18": {
     "date": "03/18/19",
@@ -1812,7 +1844,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-18-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-18-2019/",
+    "filename": "_agendas/2019-03-18-arb.html"
   },
   "2019-03-11": {
     "date": "03/11/19",
@@ -1856,7 +1889,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-11-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-11-2019/",
+    "filename": "_agendas/2019-03-11-arb.html"
   },
   "2019-03-04": {
     "date": "03/04/19",
@@ -1890,7 +1924,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-4-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-4-2019/",
+    "filename": "_agendas/2019-03-04-arb.html"
   },
   "2019-02-25": {
     "date": "02/25/19",
@@ -1951,7 +1986,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-25-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-25-2019/",
+    "filename": "_agendas/2019-02-25-arb.html"
   },
   "2019-02-11": {
     "date": "02/11/19",
@@ -2005,7 +2041,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-11-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-11-2019/",
+    "filename": "_agendas/2019-02-11-arb.html"
   },
   "2019-01-28": {
     "date": "01/28/19",
@@ -2061,7 +2098,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-28-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-28-2019/",
+    "filename": "_agendas/2019-01-28-arb.html"
   },
   "2019-01-16": {
     "date": "01/16/19",
@@ -2112,7 +2150,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-16-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-16-2019/",
+    "filename": "_agendas/2019-01-16-arb.html"
   },
   "2019-01-07": {
     "date": "01/07/19",
@@ -2165,7 +2204,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-7-2019/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-7-2019/",
+    "filename": "_agendas/2019-01-07-arb.html"
   },
   "2018-12-17": {
     "date": "12/17/18",
@@ -2225,7 +2265,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-17-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-17-2018/",
+    "filename": "_agendas/2018-12-17-arb.html"
   },
   "2018-11-19": {
     "date": "11/19/18",
@@ -2280,7 +2321,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-19-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-19-2018/",
+    "filename": "_agendas/2018-11-19-arb.html"
   },
   "2018-11-07": {
     "date": "11/07/18",
@@ -2339,7 +2381,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-7-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-7-2018/",
+    "filename": "_agendas/2018-11-07-arb.html"
   },
   "2018-11-05": {
     "date": "11/05/18",
@@ -2396,7 +2439,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-5-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-november-5-2018/",
+    "filename": "_agendas/2018-11-05-arb.html"
   },
   "2018-10-01": {
     "date": "10/01/18",
@@ -2428,7 +2472,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-1-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-1-2018/",
+    "filename": "_agendas/2018-10-01-arb.html"
   },
   "2018-09-17": {
     "date": "09/17/18",
@@ -2478,7 +2523,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-17-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-september-17-2018/",
+    "filename": "_agendas/2018-09-17-arb.html"
   },
   "2018-08-06": {
     "date": "08/06/18",
@@ -2539,7 +2585,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-august-6-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-august-6-2018/",
+    "filename": "_agendas/2018-08-06-arb.html"
   },
   "2018-07-23": {
     "date": "07/23/18",
@@ -2590,7 +2637,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-23-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-july-23-2018/",
+    "filename": "_agendas/2018-07-23-arb.html"
   },
   "2018-06-18": {
     "date": "06/18/18",
@@ -2655,7 +2703,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-june-18-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-june-18-2018/",
+    "filename": "_agendas/2018-06-18-arb.html"
   },
   "2018-05-07": {
     "date": "05/07/18",
@@ -2697,7 +2746,8 @@
           "details": "Adjourn"
         }
       ]
-    }
+    },
+    "filename": "_agendas/2018-05-07-arb.html"
   },
   "2018-04-23": {
     "date": "04/23/18",
@@ -2741,7 +2791,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-23-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-april-23-2018/",
+    "filename": "_agendas/2018-04-23-arb.html"
   },
   "2018-04-02": {
     "date": "04/02/18",
@@ -2796,7 +2847,8 @@
           "details": "Minutes from February 5 and February 12 "
         }
       ]
-    }
+    },
+    "filename": "_agendas/2018-04-02-arb.html"
   },
   "2018-03-05": {
     "date": "03/05/18",
@@ -2836,7 +2888,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-5-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-5-2018/",
+    "filename": "_agendas/2018-03-05-arb.html"
   },
   "2018-02-26": {
     "date": "02/26/18",
@@ -2871,7 +2924,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-26-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-26-2018/",
+    "filename": "_agendas/2018-02-26-arb.html"
   },
   "2018-02-12": {
     "date": "02/12/18",
@@ -2906,7 +2960,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-12-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-12-2018/",
+    "filename": "_agendas/2018-02-12-arb.html"
   },
   "2018-02-05": {
     "date": "02/05/18",
@@ -2963,7 +3018,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-5-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-5-2018/",
+    "filename": "_agendas/2018-02-05-arb.html"
   },
   "2018-01-22": {
     "date": "01/22/18",
@@ -3022,7 +3078,8 @@
         }
       ]
     },
-    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-22-2018/"
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-22-2018/",
+    "filename": "_agendas/2018-01-22-arb.html"
   },
   "2018-01-10": {
     "date": "01/10/18",
@@ -3044,7 +3101,8 @@
           "details": "To see if the Town will vote to recodify, and therefore amend the Zoning Bylaw to make the Bylaw easier for users to navigate, simplify and update its language, and provide a better structure for predictability and flexibility in both the interests of current use and future adaptability, by:\n\nRe-organizing, re-positioning, re-captioning and re-numbering portions of the Zoning Bylaw to enhance accessibility and adaptability; updating and clarifying the purpose and authority of the Zoning Bylaw to clearly state the Town's legal and factual premises for zoning regulations; improving definitions to more clearly describe zoning districts, uses, and requirements; providing greater consistency with present State law; eliminating redundant or unnecessary provisions; making amendments such as correcting spelling and typographical errors, and eliminating or updating outdated statutory references; revising, re-organizing and clarifying Zoning Bylaw administrative provisions; and making other amendments for clarification and consistency;\n\nand by taking the following actions:\n\n1. Deleting in their entirety the following provisions and all their subparts of the existing Zoning Bylaw:\n\nArticle 1: Title, Authority, and Purpose;\n\nArticle 2: Definitions;\n\nArticle 3: Establishment of Districts;\n\nArticle 4: Interpretation and Application;\n\nArticle 5: Use Regulation;\n\nArticle 6: Dimensional and Density Regulations;\n\nArticle 7: Signs\n\nArticle 8: Off-Street Parking and Loading Regulations;\n\nArticle 9: Nonconforming Uses, Structures, and Lots:\n\nArticle 10: Administration and Enforcement;\n\nArticle 11: Special Regulations;\n\nArticle 12: Amendment, Validity, and Effective Date; and\n\n2. Substituting the following provisions and their subparts in the document entitled \"Proposed Amended Zoning Bylaw, dated  December 14, 2017\" on file in the office of the Town Clerk and the Department of Planning and Community Development:\n\nSection 1 Purpose and Authority; Section 2 Definitions; Section 3 Administration and Enforcement; Section4 Establishment of Districts; Section 5 District Regulations; Section 6 Site Development Standards; Section 7 Special Permits; Section 8 Special Regulations;\n\n3. And by taking any action related thereto. (Inserted at the request of the Arlington Redevelopment Board)"
         }
       ]
-    }
+    },
+    "filename": "_agendas/2018-01-10-arb.html"
   },
   "2018-01-08": {
     "date": "01/08/18",
@@ -3083,6 +3141,7 @@
           "details": "_(No materials for this item)_"
         }
       ]
-    }
+    },
+    "filename": "_agendas/2018-01-08-arb.html"
   }
 }
