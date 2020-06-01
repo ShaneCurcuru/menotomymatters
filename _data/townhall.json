@@ -119,7 +119,7 @@
     "title": "Board of Assessors",
     "topics": [
       "development",
-      "taxes"
+      "finance"
     ],
     "related": [
       "",
@@ -445,8 +445,7 @@
   "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/budget-revenue-task-force": {
     "title": "Budget & Revenue Task Force",
     "topics": [
-      "finance",
-      "taxes"
+      "finance"
     ],
     "related": [
       "finance-committee"
@@ -735,7 +734,8 @@
     "title": "Community Preservation Committee (CPAC)",
     "topics": [
       "conservation",
-      "cultural"
+      "cultural",
+      "finance"
     ],
     "related": [
       ""
@@ -889,7 +889,8 @@
   "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/disability-commission": {
     "title": "Disability Commission",
     "topics": [
-      "health"
+      "health",
+      "rights"
     ],
     "related": [
       ""
@@ -1704,7 +1705,8 @@
   "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/permanent-town-building-committee-ptbc": {
     "title": "Permanent Town Building Committee (PTBC)",
     "topics": [
-      "development"
+      "development",
+      "finance"
     ],
     "related": [
       "",
