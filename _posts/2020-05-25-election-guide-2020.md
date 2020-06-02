@@ -72,7 +72,7 @@ Read [all about the School Committee Board](/townhall/#school), and view my [Mee
 
 ### Bill Hayner _(incumbent)_
 
-- [Candidate website](https://www.facebook.com/paulschlichtman)
+- [Candidate website](https://billhayner.org/)
 - [Your Arlington profile or interview](https://www.yourarlington.com/arlington-archives/town-school/elections/16630-hayner-012620.html)
 - ACMi interviews: [short profile](https://acmi.tv/videos/school-committee-candidate-profiles-bill-hayner-2020/), [one-on-one interview](https://acmi.tv/videos/one-on-one-school-committee-bill-hayner/)
 - [ACMi School Committee debate](https://acmi.tv/videos/arlington-school-committee-debate-2020/)
