@@ -29,6 +29,7 @@ The [ClearGov overall APS district dashboard](https://www.cleargov.com/massachus
 
 - [APS Administration Contact List](http://www.arlington.k12.ma.us/administration/staffdirectory.asp)
 - [APS Budget Data](http://www.arlington.k12.ma.us/administration/budget/), including budget requests and past year data
+- [Town Budget Open Checkbook overview](https://www.arlingtonma.gov/town-governance/financial-budget-information/open-checkbook) - a different way to analyze town spending by department or function, including past years
 - [APS Enrollment information](http://www.arlington.k12.ma.us/administration/facilitiesenrollment/enrollment.asp), including some projections for the future
 - [APS & Minuteman district annual report, 2018](https://www.arlingtonma.gov/home/showdocument?id=46221)
 - [APS & Minuteman district annual report, 2017](https://www.arlingtonma.gov/home/showdocument?id=41554)
@@ -51,6 +52,13 @@ The [ClearGov overall APS district dashboard](https://www.cleargov.com/massachus
 - [2011 district-wide overview](https://ocrdata.ed.gov/Page?t=d&eid=26948&syk=6&pid=736) and [High School-only report](https://ocrdata.ed.gov/Page?t=s&eid=216885&syk=6&pid=732)
 - [2009 district-wide overview](https://ocrdata.ed.gov/Page?t=d&eid=26948&syk=5&pid=119) and [High School-only report](https://ocrdata.ed.gov/Page?t=s&eid=216885&syk=5&pid=1)
 
+## Local Group Data Or Posts On APS Issues
+
+The Arlington Special Education Alliance is a networking and advocacy group for parents of children with special educational needs, and includes both advocacy and some data on past APS issues.
+
+- [APS SPED – State Compliance Reviews 2018](https://arlingtonspedalliance.wordpress.com/aps-sped-state-compliance-reviews/) 
+- [APS SPED – Inclusion Practices Evaluation 2018](https://arlingtonspedalliance.wordpress.com/aps-sped-inclusion-practices-evaluation/)
+- [2017 Youth Risk Behavior Survey (YRBS) for Arlington](https://www.arlingtonma.gov/home/showdocument?id=40272) (PDF download from the town website)
 
 ## Got More Ideas? Let Me Know!
 
