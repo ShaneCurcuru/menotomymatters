@@ -1,5 +1,6 @@
 ---
 layout: datalist
+classes: wide
 title: Town Resource List
 permalink: /resources/
 datafile: resources

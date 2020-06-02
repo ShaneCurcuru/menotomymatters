@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 Welcome to Menotomy Matters, Shane's website all about making town governance 

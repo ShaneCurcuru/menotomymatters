@@ -2,6 +2,7 @@
 title: Town Board Meetings Guide
 permalink: /meetings/
 layout: single
+classes: wide
 sidebar:
   nav: "archive"
 header:

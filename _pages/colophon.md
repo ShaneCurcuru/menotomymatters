@@ -2,6 +2,7 @@
 title: "Colophon and Credits"
 excerpt: "How this website was made."
 permalink: /colophon
+classes: wide
 layout: single
 header:
   overlay_image: /assets/images/colophon.jpg
