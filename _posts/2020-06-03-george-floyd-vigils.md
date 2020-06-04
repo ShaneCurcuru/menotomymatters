@@ -22,6 +22,7 @@ Whether for George Floyd, or Black Lives Matter, or for reducing police-initiate
 
 - [**Arlington** Stand in Solidarity](https://www.facebook.com/groups/160644117397/permalink/10158253455132398/) - **6-7PM every night, continuing**, all along Mass Ave.  Started by Isa Dray, AHS Grad, and continued by other grads and teens alike, this appears to be growing nightly.
 - [**Belmont** Virtual Unity Vigil, Thursday June 4th, 2020 7pm](hhttps://sites.google.com/view/belmontrc/unity?authuser=0) Starts as an online viewing of streamed talks from town officials and local leaders, Belmontonians will light candles at home afterwards.
+- **Somerville** is [Standing in Solidarity around Davis Square](https://www.facebook.com/events/254087366030867) tonight (Wednesday) from 4PM-5:30PM.
 - **Watertown** has [held a vigil in Watertown Square](https://www.facebook.com/UnityBreakfast/posts/2895119743941806)
 - **Lexington** held a [vigil along Mass Ave](https://www.msn.com/en-us/news/us/interfaith-vigil-and-protest-for-george-floyd-in-lexington/ar-BB150ubp)
 
