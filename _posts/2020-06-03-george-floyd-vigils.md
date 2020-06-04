@@ -5,6 +5,13 @@ toc: true
 author_profile: false
 categories:
   - Justice
+header:
+  overlay_image: /assets/images/blm.jpg
+  caption: "Photo: [**Black Lives Matter**](https://blacklivesmatter.com/social-media-graphics/)"
+sidebar:
+  - title: "Black Lives Matter"
+    image: /assets/images/blm.jpg
+    image_alt: "Black Lives Matter graphic"
 ---
 
 After the [recent death of George Floyd in Minneapolis police custody](https://en.wikipedia.org/wiki/Killing_of_George_Floyd), there have been protests and vigils around the world attempting to make positive change to the systemic racism across the US.  There are plenty of opportunities to join in solidarity locally.
