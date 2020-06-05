@@ -35,7 +35,7 @@ Police departments and town governments alike are making statements condemning G
 - **Arlington** Town [Issues Statement Regarding Death of George Floyd and Actions of Minneapolis Police](https://www.arlingtonma.gov/Home/Components/News/News/10225/494?backlist=%2Fdepartments%2Fpolice)
 - **Lexington's** [Joint Statement On Recent Hate Crimes](https://www.lexingtonma.gov/home/news/joint-statement-recent-hate-crimes)
 - **Cambridge** [Police Issue Statement Following the Death of George Floyd and the Actions It is Committed to Taking](https://www.cambridgema.gov/cpd/newsandalerts/Archives/2020/05/goingbeyondwords) 
-- **Somerville** [Statement from Mayor Curtatone on the Killing of George Floyd](https://www.somervillema.gov/GeorgeFloyd)
+- **Somerville** [Statement from Mayor Curtatone on the Killing of George Floyd](https://www.somervillema.gov/GeorgeFloyd) and [Somerville police department initiatives](https://www.somervillema.gov/policereform) based on Campaign Zero and Congresswoman Ayanna Pressley's recommendations.
 - **Medford** [Statement of Chief Jack D. Buckley on the Death of George Floyd](https://medfordpolice.com/statement-of-chief-jack-d-buckley-on-the-death-of-george-floyd/) (PDF link)
 - **Burlington** [Statement from Chief Kent on the killing of George Floyd](https://bpdsocialmedia.wordpress.com/2020/06/03/statement-from-chief-kent-on-the-killing-of-george-floyd/)
 - **Watertown** [Police Chief Statement](https://www.facebook.com/WatertownPoliceDepartment/posts/10158397091007250?__tn__=K-R) 
