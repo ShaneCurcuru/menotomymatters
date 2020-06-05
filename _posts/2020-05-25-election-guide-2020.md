@@ -16,7 +16,7 @@ header:
 
 Debating how to vote?  The best way to learn about the candidates is to read their own words or watch the interviews - not to read Facebook comments.  To help, here's a list of **all** the major positions, including detailed Your Arlington interviews and some great ACMi profiles - well worth a watch!
 
-**UPDATE** Read my [step-by-step guide for voting by mail](/townmeeting/vote-by-mail-2020/), including map to three ballot drop boxes.
+**UPDATE** Read my [step-by-step guide for voting by mail](/townmeeting/vote-by-mail-2020/), including map to three ballot drop boxes, or my [guide to voting in person](/townmeeting/vote-in-person-2020/).
 
 ## Select Board - electing 2 seats for 3 years
 
