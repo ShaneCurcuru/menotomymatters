@@ -178,6 +178,7 @@
     "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/163754321?pwd=K0lFa2FPZ2pWbTZhNHBEUDN3YTk0UT09  Enter Meeting ID: 163 754 321  or join by phone by calling: 1-646-876-9923 and enter Meeting ID",
     "viewurl": "MeetingView.aspx?MeetingID=1032&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1032",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=712",
     "agenda": {
       "notice": "Town of Arlington, MA Redevelopment Board Agenda & Meeting Notice April 6, 2020  The Arlington Redevelopment Board will meet Monday, April 6, 2020 at 6:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/163754321?pwd=K0lFa2FPZ2pWbTZhNHBEUDN3YTk0UT09 Enter Meeting ID: 163 754 321 or join by phone by calling: 1-646-876-9923 and enter Meeting ID",
       "rows": 13,

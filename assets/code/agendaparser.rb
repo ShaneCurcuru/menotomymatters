@@ -170,6 +170,9 @@ module AgendaParser
       end
       
       # Various commands of what to do
+      opts.on('-a', 'Download and parse ALL new agendas of all supported types') do |all|
+        options[:all] = true
+      end
       opts.on('-n', 'Download and parse any new agendas of a TYPE') do |dldnew|
         options[:dldnew] = true
       end
@@ -201,10 +204,41 @@ module AgendaParser
     return options
   end
   
+  # Convenience method for automation
+  def do_it_all(options)
+    [AgendaUtils::SELECT, AgendaUtils::SCHOOL, AgendaUtils::ARB].each do |typ|
+      # Sensible defaults by type
+      options[:ioname] = "_data/meetings-#{typ}.json"
+      options[:input] = File.read(options[:ioname])
+      options[:out] = "_data/meetings-#{typ}.json" # Use same file since it's in git anyway
+      options[:dir] ||= '_agendas'
+      options[:cindex] ||= '_data/meetings-arb-index.json'
+      agenda = {}
+      puts "Downloading and parsing new agendas of #{typ} in dir #{options[:dir]}"
+      agenda = process_latest(typ, options[:dir], JSON.parse(options[:input]))
+      puts "Outputting file #{options[:out]}, sorted"
+      File.open("#{options[:out]}", "w") do |f|
+        f.puts JSON.pretty_generate(agenda.sort.reverse.to_h)
+      end
+      if AgendaUtils::ARB.eql?(typ)
+        # Also crossindex the data
+        crossindex = ARBParser.post_process(agenda, options[:cindex])
+        File.open("#{options[:cindex]}", "w") do |f|
+          f.puts JSON.pretty_generate(crossindex)
+        end
+      end
+    end
+    return 0
+  end
+
   # ### #### ##### ######
   # Main method for command line use
   if __FILE__ == $PROGRAM_NAME
     options = parse_commandline
+    if options.has_key?(:all)
+      exit do_it_all(options)
+    end
+
     unless options.has_key?(:input)
       # Sensible defaults by type
       options[:ioname] = "_data/meetings-#{options[:type]}.json"
