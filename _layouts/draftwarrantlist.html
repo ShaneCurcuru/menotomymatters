@@ -13,6 +13,9 @@ layout: single
       <small>
         <i class="fa fa-chalkboard" aria-hidden="true" style="color: blue"></i> Draft article, not official.
         {% if itm.amendments %}<i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> {{ itm.amendments }}{% endif %}
+        {% if itm.recommend %}<i class="fa fa-check" aria-hidden="true" style="color: green"></i> {{ itm.recommend }}{% endif %}
+        {% if itm.noaction %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i> {{ itm.noaction }}{% endif %}
+        {% if itm.defer %}<i class="fa fa-sign-in-alt" aria-hidden="true" style="color: orange"></i> {{ itm.defer }}{% endif %}
       </small>
     </dt>
     <dd>

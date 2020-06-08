@@ -29,68 +29,24 @@
     "insertby": "(Inserted at the request of the Town Moderator)",
     "supplements": [
       {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45948": "Select Board"
+        "comment": "2020 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=51637": "Select Board (17pp) recommends ARTICLES 50, 51, 52; and recommends No Action on ARTICLES 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 78, 79, 80, 81, 82, 83; "
       },
       {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45954": "Redevelopment Board"
+        "comment": "2020 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=51647": "Redevelopment Board (2pp) recommends No action on ARTICLES 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47 and that are all held over to future TM."
       },
       {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45944": "Finance Committee"
+        "comment": "2020 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=51585": "Finance Committee (49pp) recommends ARTICLES 48, 49, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 67, 69, 70, 71, 73, 74, 75, 77; Does not report on ARTICLE 66 yet; recommends No Action on ARTICLE 68, 72, 76"
       },
       {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46505": "Library"
+        "comment": "2020 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=51639": "Capital Planning Committee (40pp) recommends ARTICLE 54"
       },
       {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "http://www.arlington.k12.ma.us/administration/budget/fy20/fy20budgettownmeeting04-22-19.pdf": "Arlington Public Schools Report & FY2020 Budget Summary"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45938": "Capital Planning Committee"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46403": "High School Building Committee"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46465": "Permanent Town Building Committee"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45942": "Envision Arlington"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46405": "Water Bodies Assessment & Recommendation"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45940": "Community Development Block Grant"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45946": "Master Plan Implementation Committee"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45958": "Community Preservation Committee"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=45950": "Town Meeting Procedures"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46568": "Minuteman Presentation"
-      },
-      {
-        "comment": "LAST YEAR - 2019 Report From: ",
-        "https://www.arlingtonma.gov/home/showdocument?id=46634": "Zero Waste Arlington Committee"
+        "comment": "2020 Report From: ",
+        "https://www.arlingtonma.gov/home/showdocument?id=51609": "Community Preservation Act Committee (13pp) recommends No Action on ARTICLE 66; recommends voting for ARTICLE 67"
       }
     ]
   },
@@ -135,6 +91,7 @@
     "submitted": "31-January-2020",
     "insertemail": "paul@schlichtman.org",
     "insertby": "Citizen petition led by: Paul Schlichtman",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Select Board votes 4-0 to recommend this article.",
@@ -161,6 +118,7 @@
     "submitted": "31-January-2020",
     "insertemail": "adamjamesmacneill@gmail.com",
     "insertby": "Citizen petition led by: Adam MacNeill",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Select Board vote and recommendation to change bylaw to make Town Manager responsible (and to extend hours).",
@@ -185,6 +143,7 @@
     "text": "To see if the Town will vote to amend the Town Bylaws, Title VIII, Article 2 (“Canine Control”) to reduce late fees for dog license registration from $50.00 to $25.00; or take any action related thereto.",
     "insertby": "Inserted at the request of the Town Clerk",
     "insertsource": "W.A._Text.pdf",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Town Counsel email: Town Clerk and Select Board (5-0) recommend this article.",
@@ -202,6 +161,7 @@
     "insertby": "Inserted at the request of the Town Manager",
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article to normalize with state law.",
@@ -219,6 +179,7 @@
     "insertby": "Inserted at the request of the Town Manager",
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Your Arlington News coverage with comments from 24-Feb Select Board meeting",
@@ -241,6 +202,7 @@
     "insertby": "Inserted by the Select Board",
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article, which makes numerous process updates, and allows more flexibility in application of the bylaw by Town staff.",
@@ -269,6 +231,7 @@
     "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
     "insertby": "Town Counsel potential proposed articles",
     "insertcomment": "As the Board likely knows, several communities in the Commonwealth have considered or adopted a prohibition on installation of new infrastructure for fossil fuel-based systems (including natural gas and oil-based systems) in new construction and major renovation projects; most notably [Brookline at its November 2019 Special Town Meeting](https://www.brooklinema.gov/DocumentCenter/View/20106/November-19-2019-Special-Town-Meeting-Warrant). The overall purpose of these ordinances is to take action to reduce carbon emissions in response to the climate change crisis. Such ordinances have generally been limited in scope to prohibit installation of new gas or oil pipping and systems such as certain boilers, furnaces, and cooktops, primarily in new residential construction but could be broader or narrower in Arlington. Similarly, the scope of exemptions to such prohibitions likely varies considerably.",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -291,6 +254,7 @@
     "submitted": "14-January-2020",
     "insertemail": "christakel@verizon.net",
     "insertby": "Citizen petition led by: Christa Kelleher",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Finance Committee is positive on this issue, with detailed discussion.",
@@ -321,6 +285,7 @@
     "insertby": "Inserted at the request of Paul Parise and ten registered voters",
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Your Arlington News coverage with detailed comments from 24-Feb Select Board meeting",
@@ -346,7 +311,8 @@
     "text": "To see if the Town will vote to establish a committee to learn the annual cost of auto and property insurance premiums and insurance claims in the Town of Arlington, or take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "andrew.fischer25@gmail.com",
-    "insertby": "Citizen petition led by: Andrew Fischer"
+    "insertby": "Citizen petition led by: Andrew Fischer",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 17",
@@ -359,6 +325,7 @@
     "submitted": "31-January-2020",
     "insertemail": "jordanweinstein@rcn.com",
     "insertby": "Citizen petition led by: Jordan Weinstein",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Your Arlington news story covering Select Board comments and vote of no action.",
@@ -376,6 +343,7 @@
     "insertby": "Inserted at the request of the Envision Arlington Standing Committee",
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article including various updates to the group's charter.",
@@ -399,6 +367,7 @@
     "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
     "insertby": "Town Counsel potential proposed articles",
     "insertcomment": "This warrant article is requested by the Housing Plan Implementation Committee (“HPIC”) as a means to provide a new and invaluable tool to the Town’s goal of creating and supporting affordable housing in Arlington. An Affordable Housing Trust provides significant flexibility and additional resources over and above existing resources for affordable housing. HPIC continues to work on a proposed version of the bylaw itself, but the following provides an overview of the operation and scope of an Affordable Housing Trust bylaw in Arlington for the Board in its consideration of whether or not to support an article on the 2020 Warrant: (See town counsel memo for complete details.)",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -415,6 +384,7 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation or other Special Legislation which would permit the Town to impose a real estate transfer fee or tax for the purposes of acquiring, creating, preserving, rehabilitating, restoring and supporting affordable housing in the Town; said fee or tax to be levied on the buyer, seller, or both on the purchase price of qualifying real estate, the proceeds of which are to be deposited in an Arlington Affordable Housing Trust Fund established pursuant to [section 55C of chapter 44 of the General Laws](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section55C); to set forth the rate, the qualifications for applicable transfers, and exemptions of and to such a tax or fee; and to authorize the procedures and requirements necessary for the collection of such fee; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
     "insertby": "(Inserted by the Housing Plan Implementation Committee)",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Housing Plan Implementation Committee docs",
@@ -430,7 +400,8 @@
     "title": "VOTE/ELECTION MODERNIZATION COMMITTEE",
     "text": "To see if the Town will vote to extend the life of the [Election Modernization Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/election-modernization-committee), change its structure, objectives, or membership; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
-    "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)"
+    "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 22",
@@ -442,6 +413,7 @@
     "submitted": "30-January-2020",
     "insertemail": "Justin Brown",
     "insertby": "Citizen petition led by: jb@usbrown.com",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article.",
@@ -462,6 +434,7 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to reform the nomination and election process for Town Meeting seats to permit the consolidation of elections of Town Meeting Members when there are vacant seats into a single election per precinct, such that the highest vote-getters win the longest available terms, to promulgate regulations to effectuate the same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Election Modernization Committee proposal of article",
@@ -478,6 +451,7 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to elect Town offices by Ranked Choice Voting; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Election Modernization Committee proposal of article",
@@ -494,6 +468,7 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to amend the Town Manager Act sections 31 (Estimates of Expenditures) and/or 32 (Preparation of and Annual Budget and Final Budget) so as to afford additional time for the Town Manager to submit, and the Select Board and Finance Committee to consider financial estimates and budget documents required by such sections; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board)",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "Finance Committee votes no action on this issue, noting the delay in creating budgets makes it harder for FinCom and TMM to review in a timely manner.",
@@ -514,6 +489,7 @@
     "inserturl": "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=7908&ItemID=8399",
     "insertby": "Town Counsel potential proposed articles",
     "insertcomment": "As the Board will recall from recent discussions, a number of municipalities have enacted water and sewer discount programs for local seniors. It remains the position of this Office that a straightforward form of such a discount programs may be offered by vote of the Select Board without Town Meeting action or Home Rule Petition. However, further research has revealed that Home Rule Legislation would be required if the Board were to contemplate a model of discount similar to the Board’s recent means-tested tax deferral and “work-off” programs or to certain specific subcategories of senior residents in Arlington, based upon the Department of Revenue’s interpretation of Brand v. Water Commissioners of Billerica, 242 Mass. 223 (1922). Accordingly, it may be in the Board’s interest to place an article on the warrant for further discussion.",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -534,6 +510,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board)",
     "insertcomment": "The purpose of this article is to implement an agreement between the Town and its collectively bargain police unions to retain qualifying retired Arlington police officers to serve on police details as needed.",
+    "defer": "Select Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -553,6 +530,7 @@
     "insertemail": "jworden@swwalaw.com",
     "insertby": "Citizen petition led by: John L. Worden III",
     "insertcomment": "Under the law as it presently stands, a mixed use building, with its minimal setbacks could be converted entirely into residential uses, by right. Since the only kind of additional housing that Arlington needs is affordable housing, the ability to do that would be limited under this amendment, and subject to public review.",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "Town Planning Director comments, generally negative about this article.",
@@ -570,7 +548,8 @@
     "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in Section 2,by addinga new definition as follows:\n\n**Building Foundation:** The masonry or concrete structure in the ground which supports the building. It does not include porches, decks, sheds, patios, one story attached garages, carports, or the like, or take any action related thereto",
     "submitted": "15-January-2020",
     "insertemail": "pbworden@gmail.com",
-    "insertby": "Citizen petition led by: Patricia B. Worden"
+    "insertby": "Citizen petition led by: Patricia B. Worden",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 30",
@@ -583,6 +562,7 @@
     "submitted": "27-January-2020",
     "insertemail": "steve@srevilak.net",
     "insertby": "Citizen petition led by: Stephen A. Revilak",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "Related 2019 Town Meeting Article",
@@ -600,7 +580,8 @@
     "text": "To see if the Town will vote to amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) in **Section 3.1.8** by appending to the end of this section the sentence: \"No such permit shall be issued until the Building inspector finds that the applicant is in compliance with the applicable provisions of [Title VI, Article 7 of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-vi-building-regulations#A7).\" or take any action related thereto.",
     "submitted": "27-January-2020",
     "insertemail": "amruderman@gmail.com",
-    "insertby": "Citizen petition led by: Michael Ruderman"
+    "insertby": "Citizen petition led by: Michael Ruderman",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 32",
@@ -612,7 +593,8 @@
     "text": "To see if the Town will vote to or take any action related thereto: to Amend the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) for the Town of Arlington by expanding the set of allowed residential uses in the RO and R1 zoning districts with the goal of expanding and diversifying the housing stock by altering the district definitions for the RO and R1 zoning districts.",
     "submitted": "28-January-2020",
     "insertemail": "benrudick@gmail.com",
-    "insertby": "Citizen petition led by: Benjamin Rudick"
+    "insertby": "Citizen petition led by: Benjamin Rudick",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 33",
@@ -624,7 +606,8 @@
     "text": "To see if the Town will vote to require the [Zoning Board of Appeals](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/zoning-board-of-appeals) to publish, on the Town Website, supporting documentation pertaining to items on its agenda, or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "cloreti@verizon.net",
-    "insertby": "Citizen petition led by: Christopher Loreti"
+    "insertby": "Citizen petition led by: Christopher Loreti",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 34",
@@ -637,6 +620,7 @@
     "submitted": "29-January-2020",
     "insertemail": "cloreti@verizon.net",
     "insertby": "Citizen petition led by: Christopher Loreti",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "Letter from Chris Loreti with 'supporting information demonstrating that this amendment merely codifies the meaning of Mixed-Use as it was presented by the ARB and passed by Town Meeting'",
@@ -659,6 +643,7 @@
     "submitted": "29-January-2020",
     "insertemail": "gmaislin@gmail.com",
     "insertby": "Citizen petition led by: Gami Maishlin",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "Town Planner review of article and its similarities to Article 43, notes this citizen-proposed article may be dropped.",
@@ -674,6 +659,7 @@
     "type": "zoning",
     "title": "ZONING BYLAW AMENDMENT/PARKING REGULATIONS",
     "text": "To see if the Town Meeting will vote to amend **Section 6.1** of the current [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) regarding off-street parking to encourage new businesses such as restaurants, or take any action related thereto.",
+    "defer": "Redevelopment Board",
     "submitted": "31-January-2020",
     "insertemail": "mlewiton@yahoo.com",
     "insertby": "Citizen petition led by: Marvin Lewiton",
@@ -700,6 +686,7 @@
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
     "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "Related 2019 Town Meeting Article",
@@ -717,7 +704,8 @@
     "text": "Creation of a Process Allowing Permanently Affordable Housing to be Built on Privately Owned Parcels of \"Non-Conforming\" Size\n\n To see if the Town will vote, to allow the development of new sources of permanently affordable housing (affordable in perpetuity and affordability as defined in Arlington Zoning By-Laws) by modifying the requirements for constructing housing units to enable construction on smaller lots as long as those units are permanently committed to be available for rental or ownership according to official regional guidelines (see ([Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) Section 2, Basic Provisions, Definitions Associated with Affordable Housing) of affordability, or take any action related thereto.\n\nSuch construction would be permissible in all zoning districts allowing residential use, providing the tracts were laid out prior to July 7, 1979, and receive a special permit from the ZBA.\n\nOwnership, sale, repurchase and rentals of each property would be overseen by the Arlington Housing Trust Fund or a comparable entity that would have the authority to enforce the affordability guidelines in perpetuity",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 39",
@@ -730,7 +718,8 @@
     "textorig": "To see if the Town will vote to or take any action related thereto: [Zoning Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) **5.3.17 Upper-Story Building Step Backs** (Amended as follows) \n\nFor buildings more than three stories in height, an additional 7.5 foot step-back (upper story building setback) shall be provided after the third story level or 35 feet above grade, whichever is less. The upper story step-back shall be provided along all building elevations with street frontage, excluding alleys. In cases subject to Section 3.4. Environmental Design Review, the Arlington Redevelopment Board in evaluating the proposal may grant a special permit to adjust the required setbacks set forth in this Bylaw to account for specific conditions unique to the proposal.",
     "submitted": "31-January-2020",
     "insertemail": "ptax@comcast.net",
-    "insertby": "Citizen petition led by: James Doherty"
+    "insertby": "Citizen petition led by: James Doherty",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 40",
@@ -742,7 +731,8 @@
     "text": "To see if the Town will vote to or take any action related thereto: To amend **Section 5.3** of the [Zoning Bylaw](https://www.arlingtonma.gov/town-governance/laws-and-regulations/zoning-bylaws) by inserting, at the end thereof, a new sub­ section **5.3.23** which describes the Purpose & Intent,  Applicability, Definitions, Standards by District, Dimensional and Density Regulations and Exceptions for Sideyard Sky Exposure Planes to accommodate new construction while protecting public health, safety and welfare in residential zoning districts.",
     "submitted": "31-January-2020",
     "insertemail": "fields.edwin@gmail.com",
-    "insertby": "Citizen petition led by: Ted Fields"
+    "insertby": "Citizen petition led by: Ted Fields",
+    "defer": "Redevelopment Board"
   },
   {
     "article": "ARTICLE 41",
@@ -757,6 +747,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "Amend Section 8.2.2. as follows: \n\n**8.2.2. Applicability**\nThe provisions of this Section 8.2 shall apply to all new residential development with six or more units subject to Section 3.4, Environmental Design Review, comprised of any or all of the following uses: \n- Single-family detached dwelling  \n- Two-family dwelling \n- Duplex dwelling \n- Three-family dwelling \n- Townhouse structure \n- Apartment building \n- Apartment conversion \n- Single-room occupancy building Any residential development of the uses listed above involving one lot, or two or more adjoining lots in common ownership or common control, for which special permits or building permits are sought within a ~~two-year~~ **three-year** period from the first date of special permit or building permit application shall comply with the provisions of this Section 8.2.",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -781,6 +772,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "Amend Section 2 as follows:\n\n**Apartment Conversion:** The conversion of an existing structure originally designed for one- family or two-family use to an apartment building with no alteration to the exterior of the structure.",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -805,6 +797,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "Amend Section 6.1.5. as follows: (by adding section D, see reference for details)\n\n**D.** B3 and B5 Districts: In special circumstances where a business in the B3 or B5 District has no ability to create new parking and there is the ability for customers to utilize street parking and/or municipal parking, applicants may propose a reduction lower than 25 percent of that required in the Table of Off-Street Parking Regulations to zero. For these cases, applicants may incorporate methods outlined in subparagraphs A., B., and C.",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -829,6 +822,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "IMPORTANT: See the detailed bylaw changes in the supplemental document(s).",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -849,6 +843,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "Amend Section 5.2.2. as follows\n\n**5.2.2. Prohibited Uses**\n- A. Any use not listed in the Tables of Uses for various districts in Section 5 or otherwise allowable under the provisions of this Bylaw is prohibited.\n- B. All uses that pose a present or potential hazard to human health, safety, welfare, or the environment through emission of smoke, particulate matter, noise or vibration, or through fire or explosive hazard, or glare, are expressly prohibited in all districts.\n- *C. Any use not designated with a “Y” or “SP” in the Tables of Uses is prohibited.*",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -869,6 +864,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "Amend Section 5.6.2. as follows:\n\n**5.6.2. Dimensional and Density Regulations**\nThe dimensional and density requirements in this Section apply to principal and accessory uses and structures in the MU, I, T, PUD, and OS districts. Additional dimensional and density regulations affecting all districts can be found in Section 5.3.\n**LEGEND FOR TABLES** *Sq.ft. Square feet ft Feet L Length H Height W Width ROW Right-of-Way SP Special Permit* Y Yes (use allowed)*",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -889,6 +885,7 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/redevelopment-board",
     "insertby": "(Inserted at the request of the Redevelopment Board)",
     "insertcomment": "IMPORTANT: See the detailed bylaw changes in the supplemental document(s).",
+    "defer": "Redevelopment Board",
     "supplements": [
       {
         "comment": "For discussion and approval",
@@ -905,6 +902,7 @@
     "text": "To see if the Town will vote to make additions, deletions and/or modifications to the Classification and Pay Plan, appropriate a sum of money to fund same if necessary, determine how the money will be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted at the request of the Town Manager and the Director of Human Resources)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Reference: Town employee pay plan documentation",
@@ -921,6 +919,7 @@
     "text": "To see if the Town will vote to fund any fiscal items in the event that any are contained in collective bargaining agreements between the Town and the following named collective bargaining units, and to fund for non-union, M Schedule, and elected officials’ salaries or fringe benefits, determine how the money shall be raised and expended; or take any action related thereto:\n\n- A. Local 680, American Federation of State, County and Municipal Employees;\n- B. Service Employees International Union;\n- C. Robbins Library Professional Association;\n- D. Local 1297 International Association of Firefighters;\n- E. Arlington Police Patrol Officers’ Association (formerly Arlington Patrolmen’s Association);\n- F. Arlington Ranking Police Officers’ Association; G. M Schedule and non-union employees; and\n- H. Full-time elected officials",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Reference: Town employee collective bargaining documentation",
@@ -941,6 +940,7 @@
     "text": "To see if the Town will vote to endorse the [application for Federal Fiscal Year 2021](https://www.arlingtonma.gov/departments/planning-community-development/community-development-block-grants-cdbg) prepared by the Town Manager and Select Board under the Housing and Community Development Act of 1974 (PL 93-383) as amended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted by the Select Board and at the request of the Town Manager)",
+    "recommend": "Select Board",
     "supplements": [
       {
         "comment": "CDBG_YR46_Applications_for_Select_Board_012720.pdf",
@@ -956,7 +956,8 @@
     "title": "REVOLVING FUNDS",
     "text": "To see if the Town will vote to hear or receive a report concerning the receipts and expenditures of approved revolving funds, amend the Town Bylaws to adopt new revolving funds, and/or to appropriate sums of money to such revolving funds and determine how the money shall be raised or expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
-    "insertby": "(Inserted by the Select Board)"
+    "insertby": "(Inserted by the Select Board)",
+    "recommend": "Select Board"
   },
   {
     "article": "ARTICLE 52",
@@ -966,7 +967,8 @@
     "title": "ENDORSEMENT OF PARKING BENEFIT DISTRICT EXPENDITURES",
     "text": "To see if the Town will vote to endorse the [Parking Benefit District](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/parking-implementation-governance-committee) operating and capital expenditures for Fiscal Year 2021 prepared by the Town Manager and the Select Board consistent with the Town Bylaws; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee, Select Board"
   },
   {
     "article": "ARTICLE 53",
@@ -976,7 +978,8 @@
     "title": "APPROPRIATION/TOWN BUDGETS",
     "text": "To see if the Town will vote to make appropriations to defray Town obligations, liabilities, outlay and expenses and especially for or relating to all or any of the boards, departments, purposes and matters hereinafter mentioned, and to provide for the disposal of motor vehicles and other personal property belonging to the Town, determine how the money shall be raised and expended; or take any action related thereto: Finance Committee, Select Board, Town Manager, Human Resources, Comptroller, Information Technology, Town Treasurer and Collector of Taxes, Assessors, Legal and Workers’ Compensation, Town Clerk, Registrars, Planning and Community Development, Redevelopment Board, Parking, Zoning Board of Appeals, Public Works, Facilities, Cemeteries, Community Safety, School Department, Libraries, Human Services, Insurance, Non-Contributory Pensions, Contributory Pensions, Town Debt and Interest, Reserve Fund, and/or any other Town Departments, Boards, Commissions or Committees, Water and Sewer Enterprise Fund, Recreation Enterprise Fund, Council on Aging Transportation Enterprise Fund, Veterans’ Memorial Rink Enterprise Fund, and Youth Services Enterprise Fund.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted by the Select Board and at the request of the Town Manager)"
+    "insertby": "(Inserted by the Select Board and at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 54",
@@ -986,7 +989,8 @@
     "title": "CAPITAL BUDGET",
     "text": "To see if the Town will vote to appropriate a sum of money to defray the expense of purchasing, leasing, or bonding of capital equipment, infrastructure, buildings or other projects of the Town or to acquire real property for municipal purposes; to appropriate a sum of money to fund previously incurred or future Town debt, to acquire land for said projects where necessary by purchase, eminent domain taking or otherwise, determine how the money shall be raised including the possibility of borrowing any or all of the same, or the transfer of funds from any previous appropriation, determine how such money shall be expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted by the Select Board and at the request of the Town Manager and the Capital Planning Committee)"
+    "insertby": "(Inserted by the Select Board and at the request of the Town Manager and the Capital Planning Committee)",
+    "recommend": "Capital Planning Committee, Finance Committee"
   },
   {
     "article": "ARTICLE 55",
@@ -996,7 +1000,8 @@
     "title": "RESCIND BORROWING AUTHORIZATIONS FROM PRIOR YEARS",
     "text": "To see if the Town will vote to rescind the authority to borrow, from prior years' authorizations, the amounts remaining with regard to any numbered prior Annual and/or Special Town Meeting Warrant Articles; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/treasurer",
-    "insertby": "(Inserted at the request of the Town Treasurer)"
+    "insertby": "(Inserted at the request of the Town Treasurer)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 56",
@@ -1006,7 +1011,8 @@
     "title": "AUTHORIZATION/APPROPRIATION/BOND PREMIUMS",
     "text": "To see if the Town will vote (i) to appropriate $2,967,000, representing a portion of the net premium received upon the sale of the Town’s $66,190,000 General Obligation Municipal Purpose Loan of 2019 Bonds dated December 4, 2019, to pay a $2,967,000 portion of the cost of the Arlington High School Construction/Reconstruction project authorized in the amount of $290,851,820 by a vote of the Town passed April 29, 2019 (Article 1), excluded from the limitations of Proposition 21⁄2, so-called, on June 11, 2019 (Question 1), thereby reducing the amount authorized to be borrowed for such project by a like amount and (ii) supplement each prior vote of the Town that authorizes the borrowing of money to pay costs of capital projects to provide that, in accordance with Chapter 44, Section 20 of the General Laws, the premium received by the Town upon the sale of any bonds or notes thereunder, less any such premium applied to the payment of the costs of issuance of such bond or notes, may be applied to pay project costs and the amount authorized to be borrowed for each such project shall be reduced by the amount of any such premium so applied; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/treasurer",
-    "insertby": "(Inserted at the request of the Town Treasurer)"
+    "insertby": "(Inserted at the request of the Town Treasurer)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 57",
@@ -1016,7 +1022,8 @@
     "title": "APPROPRIATION/TRANSPORTATION INFRASTRUCTURE FUND",
     "text": "To see if the Town will vote to appropriate $34,279.30 received by the Town from the Commonwealth Transportation Infrastructure Fund to address the impact of transportation network services on municipal roads, bridges and other transportation infrastructure or any other public purpose substantially related to the operation of transportation network services in the Town including, but not limited to, the Complete Streets Program, accepted by Town Meeting on May 4, 2015, established in Massachusetts General Laws Chapter 90I, Section 1 and other programs that support alternative modes of transportation; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 58",
@@ -1026,7 +1033,8 @@
     "title": "APPROPRIATION/PEG ACCESS BUDGET",
     "text": "To see if the Town will vote to appropriate or transfer a sum or sums of money for the support of public, educational, and/or governmental ('PEG') access cable television services, said sum or sums to be provided for by the cable franchise agreements and cable licensing fees, detailed in an operational cost, building expenses, and capital expense budget, and expended under the direction of the Town Manager; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 59",
@@ -1037,6 +1045,7 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of sewers and sewerage facilities for inflow/infiltration reduction or system rehabilitation, including costs incidental and related thereto, and to determine how the appropriation shall be raised or expended, including the possibility of borrowing all or some of same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "FinCom noted: 'W&S Enterprise SubCom Gibian recommended supporting the FY21 sewer renovation program w/ a no interest loan from the MWRA. VOTED $800,000 Unanimous.'",
@@ -1053,6 +1062,7 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of water mains and water facilities, including costs incidental and related thereto, and to determine how the appropriation shall be raised and expended including the possibility of borrowing all or some of same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted at the request of the Town Manager and the Director of Public Works)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "FinCom noted: 'W&S Enterprise SubCom Gibian recommended supporting the FY21 water supply renovation program w/ a no interest loan from the MWRA. VOTED $1,300,000 Unanimous.'",
@@ -1068,7 +1078,8 @@
     "title": "APPROPRIATION/MINUTEMAN REGIONAL VOCATIONAL TECHNICAL HIGH SCHOOL AND OUT OF DISTRICT VOCATIONAL PLACEMENTS",
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of paying the Town’s apportioned share of the operating and maintenance costs, including capital costs, tuition, and all of Arlington's other obligations under the Minuteman Regional School District Agreement for the Minuteman Regional Vocational Technical High School, as well as paying the tuition for all other out of district vocational education placements, determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "http://www.arlington.k12.ma.us/home/",
-    "insertby": "(Inserted at the request of Minuteman Regional Vocational School District Committee)"
+    "insertby": "(Inserted at the request of Minuteman Regional Vocational School District Committee)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 62",
@@ -1079,6 +1090,7 @@
     "text": "To see if the Town will vote to appropriate a sum or sums of money to be expended under the direction of various committees, commissions, and boards of the Town, determine how the money shall be raised; provided that any funds appropriated hereunder shall remain under the jurisdiction of said entities until expended at their direction, unless otherwise appropriated by the Town Meeting; the entities included hereunder, without limitation, are: Arlington Historical Commission, Arlington Recycling Committee, Avon Place Historic District Commission, Broadway Historic District Commission, Central Street Historic District Commission, Mt. Gilboa/Crescent Hill Historic District Commission, Jason/Gray Historic District Commission, Pleasant Street Historic District Commission, Russell Historic District Commission, Conservation Commission, Capital Planning Committee, Commission on Disability, Human Recourses Board, Public Memorial Committee, Human Rights Commission, Arlington Committee on Tourism and Economic Development, Envision Arlington, Transportation Advisory Committee, Arlington Commission for Arts and Culture, Open Space Committee, and any other Town Committee or Commission; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
     "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee votes unanimously to allocate funding for this article, totaling $93,835.",
@@ -1094,7 +1106,8 @@
     "title": "APPROPRIATION/TOWN CELEBRATIONS AND EVENTS",
     "text": "To see if the Town will vote to appropriate a sum or sums of money to be expended under the direction of the Town Manager for the following celebrations and memorials, determine how the money shall be raised and expended; or take any action related thereto:\n\n- Memorial Day Observation and the Patriots’ Day Celebration\n- Display of American Flags on Massachusetts Avenue\n- Placing of American Flags on the Graves of Veterans\n- Town Day Celebration\n-  Veterans’ Day Parade",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 64",
@@ -1104,7 +1117,8 @@
     "title": "APPROPRIATION/MISCELLANEOUS",
     "text": "To see if the Town will vote the following: Legal Defense – To appropriate a sum of money to replenish the Legal Defense Fund established under [Article 13, Section 5 of Title 1 of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-i-general-government#A13), Indemnification of Medical Costs, to appropriate a sum of money in accordance with the provisions of Chapter 41, Section 100B of the General Laws, to indemnify certain retired Police Officers and Firefighters for all reasonable medical and surgical expenses which they incurred, determine how the money will be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 65",
@@ -1114,7 +1128,8 @@
     "title": "APPROPRIATION/WATER BODIES FUND",
     "text": "To see if the Town will vote to appropriate a sum of money to the Town's Water Bodies Fund for the maintenance, treatment, and oversight of all the Town's water bodies, said sum to be raised by the general tax and expended under the direction of the Town Manager, who will also report to Town Meeting on the status of the fund; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington",
-    "insertby": "(Inserted at the request of the Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission)"
+    "insertby": "(Inserted at the request of the Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 66",
@@ -1125,6 +1140,7 @@
     "text": "To see if the Town will accept, receive, or resolve to endorse the Community Preservation Plan adopted by the Community Preservation Act Committee; or take any action related thereto.",
     "insertby": "Inserted at the request of the Community Preservation Act Committee",
     "insertsource": "W.A._Text.pdf",
+    "noaction": "Community Preservation Act Committee",
     "supplements": [
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article.",
@@ -1144,7 +1160,8 @@
     "title": "APPROPRIATION/COMMUNITY PRESERVATION FUND",
     "text": "To see if the Town will vote to make appropriations from the Community Preservation Fund for eligible community preservation projects; for community preservation reserve accounts for historic preservation, open space and recreation, and affordable housing; for Community Preservation Act Committee administrative expenses or other eligible expenses; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/home/showdocument?id=50436",
-    "insertby": "(Inserted at the request of the Community Preservation Act Committee)"
+    "insertby": "(Inserted at the request of the Community Preservation Act Committee)",
+    "recommend": "Community Preservation Act Committee, Finance Committee"
   },
   {
     "article": "ARTICLE 68",
@@ -1155,6 +1172,7 @@
     "text": "To see if the Town will vote to appropriate the sum of money for the Harry Barber Community Service Program for the Council on Aging, to determine how the money will be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/health-human-services/council-on-aging",
     "insertby": "(Inserted at the request of the Council on Aging)",
+    "noaction": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee votes unanimously to allocate funding $7,500.",
@@ -1170,7 +1188,8 @@
     "title": "APPROPRIATION/BIKESHARE INFRASTRUCTURE",
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of developing a bike share infrastructure, including, but not limited to joining a regional bikeshare network, to determine how the money will be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
-    "insertby": "(Inserted at the request of the Town Manager)"
+    "insertby": "(Inserted at the request of the Town Manager)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 70",
@@ -1181,6 +1200,7 @@
     "text": "To see if the Town will vote to accept into the [Other Post Employment Benefits](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board) (OPEB) Trust Fund, established by Chapter 161 of the Acts of 2005, an appropriation of funds and/or the transfer of additional monies that the Town may deem advisable from other sources, including any monies previously deposited into any of the Town’s stabilization funds for this purpose, in order to administer and fund its OPEB obligation as described in the said Chapter 161 of the Acts of 2005; determine how the monies shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
     "insertby": "(Inserted at the request of the Contributory Retirement Board)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee votes unanimously to allocate funding $936,532 with comments.",
@@ -1197,6 +1217,7 @@
     "text": "To see if the Town will vote to appropriate a sum of money to implement the provisions of [Chapter 32 of Massachusetts General Laws](https://malegislature.gov/laws/generallaws/parti/titleiv/chapter32) Section 90A, 90C, 90D and 90E, pursuant to which the Town pays up to fifty percent of the maximum salary as set forth in the Compensation and Pay Plan for the position formerly held by retired employees with twenty-five or more years of service to the Town and those employees who retired under an Accidental Disability; provided, however, that no one who retires after May 1, 2010 shall be eligible under this vote unless they qualify for at least a fifty percent pension, without this vote upon their retirement; this adjustment to be paid to those who qualify and administered in accordance with prior practice and understanding relating to the retirement allowance of said retirees; determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
     "insertby": "(Inserted at the request of the Contributory Retirement Board)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee votes 15-0-1 for favorable action on this article.",
@@ -1212,7 +1233,8 @@
     "title": "LOCAL OPTION TAXES",
     "text": "To see if the Town will vote to accept any local option taxes or other revenue raising options, which are made available to cities and towns through enactments of the legislature, by state regulation or court action; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "noaction": "Finance Committee"
   },
   {
     "article": "ARTICLE 73",
@@ -1222,7 +1244,8 @@
     "title": "APPROPRIATION/OVERLAY RESERVE",
     "text": "To see if the Town will vote to appropriate a sum of money from previous years overlay reserve surplus accounts, determine to what purpose this appropriation shall be made; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 74",
@@ -1232,7 +1255,8 @@
     "title": "TRANSFER OF FUNDS/CEMETERY",
     "text": "To see if the Town will vote to transfer a sum of money to the [Cemetery Commissioners](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cemetery-commission) for the improvement of Town cemeteries, said sum shall be taken from the Mt. Pleasant Cemetery \"Sale of Lots and Graves\" and/or \"Perpetual Care Funds\"; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 75",
@@ -1243,6 +1267,7 @@
     "text": "To see if the Town will vote to authorize the taking of a sum of money voted for appropriations heretofore made at the Town Meeting under the Warrant and not voted to be borrowed from available funds in the Treasury, and authorize the Assessors to use [free cash in the Treasury](https://www.arlingtonma.gov/departments/treasurer) to that amount in the determination of the tax rate for the Fiscal Year beginning July 1, 2020; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
     "insertby": "(Inserted at the request of the Finance Committee)",
+    "recommend": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee 'VOTED to appropriate half the free cash certified last July, $5,901,388. Unanimous. This has been the standing policy for many years.'",
@@ -1259,6 +1284,7 @@
     "text": "To see if the Town will make an appropriation to the Long Term Stabilization Fund in accordance with the provisions of the [General Laws, Chapter 40, Section 5B](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40/Section5B), as amended, or other appropriate provisions of law, determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
     "insertby": "(Inserted at the request of the Finance Committee)",
+    "noaction": "Finance Committee",
     "supplements": [
       {
         "comment": "Finance Committee 'As has been the custom, VOTED to transfer $100,000 to this fund. Unanimous.'",
@@ -1274,7 +1300,8 @@
     "title": "APPROPRIATION/FISCAL STABILITY STABILIZATION FUND",
     "text": "To see if the Town will make an appropriation to or from the Fiscal Stability Stabilization Fund created under Article 65 of the [2005 Annual Town Meeting](https://www.arlingtonma.gov/town-governance/town-meeting/2005-annual-town-meeting) or any other enabling action of Town Meeting in accordance with the provisions of the [General Laws, Chapter 40, Section 5B](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40/Section5B), as amended, or other appropriate provisions of law, determine how the money shall be raised and expended; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
-    "insertby": "(Inserted at the request of the Finance Committee)"
+    "insertby": "(Inserted at the request of the Finance Committee)",
+    "recommend": "Finance Committee"
   },
   {
     "article": "ARTICLE 78",
@@ -1286,7 +1313,8 @@
     "text": "To see if the Town will vote to urge the [Arlington Historic Districts Commission](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historic-districts-commission) to allow installation in the Historic Districts of any solar panel, heat pump, or other energy-efficient technology that does not cause irreversible changes to historic features or materials, or to take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "srdoctrow@gmail.com",
-    "insertby": "Citizen petition led by: Susan R. Doctrow"
+    "insertby": "Citizen petition led by: Susan R. Doctrow",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 79",
@@ -1298,7 +1326,8 @@
     "text": "To see if the Town will vote to endorse a resolution calling for a quarterly report of achievements based on the [original departmental plan](https://www.arlingtonma.gov/departments/facilities), finalized January 2015, to be provided to the Select Board; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 80",
@@ -1310,7 +1339,8 @@
     "text": "To see if the Town Meeting will vote to allow the Town to plan and sponsor a design competition to encourage new housing and mixed use construction in the Broadway Corridor area of Arlington. This warrant article builds on findings from the [Fall 2019 Broadway Corridor Study](https://www.arlingtonma.gov/Home/Components/News/News/9862/16), and creates a \"demonstration area project\"; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 81",
@@ -1322,7 +1352,8 @@
     "text": "To see if the Town will vote to support the development of a practice by the [Town Meeting Procedures Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/town-meeting-procedures-committee) for prompting proponent and opponents of Town Meeting Warrant Articles to register in advance of the beginning of the first night of Town Meeting to allow for the equal presentation of perspectives; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "bthornton@assetstewardship.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 82",
@@ -1334,7 +1365,8 @@
     "text": "To see if the Town will vote to endorse a resolution in support of directing at least one  member of each Town governent initiated citizen committee to have formal training or certification as a \"Facilitator\" in order to help ensure that the committee is a place where all members are respected, allowed to speak, are not intimidated and that agendas are developed that lead to productive outcomes or to reassess the productivity and purpose of every committee at least once every five years to re-authorize the committee's purpose and continuity; or limit the number of Town government-initiated committees to no more than seven per year; or take any action related thereto.",
     "submitted": "29-January-2020",
     "insertemail": "bthornton@assetstewardship.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE 83",
@@ -1346,7 +1378,8 @@
     "text": "To see if the Town will vote to endorse a resolution calling for a the Director of the [Arlington Housing Authority](https://www.arlingtonma.gov/departments/planning-community-development/affordable-housing-in-arlington) to be formally invited to present the AHA proposed annual budget and other key initiatives to the Town Meeting as a regular, annual event; or take any action related thereto.",
     "submitted": "31-January-2020",
     "insertemail": "barbarathornton1@gmail.com",
-    "insertby": "Citizen petition led by: Barbara Thornton"
+    "insertby": "Citizen petition led by: Barbara Thornton",
+    "defer": "Select Board"
   },
   {
     "article": "ARTICLE E-TownCounsel",
