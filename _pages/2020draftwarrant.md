@@ -5,15 +5,17 @@ permalink: /tm/2020draft/
 datafile: 2020draftwarrant
 ---
 
-The 2020 Annual Town Meeting is finally coming after being [delayed due to the pandemic](https://www.arlingtonma.gov/home/showdocument?id=51032).  By digging through the town website, and through the help of [Bob Sprague of Your Arlington](https://www.yourarlington.com/) I've compiled all draft articles proposed for this delayed town meeting.
+The 2020 Annual Town Meeting is finally coming after being [delayed due to the pandemic](https://www.arlingtonma.gov/home/showdocument?id=51032).  By digging through the town website, and through the help of [Bob Sprague of Your Arlington](https://www.yourarlington.com/) I've compiled all articles proposed for this delayed town meeting.
 
 **UPDATE** Along with delaying the meeting, [Town Moderator has announced significant changes](https://www.arlingtonma.gov/home/showdocument?id=51032) to town meeting this year.  In particular, the moderator, in conjunction with town boards and various citizens who have submitted articles is planning to defer most non-financial warrant articles.  
 
-**REMINDER:** these are **DRAFT** articles, manually transcribed from various 
-submissions, and are **NOT OFFICIAL**.  Also, if anyone has corrections 
+**REMINDER:** these articles have manually transcribed from various 
+submissions or the original draft warrant, and are **NOT OFFICIAL**.  Also, if anyone has corrections 
 for them, please let me know.  Similarly, if you have useful links to additional 
 information about these articles, or to relevant town board/committee 
 meeting calendars, I'm happy to add them.
+
+The [official, final Town Warrant](https://www.arlingtonma.gov/home/showdocument?id=50436) has just been published on 8-June-2020.
 
 ## Reports To Town Meeting
 
