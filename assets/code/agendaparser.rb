@@ -50,15 +50,15 @@ module AgendaParser
     # Find list of new agendas of this type
     hash = AgendaUtils.parse_meeting_list(open(AgendaUtils::DOWNLOAD_URLS[type]))
     # Merge new MINUTESURL into existing entries, and copy all over
-    meetings.each do |isodate, mtg|
-      if hash.has_key?(isodate)
+    meetings.each do |meetingid, mtg|
+      if hash.has_key?(meetingid)
         # Add any newly found MINUTESURL into existing meetings
-        if hash[isodate].has_key?(AgendaUtils::MINUTESURL)
-          mtg[AgendaUtils::MINUTESURL] = hash[isodate][AgendaUtils::MINUTESURL]
+        if hash[meetingid].has_key?(AgendaUtils::MINUTESURL)
+          mtg[AgendaUtils::MINUTESURL] = hash[meetingid][AgendaUtils::MINUTESURL]
         end
-        hash[isodate].merge!(mtg)
+        hash[meetingid].merge!(mtg)
       else
-        hash[isodate] = mtg
+        hash[meetingid] = mtg
       end
     end
     # Download meetings or find cached files for all
@@ -71,20 +71,20 @@ module AgendaParser
   # Parse previously downloaded meeting agendas of specified type when needed
   #   Only parses when needed; if data already exists in meetings input, skip re-parsing or processing
   # @param type of agenda: SELECT_BOARD, ARB_BOARD, etc. (points to a parser)
-  # @param dir to scan for isodate-type.html files
+  # @param dir to scan for meetingid-type.html files
   # @param meetings json of the agendas; either preparsed or just notice listings
-  # @return hash of isodate => agenda detail hashes, annotated
+  # @return hash of meetingid => agenda detail hashes, annotated
   def parse_agendas(type, dir, meetings)
     hash = {}
     begin
       AgendaUtils.log("#{__method__.to_s}() Parsing #{type} agendas # #{meetings.length} from #{dir}")
-      meetings.each do |isodate, meeting|
+      meetings.each do |meetingid, meeting|
         # Don't re-parse previously processed meetings
         unless meeting.has_key?(AgendaUtils::AGENDA)
           # Annotate each item by parsing corresponding file
-          meeting.has_key?(AgendaUtils::FILENAME) ? fn = meeting[AgendaUtils::FILENAME] : fn = File.join(dir, "#{isodate}-#{type}.html")
+          meeting.has_key?(AgendaUtils::FILENAME) ? fn = meeting[AgendaUtils::FILENAME] : fn = File.join(dir, "#{meetingid}-#{type}.html")
           if File.file?(fn)
-            meeting[AgendaUtils::AGENDA] = parse_agenda(type, File.open(fn), fn, isodate)
+            meeting[AgendaUtils::AGENDA] = parse_agenda(type, File.open(fn), fn, meetingid)
             if meeting[AgendaUtils::AGENDA].has_key?(AgendaUtils::ITEMS)
               AgendaUtils::add_coversheets(meeting) 
               AgendaUtils::add_video(type, meeting)
@@ -94,7 +94,7 @@ module AgendaParser
           end
         end
         # Always add this meeting to our return, even if we didn't re-parse
-        hash[meeting[AgendaUtils::ISODATE]] = meeting 
+        hash[meetingid] = meeting 
       end
     rescue StandardError => e
       AgendaUtils.log(e.message)
@@ -108,18 +108,18 @@ module AgendaParser
   # @param input stream to read
   # @param ioname of input stream (for error reporting, etc.)
   # @param mdydate date string for video indexing
-  # @return hash of isodate => agenda detail hashes, annotated
-  def parse_agenda(type, input, ioname, isodate)
+  # @return hash of meetingid => agenda detail hashes, annotated
+  def parse_agenda(type, input, ioname, meetingid)
     agenda = {}
     begin
       AgendaUtils.log("#{__method__.to_s}() Parsing #{type} agenda from #{ioname}")
       case type
       when AgendaUtils::SELECT
-        agenda = SelectParser.parse(input, ioname, isodate)
+        agenda = SelectParser.parse(input, ioname, meetingid)
       when AgendaUtils::ARB
-        agenda = ARBParser.parse(input, ioname, isodate)
+        agenda = ARBParser.parse(input, ioname, meetingid)
       when AgendaUtils::SCHOOL
-        agenda = SchoolParser.parse(input, ioname, isodate)
+        agenda = SchoolParser.parse(input, ioname, meetingid)
       else
         meeting[AgendaUtils::ERROR] = "Unknown agenda type(#{type}) for: #{ioname}"
       end
