@@ -46,43 +46,195 @@
   "2020-06-11": {
     "date": "06/11/20",
     "isodate": "2020-06-11",
-    "title": "School Committee Organizational Meeting",
+    "title": "School Committee Regular Meeting",
     "location": "Remote Meeting Zoom",
-    "viewurl": "MeetingView.aspx?MeetingID=1063&MinutesMeetingID=-1&doctype=Agenda",
-    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1063",
-    "filename": "_agendas/2020-06-11alt-school.html",
+    "viewurl": "MeetingView.aspx?MeetingID=1062&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1062",
+    "filename": "_agendas/2020-06-11-school.html",
     "agenda": {
-      "notice": "",
+      "notice": "Conducted by Remote Participation\r\n \r\n https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download\r\n \r\n \r\n ",
       "items": [
         {
           "urls": [
-            "CoverSheet.aspx?ItemID=9100&MeetingID=1063",
-            "https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download"
+            "CoverSheet.aspx?ItemID=9026&MeetingID=1062"
           ],
-          "details": "<a href='CoverSheet.aspx?ItemID=9100&MeetingID=1063'>Open Meeting</a> \n\nConducted by Remote Participation  \n\n<a href='https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download'>https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download</a>   \n\n"
-        },
-        {
-          "urls": [
-            "CoverSheet.aspx?ItemID=9101&MeetingID=1063"
-          ],
-          "details": "<a href='CoverSheet.aspx?ItemID=9101&MeetingID=1063'>Agenda</a> \n\n",
+          "details": "<a href='CoverSheet.aspx?ItemID=9026&MeetingID=1062'>Open Meeting</a> \n\n",
           "attachments": {
-            "AttachmentViewer.ashx?AttachmentID=8870&ItemID=9101": [
-              "Subcommittee_Assignments_2020-2021.pdf",
-              "School Committee Assisgnments 2020-21"
+            "AttachmentViewer.ashx?AttachmentID=8677&ItemID=9026": [
+              "Remote_Participation_Checklist_for_COVID-19_Emergency_(00022229xA050C).pdf",
+              "Remote Participation"
             ],
-            "AttachmentViewer.ashx?AttachmentID=8838&ItemID=9101": [
-              "BDA_Organizational_meeting_doc.pdf",
-              "BDA SCHOOL COMMITTEE ORGANIZATIONAL MEETING"
+            "AttachmentViewer.ashx?AttachmentID=8678&ItemID=9026": [
+              "Remote_Meeting_Script_(00022231xA050C).pdf",
+              "Remote script"
             ],
-            "AttachmentViewer.ashx?AttachmentID=8837&ItemID=9101": [
-              "BDA-E_School_Committee_Norms_and_Standards.html.pdf",
-              "BDA-E School Committee Norms and Standards"
+            "AttachmentViewer.ashx?AttachmentID=8679&ItemID=9026": [
+              "Supplement_re_Remote_Participation_During_Coronavirus_State_of_Emergency_-_Checklist_and_Script.pdf_(00022235xA050C)_(1).pdf",
+              "Supplement re Remote Participation during Coronavirus State of Emergency"
             ]
           }
         },
         {
-          "details": "Submitted by Jane Morgan, Chair\n\n"
+          "urls": [
+            "CoverSheet.aspx?ItemID=9027&MeetingID=1062",
+            "mailto:kfitzgerald@arlington.k12.ma.us",
+            "mailto:kfitzgerald@arlington.k12.ma.us"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9027&MeetingID=1062'>6:30 p.m. Public Comment</a> \n\nMembers of the public are asked to send written comment to <a href='mailto:kfitzgerald@arlington.k12.ma.us'>kfitzgerald@arlington.k12.ma.us</a>  or can register to speak via the webinar by emailing  <a href='mailto:kfitzgerald@arlington.k12.ma.us'>kfitzgerald@arlington.k12.ma.us</a>  by  4 pm on Thursday, June 11.  \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9113&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9105&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9028&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9113&MeetingID=1062'>6:40 p.m. Welcome, J. Morgan</a> \n\n<a href='CoverSheet.aspx?ItemID=9105&MeetingID=1062'>6:45 p.m. Poet Laureate Screening Committee Appointment</a> \n\n- Community Relations Subcommittee Recommendation of Stewart Deck\n\n<a href='CoverSheet.aspx?ItemID=9028&MeetingID=1062'>6:55 p.m. Remote Learning Plan update, K. Bodie</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8842&ItemID=9105": [
+              "Arlington_Poet_Laureate_Committee_Stewart_Deck_resume_2020.pdf",
+              "Stewart Deck 2020"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9103&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9196&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9029&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9030&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9106&MeetingID=1062",
+            "CoverSheet.aspx?ItemID=9115&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9103&MeetingID=1062'>7:15 p.m. Summer Program Plan and Extended School Year, K. Bodie</a> \n\n<a href='CoverSheet.aspx?ItemID=9196&MeetingID=1062'>7:30 p.m. URI Science Camp/Alton Jones</a> \n\n<a href='CoverSheet.aspx?ItemID=9029&MeetingID=1062'>7:35 p.m. 20-21 Arlington Public Schools Calendar updated, K. Bodie</a> \n\n- First Read \n\n<a href='CoverSheet.aspx?ItemID=9030&MeetingID=1062'>7:45 p.m. FY 21 School Budget for Town Meeting, K. Bodie, M. Mason</a> \n\n- Vote approval of FY21 revised School Budget \n\n<a href='CoverSheet.aspx?ItemID=9106&MeetingID=1062'>7:55 p.m. Detentions, K. Bodie</a> \n\n<a href='CoverSheet.aspx?ItemID=9115&MeetingID=1062'>8:10 p.m. Covid-19 Funding Resolution, J. Morgan</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8868&ItemID=9029": [
+              "Arlington_Public_Schools_Calendar_for_2020-2021_FINAL_06_11_2020_first_readupdate.pdf",
+              "20-21 School Calendar 6 11 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8871&ItemID=9030": [
+              "Revised_FY21_Budget_Transfer_Summary_and_Motion.pdf",
+              "Revised FY 21 Budget (motion)"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8858&ItemID=9115": [
+              "COVID_funding_resolution.pdf",
+              "COVID funding resolution"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9034&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9034&MeetingID=1062'>8:20 p.m. Superintendent's Report, K. Bodie</a> \n\nAHS Building Committee update  \nKindergarten Enrollment 2020-2021   \nEDCO update   \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8864&ItemID=9034": [
+              "06092020_Student_Engagement.pdf",
+              "Student Engagement May 4 - May 29, 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8863&ItemID=9034": [
+              "Arlington_Public_Schools_Projected_Enrollment_2020-2021_-_Enrollment_Numbers_-_June_8__2020.pdf",
+              "Arlington projected Kindergarten enrollments"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9114&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9114&MeetingID=1062'>8:40 p.m. Summer 2020 School Committee Meetings</a> \n\n- Proposing Thursday, July 9, July 23, August 6, and August 20, 2020\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9035&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9035&MeetingID=1062'>8:45 p.m Consent Agenda</a> \n\nAll items listed with an asterisk are considered to be routine and will be enacted by one motion.  There will be no separate discussion of these items unless a member of the committee so requests, in which event the item will be considered in its normal sequence:\n\nApproval of Warrant:  Warrant Number 20292 Total Warrant Amount $411,089.69  DATED 6/2/2020   \nApproval of Minutes: May 14, 2020 and May 28, 2020 School Committee Zoom Meeting Minutes  \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8844&ItemID=9035": [
+              "Warrant_#20292___Signature_Sheet.pdf",
+              "warrant 20292 Dated 6/2/2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8852&ItemID=9035": [
+              "Copy_of_05_14_2020_School_Committee_minutes_5_28_2020.pdf",
+              "05 14 2020 SCMps"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8851&ItemID=9035": [
+              "05_28_2020_school_committee_minutes_edited_6_1_2020.pdf",
+              "05 28 2020 SCMps"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9031&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9031&MeetingID=1062'>8:55 p.m. Planning for stakeholder input and development program materials  with MASC</a> \n\n- Superintendents Search Process Subcommittee recommendation\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8682&ItemID=9031": [
+              "Arlington_Cost_Proposal_2020_(1).docx",
+              "Arlington Cost Proposal 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8683&ItemID=9031": [
+              "ARLINGTON_SUPERINTENDENT_SEARCH_PROCESS_-_TIMELINE.docx",
+              "Arlington Superintendent Search Process Timeline"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8684&ItemID=9031": [
+              "Guide_to_Supt_Contracting_2018_(2).doc",
+              "Guide to Superintendent Contracting Masc 2019"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8685&ItemID=9031": [
+              "seach_committee_052020.docx",
+              "Superintendent Search Process 5 20 20 meeting"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8686&ItemID=9031": [
+              "Superintendent_Search_Process_050620.pdf",
+              "Superintendent Search Process minutes May 6, 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8687&ItemID=9031": [
+              "Superintendent_Search_Process_Subommittee_011520.pdf",
+              "Superintendent Search Process minutes 1 15 2020"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9036&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9036&MeetingID=1062'>9:10 p.m. Subcommittee/Liaison Reports/Announcements</a> \n\n- Budget: Kirsi Allison-Ampe, Chair\n- Community Relations: Bill Hayner, Chair\n\n- Curriculum, Instruction, Assessment & Accountability:  Len Kardon, Chair\n- Facilities: Jeff Thielman, Chair\n- Policies & Procedures: Paul Schlichtman, Chair\n- Arlington High School Building Committee:  Jeff Thielman, (Chair), Kirsi Allison-Ampe\n- Superintendents Search Process Committee\n\n- Calendar Committee: \n\n- Election Modernization Committee:  \n-  Traffic Negotiations: \n- AEA Negotiations: \n- Liaisons Reports\n- Announcements\n- Future Agenda Items\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9038&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9038&MeetingID=1062'>Executive Session</a> \n\nConducting strategy with respect to collective bargaining or litigation, which if held in an open meeting, may have a detrimental effect. Collective bargaining may also be conducted.  \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9040&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9040&MeetingID=1062'>9:30 p.m. Adjournment</a> \n\nThe listings of matters are those reasonably anticipated by the Chair, which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may also be brought up for discussion to the extent permitted by law.\n\nStated times and time amounts, listed in parenthesis, are the estimated amount of time for that particular agenda item. Actual times may be shorter or longer depending on the time needed to fully explore the topic.\n\n"
+        },
+        {
+          "details": "Submitted by  Jane Morgan, Chair\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9043&MeetingID=1062"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9043&MeetingID=1062'>Correspondence Received:</a> \n\nWarrant   dated, June 2  2020  \nSchool Committee minutes, May 14, May 28, 2020  \nStewart Deck resume  \nCovid-19 Resolution  \nKindergarten enrollment 2020-2021  \nReport on student participation   \n2020-2021 School Calendar updated 692020  \nFY 21 Town Meeting Budget Memo revised budget  \nSchool Committee 2020-2021 Assignments   \n Town of Arlington Legal Dept Supplement-Remote Meeting Checklist and Guidance   \nhttps://www.mass.gov/doc/open-meeting-law-order-march12-2020/download  \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8694&ItemID=9043": [
+              "Supplement_re_Remote_Participation_During_Coronavirus_State_of_Emergency_-_Checklist_and_Script.pdf_(00022235xA050C)_(1).pdf",
+              "Supplement re Remote Participation during Coronavirus State of Emergency"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8695&ItemID=9043": [
+              "Remote_Participation_Checklist_for_COVID-19_Emergency_(00022229xA050C).docx",
+              "Remote Checklist"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8696&ItemID=9043": [
+              "Remote_Meeting_Script_(00022231xA050C).docx",
+              "Remote script"
+            ]
+          }
         }
       ]
     }
