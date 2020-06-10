@@ -1,4 +1,48 @@
 {
+  "2020-06-11": {
+    "date": "06/11/20",
+    "isodate": "2020-06-11",
+    "title": "School Committee Organizational Meeting",
+    "location": "Remote Meeting Zoom",
+    "viewurl": "MeetingView.aspx?MeetingID=1063&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1063",
+    "filename": "_agendas/2020-06-11alt-school.html",
+    "agenda": {
+      "notice": "",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9100&MeetingID=1063",
+            "https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9100&MeetingID=1063'>Open Meeting</a> \n\nConducted by Remote Participation  \n\n<a href='https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download'>https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download</a>   \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9101&MeetingID=1063"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9101&MeetingID=1063'>Agenda</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8870&ItemID=9101": [
+              "Subcommittee_Assignments_2020-2021.pdf",
+              "School Committee Assisgnments 2020-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8838&ItemID=9101": [
+              "BDA_Organizational_meeting_doc.pdf",
+              "BDA SCHOOL COMMITTEE ORGANIZATIONAL MEETING"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8837&ItemID=9101": [
+              "BDA-E_School_Committee_Norms_and_Standards.html.pdf",
+              "BDA-E School Committee Norms and Standards"
+            ]
+          }
+        },
+        {
+          "details": "Submitted by Jane Morgan, Chair\n\n"
+        }
+      ]
+    }
+  },
   "2020-05-28": {
     "date": "05/28/20",
     "isodate": "2020-05-28",
