@@ -6,3 +6,5 @@ _agendas/
 vendor/
 .bundle/
 .DS_Store
+.vscode
+
