@@ -9,7 +9,7 @@ The 2020 Annual Town Meeting is finally here after being [delayed due to the pan
 
 ## Reports To Town Meeting
 
-While all reports to Town Meeting are provided to the official email list, you may find it easier to see them all in one place.
+While all reports to Town Meeting are provided to the official email list ([see the TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)), you may find it easier to see them all in one place.
 
 - [Finance Committee](https://www.arlingtonma.gov/home/showdocument?id=51585) (49pp) (3-June-2020) and [minor Corrections](https://www.arlingtonma.gov/home/showdocument?id=51744) (1pp)
 - [Community Preservation Act Committee](https://www.arlingtonma.gov/home/showdocument?id=51609) (13pp) (03-June-2020)
