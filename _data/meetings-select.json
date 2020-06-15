@@ -1,4 +1,93 @@
 {
+  "2020-06-15": {
+    "date": "06/15/20",
+    "isodate": "2020-06-15",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1068&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1068",
+    "filename": "_agendas/2020-06-15-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 15, 20205:00 PMConducted by Remote Participation",
+      "items": [
+        {
+          "details": "<span class='itemnum' id='2020-06-15_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9197&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8876&ItemID=9197": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Executive Order"
+            ]
+          }
+        },
+        {
+          "title": "CONSENT AGENDA",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-06-15_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9198&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Request:</span> Contractor/Drainlayer License\n\nMilestone Excavating & Landscaping, LLC, 104 Lancaster Road, Shirley, MA\n\n<span class='itemnum' id='2020-06-15_3'>3.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9201&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Request:</span> Contractor/Drainlayer License\n\nK.B. Aruda Construction Inc., Cambridge, MA\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8872&ItemID=9198": [
+              "Milestone_Excavating.pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8877&ItemID=9201": [
+              "K.B._Aruda_Construction.pdf",
+              "Reference"
+            ]
+          }
+        },
+        {
+          "title": "TRAFFIC RULES & ORDERS / OTHER BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-06-15_4'>4.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9199&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Vote:  To Authorize the Use of New Voting Equipment and Discontinue Existing Voting System Pursuant to MGL Chapter 54 Section 34\n\nMarie A. Krepelka, Board Administrator\n\n<span class='itemnum' id='2020-06-15_5'>5.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9205&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> For Discussion and Vote:  Notice of Board of Registrars Vacancy\n\nDouglas W. Heim, Town Counsel \n\n<span class='itemnum' id='2020-06-15_6'>6.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9207&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Request for Approval: Modification to Design Review Committee Membership and Scope\n\nAdam W. Chapdelaine, Town Manager\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8873&ItemID=9199": [
+              "Voting_Equipment_Memo_.doc",
+              "Memorandum"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8874&ItemID=9199": [
+              "Vote_for_Voting_Equipment_6.2020.doc",
+              "Vote of the Board"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8880&ItemID=9205": [
+              "Memo_Re_Board_of_Registrars_from_Town_Counsel.docx",
+              "Memo from Town Counsel"
+            ]
+          }
+        },
+        {
+          "title": "CORRESPONDENCE RECEIVED",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-06-15_7'>7.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9204&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Requesting Quick Improvements to Intersection of Massachusetts Avenue and Appleton Street\n\nPhyllis C. Fenander, Charlie Proctor's Aunt\n\n<span class='itemnum' id='2020-06-15_8'>8.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9200&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Request for Safety Improvements at Intersection of Massachusetts Avenue and Appleton Street\n\nKat Zeiler, 17 1/2 Lakeview Street\n\n<span class='itemnum' id='2020-06-15_9'>9.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9202&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Requesting Improvements to Massachusetts Avenue/Appleton Street/Appleton Place Intersection\n\nSara-Mai Conway, Charlie Proctor's Cousin\n\n<span class='itemnum' id='2020-06-15_10'>10.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9203&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Suggestions for the Design Review Committee, Scope of Work and Membership\n\nAnn LeRoyer, 12 Peirce Street\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=8879&ItemID=9204": [
+              "P._Fenander.pdf",
+              "P. Fenander Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8875&ItemID=9200": [
+              "K._Zeiler_CR.docx",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8878&ItemID=9202": [
+              "S._Conway_CR.docx",
+              "S. Conway e-mail"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=8893&ItemID=9203": [
+              "Ann_LeRoyer_CR.docx",
+              "Reference"
+            ]
+          }
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9184&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board June 29, 2020\n\n<a href=\"https://zoom.us/j/96134539453\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://zoom.us/u/acII4R48zF\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> During Town Meeting starting June 15, 2020 the Select Board will be in session starting at  6:30 pm.  \n \nYou are invited to a Zoom webinar. \nWhen: Jun 15, 2020 05:00 PM Eastern Time (US and Canada)\nTopic: Select Board Meeting \nPlease click the link below to join the webinar: \nhttps://zoom.us/j/96134539453\nOr iPhone one-tap : \n    US: +16468769923,,96134539453#  or +13017158592,,96134539453# \nOr Telephone:\n    Dial(for higher quality, dial a number based on your current location):\n        US: +1 646 876 9923  or +1 301 715 8592  or +1 312 626 6799  or +1 669 900 6833  or +1 253 215 8782  or +1 346 248 7799  or +1 408 638 0968 \n    Webinar ID: 961 3453 9453\n    International numbers available: https://zoom.us/u/acII4R48zF\n \n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nMembers of the public are asked to send written comment to amaher@town.arlington.ma.us by June 15, 2020 at 3:00 p.m.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
+        }
+      ]
+    }
+  },
   "2020-06-08": {
     "date": "06/08/20",
     "isodate": "2020-06-08",
