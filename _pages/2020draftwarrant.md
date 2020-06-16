@@ -12,6 +12,7 @@ The 2020 Annual Town Meeting is complete after being [delayed due to the pandemi
 For those curious to what happened in this first-ever oudoor Arlington Town Meeting!
 
 - [ACMi recorded Town Meeting](http://acmi.tv/townmeeting/) as always, and video will be available soon.
+- Bob Sprague covers the meeting in [Your Arlington news coverage](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17364-tm-20-061620.html).
 - Dan Dunn wrote up his usual [report about Town Meeting](http://www.dandunn.org/blog/2020/06/town-meeting-20-outdoor-edition/).
 
 ## Reports To Town Meeting
