@@ -5,7 +5,14 @@ permalink: /tm/2020draft/
 datafile: 2020draftwarrant
 ---
 
-The 2020 Annual Town Meeting is finally here after being [delayed due to the pandemic](https://www.arlingtonma.gov/home/showdocument?id=51032).  By digging through the town website, and through the help of [Bob Sprague of Your Arlington](https://www.yourarlington.com/) I've compiled all articles and town board reports proposed for this delayed town meeting.
+The 2020 Annual Town Meeting is complete after being [delayed due to the pandemic](https://www.arlingtonma.gov/home/showdocument?id=51032).  By digging through the town website, and through the help of [Bob Sprague of Your Arlington](https://www.yourarlington.com/) I've compiled all articles and town board reports proposed for this delayed town meeting.
+
+## What Happened At Town Meeting
+
+For those curious to what happened in this first-ever oudoor Arlington Town Meeting!
+
+- [ACMi recorded Town Meeting](http://acmi.tv/townmeeting/) as always, and video will be available soon.
+- Dan Dunn wrote up his usual [report about Town Meeting](http://www.dandunn.org/blog/2020/06/town-meeting-20-outdoor-edition/).
 
 ## Reports To Town Meeting
 
