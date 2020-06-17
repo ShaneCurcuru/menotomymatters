@@ -2,15 +2,15 @@ main:
   - title: "Mutual Aid Arlington"
     url: https://mutualaidarlington.org/?mm
     description: "Neighbors Helping Neighbors"
-  - title: "Election Guide 2020"
-    url: /townhall/election-guide-2020/
-    description: "Pointers To All Candidates"
+  - title: "Town Meetings Tracker"
+    url: /meetings/
+    description: "Making Amazing Agendas For Town Boards" 
   - title: "Issues Research"
     url: /issues/
     description: "Research links for various issues"
-  - title: "Town Meetings Tracker"
-    url: /meetings/
-    description: "Making Amazing Agendas For Town Boards"
+  - title: "Election Guide 2020"
+    url: /townhall/election-guide-2020/
+    description: "Pointers To All Candidates"
   - title: "Finances"
     url: /issues/finances/
     description: "Visualizing budget and finances"
