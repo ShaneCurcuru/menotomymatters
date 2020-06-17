@@ -14,6 +14,8 @@ classes: wide
     <dd>
       {% if itm.governance %}<i class='fa fa-fw fa-gavel' aria-hidden='true'></i> Form of governance: {{ itm.governance }}{% endif %}
       <ul>
+        {% if itm.annualreport %}<li><i class='fa fa-fw fa-book' aria-hidden='true'></i><a href='{{ itm.annualreport }}'> Town/City Annual Reports</a></li>{% endif %}
+        {% if itm.budget %}<li><i class='fa fa-fw fa-funnel-dollar' aria-hidden='true'></i><a href='{{ itm.budget }}'> Annual Budgets</a> {% if itm.budgetvisual %}(<a href="{{ itm.budgetvisual }}">Visualization</a>){% endif %}</li>{% endif %}     
         {% if itm.opendata %}<li><i class='fa fa-fw fa-database' aria-hidden='true'></i><a href='{{ itm.opendata }}'> Open Data Portal</a> {% if itm.opendatatech %}({{ itm.opendatatech }}){% endif %}</li>{% endif %}
         {% if itm.records %}<li><i class='fa fa-fw fa-clipboard' aria-hidden='true'></i><a href='{{ itm.records }}'> Records Requests</a></li>{% endif %}
         {% if itm.licensing %}<li><i class='fa fa-fw fa-id-badge' aria-hidden='true'></i><a href='{{ itm.licensing }}'> Licensing & Permits</a></li>{% endif %}
