@@ -1,18 +1,24 @@
 {
+  "bylaws": {
+    "board-of-selectmen": "Select Board"
+  },
   "finance": {
     "board-of-selectmen": "Select Board",
+    "board-of-assessors": "Board of Assessors",
     "finance-committee": "Finance Committee",
     "capital-planning-committee": "Capital Planning Committee",
     "budget-revenue-task-force": "Budget & Revenue Task Force",
     "cdbg-sub-committee": "CDBG Subcommittee",
+    "community-preservation-committee": "Community Preservation Committee (CPAC)",
     "long-range-planning-committee": "Long Range Planning Committee",
     "master-plan-advisory-committee": "Master Plan Advisory Committee",
+    "permanent-town-building-committee-ptbc": "Permanent Town Building Committee (PTBC)",
     "retirement-board": "Retirement Board",
     "trust-fund": "Trust Fund (Board of Commissioners of)"
   },
   "zoning": {
     "redevelopment-board": "Redevelopment Board",
-    "master-plan-implementation-committee": "Master Plan Implementation Committee(Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
+    "master-plan-implementation-committee": "Master Plan Implementation Committee (Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
     "zoning-board-of-appeals": "Zoning Board of Appeals"
   },
   "development": {
@@ -21,14 +27,10 @@
     "height-neighborhood-action-plan": "Heights Neighborhood Action Plan Implementation Committee",
     "housing-plan-advisory-committee": "Housing Plan Implementation Committee",
     "master-plan-advisory-committee": "Master Plan Advisory Committee",
-    "master-plan-implementation-committee": "Master Plan Implementation Committee(Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
+    "master-plan-implementation-committee": "Master Plan Implementation Committee (Residential Study Group, Zoning Bylaw Working Group, Mill Brook Corridor Study Group, and Historic and Cultural Resources Working Group)",
     "permanent-town-building-committee-ptbc": "Permanent Town Building Committee (PTBC)",
     "symmes-neighborhood-advisory-committee": "Symmes Neighborhood Advisory Committee",
     "zoning-board-of-appeals": "Zoning Board of Appeals"
-  },
-  "taxes": {
-    "board-of-assessors": "Board of Assessors",
-    "budget-revenue-task-force": "Budget & Revenue Task Force"
   },
   "school": {
     "school-committee": "School Committee",
@@ -77,11 +79,11 @@
   },
   "cultural": {
     "cemetery-commission": "Cemetery Commission",
-    "commission-on-arts-and-culture-acac": "Commission for Arts & Culture (ACAC) (includes /town-governance/all-boards-and-committees/cultural-council Arlington Cultural Council and Arlington Public Art)",
+    "commission-on-arts-and-culture-acac": "Commission for Arts & Culture (ACAC) (includes Arlington Cultural Council and Arlington Public Art)",
     "community-preservation-committee": "Community Preservation Committee (CPAC)",
-    "cultural-council": "Cultural Council (part of /town-governance/all-boards-and-committees/commission-on-arts-and-culture-acac Commission for Arts & Culture)",
+    "cultural-council": "Cultural Council (part of Commission for Arts & Culture)",
     "cyrus-e-dallin-museum-trustees": "Cyrus E. Dallin Museum Trustees",
-    "envision-arlington": "Envision Arlington Committee (Task Groups include: Business, Communication, Community & Citizen Service, Culture & Recreation, Diversity, Education, Environment, Fiscal Resources, and Governance, which include the following Reservoir Committee, Spy Pond Committee, and Sustainable Arlington).",
+    "envision-arlington": "Envision Arlington Committee",
     "historic-districts-commission": "Historic Districts Commission",
     "historical-commission": "Historical Commission",
     "library-trustees": "Library Board of Trustees",
@@ -93,6 +95,7 @@
     "uncle-sam-committee": "Uncle Sam Committee"
   },
   "rights": {
+    "disability-commission": "Disability Commission",
     "equal-opportunity-advisory-committee": "Equal Opportunity Advisory Committee",
     "human-rights-commission": "Human Rights Commission",
     "human-rights-response-coordination-team": "Human Rights Commission, Response Coordination Team",
