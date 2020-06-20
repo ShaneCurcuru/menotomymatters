@@ -36,4 +36,4 @@ With several newcomers being elected to major town boards, do you think that dif
   {% endfor %}
 </table>
 
-All data is manually transcribed from the [Town Clerk's posted Campaign Finance Reports](https://www.arlingtonma.gov/town-governance/elections-voting/2020-election-results), and a [spreadsheet of this data](https://github.com/ShaneCurcuru/menotomymatters/blob/master/_data/electionfinance2020.json) is available.  Factual corrections appreciated.
+All data is manually transcribed from the [Town Clerk's posted Campaign Finance Reports](https://www.arlingtonma.gov/town-governance/elections-voting/2020-election-results), and a [spreadsheet of this data](https://github.com/ShaneCurcuru/menotomymatters/blob/master/_data/electionfinance2020.csv) is available.  Factual corrections appreciated.
