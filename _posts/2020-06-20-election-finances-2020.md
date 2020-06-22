@@ -20,6 +20,8 @@ Looking at the election results got me to thinking about campaign finances.  Yes
 
 With several newcomers being elected to major town boards, do you think that differences in campaign spending had a material impact on the race, or the [immense numbers of letters to the editor](https://yourarlington.com/easyblog.html)?  Or are any comparisons with past year's elections just plain silly due to COVID-19 restrictions and all the discussion about ballot request postcards?
 
+## Town Election Finances - 2020
+
 <table class="table">
   {% for row in site.data.electionfinance2020 %}
     {% if forloop.first %}
@@ -37,3 +39,13 @@ With several newcomers being elected to major town boards, do you think that dif
 </table>
 
 All data is manually transcribed from the [Town Clerk's posted Campaign Finance Reports](https://www.arlingtonma.gov/town-governance/elections-voting/2020-election-results), and a [spreadsheet of this data](https://github.com/ShaneCurcuru/menotomymatters/blob/master/_data/electionfinance2020.csv) is available.  Factual corrections appreciated.
+
+## Massachusetts Campaign Laws
+
+For those interested in learning more about elections and recounts, see:
+
+- [Town election page](https://arlingtonma.gov/elections)
+- [MA Secretary of State page](https://www.sec.state.ma.us/ele/eleidx.htm) - with many guides on ballots, where to vote, citizen petitions, and more.
+- [MA campaign finance laws](https://www.mass.gov/law-library/970-cmr)
+- [Overview of recount laws in MA](https://ballotpedia.org/Recount_laws_in_Massachusetts)
+- [MA detailed guide to how recounts are performed](https://www.sec.state.ma.us/ele/elepdf/Election-Recounts.pdf)
