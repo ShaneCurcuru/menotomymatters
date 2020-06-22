@@ -8,14 +8,18 @@ classes: wide
 <dl>
   {% for itm in site.data[page.datafile] %}
     <dt>
-      <div class="agendaheader"><h3 class="header-link" id="{{ name | downcase }}"><a href="{{ itm.url }}">{{ itm.name }}</a></h3></div>
+      <div class="agendaheader"><h3 class="header-link" id="{{ itm.name | downcase }}"><a href="{{ itm.url }}">{{ itm.name }}</a></h3></div>
       {% if itm.type %}<small>({{ itm.type }} town)</small>{% endif %}
     </dt>
     <dd>
       {% if itm.governance %}<i class='fa fa-fw fa-gavel' aria-hidden='true'></i> Form of governance: {{ itm.governance }}{% endif %}
       <ul>
         {% if itm.annualreport %}<li><i class='fa fa-fw fa-book' aria-hidden='true'></i><a href='{{ itm.annualreport }}'> Town/City Annual Reports</a></li>{% endif %}
-        {% if itm.budget %}<li><i class='fa fa-fw fa-funnel-dollar' aria-hidden='true'></i><a href='{{ itm.budget }}'> Annual Budgets</a> {% if itm.budgetvisual %}(<a href="{{ itm.budgetvisual }}">Visualization</a>){% endif %}</li>{% endif %}     
+        {% if itm.budget %}<li><i class='fa fa-fw fa-funnel-dollar' aria-hidden='true'></i><a href='{{ itm.budget }}'> Annual Budgets Homepage</a> 
+          {% if itm.budgetvisual %} | <a href="{{ itm.budgetvisual }}">Budget Visualization</a>{% endif %}
+          {% if itm.budgetFY20 %} | <a href="{{ itm.budgetFY20 }}">FY2020 Budget</a>{% endif %}
+          {% if itm.budgetFY19 %} | <a href="{{ itm.budgetFY19 }}">FY2019 Budget</a>{% endif %}
+        </li>{% endif %}     
         {% if itm.opendata %}<li><i class='fa fa-fw fa-database' aria-hidden='true'></i><a href='{{ itm.opendata }}'> Open Data Portal</a> {% if itm.opendatatech %}({{ itm.opendatatech }}){% endif %}</li>{% endif %}
         {% if itm.records %}<li><i class='fa fa-fw fa-clipboard' aria-hidden='true'></i><a href='{{ itm.records }}'> Records Requests</a></li>{% endif %}
         {% if itm.licensing %}<li><i class='fa fa-fw fa-id-badge' aria-hidden='true'></i><a href='{{ itm.licensing }}'> Licensing & Permits</a></li>{% endif %}

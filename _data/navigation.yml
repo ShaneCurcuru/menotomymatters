@@ -56,3 +56,52 @@ archive:
         url: /terms
       - title: "Code"
         url: https://github.com/ShaneCurcuru/menotomymatters/tree/master/assets/code
+
+comparable:
+  - title: "Arlington"
+    url: "/comparable/#arlington"
+    description: "Our town!"
+  - title: "Comparable Towns"
+    children: &compnav
+      - title: "Belmont"
+        url: "/comparable/#belmont"
+      - title: "Brookline"
+        url: "/comparable/#brookline"
+      - title: "Medford"
+        url: "/comparable/#medford"
+      - title: "Melrose"
+        url: "/comparable/#melrose"
+      - title: "Milton"
+        url: "/comparable/#milton"
+      - title: "Natick"
+        url: "/comparable/#natick"
+      - title: "Needham"
+        url: "/comparable/#needham"
+      - title: "North Andover"
+        url: "/comparable/#north andover"
+      - title: "Reading"
+        url: "/comparable/#reading"
+      - title: "Stoneham"
+        url: "/comparable/#stoneham"
+      - title: "Watertown"
+        url: "/comparable/#watertown"
+      - title: "Winchester"
+        url: "/comparable/#winchester"
+  - title: "Adjacent Towns"
+    children: &compnav
+      - title: "Lexington"
+        url: "/comparable/#lexington"
+      - title: "Cambridge"
+        url: "/comparable/#cambridge"
+      - title: "Somerville"
+        url: "/comparable/#somerville"
+  - title: "Issues Research"
+    children: *issuesnav
+  - title: "Town Resources"
+    children: *resourcenav
+  - title: "About This Site"
+    children: *aboutnav
+
+
+
+
