@@ -44,6 +44,7 @@ All data is manually transcribed from the [Town Clerk's posted Campaign Finance 
 
 For those interested in learning more about elections and recounts, see:
 
+- [MA election law updates in response to COVID-19](https://www.mass.gov/info-details/massachusetts-law-about-elections-and-voting#covid-19-) - allows anyone "... staying in your home or avoiding your polling place as a precautionary measure in response to COVID-19" to request an absentee ballot for any race(s).
 - [Town election page](https://arlingtonma.gov/elections)
 - [MA Secretary of State page](https://www.sec.state.ma.us/ele/eleidx.htm) - with many guides on ballots, where to vote, citizen petitions, and more.
 - [MA campaign finance laws](https://www.mass.gov/law-library/970-cmr)
