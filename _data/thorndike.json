@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Zoning Board Of Appeals - Agenda",
+    "content": "Agenda and links to documents presented at ZBA meeting on 10-Dec-2019 about Thorndike place; includes link to official ZBA minutes.",
+    "url": "https://www.arlingtonma.gov/Home/Components/Calendar/Event/22820/10?folder=4717&toggle=allpast",
+    "displaydate": "10-Dec-2019",
+    "icon": "gavel"
+  },
+  {
+    "title": "Thorndike Place Comprehensive Permit Application",
+    "url": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/zoning-board-of-appeals/thorndike-place-comprehensive-permit",
+    "content": "Town webpage pointing to all originally submitted Thorndike Place applications, permits, and supporting materials given to the town.",
+    "icon": "images"
+  },
+  {
+    "title": "Thorndike Place Stamped Set - 3/16/2020",
+    "content": "Detailed maps and drawings of proposed Thorndike Place buildings, roads, and infrastructure for permitting process.",
+    "url": "https://www.arlingtonma.gov/home/showdocument?id=51836",
+    "displaydate": "16-Mar-2020",
+    "icon": "map"
+  },
+  {
+    "title": "Your Arlington Articles On Thorndike Place",
+    "content": "Your Arlington local news has been covering various aspects of the Mugar development at Thorndike Place for several years.",
+    "url": "https://yourarlington.com/search.html?searchword=mugar&ordering=newest&searchphrase=all",
+    "icon": "newspaper"
+  },
+  {
+    "title": "Coalition To Save the Mugar Wetlands",
+    "content": "Advocacy group working to save the wetlands and Arlington's floodplain and stop the Thorndike Place project.",
+    "url": "https://saveourwetlands.wordpress.com/",
+    "displaydate": "",
+    "icon": "blog"
+  },
+  {
+    "title": "Arlington Land Trust - Mugar Updates",
+    "content": "The Arlington Land Trust works to preserve open space in Arlington, and is tracking the Mugar project's potential effects on our landscape.",
+    "url": "https://arlingtonlandtrust.org/mugar-project/",
+    "displaydate": "",
+    "icon": "blog"
+  },
+  {
+    "title": "Arlington Residents For Responsible Redevelopment",
+    "content": "Local grass-roots group advocating on a range of zoning and housing issues focusing on responsible redevelopment, and tracking the Thorndike Place project.",
+    "url": "https://sites.google.com/view/arfrr/",
+    "displaydate": "",
+    "icon": "blog"
+  },
+  {
+    "title": "CoUrbanize Overview of Thorndike Place project",
+    "content": "A developer's overview of the entire project, with occasional blog updates from related development companies.",
+    "url": "https://courbanize.com/projects/thorndike-place/information",
+    "icon": "user-tie"
+  },
+  {
+    "title": "Oaktree Development, LLC",
+    "content": "Website of development corporation managing the Thorndike Place project.",
+    "url": "http://www.oakdev.com/projects.php?type=development",
+    "icon": "user-tie"
+  },
+  {
+    "title": "Arlington Land Realty, LLC - MA State records",
+    "content": "Corporation lookup data of owner of Thorndike Place in MA corporate records.",
+    "url": "http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=gs_0gQg.oRABQiD5ZFw1iFv46U5uL9Zitqchb6w.f6w-",
+    "url2": "http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSearchRedirector.aspx?Action=PDF&Path=CORP_DRIVE1/2020/0511/000000000/3038/202086272540_1.pdf",
+    "icon": "gavel"
+  }
+]
