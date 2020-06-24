@@ -1,5 +1,20 @@
 [
   {
+    "status": "appointment",
+    "type": "public",
+    "name": "Robbins Library",
+    "description": "**Robbins Library is OPEN - but only for pickup of held items with an appointment, or to dropoff returns in boxes anytime. Check the email you got announcing your hold is available for details.** \n\nThe Robbins Library was dedicated on November 29, 1892. The funds for the building came as a gift to the Town of Arlington from Maria C. Robbins in memory of her husband, Eli Robbins. The Fox Branch Library, formerly known as the East Arlington Branch of the Robbins Library, was established in 1916. Today, Arlington’s libraries are vital community centers for all. We create opportunities for lifelong learning, personal fulfillment and enjoyment that make Arlington a great place to live, work, study, and visit.",
+    "address": "700 Massachusetts Avenue, Arlington, MA 02476",
+    "telephone": "781-316-3200",
+    "url": "https://www.robbinslibrary.org",
+    "twitterurl": "https://twitter.com/RobbinsLib",
+    "facebookurl": "https://www.facebook.com/RobbinsLibraryArlMa",
+    "instagramurl": "https://www.instagram.com/robbinslibraryteens/",
+    "hoursurl": "https://www.robbinslibrary.org/borrowing-items/",
+    "deliveryurl": "https://www.robbinslibrary.org/borrowing-items/homebound-delivery/",
+    "title": "Robbins Library"
+  },
+  {
     "status": "closed",
     "statusdate": "17-March",
     "type": "public",
@@ -63,20 +78,7 @@
     "hoursurl": "https://www.actonmemoriallibrary.org/about-the-library/hours-and-directions/",
     "title": "Acton Memorial Library"
   },
-  {
-    "status": "closed",
-    "type": "public",
-    "name": "Robbins Library",
-    "description": "**The Robbins and Fox Libraries are closed as of March 13, 2020.** \n\nThe Robbins Library was dedicated on November 29, 1892. The funds for the building came as a gift to the Town of Arlington from Maria C. Robbins in memory of her husband, Eli Robbins. The Fox Branch Library, formerly known as the East Arlington Branch of the Robbins Library, was established in 1916. Today, Arlington’s libraries are vital community centers for all. We create opportunities for lifelong learning, personal fulfillment and enjoyment that make Arlington a great place to live, work, study, and visit.",
-    "address": "700 Massachusetts Avenue, Arlington, MA 02476",
-    "telephone": "781-316-3200",
-    "url": " https://www.robbinslibrary.org",
-    "twitterurl": "https://twitter.com/RobbinsLib",
-    "facebookurl": "https://www.facebook.com/RobbinsLibraryArlMa",
-    "instagramurl": "https://www.instagram.com/robbinslibraryteens/",
-    "hoursurl": "https://www.robbinslibrary.org",
-    "title": "Robbins Library"
-  },
+
   {
     "status": "closed",
     "type": "public",
