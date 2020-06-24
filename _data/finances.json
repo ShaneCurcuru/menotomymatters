@@ -28,7 +28,7 @@
     "preview": "Arlington's Open Checkbook provides financial transparency to the public with easy access to the Town's expenditure information for the current fiscal year, as well as a historical view of previous years. This interactive website can be used to search details of government spending by category, ...",
     "htmltitle": "Open Checkbook | Town of Arlington",
     "url": "https://www.arlingtonma.gov/town-governance/financial-budget-information/open-checkbook",
-    "content": "Visualization tool to see actual expenses in detail by different town departments - encourages you to explore specific departments, vendors, or dates.",
+    "content": "Visualization tool to see detailed actual expenses by different town departments - encourages you to explore specific departments, vendors, or dates.",
     "icon": "chart-pie"
   },
   {
@@ -38,6 +38,37 @@
     "url": "https://www.arlingtonma.gov/departments/town-manager/town-manager-s-annual-budget-financial-report",
     "content": "Official Town Manager submitted budgets for the town, presented to Town Meeting. Includes back to FY2007.",
     "icon": "money-check-alt"
+  },
+  {
+    "title": "FY2020 Pay and Classification Plan (Warrant Article 48)",
+    "url": "https://www.arlingtonma.gov/home/showdocument?id=47342",
+    "content": "Detailed salary and pay scales for town employees submitted to Town Meeting.",
+    "displaydate": "15-June-2020",
+    "icon": "money-check-alt"
+  },
+  {
+    "title": "APS Official School Budget Information",
+    "preview": "FY13 School Committee Presentation - January 27, 2012. • FY13 Budget Timeline - Approved January 26, 2012. • New Massachusetts Educator Evaluations Regulations - November 2011. FISCAL YEAR 2012. FY12 END OF YEAR REPORTS. • FY12 End of Year Report Highlights - October 11, 2012.",
+    "htmltitle": "Arlington Public Schools: Administration: Budget Information",
+    "url": "http://www.arlington.k12.ma.us/administration/budget/",
+    "content": "School department overall budget page, including actual budgets from past years, and detailed financial reporting in some cases. The School budget is the largest in town, and is managed by the School Committee directly.",
+    "icon": "school"
+  },
+  {
+    "title": "APS FY21 School Superintendent's Requested Budget",
+    "url": "https://www.arlington.k12.ma.us/administration/budget/fy21/fy21superproposedbudget02-13-20.pdf",
+    "content": "FY21 requested School Budget submitted by school administration to the School Committee, with complete details.",
+    "displaydate": "13-February-2020",
+    "related": "/meetings/school/#2020-06-11",
+    "icon": "school"
+  },
+  {
+    "title": "APS Draft Five-Year Budget Plan 2020-2024",
+    "url": "https://www.arlington.k12.ma.us/administration/budget/fy20/fiveyeardraftapsbudgetplan.pdf",
+    "content": "High-level five year plan for school budgets, with projections for enrollment and maintenance.",
+    "displaydate": "April-2019",
+    "related": "/meetings/school/#2020-04-11",
+    "icon": "school"
   },
   {
     "title": "Capital Planning Cmmtee Reports to Town Meeting",
@@ -54,14 +85,6 @@
     "url": "https://www.arlingtonma.gov/departments/assessor/tax-information",
     "content": "Assessor office homepage with formal tax classifications about propery, excise, and other town taxes.",
     "icon": "money-bill-wave"
-  },
-  {
-    "title": "APS Official Budget Information",
-    "preview": "FY13 School Committee Presentation - January 27, 2012. • FY13 Budget Timeline - Approved January 26, 2012. • New Massachusetts Educator Evaluations Regulations - November 2011. FISCAL YEAR 2012. FY12 END OF YEAR REPORTS. • FY12 End of Year Report Highlights - October 11, 2012.",
-    "htmltitle": "Arlington Public Schools: Administration: Budget Information",
-    "url": "http://www.arlington.k12.ma.us/administration/budget/",
-    "content": "School department overall budget page, including actual budgets from past years, and detailed financial reporting in some cases.",
-    "icon": "money-check-alt"
   },
   {
     "title": "Treasurer/Collector | Town of Arlington",
