@@ -1,0 +1,23 @@
+{
+  "@type": "dcat:Dataset",
+  "title": "MA-reported Schedule A Expenses",
+  "description": "Schedule A General Fund municipality categorized Expenditures; by Town; Arlington and comparable municipalities.",
+  "landingPage": "https://www.mass.gov/orgs/division-of-local-services",
+  "publisher": {
+    "@type": "org:Organization",
+    "name": "Massachusetts Department of Revenue’s Division of Local Services"
+  },
+  "spatial": "MA",
+  "accrualPeriodicity": "R/P1Y",
+  "temporal": "2019",
+  "distribution": [
+    {
+      "description": "Schedule A Expenses, as categorized to the state by towns, 2019.",
+      "sameAs": "https://dlsgateway.dor.state.ma.us/reports/rdPage.aspx?rdReport=ScheduleA.GenFund_MAIN",
+      "downloadURL": "https://menotomymatters.com/data/GenFundExpenditures2019-comps.csv",
+      "title": "GenFundExpenditures2019-comps.csv",
+      "format": "csv",
+      "mimetype": "text/csv"
+    }
+  ]
+}
