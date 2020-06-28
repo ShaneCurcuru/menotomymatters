@@ -11,4 +11,6 @@ header:
   caption: "Photo: [**Susan Yin / Unsplash**]"
 ---
 
-Bad news, book lovers: as of 15-March, almost all of the [Minuteman Library Network's](https://www.minlib.net) libraries are now closed due to [COVID-19 health issues](/howto/covid-info/).  The few libraries still open are listed below.  A few [local bookstores are now offering delivery](/howto/covid-libraries/).
+Good news, book lovers: as of 30-June, Arlington's Robbins Library and libraries in Belmont, Lexington, Cambridge, Winchester, and more now are all open for scheduled pickup of held items.  No local libraries are open for in-person visits and browsing, but if you use the  [Minuteman Library Network's](https://www.minlib.net)  or the local library website, you can order, hold, and then pickup books again! 
+
+Remember: there are a lot of [local bookstores offering delivery](/howto/covid-libraries/) too.
