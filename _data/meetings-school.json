@@ -166,6 +166,7 @@
     "location": "Remote Meeting Zoom",
     "viewurl": "MeetingView.aspx?MeetingID=1063&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1063",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=719",
     "filename": "_agendas/2020-06-11alt-school.html",
     "agenda": {
       "notice": "",
@@ -210,6 +211,7 @@
     "location": "Remote Meeting Zoom",
     "viewurl": "MeetingView.aspx?MeetingID=1062&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1062",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=720",
     "filename": "_agendas/2020-06-11-school.html",
     "agenda": {
       "notice": "Conducted by Remote Participation\r\n \r\n https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download\r\n \r\n \r\n ",
