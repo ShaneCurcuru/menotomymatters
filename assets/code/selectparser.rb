@@ -96,7 +96,7 @@ module SelectParser
               txt = txt.gsub(act, "<span class='itemact'>#{act}</span>")
             end
           end
-          blob.concat(txt.gsub("\r\n", "\n"), "\n\n")
+          blob.concat(txt.gsub(/\R/, "\n").gsub(/[ ]{2,}/, ' '), "\n\n")
         end 
       end
       unless blob.empty?
