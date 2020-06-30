@@ -5,19 +5,23 @@ email: shane@menotomymatters.com
 description: &description "Making sense of Arlington town government, one source document or issue at a time."
 author:
   name      : &scname "Shane Curcuru"
-  avatar    : "/assets/images/gravatar.png"
+  avatar    : &logo "/assets/images/gravatar.png"
   location  : "Arlington, MA"
   email     : "shane@menotomymatters.com"
   twitter   : "MenotomyMatters"
   linkedin  : &scid "ShaneCurcuru"
   bio       : "Long-time Arlington resident; [open source volunteer](http://shanecurcuru.org/); [Candidate for TMM 12 Precinct](/townmeeting/campaign/)."
 
+logo: *logo
+facebook:
+  publisher: https://www.facebook.com/MenotomyMatters/
 social:
   type: # Person or Organization (defaults to Person)
   name: *scname # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/MenotomyMatters"
-    - "https://linkedin.com/in/ShaneCurcuru"
+    - https://twitter.com/MenotomyMatters
+    - https://www.facebook.com/MenotomyMatters/
+    - https://linkedin.com/in/ShaneCurcuru
 
 # Build, theme, style settings
 repository: "shanecurcuru/menotomymatters"
