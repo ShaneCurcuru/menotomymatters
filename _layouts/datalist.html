@@ -7,6 +7,10 @@ layout: single
 <hr/>
 <dl>
   {% for itm in site.data[page.datafile] %}
+  {% if itm.image %}
+  <div style="overflow: auto;">
+    <img class="align-right imgright" src="{{ itm.image }}">
+  {% endif %}
     <dt>
       <a href="{{ itm.url }}">{{ itm.title }}</a>&nbsp;
       {% if itm.icon %}<i class="fa fa-{{ itm.icon }}" aria-hidden="true"></i>{% endif %}
@@ -17,5 +21,8 @@ layout: single
       {% if itm.video %}<i class="fa fa-fw fa-video" aria-hidden="true"></i><small><a href="{{ itm.video }}"> ACMi Video</a></small>{% endif %}
       {{ itm.content | markdownify }}
     </dd>
+  {% if itm.image %}
+  </div>
+  {% endif %}  
   {% endfor %}
 </dl>
