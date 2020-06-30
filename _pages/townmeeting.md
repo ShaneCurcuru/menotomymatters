@@ -1,5 +1,5 @@
 ---
-title: Town Meeting Warrant Articles
+title: Town Meeting Overview
 permalink: /tm/
 header:
   overlay_image: /assets/images/indian-h.jpg
@@ -16,6 +16,16 @@ You've probably heard about many warrant articles if you've followed
 any Arlington politics, but how many articles have you really researched 
 to see what the official reports or recommendations are?
 
+## Learn More About Town Meeting
+
+- [Town Meeting homepage](https://www.arlingtonma.gov/town-governance/town-meeting) with links to past year's articles, reports, and votes.
+- [Official 2020 TMM member list](https://www.arlingtonma.gov/home/showdocument?id=51888) - see who represents your precinct.
+- [ACMi "Town Meeting Matters" video series](https://www.youtube.com/playlist?list=PLztbi9KA9roUApm2ebTFRoQ9Of81Z2ge4) explaining how the 2020 Town Meeting worked for newcomers.
+
+## 2020 Town Meeting Final Articles And Reports
+
+I've posted the [2020 articles](/tm/2020draft/) that were presented to Town Meeting in June 2020, as well as all the reports to town meeting including details of board's recommendations on various warrant articles.  In particular, due to the pandemic, the [Town Moderator and others all agreed to move "No action"](https://www.arlingtonma.gov/home/showdocument?id=51032) or otherwise defer most of the articles submitted this year, including all articles with bylaws or zoning changes.  The only articles addressed in this year's [super-short outdoor town meeting](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17341-tm-061120.html) were key housekeeping and financial articles needing to be passed to keep government working smoothly.
+
 ## 2019 Town Meeting Full Articles And Votes
 
 I've parsed the officially posted warrant articles for 2019 - both the 
@@ -26,18 +36,7 @@ This also includes official vote results for most articles.
 It appears that some articles were withdrawn or otherwise not voted 
 on last year.
 
-## 2020 Town Meeting DRAFT Articles And Reports
-
-**New!** I've posted the [DRAFT 2020 articles](/tm/2020draft/) that will 
-be presented to Town Meeting, as well as some of the recommendations from 
-various town committees that have been made so far.  IMPORTANT: these 
-are draft articles, and various town committees are still debating their 
-recommendations or supplementary materials for them - so stay tuned for
-updates.  I hope to bring you the key reports here as soon as I can 
-find them, so we don't have to wait for the final official printing to 
-start to research issues that matter. 
-
-## What You'll Find About Articles
+## What You'll Find About Warrant Articles
 
 Every warrant article has links to the official sources on the town 
 website, plus some additional annotations or comments that I've made 
