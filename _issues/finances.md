@@ -10,9 +10,8 @@ header:
 author_profile: false
 sidebar:
   nav: "archive"
+classes: wide
 ---
 
-Here is a  selection of useful links about town budgets, finance, 
-and other matters around taxes, money, and the like.  Please suggest 
-other links, especially to source documents, that you like!
+Interested in learning about town budgets, finances and taxes?  Here are the key places to start reading, including official town reports, and many ways to visualize or compare Arlington finances to comparable towns. 
 
