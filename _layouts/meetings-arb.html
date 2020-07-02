@@ -28,11 +28,20 @@ classes: wide
       <li value="{{ lineitm.num }}">
         <h4 class="agendadetailheader">{{ lineitm.title }}</h4>
         <small>
-          {% if lineitm.url %}<a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Item attachments</a>{% endif %}
           {% if lineitm.dockets %} Dockets heard: 
             {% for docket in lineitm.dockets %}
               <b><a href="/meetings/arb-index/#{{ docket[0] }}">#{{ docket[0] }}</a></b>, <a href="https://www.google.com/maps/place/{{ docket[1] }},+Arlington,+MA">{{ docket[1] }}</a> |
             {% endfor %}
+            <br/>
+          {% endif %}
+          {% if lineitm.url %}<a href="https://arlington.novusagenda.com/Agendapublic/{{ lineitm.url }}"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i> Attachment Listing</a>{% endif %} | 
+          {% if lineitm.attachments %}
+            <span style="attachments"> 
+            {% for attach in lineitm.attachments %}
+              {% assign nocomma = forloop.last %}
+              <a href="https://arlington.novusagenda.com/Agendapublic/{{ attach[0] }}"><i class="fa fa-fw fa-file" aria-hidden="true"></i> {{ attach[1][0] }}</a>{% if nocomma == false %} |{% endif %}
+            {% endfor %} 
+            </span>
           {% endif %}
         </small>
         {{ lineitm.details | markdownify }}
