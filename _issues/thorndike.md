@@ -1,6 +1,6 @@
 ---
 title: "Thorndike Place - Mugar Development Proposal"
-excerpt: "Background on proposed 40B housing complex at ."
+excerpt: "Background on proposed 40B housing complex at Thorndike Place in East Arlington."
 permalink: /issues/thorndike
 layout: datalist
 datafile: thorndike
