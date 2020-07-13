@@ -9,7 +9,8 @@ classes: wide
 <div id="2020"></div>
 {% for entry in site.data[page.datafile] %}
 {% assign itm = entry[1] %}
-<div class="agenda" id="{{ entry[0] }}">
+{% assign isodate = entry[0] %}
+<div class="agenda" id="{{ isodate }}">
   {% if itm.altid %}<div id="{{ itm.altid }}"></div>{% endif %}
   <div class="agendaheader"><h3>{{ itm.title }} meeting {{ itm.date }}</a></h3></div>
   <div class="agendalinks">
@@ -25,7 +26,7 @@ classes: wide
   <div class="agendadetail">
     <ol>
       {% for lineitm in itm.agenda.items %}
-      <li value="{{ lineitm.num }}">
+      <li value="{{ lineitm.num }}" id="{{ isodate }}_{{ lineitm.num }}">
         <h4 class="agendadetailheader">{{ lineitm.title }}</h4>
         <div class="itemattachments">
           {% if lineitm.dockets %} Dockets heard: 
