@@ -6,8 +6,6 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/board-of-selectmen.html",
@@ -30,12 +28,12 @@
     "desc2": "The Select Board appoints a [Town Manager](https://www.arlingtonma.gov/departments/town-manager) responsible for the daily management of the Town. The Manager's powers are specified in the Town Manager Act. The Select Board approves the Town Manager’s appointments of most official boards and commissions.",
     "id": "board-of-selectmen",
     "links": {
-      "town-day": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/town-day",
-      "contact": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/contact"
+      "town-day": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/town-day"
     },
     "news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/news",
     "appointed": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/appointed-positions",
     "permits": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/license-permits",
+    "contact": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen/contact",
     "members": {
       "Curro, Jr., Joseph A.": "/Home/Components/StaffDirectory/StaffDirectory/595/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-selectmen",
       "DeCourcey, Stephen W.": "/Home/Components/StaffDirectory/StaffDirectory/562/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-selectmen",
@@ -58,9 +56,7 @@
       "development"
     ],
     "related": [
-      "zoning-board-of-appeals",
-      "",
-      ""
+      "zoning-board-of-appeals"
     ],
     "filename": "_agendas/redevelopment-board.html",
     "tracker": "/meetings/arb/",
@@ -122,8 +118,6 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/board-of-assessors.html",
@@ -145,9 +139,7 @@
     "desc1": "The Board of Assessors is composed of three members who are elected for 3-year terms. The mission of the Board of Assessors is to assess all property in the Town of Arlington in a fair, equitable and consistent manner in accordance with the laws, rules, and regulations of the Commonwealth of Massachusetts, the requirements and guidelines of the Department of Revenue.",
     "desc2": "Duties:\\n- To assess all property at its full and fair cash value as of January 1 of each year and to employ valuation methods and techniques appropriate for each class of property\\n- To maintain public records necessary to administer the taxes of the Town of Arlington and to objectively review the petitions and concerns of aggrieved taxpayers\\n- To promote the fair and equal treatment of all taxpayers in the Town of Arlington in the administration of the property tax, motor vehicle excise tax, and all exemptions related to such taxes.",
     "id": "board-of-assessors",
-    "links": {
-      "board-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-assessors/board-calendar"
-    },
+    "links": {},
     "members": {
       "Feeley, Kevin": "/Home/Components/StaffDirectory/StaffDirectory/541/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-assessors",
       "Greeley, Bob": "/Home/Components/StaffDirectory/StaffDirectory/1094/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-assessors",
@@ -191,10 +183,9 @@
     "bylaw": "",
     "desc1": "The School Committee sets policies for public schools in Arlington. It votes on the school budget (the budget belongs to the school committee), the superintendent manages the budget under the committee's oversight. The school committee hires, supervises, and evaluates the superintendent.",
     "desc2": "Within the Arlington School Committee, there are [six standing subcommittees](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-committee) that are appointed by the chair and remain in place until mid-May of each year or until new committees are appointed or reappointed. Subcommittees meet 5-8 times per year (generally between October - June.) Subcommittee Chairs report at each Regular School Committee meeting on the subcommittee’s work.",
+    "contact": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-committee/contact",
     "id": "school-committee",
-    "links": {
-      "contact": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-committee/contact"
-    },
+    "links": {},
     "members": {
       "Allison-Ampe MD, Kirsi": "/Home/Components/StaffDirectory/StaffDirectory/884/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fschool-committee",
       "Hayner, William": "/Home/Components/StaffDirectory/StaffDirectory/880/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fschool-committee",
@@ -324,14 +315,11 @@
       "conservation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/abc-tri-community-flooding-group-arlington-belmont-cambridge.html",
     "id": "abc-tri-community-flooding-group-arlington-belmont-cambridge",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/abc-tri-community-flooding-group-arlington-belmont-cambridge/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/abc-tri-community-flooding-group-arlington-belmont-cambridge/agendas-minutes",
     "members": {
@@ -404,9 +392,7 @@
     "desc1": "The mission of the Arlington Board of Health is to protect the public health of the Town of Arlington through enforcement of health codes and regulations while promoting a healthy community.",
     "desc2": "The Board of Health and [Health Department](https://www.arlingtonma.gov/departments/health-human-services/health-department), two distinct but inter-connected entities, are charged with protecting and safeguarding the public and environmental health of the Town of Arlington. The Board of Health is a statutory board comprised of three community members at large appointed by the Town Manager for three year terms. One member of the Board of Health must be a physician, and a chairperson is elected annually. The Health Department is a professionally staffed office within the Town of Arlington’s Department of Health and Human Services consisting of a Director, administrative staff, and health inspectors (Health Compliance Officers).",
     "id": "board-of-health",
-    "links": {
-      "board-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-health/board-calendar"
-    },
+    "links": {},
     "members": {
       "Fallon, Kevin (Dr.)": "/Home/Components/StaffDirectory/StaffDirectory/395/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-health",
       "Kohlberg, Kenneth": "/Home/Components/StaffDirectory/StaffDirectory/396/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fboard-of-health",
@@ -424,8 +410,7 @@
     ],
     "filename": "_agendas/board-of-youth-services.html",
     "id": "board-of-youth-services",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-youth-services/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-youth-services/agendas-minutes",
     "members": {
@@ -452,10 +437,9 @@
     ],
     "filename": "_agendas/budget-revenue-task-force.html",
     "id": "budget-revenue-task-force",
-    "links": {
-      "task-force-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/budget-revenue-task-force/task-force-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/budget-revenue-task-force/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/budget-revenue-task-force/task-force-calendar",
     "members": {
       "Jones, Alan": "/Home/Components/StaffDirectory/StaffDirectory/405/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fbudget-revenue-task-force",
       "Allison-Ampe, Kirsi": "/Home/Components/StaffDirectory/StaffDirectory/527/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fbudget-revenue-task-force",
@@ -486,10 +470,9 @@
     ],
     "filename": "_agendas/building-maintenance-committee.html",
     "id": "building-maintenance-committee",
-    "links": {
-      "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/building-maintenance-committee/calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/building-maintenance-committee/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/building-maintenance-committee/calendar",
     "members": {
       "Cerbone, Vincent M.": "/Home/Components/StaffDirectory/StaffDirectory/478/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fbuilding-maintenance-committee",
       "Danizio, John": "/Home/Components/StaffDirectory/StaffDirectory/1088/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fbuilding-maintenance-committee",
@@ -509,8 +492,7 @@
     ],
     "filename": "_agendas/cable-advisory-committee.html",
     "id": "cable-advisory-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cable-advisory-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cable-advisory-committee/agendas-minutes",
     "members": {
@@ -532,16 +514,13 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/cdbg-sub-committee.html",
     "id": "cdbg-sub-committee",
-    "links": {
-      "subcommittee-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cdbg-sub-committee/sub-committee-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cdbg-sub-committee/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cdbg-sub-committee/sub-committee-calendar",
     "members": {
       "Chapdelaine, Adam W.": "/Home/Components/StaffDirectory/StaffDirectory/476/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcdbg-sub-committee",
       "Dunn, Dan": "/Home/Components/StaffDirectory/StaffDirectory/1524/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcdbg-sub-committee",
@@ -569,10 +548,9 @@
     ],
     "filename": "_agendas/cemetery-commission.html",
     "id": "cemetery-commission",
-    "links": {
-      "commission-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cemetery-commission/commission-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cemetery-commission/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cemetery-commission/commission-calendar",
     "members": {
       "Hasbrouck, Brian L.": "/Home/Components/StaffDirectory/StaffDirectory/1080/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcemetery-commission",
       "McCarthy, William": "/Home/Components/StaffDirectory/StaffDirectory/460/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcemetery-commission",
@@ -593,8 +571,7 @@
     ],
     "filename": "_agendas/central-school-feasibility-study-committee.html",
     "id": "central-school-feasibility-study-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/central-school-feasibility-study-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/central-school-feasibility-study-committee/agendas-minutes",
     "members": {
@@ -743,11 +720,11 @@
     "filename": "_agendas/community-preservation-committee.html",
     "id": "community-preservation-committee",
     "links": {
-      "committee-news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/community-preservation-committee/committee-news",
       "applications": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/community-preservation-committee/past-projects"
     },
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/community-preservation-act-committee/commission-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/community-preservation-act-committee/agendas-minutes",
+    "news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/community-preservation-committee/committee-news",
     "members": {
       "Helmuth, Eric": "/Home/Components/StaffDirectory/StaffDirectory/1272/",
       "Benson, Eugene": "/Home/Components/StaffDirectory/StaffDirectory/1277/",
@@ -789,6 +766,7 @@
     "created": "Appointed by Town Manager",
     "appoints": "",
     "video": "",
+    "news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-news-and-notices",
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-commission/committee-calendar",
     "feed": "https://www.arlingtonma.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=68",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-commission/agendas-minutes",
@@ -799,7 +777,6 @@
     "desc2": "The Arlington Conservation Commission is comprised of seven volunteer voting Commissioners and one or more volunteer nonvoting Associate Commissioners, who are appointed by the Town Manager with the approval of the Select Board.",
     "id": "conservation-commission",
     "links": {
-      "conservation-news-and-notices": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-news-and-notices",
       "projects": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-commission/projects",
       "permit-filing-instructions": "https://www.arlingtonma.gov/town-governance/conservation-commission/permit-filing-instructions",
       "conservation-land-stewards": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/conservation-commission/conservation-land-stewards",
@@ -841,6 +818,7 @@
       "council-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cultural-council/council-calendar"
     },
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cultural-council/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cultural-council/council-calendar",
     "members": {
       "Holmes-Farley, Rebecca": "/Home/Components/StaffDirectory/StaffDirectory/3592/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcultural-council",
       "Kendig, Heidi": "/Home/Components/StaffDirectory/StaffDirectory/3662/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcultural-council",
@@ -871,6 +849,7 @@
       "trustee-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cyrus-e-dallin-museum-trustees/trustee-calendar"
     },
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cyrus-e-dallin-museum-trustees/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/cyrus-e-dallin-museum-trustees/trustee-calendar",
     "members": {
       "Burks, Sarah": "/Home/Components/StaffDirectory/StaffDirectory/496/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcyrus-e-dallin-museum-trustees",
       "Borgasano, Mike": "/Home/Components/StaffDirectory/StaffDirectory/3710/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fcyrus-e-dallin-museum-trustees",
@@ -902,6 +881,7 @@
       "disability-bylaws": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/disability-commission/disability-bylaws"
     },
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/disability-commission/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/disability-commission/commission-calendar",
     "members": {
       "Papoulias DeAngelis, M.ED., Cynthia": "/Home/Components/StaffDirectory/StaffDirectory/1151/",
       "Czech, Paul": "/Home/Components/StaffDirectory/StaffDirectory/437/",
@@ -950,6 +930,100 @@
     },
     "description": "Welcome to our new page and our new name.  Vision 2020 changed its name to Envision Arlington in 2018, but we are still the same volunteers with the same overall mission.  Task Groups include: Business, Communication, Community & Citizen Service, Culture & Recreation, Diversity, Education, Environment, Fiscal Resources, and Governance, which include the following Reservoir Committee, Spy Pond Committee, and Sustainable Arlington. "
   },
+  "https://arlingtonmadtg.org/": {
+    "title": "Diversity Task Group",
+    "topics": [
+      "cultural",
+      "rights"
+    ],
+    "related": [
+      "envision-arlington"
+    ],
+    "id": "diversity-task-group",
+    "links": {
+      "events": "https://arlingtonmadtg.org/upcoming-events/",
+      "committee-news": "https://arlingtonmadtg.org/blog/",
+      "goals": "https://arlingtonmadtg.org/awareness/our-goals/",
+      "contact": "https://arlingtonmadtg.org/contact-us/"
+    },
+    "calendar": "https://arlingtonmadtg.org/upcoming-events/",
+    "agenda": "",
+    "contact": "https://arlingtonmadtg.org/contact-us/",
+    "description": "We are a group of Arlington residents who are committed to making our town inclusive, fostering awareness, community, and action, and creating safe spaces where all voices are welcome. _(Part of Envision Arlington)_"
+  },
+  "http://arlingtonreservoir.org/": {
+    "title": "Reservior Committee",
+    "topics": [
+      "cultural",
+      "conservation"
+    ],
+    "related": [
+      "envision-arlington"
+    ],
+    "id": "reservoir-committee",
+    "links": {
+      "committee-news": "https://arlingtonreservoir.org/minutes/",
+      "goals": "https://arlingtonreservoir.org/reservoir-master-plan/",
+      "contact": "https://arlingtonreservoir.org/contacts/"
+    },
+    "agenda": "https://arlingtonreservoir.org/minutes/",
+    "contact": "https://arlingtonreservoir.org/contacts/",
+    "description": "The Reservoir Committee of the Vision 2020 Environmental Task Group is a group of concerned citizens working to solve the Reservoir's problems. The Committee meets on the third Tuesday of the month in the Arlington Town Hall Annex. Anyone with an interest in the Reservoir is welcome to participate. _(Part of Envision Arlington)_"
+  },
+  "http://sustainablearlington.org/": {
+    "title": "Sustainable Arlington",
+    "topics": [
+      "cultural",
+      "conservation"
+    ],
+    "related": [
+      "envision-arlington"
+    ],
+    "id": "sustainable-arlington",
+    "links": {
+      "committee-news": "http://sustainablearlington.org/sa-blog",
+      "goals": "http://sustainablearlington.org/about-us2",
+      "contact": "http://sustainablearlington.org/contact"
+    },
+    "calendar": "http://sustainablearlington.org/events/year.listevents/",
+    "contact": "http://sustainablearlington.org/contact",
+    "description": "Sustainable Arlington acts on a local level to promote climate stabilization and other important environmental goals. Meets monthly. _(Part of Envision Arlington)_"
+  },
+  "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/spy-pond-committee": {
+    "title": "Spy Pond Committee",
+    "topics": [
+      "cultural",
+      "conservation"
+    ],
+    "related": [
+      "envision-arlington"
+    ],
+    "id": "spy-pond-committee",
+    "links": {
+      "committee-news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/committee-news",
+      "goals": "http://www.facebook.com/spypondcomm"
+    },
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/committee-calendar",
+    "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/agendas-minutes",
+    "description": "As an official Committee of Envision Arlington, the Spy Pond Committee is charged with addressing and helping to solve the problems and challenges faced by Spy Pond. The group has been active since 1994. The goals of the Committee are simple - make Spy Pond a better and healthier place for people and wildlife. _(Part of Envision Arlington)_"
+  },
+  "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/fiscal-resources-task-group": {
+    "title": "Fiscal Resources Task Group",
+    "topics": [
+      "finance"
+    ],
+    "related": [
+      "envision-arlington"
+    ],
+    "id": "fiscal-resources-task-group",
+    "links": {
+      "committee-news": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/committee-news",
+      "goals": "https://www.arlingtonma.gov/home/showdocument?id=41026"
+    },
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/committee-calendar",
+    "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington/agendas-minutes",
+    "description": "The Fiscal Resources Task Group (FRTG) is part of Envision Arlington (formerly Vision 2020) and was created in the early 1990’s by an act of Town Meeting and while the group’s membership has changed over the years, the FRTG has been active continuously since then. _(Part of Envision Arlington)_"
+  },
   "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/equal-opportunity-advisory-committee": {
     "title": "Equal Opportunity Advisory Committee",
     "topics": [
@@ -960,8 +1034,7 @@
     ],
     "filename": "_agendas/equal-opportunity-advisory-committee.html",
     "id": "equal-opportunity-advisory-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/equal-opportunity-advisory-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/equal-opportunity-advisory-committee/agendas-minutes",
     "members": {
@@ -995,6 +1068,7 @@
       "commitee-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/height-neighborhood-action-plan/commitee-calendar"
     },
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/height-neighborhood-action-plan/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/height-neighborhood-action-plan/commitee-calendar",
     "members": {
       "Anderson, Kristen": "/Home/Components/StaffDirectory/StaffDirectory/3830/",
       "Carter, Ali": "/Home/Components/StaffDirectory/StaffDirectory/3820/",
@@ -1067,8 +1141,7 @@
     ],
     "filename": "_agendas/historic-districts-commission.html",
     "id": "historic-districts-commission",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historic-districts-commission/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historic-districts-commission/agendas-minutes",
     "members": {
@@ -1108,8 +1181,7 @@
     ],
     "filename": "_agendas/historical-commission.html",
     "id": "historical-commission",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historical-commission/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/historical-commission/agendas-minutes",
     "members": {
@@ -1142,6 +1214,7 @@
       "task-force-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/homelessness-task-force/task-force-calendar"
     },
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/homelessness-task-force/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/homelessness-task-force/task-force-calendar",
     "members": {
       "Bongiorno, Christine": "/Home/Components/StaffDirectory/StaffDirectory/3732/",
       "Biondi, Jane": "/Home/Components/StaffDirectory/StaffDirectory/3752/",
@@ -1163,14 +1236,11 @@
       "development"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/housing-plan-advisory-committee.html",
     "id": "housing-plan-advisory-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/housing-plan-advisory-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/housing-plan-advisory-committee/agendas-and-minutes",
     "members": {
@@ -1193,16 +1263,13 @@
       "rights"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/human-rights-commission.html",
     "id": "human-rights-commission",
-    "links": {
-      "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/human-rights-commission/calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/human-rights-commission/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/human-rights-commission/calendar",
     "members": {
       "Carney, Christine": "/Home/Components/StaffDirectory/StaffDirectory/688/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fhuman-rights-commission",
       "Baron, Sheri": "/Home/Components/StaffDirectory/StaffDirectory/383/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fhuman-rights-commission",
@@ -1233,14 +1300,11 @@
       "rights"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/human-rights-response-coordination-team.html",
     "id": "human-rights-response-coordination-team",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/human-rights-response-coordination-team/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/human-rights-response-coordination-team/agendas-minutes",
     "members": {
@@ -1264,14 +1328,11 @@
       "technology"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/information-technology-advisory-committee-itac.html",
     "id": "information-technology-advisory-committee-itac",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/information-technology-advisory-committee-itac/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/information-technology-advisory-committee-itac/agendas-minutes",
     "members": {
@@ -1298,16 +1359,13 @@
       "transportation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/lake-street-bikeway-intersection-design-review-committee.html",
     "id": "lake-street-bikeway-intersection-design-review-committee",
-    "links": {
-      "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/lake-street-bikeway-intersection-design-review-committee/calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/lake-street-bikeway-intersection-design-review-committee/calendar",
     "members": {
       "Chouinard, Wayne": "/Home/Components/StaffDirectory/StaffDirectory/1548/",
       "Bilsky, Alex": "/Home/Components/StaffDirectory/StaffDirectory/1552/",
@@ -1328,16 +1386,13 @@
       "rights"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/lgbtqia-rainbow-commission.html",
     "id": "lgbtqia-rainbow-commission",
-    "links": {
-      "commission-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/lgbtqia-rainbow-commission/commission-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/lgbtqia-rainbow-commission/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/lgbtqia-rainbow-commission/commission-calendar",
     "members": {
       "Forsythe, Julia": "/Home/Components/StaffDirectory/StaffDirectory/3628/",
       "Gardiner, Bill": "/Home/Components/StaffDirectory/StaffDirectory/3624/",
@@ -1363,14 +1418,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/library-trustees.html",
     "id": "library-trustees",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/library-trustees/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/library-trustees/agendas-minutes",
     "policy": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/library-trustees/policies",
@@ -1391,14 +1443,11 @@
       "health"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/local-emergency-planning-committee.html",
     "id": "local-emergency-planning-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/local-emergency-planning-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/local-emergency-planning-committee/agendas-minutes",
     "members": {
@@ -1432,14 +1481,11 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/long-range-planning-committee.html",
     "id": "long-range-planning-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/long-range-planning-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/long-range-planning-committee/agendas-minutes",
     "members": {
@@ -1464,14 +1510,11 @@
       "development"
     ],
     "related": [
-      "",
-      "",
-      ""
+       ""
     ],
     "filename": "_agendas/master-plan-advisory-committee.html",
     "id": "master-plan-advisory-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/master-plan-advisory-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/master-plan-advisory-committee/agendas-minutes",
     "members": {
@@ -1499,8 +1542,6 @@
       "development"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/master-plan-implementation-committee.html",
@@ -1539,14 +1580,11 @@
       "transportation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/minuteman-bikeway-25th-anniversary.html",
     "id": "minuteman-bikeway-25th-anniversary",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/minuteman-bikeway-25th-anniversary/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/minuteman-bikeway-25th-anniversary/agendas-minutes",
     "members": {
@@ -1570,16 +1608,13 @@
       "health"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/municipal-vulnerability-preparedness.html",
     "id": "municipal-vulnerability-preparedness",
-    "links": {
-      "mvp-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/municipal-vulnerability-preparedness/mvp-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/municipal-vulnerability-preparedness/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/municipal-vulnerability-preparedness/mvp-calendar",
     "members": {
       "Bongiorno, Christine": "/Home/Components/StaffDirectory/StaffDirectory/2574/",
       "Bowes, Bob": "/Home/Components/StaffDirectory/StaffDirectory/2576/",
@@ -1601,14 +1636,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/open-space-committee.html",
     "id": "open-space-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/open-space-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/open-space-committee/agendas-minutes",
     "members": {
@@ -1647,16 +1679,13 @@
       "conservation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/park-recreation-commission.html",
     "id": "park-recreation-commission",
-    "links": {
-      "commission-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/park-recreation-commission/commission-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/park-recreation-commission/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/park-recreation-commission/commission-calendar",
     "members": {
       "Rothenberg, Jennifer": "/Home/Components/StaffDirectory/StaffDirectory/346/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fpark-recreation-commission",
       "Canniff, Shirley": "/Home/Components/StaffDirectory/StaffDirectory/347/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fpark-recreation-commission",
@@ -1679,14 +1708,11 @@
       "transportation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/parking-implementation-governance-committee.html",
     "id": "parking-implementation-governance-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/parking-implementation-governance-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/parking-implementation-governance-committee/agendas-minutes",
     "members": {
@@ -1709,14 +1735,11 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/permanent-town-building-committee-ptbc.html",
     "id": "permanent-town-building-committee-ptbc",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/permanent-town-building-committee-ptbc/committee-calendar",
     "members": {
       "Reedy, Allen": "/Home/Components/StaffDirectory/StaffDirectory/480/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fpermanent-town-building-committee-ptbc",
@@ -1741,14 +1764,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
-      ""
+       ""
     ],
     "filename": "_agendas/poet-laureate-committee.html",
     "id": "poet-laureate-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/poet-laureate-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/poet-laureate-committee/agendas-minutes",
     "members": {
@@ -1766,14 +1786,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/public-memorial-committee.html",
     "id": "public-memorial-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/public-memorial-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/public-memorial-committee/agendas-minutes",
     "members": {
@@ -1791,14 +1808,11 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/retirement-board.html",
     "id": "retirement-board",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board/agendas-minutes",
     "members": {
@@ -1824,8 +1838,7 @@
     ],
     "filename": "_agendas/school-enrollment-task-force.html",
     "id": "school-enrollment-task-force",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-enrollment-task-force/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-enrollment-task-force/agendas-minutes",
     "members": {
@@ -1883,8 +1896,7 @@
     ],
     "filename": "_agendas/school-facilities-working-group.html",
     "id": "school-facilities-working-group",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-facilities-working-group/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/school-facilities-working-group/agendas-minutes",
     "description": "  \n That the Town does hereby request that the School Facilities Working Group (hereafter SFWG) to fulfill thoroughly and completely its obligations to develop, maintain and communicate plans to rebuild or renovate the Stratton and Thompson Schools, as previously directed by votes under Articles 74 and 61 of the 2003 and 2004 Annual Town Meetings, respectively. Specifically, that:  \n\n- The SFWG is charged with the duty of diligently exploring the options to complete the rebuilding projects,\n- The SFWG shall report to Town Meeting on a preferred option and at least one alternative option for completing the projects, including plans of action for each, and\n- The SFWG plans shall include timetables and sources of funding, and shall be developed with input from the Principals of the Stratton and Thompson Schools, who shall be added to the membership of the SFWG,\n- Make and clearly state all assumptions necessary to formulate these plans, identifying to the best of its ability the risks associated with each assumption,\n- Update these plans from time to time, as new information becomes available or developments affecting the plans may occur, but in any event not less than once per year, and\n- Report on these plans, including progress against them and updates to them, in writing, annually to Town Meeting beginning in 2007 and continuing until the last project has begun construction, and also to the Stratton and Thompson communities in public meetings held at each school at least once during each school year, beginning with the present 2005-06 school year and continuing at each school until its respective project has begun construction.\n\n"
@@ -1899,8 +1911,7 @@
     ],
     "filename": "_agendas/stratton-school-building-committee.html",
     "id": "stratton-school-building-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/stratton-school-building-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/stratton-school-building-committee/agendas-minutes",
     "urls": [
@@ -1915,14 +1926,11 @@
       "transportation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/sustainable-transportation-advisory-committee.html",
     "id": "sustainable-transportation-advisory-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/sustainable-transportation-advisory-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/sustainable-transportation-advisory-committee/agendas-minutes",
     "members": {
@@ -1955,8 +1963,6 @@
       "development"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/symmes-neighborhood-advisory-committee.html",
@@ -1984,10 +1990,9 @@
     ],
     "filename": "_agendas/thompson-school-rebuild-subcommittee.html",
     "id": "thompson-school-rebuild-subcommittee",
-    "links": {
-      "sub-committee-calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/thompson-school-rebuild-subcommittee/sub-committee-calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/thompson-school-rebuild-subcommittee/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/thompson-school-rebuild-subcommittee/sub-committee-calendar",
     "urls": [
       "/?navid=3991"
     ],
@@ -1999,14 +2004,11 @@
       "townmeeting"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/town-meeting-procedures-committee.html",
     "id": "town-meeting-procedures-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/town-meeting-procedures-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/town-meeting-procedures-committee/agendas-minutes",
     "members": {
@@ -2024,8 +2026,6 @@
       "transportation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/transportation-advisory-committee.html",
@@ -2060,9 +2060,7 @@
       "finance"
     ],
     "related": [
-      "",
-      "",
-      ""
+       ""
     ],
     "filename": "_agendas/trust-fund.html",
     "id": "trust-fund",
@@ -2130,14 +2128,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/tourism-and-economic-development-a-ted.html",
     "id": "tourism-and-economic-development-a-ted",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/tourism-and-economic-development-a-ted/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/tourism-and-economic-development-a-ted/agendas-minutes",
     "members": {
@@ -2162,14 +2157,11 @@
       "conservation"
     ],
     "related": [
-      "",
-      "",
-      ""
+       ""
     ],
     "filename": "_agendas/tree-committee.html",
     "id": "tree-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/tree-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/tree-committee/agendas-minutes",
     "members": {
@@ -2198,14 +2190,11 @@
       "cultural"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/uncle-sam-committee.html",
     "id": "uncle-sam-committee",
-    "links": {
-    },
+    "links": {},
     "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/uncle-sam-committee/committee-calendar",
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/uncle-sam-committee/agendas-minutes",
     "members": {
@@ -2222,16 +2211,13 @@
       "health"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/veterans-council.html",
     "id": "veterans-council",
-    "links": {
-      "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/veterans-council/calendar"
-    },
+    "links": {},
     "agenda": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/veterans-council/agendas-minutes",
+    "calendar": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/veterans-council/calendar",
     "members": {
       "Chunglo, Jeffrey A.": "/Home/Components/StaffDirectory/StaffDirectory/1199/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fveterans-council",
       "Hayner, William": "/Home/Components/StaffDirectory/StaffDirectory/1207/3850?backlist=%2ftown-governance%2fall-boards-and-committees%2fveterans-council",
@@ -2249,8 +2235,6 @@
       "conservation"
     ],
     "related": [
-      "",
-      "",
       ""
     ],
     "filename": "_agendas/recycling-committee.html",
