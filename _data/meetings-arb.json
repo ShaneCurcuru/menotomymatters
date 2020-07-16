@@ -1,4 +1,196 @@
 {
+  "2020-07-20": {
+    "date": "07/20/20",
+    "isodate": "2020-07-20",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by â#â.",
+    "viewurl": "MeetingView.aspx?MeetingID=1090&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1090",
+    "filename": "_agendas/2020-07-20-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJuly 20, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by July 20, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by July 17, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, July 20, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by “#”.",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Docket #3625, 882-892 Mass Ave *Continued Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=9382&MeetingID=1090",
+          "time": "7:00 p.m.",
+          "details": "Board will open public hearing for Special Permit Docket #3625 to review application by 882-892 Massachusetts Ave., LLC, for 882-892 Massachusetts Avenue, to develop a new mixed-use building with twenty-two (22) one-bedroom residential units and one (1) commercial space in a B2 Business District. The opening of the Special Permit is to allow the Board to review and approve the application in accordance with the provisions of MGL Chapter 40A and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. \n-  Applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment in accordance with Board rules and regulations. \n-  Board members will discuss docket and may vote.",
+          "dockets": {
+            "3625": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9211&ItemID=9382": [
+              "2020-07-15_ARB_Form.pdf",
+              "NEW 2020-7-15 ARB Application"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9207&ItemID=9382": [
+              "Combined_Application_Materials_-_updated_5-7-20.pdf",
+              "Combined Application Materials - updated 5-7-2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9208&ItemID=9382": [
+              "3625_Arlington__Mass_Ave_882-892_deed___plan.pdf",
+              "Docket #3625 882-892 Deed and Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9209&ItemID=9382": [
+              "4_-_Layout___Materials-C-102.pdf",
+              "NEW Layout and Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9210&ItemID=9382": [
+              "10_-_Landscaping-L-101.pdf",
+              "NEW Landscaping"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9212&ItemID=9382": [
+              "2020-07-15_EX-1_-_Open_Space_Lose_2_Stalls.pdf",
+              "NEW 2020-7-15 EX-1 - Open Space Lose 2 Stalls"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9213&ItemID=9382": [
+              "2020-07-15_EX-2_Open_Space_-_Keep_2_Stalls.pdf",
+              "NEW 2020-7-15 EX-2- Open Space Keep 2 Stalls"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9214&ItemID=9382": [
+              "Arlington_Mixed_Use_7.15.20.pdf",
+              "NEW Arlington Mixed Use 7.15.20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9227&ItemID=9382": [
+              "Correspondence_from_A._Bagnall_received_0518020.pdf",
+              "Correspondence from A. Bagnall received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9242&ItemID=9382": [
+              "Correspondence_from_B._Elliott_received_05182020.pdf",
+              "Correspondence from B. Elliott received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9229&ItemID=9382": [
+              "Correspondence_from_B._Rubin_received_05182020.pdf",
+              "Correspondence from B. Rubin received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9230&ItemID=9382": [
+              "Correspondence_from_B._Thornton_received_05182020.pdf",
+              "Correspondence from B. Thornton received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9231&ItemID=9382": [
+              "Correspondence_from_C._Klein_with_attachment_received_05162020.pdf",
+              "Correspondence from C. Klein with attachment received 05162020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9224&ItemID=9382": [
+              "Attachment_from_C._Klein_received_05162020.pdf",
+              "Attachment from C. Klein received 05162020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9220&ItemID=9382": [
+              "Correspondence_from_D._Seltzer_with_attachments_received_0514020.pdf",
+              "Correspondence from D. Seltzer with attachments received 05 14 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9221&ItemID=9382": [
+              "Attachment_1_from_D._Seltzer_received_05142020.pdf",
+              "Attachment 1 from D. Seltzer received 05142020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9222&ItemID=9382": [
+              "Attachment_2_from_D._Seltzer_received_05142020.pdf",
+              "Attachment 2 from D. Seltzer received 05142020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9223&ItemID=9382": [
+              "Attachment_3_from_D._Seltzer_received_05142020.pdf",
+              "Attachment 3 from D. Seltzer received 05142020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9233&ItemID=9382": [
+              "Correspondence_from_D._Seltzer_received_05112020.pdf",
+              "Correspondence from D. Seltzer received 05112020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9234&ItemID=9382": [
+              "Correspondence_from_E._Pyle_received_05182020.pdf",
+              "Correspondence from E. Pyle received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9235&ItemID=9382": [
+              "Correspondence_from_H._Helson_received_05182020.pdf",
+              "Correspondence from H. Helson received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9236&ItemID=9382": [
+              "Correspondence_from_M._Varoglu_received_05172020.pdf",
+              "Correspondence from M. Varoglu received 05172020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9225&ItemID=9382": [
+              "Correspondence_from_P._Worden_with_attachment_received_051820.pdf",
+              "Correspondence from P. Worden with attachment received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9226&ItemID=9382": [
+              "Attachment_from_P._Worden.pdf",
+              "Attachment from P. Worden received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9237&ItemID=9382": [
+              "Correspondence_from_Z._Brown_received_05182020.pdf",
+              "Correspondence from Z. Brown received 05182020"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Presentation and Discussion: Whittemore Park renovations",
+          "url": "CoverSheet.aspx?ItemID=9383&MeetingID=1090",
+          "time": "7:30 p.m.",
+          "details": "Representatives from Crowley Cottrell and the Department will provide a project update. Board members will discuss ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9241&ItemID=9383": [
+              "Agenda_Item_2_-_200629_ARB_Meeting_r.pdf",
+              "Whittemore Park Presentation"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Meeting Minutes (4/27, 5/4, 5/18)",
+          "url": "CoverSheet.aspx?ItemID=9384&MeetingID=1090",
+          "time": "7:50 p.m.",
+          "details": "Board will review and approve meeting minutes. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9215&ItemID=9384": [
+              "Agenda_Item_3_-_04272020_Draft_ARB_Minutes.docx",
+              "04272020 Draft ARB Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9216&ItemID=9384": [
+              "Agenda_Item_3_-_05042020_Draft_ARB_Minutes.docx",
+              "05042020 Draft ARB Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9217&ItemID=9384": [
+              "Agenda_Item_3_-_05182020_Draft_ARB_Minutes.docx",
+              "05182020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "8:00 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video. "
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": "Estimated 8:20 p.m. – Adjourn  "
+        },
+        {
+          "num": "6.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=9387&MeetingID=1090",
+          "details": "Correspondence received from:\r\nC. Gates \r\nD. Seltzer",
+          "correspondence": [
+            "C. Gates ",
+            "D. Seltzer"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9218&ItemID=9387": [
+              "Correspondence_Received_from_C._Gates_071520_for_Docket_3625.pdf",
+              "Correspondence received from C. Gates 071520 for Docket 3625"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9219&ItemID=9387": [
+              "Correspondence_Received_from_D._Seltzer_0720_for_Agenda_Item_3.pdf",
+              "Correspondence from D. Seltzer 071620 for Agenda Item 3"
+            ]
+          }
+        }
+      ]
+    }
+  },
   "2020-07-06": {
     "date": "07/06/20",
     "isodate": "2020-07-06",

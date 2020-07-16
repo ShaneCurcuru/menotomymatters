@@ -1,4 +1,54 @@
 {
+  "2020-07-16": {
+    "date": "07/16/20",
+    "isodate": "2020-07-16",
+    "title": "School Committee Special Meeting",
+    "location": "Remote Meeting Zoom-Superintendents Search Process SC focus group",
+    "viewurl": "MeetingView.aspx?MeetingID=1088&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1088",
+    "filename": "_agendas/2020-07-16-school.html",
+    "agenda": {
+      "notice": "",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9369&MeetingID=1088",
+            "CoverSheet.aspx?ItemID=9373&MeetingID=1088"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9369&MeetingID=1088'>Remote Meeting-Confirm member access</a> \n\n<a href='CoverSheet.aspx?ItemID=9373&MeetingID=1088'>Open Meeting</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9138&ItemID=9369": [
+              "Remote_Meeting_Script_(00022231xA050C).pdf",
+              "Remote script"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9139&ItemID=9369": [
+              "Remote_Participation_Checklist_for_COVID-19_Emergency_(00022229xA050C).pdf",
+              "Remote Checklist"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9140&ItemID=9369": [
+              "Supplement_re_Remote_Participation_During_Coronavirus_State_of_Emergency_-_Checklist_and_Script.pdf_(00022235xA050C)_(1)_(1).pdf",
+              "Remote Participation"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9370&MeetingID=1088"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9370&MeetingID=1088'>To conduct a focus group pertaining to the superintendent search process, to be facilitated by Glenn Koocher and the Massachusetts Association of School Committees.</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9371&MeetingID=1088"
+          ],
+          "details": "<a href='CoverSheet.aspx?ItemID=9371&MeetingID=1088'>Adjournment</a> \n\nThe listings of matters are those reasonably anticipated by the Chair, which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may also be brought up for discussion to the extent permitted by law.\n\nStated times and time amounts, listed in parenthesis, are the estimated amount of time for that particular agenda item. Actual times may be shorter or longer depending on the time needed to fully explore the topic.\n\n"
+        },
+        {
+          "details": "Submitted by Paul Schlichtman, Chair\n\n"
+        }
+      ]
+    }
+  },
   "2020-07-09": {
     "date": "07/09/20",
     "isodate": "2020-07-09",
