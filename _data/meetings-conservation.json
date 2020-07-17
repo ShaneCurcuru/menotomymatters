@@ -1,0 +1,178 @@
+{
+  "2020-07-16": {
+    "date": "07/16/20",
+    "isodate": "2020-07-16",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1089&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1089",
+    "filename": "_agendas/2020-07-16-conservation.html"
+  },
+  "2020-07-09": {
+    "date": "07/09/20",
+    "isodate": "2020-07-09",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1085&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1085",
+    "filename": "_agendas/2020-07-09-conservation.html"
+  },
+  "2020-06-18": {
+    "date": "06/18/20",
+    "isodate": "2020-06-18",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1078&MinutesMeetingID=729&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1078",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=729",
+    "filename": "_agendas/2020-06-18-conservation.html"
+  },
+  "2020-06-04": {
+    "date": "06/04/20",
+    "isodate": "2020-06-04",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1065&MinutesMeetingID=723&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1065",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=723",
+    "filename": "_agendas/2020-06-04-conservation.html"
+  },
+  "2020-05-21": {
+    "date": "05/21/20",
+    "isodate": "2020-05-21",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1049&MinutesMeetingID=722&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1049",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=722",
+    "filename": "_agendas/2020-05-21-conservation.html"
+  },
+  "2020-05-07": {
+    "date": "05/07/20",
+    "isodate": "2020-05-07",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1045&MinutesMeetingID=713&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1045",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=713",
+    "filename": "_agendas/2020-05-07-conservation.html"
+  },
+  "2020-04-16": {
+    "date": "04/16/20",
+    "isodate": "2020-04-16",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1036&MinutesMeetingID=703&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1036",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=703",
+    "filename": "_agendas/2020-04-16-conservation.html"
+  },
+  "2020-04-02": {
+    "date": "04/02/20",
+    "isodate": "2020-04-02",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1030&MinutesMeetingID=702&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1030",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=702",
+    "filename": "_agendas/2020-04-02-conservation.html"
+  },
+  "2020-03-19": {
+    "date": "03/19/20",
+    "isodate": "2020-03-19",
+    "title": "Conservation Commission Meeting",
+    "location": "CANCELLED",
+    "error": "no implicit conversion of nil into String",
+    "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `+'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `block (2 levels) in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `open'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `block in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `download_meetings'\n\tassets/code/agendaparser.rb:270:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+  },
+  "2020-03-05": {
+    "date": "03/05/20",
+    "isodate": "2020-03-05",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=1017&MinutesMeetingID=701&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1017",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=701",
+    "filename": "_agendas/2020-03-05-conservation.html"
+  },
+  "2020-02-27": {
+    "date": "02/27/20",
+    "isodate": "2020-02-27",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=1006&MinutesMeetingID=700&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1006",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=700",
+    "filename": "_agendas/2020-02-27-conservation.html"
+  },
+  "2020-02-06": {
+    "date": "02/06/20",
+    "isodate": "2020-02-06",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=1005&MinutesMeetingID=677&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1005",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=677",
+    "filename": "_agendas/2020-02-06-conservation.html"
+  },
+  "2020-01-16": {
+    "date": "01/16/20",
+    "isodate": "2020-01-16",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=1000&MinutesMeetingID=652&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1000",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=652",
+    "filename": "_agendas/2020-01-16-conservation.html"
+  },
+  "2020-01-02": {
+    "date": "01/02/20",
+    "isodate": "2020-01-02",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=988&MinutesMeetingID=650&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=988",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=650",
+    "filename": "_agendas/2020-01-02-conservation.html"
+  },
+  "2019-12-19": {
+    "date": "12/19/19",
+    "isodate": "2019-12-19",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=976&MinutesMeetingID=649&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=976",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=649",
+    "filename": "_agendas/2019-12-19-conservation.html"
+  },
+  "2019-12-05": {
+    "date": "12/05/19",
+    "isodate": "2019-12-05",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=975&MinutesMeetingID=648&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=975",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=648",
+    "filename": "_agendas/2019-12-05-conservation.html"
+  },
+  "2019-11-21": {
+    "date": "11/21/19",
+    "isodate": "2019-11-21",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=972&MinutesMeetingID=646&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=972",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=646",
+    "filename": "_agendas/2019-11-21-conservation.html"
+  },
+  "2019-11-07": {
+    "date": "11/07/19",
+    "isodate": "2019-11-07",
+    "title": "Conservation Commission Meeting",
+    "location": "Town Hall Annex, Second Floor Conference Room",
+    "viewurl": "MeetingView.aspx?MeetingID=959&MinutesMeetingID=645&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=959",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=645",
+    "filename": "_agendas/2019-11-07-conservation.html"
+  }
+}
