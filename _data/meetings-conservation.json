@@ -6,7 +6,237 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1089&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1089",
-    "filename": "_agendas/2020-07-16-conservation.html"
+    "filename": "_agendas/2020-07-16-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, July 16, 2020 Time: 6:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 4,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the July 16, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: July 16, 2020 06:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/95973689592\r\nMeeting ID: 959 7368 9592\r\nPassword: 333038\r\n \r\nCall-in: +1 301 715 8592\r\n+1 312 626 6799\r\nMeeting number: 959 736 89592# \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=9378&MeetingID=1089'>Notice of Intent: 869 Massachusetts Ave</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9152&ItemID=9378": [
+              "AHS_Existing_Conditions_Plan_Set.pdf",
+              "869 Mass Ave NOI Existing Conditions Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9151&ItemID=9378": [
+              "AHS_NOI.pdf",
+              "869 Mass Ave NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9153&ItemID=9378": [
+              "AHS_NOI_Civil_Engineering_Plan_Set_compressed.pdf",
+              "869 Mass Ave NOI Civil Engineering Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9154&ItemID=9378": [
+              "AHS_Sports_Field_Plan_Set.pdf",
+              "869 Mass Ave NOI Sports Fields Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9155&ItemID=9378": [
+              "AHS_Stormwater_Report.pdf",
+              "869 Mass Ave NOI Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9156&ItemID=9378": [
+              "AHS_NOI_L3.2_Landscape_Planting_Plan.pdf",
+              "AHS NOI Landscape Plan 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9157&ItemID=9378": [
+              "AHS_NOI_L3.1_Landscape_Planting_Plan.pdf",
+              "AHS NOI Landscape Plan 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9158&ItemID=9378": [
+              "AHS_SWPPP_033020.pdf",
+              "AHS NOI SWPPP"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9159&ItemID=9378": [
+              "AHS_Sports_Turf_NOI_Supplemental_Narrative_05-26-20.pdf",
+              "AHS NOI Turf Field Supplemental Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9160&ItemID=9378": [
+              "AHS_NOI_AURA_Impervious_Calcs.pdf",
+              "AHS NOI AURA Impervious Surface Calculations"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9161&ItemID=9378": [
+              "AHS_Revised_Stormwater_Report.pdf",
+              "AHS NOI Revised Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9162&ItemID=9378": [
+              "AHS_NOI_Environmental_Constraints_Summary.pdf",
+              "AHS NOI Environmental Constraints Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9163&ItemID=9378": [
+              "AHS_NOI_Landscape_Diagrams.pdf",
+              "AHS NOI Landscape Diagrams"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9164&ItemID=9378": [
+              "AHS_NOI_Rain_Garden_Narrative.pdf",
+              "AHS NOI Rain Garden Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9165&ItemID=9378": [
+              "AHS_NOI_Rain_Garden_Package.pdf",
+              "AHS NOI Rain Garden Package"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9166&ItemID=9378": [
+              "AHS_NOI_Riverfront_Analysis.pdf",
+              "AHS NOI Riverfront Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9167&ItemID=9378": [
+              "AHS_NOI_AURA_Analysis.pdf",
+              "AHS NOI AURA Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9168&ItemID=9378": [
+              "AHS_NOI_JJA_Sports_LLC_Synthetic_Turf_Potential_Health_and_Environmental_Exposure_Related_Testing.pdf",
+              "AHS NOI Artificial Turf Ecological Impact Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9169&ItemID=9378": [
+              "AHS_NOI_JJA_Sports_LLC_Synthetic_Turf_Use_and_Life_Cycle_Evaluation.pdf",
+              "AHS NOI Artificial Turf Life Cycle Evaluation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9170&ItemID=9378": [
+              "AHS_NOI_Artificial_Turf_Recycle_-_Reuse_-_Repurpose_2019.pdf",
+              "AHS NOI Artificial Turf Disposal Guide"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9171&ItemID=9378": [
+              "AHS_NOI_Climate_Change_Summary_for_Turf_Fields_-_Ecological_Health.pdf",
+              "AHS NOI Artificial Turf Climate Change Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9172&ItemID=9378": [
+              "AHS_NOI_JJA_Sports_LLC_Heat_Island_Effect_of_Synthetic_Turf_06-24-20.pdf",
+              "AHS NOI Artificial Turf Heat Island Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9173&ItemID=9378": [
+              "AHS_NOI_Onsite_Water_Capture_for_Landscaping.pdf",
+              "AHS NOI Onsite Water Capture for Landscaping Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9174&ItemID=9378": [
+              "AHS_NOI_Curb_Removal___WQU_in_East_Parking_Area_Plan.pdf",
+              "AHS NOI Parking Area Curbing Revised Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9175&ItemID=9378": [
+              "AHS_NOI_Curb_Removal___WQU_in_East_Parking_Area.pdf",
+              "AHS NOI Parking Area Curbing Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9176&ItemID=9378": [
+              "AHS_NOI_Rain_Garden_bypass.pdf",
+              "AHS NOI Rain Garden Revised Plan for Bypass"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9177&ItemID=9378": [
+              "AHS_NOI_Arlington_Rain_Garden_Narrative_Rev_1.pdf",
+              "AHS NOI Rain Garden Revised Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9178&ItemID=9378": [
+              "AHS_NOI_Stormwater_Rain_Garden_Maintenance.pdf",
+              "AHS NOI Stormwater and Rain Garden O&M Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9179&ItemID=9378": [
+              "AHS_NOI_Removal_of_Invasives_along_Mill_Brook.pdf",
+              "AHS NOI Mill Brook Invasive Species Removal Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9180&ItemID=9378": [
+              "AHS_Project_-_Site_Visit_Notes_12June2020.pdf",
+              "AHS NOI Site Visit 06122020 Notes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9181&ItemID=9378": [
+              "2020-07-02_MyRWA_Arlington_High_School_NoI_Comment_Letter.pdf",
+              "AHS NOI MyRWA Comment Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9182&ItemID=9378": [
+              "Letter_to_Conservation_Commission_from_AHSBC_Chair_(7.9.20).pdf",
+              "AHS Building Committee Comment Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9183&ItemID=9378": [
+              "Artificial_Turf_vs_Natural_Turf_Life_Cycle_Chapnick.pdf",
+              "AHS NOI S Chapnick Artificial Turf Life Cycle Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9184&ItemID=9378": [
+              "Cost_Artificial_Turf._September_2016.pdf",
+              "AHS NOI TURI Artificial Turf 2016 Paper"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9185&ItemID=9378": [
+              "TURI_Report_June_2019._Athletic_Playing_Fields.pdf",
+              "AHS NOI TURI Artificial Turf 2019 Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9186&ItemID=9378": [
+              "Sharon_Artificial_Turf_Documents.pdf",
+              "AHS NOI Sharon Conservation Commission Artificial Turf Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9187&ItemID=9378": [
+              "Letter_to_Conservation_Commission_from_Superintendent_and_AHS_Principal.pdf",
+              "AHS NOI Superintendent and AHS Principal Comment Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9188&ItemID=9378": [
+              "Item_7_Climate_Change_Summary_for_Turf_Fields_-_Perf_Standards.pdf",
+              "AHS NOI Update Artificial Turf Climate Change Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9189&ItemID=9378": [
+              "Planting-Sketch_1.pdf",
+              "AHS NOI Western Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9190&ItemID=9378": [
+              "Planting-Sketch_2.pdf",
+              "AHS NOI Eastern Rain Garden Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9191&ItemID=9378": [
+              "Planting-Sketch_3.pdf",
+              "AHS NOI Eastern Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9192&ItemID=9378": [
+              "Items_6_and_7_Filtering_of_Turf_infill_and_SMP_Standards.pdf",
+              "AHS NOI Artificial Turf Stormwater System Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9193&ItemID=9378": [
+              "Item_2_Western_Field_AURA_analysis.pdf",
+              "AHS NOI Western AURA Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9194&ItemID=9378": [
+              "Item_5_Area_drain_figure.pdf",
+              "AHS NOI Western Drain"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9195&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07102020_Trevor_Smith.PNG",
+              "Public Comment Trevor Smith"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9196&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_Kristina_Perry.PNG",
+              "Public Comment Kristina Perry"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9197&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_Elizabeth_Rocco.PNG",
+              "Public Comment Elizabeth Rocco"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9198&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_Madeline_Brambilla.PNG",
+              "Public Comment Madeline Brambilla"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9199&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_Wyatt_LaCoss.PNG",
+              "Public Comment Wyatt LaCoss"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9200&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_Jessi_Smolow.PNG",
+              "Public Comment Jessi Smolow"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9201&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07132020_James_Fleming.PNG",
+              "Public Comment James Fleming"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9202&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07142020_Joshua_Shalem.PNG",
+              "Public Comment Joshua Shalem"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9203&ItemID=9378": [
+              "AHS_NOI_Public_Comment_07142020_Tina_Halfpenny.PNG",
+              "Public Comment Tina Halfpenny"
+            ]
+          }
+        }
+      ]
+    }
   },
   "2020-07-09": {
     "date": "07/09/20",
@@ -15,7 +245,226 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1085&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1085",
-    "filename": "_agendas/2020-07-09-conservation.html"
+    "filename": "_agendas/2020-07-09-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, July 9, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the July 9, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: July 9, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/96484865404\r\n \r\nMeeting ID: 964 8486 5404\r\nMeeting Password: 909730\r\n \r\nOne tap mobile\r\nCall-in: +1 646 876 9923\r\n            +1 301 715 8592\r\nMeeting Number: 964 848 65404# \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 06/18/2020 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Administrative update. </span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>The Commission will review and discuss a proposed scout project for floating wetlands in McClennen and Spy Pond.</span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>The Commission will discuss the draft letter to the Zoning Board of Appeals (ZBA) regarding the Thorndike Place 40B Proposal. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update:Section 24 Vegetation Removal and Replacement. </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=9351&MeetingID=1085'>Enforcement: 39 Wellington Street</a>  <a href='CoverSheet.aspx?ItemID=9352&MeetingID=1085'>Request for Certificate of Compliance: 61 Sunnyside Ave</a>  <a href='CoverSheet.aspx?ItemID=9343&MeetingID=1085'>Notice of Intent: 869 Massachusetts Ave</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9093&ItemID=9351": [
+              "39_Wellington_St_Notice_of_Enforcement_Order.pdf",
+              "39 Wellington St Notice of Enforcement"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9096&ItemID=9351": [
+              "39_Wellington_St_Enforcement_Revised_Planting_List.pdf",
+              "39 Wellington St Revised Proposed Planting List"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9097&ItemID=9351": [
+              "39_Wellington_St_Enforcement_Revised_Planting_Plan.pdf",
+              "39 Wellington St Revised Proposed Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9104&ItemID=9352": [
+              "61_Sunnyside_Revised_NOI.pdf",
+              "61 Sunnyside Ave NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9105&ItemID=9352": [
+              "61_Sunnyside_Revised_Narrative.pdf",
+              "61 Sunnyside Ave NOI Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9106&ItemID=9352": [
+              "61_Sunnyside_Revised_Proposed_plot_Plan.pdf",
+              "61 Sunnyside Ave NOI Proposed Plot Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9107&ItemID=9352": [
+              "61_Sunnyside_Stamped_Floodplain_Survey.pdf",
+              "61 Sunnyside Ave NOI Survey"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9108&ItemID=9352": [
+              "61_Sunnyside_OOC.pdf",
+              "61 Sunnyside Ave OOC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9109&ItemID=9352": [
+              "61_Sunnyside_COC_Letter.jpeg",
+              "61 Sunnyside Ave RCOC Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9110&ItemID=9352": [
+              "61_Sunnyside_COC_As-Built.jpeg",
+              "61 Sunnyside Ave RCOC As-Built Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9111&ItemID=9352": [
+              "61_Sunnyside_COC_Form8a_page_1.jpeg",
+              "61 Sunnyside Ave RCOC Form 8a Page 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9112&ItemID=9352": [
+              "61_Sunnyside_COC_Form8a_page_2.jpeg",
+              "61 Sunnyside Ave RCOC Form 8a Page 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9056&ItemID=9343": [
+              "AHS_NOI.pdf",
+              "869 Mass Ave NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9057&ItemID=9343": [
+              "AHS_Existing_Conditions_Plan_Set.pdf",
+              "869 Mass Ave NOI Existing Conditions Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9058&ItemID=9343": [
+              "AHS_NOI_Civil_Engineering_Plan_Set_compressed.pdf",
+              "869 Mass Ave NOI Civil Engineering Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9059&ItemID=9343": [
+              "AHS_Sports_Field_Plan_Set.pdf",
+              "869 Mass Ave NOI Sports Fields Plan Set"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9060&ItemID=9343": [
+              "AHS_Stormwater_Report.pdf",
+              "869 Mass Ave NOI Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9061&ItemID=9343": [
+              "AHS_NOI_L3.2_Landscape_Planting_Plan.pdf",
+              "AHS NOI Landscape Plan 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9062&ItemID=9343": [
+              "AHS_NOI_L3.1_Landscape_Planting_Plan.pdf",
+              "AHS NOI Landscape Plan 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9063&ItemID=9343": [
+              "AHS_SWPPP_033020.pdf",
+              "AHS NOI SWPPP"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9064&ItemID=9343": [
+              "AHS_Sports_Turf_NOI_Supplemental_Narrative_05-26-20.pdf",
+              "AHS NOI Turf Field Supplemental Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9065&ItemID=9343": [
+              "AHS_NOI_AURA_Impervious_Calcs.pdf",
+              "AHS NOI AURA Impervious Surface Calculations"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9066&ItemID=9343": [
+              "AHS_Revised_Stormwater_Report.pdf",
+              "AHS NOI Revised Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9067&ItemID=9343": [
+              "AHS_NOI_Environmental_Constraints_Summary.pdf",
+              "AHS NOI Environmental Constraints Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9068&ItemID=9343": [
+              "AHS_NOI_Landscape_Diagrams.pdf",
+              "AHS NOI Landscape Diagrams"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9069&ItemID=9343": [
+              "AHS_NOI_Rain_Garden_Narrative.pdf",
+              "AHS NOI Rain Garden Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9070&ItemID=9343": [
+              "AHS_NOI_Rain_Garden_Package.pdf",
+              "AHS NOI Rain Garden Package"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9071&ItemID=9343": [
+              "AHS_NOI_Riverfront_Analysis.pdf",
+              "AHS NOI Riverfront Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9072&ItemID=9343": [
+              "AHS_NOI_AURA_Analysis.pdf",
+              "AHS NOI AURA Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9080&ItemID=9343": [
+              "AHS_NOI_JJA_Sports_LLC_Synthetic_Turf_Potential_Health_and_Environmental_Exposure_Related_Testing.pdf",
+              "AHS NOI Artificial Turf Ecological Impact Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9081&ItemID=9343": [
+              "AHS_NOI_JJA_Sports_LLC_Synthetic_Turf_Use_and_Life_Cycle_Evaluation.pdf",
+              "AHS NOI Artificial Turf Life Cycle Evaluation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9082&ItemID=9343": [
+              "AHS_NOI_Artificial_Turf_Recycle_-_Reuse_-_Repurpose_2019.pdf",
+              "AHS NOI Artificial Turf Disposal Guide"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9083&ItemID=9343": [
+              "AHS_NOI_Climate_Change_Summary_for_Turf_Fields_-_Ecological_Health.pdf",
+              "AHS NOI Artificial Turf Climate Change Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9084&ItemID=9343": [
+              "AHS_NOI_JJA_Sports_LLC_Heat_Island_Effect_of_Synthetic_Turf_06-24-20.pdf",
+              "AHS NOI Artificial Turf Heat Island Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9085&ItemID=9343": [
+              "AHS_NOI_Onsite_Water_Capture_for_Landscaping.pdf",
+              "AHS NOI Onsite Water Capture for Landscaping Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9086&ItemID=9343": [
+              "AHS_NOI_Curb_Removal___WQU_in_East_Parking_Area_Plan.pdf",
+              "AHS NOI Parking Area Curbing Revised Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9087&ItemID=9343": [
+              "AHS_NOI_Curb_Removal___WQU_in_East_Parking_Area.pdf",
+              "AHS NOI Parking Area Curbing Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9088&ItemID=9343": [
+              "AHS_NOI_Rain_Garden_bypass.pdf",
+              "AHS NOI Rain Garden Revised Plan for Bypass"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9089&ItemID=9343": [
+              "AHS_NOI_Arlington_Rain_Garden_Narrative_Rev_1.pdf",
+              "AHS NOi Rain Garden Revised Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9090&ItemID=9343": [
+              "AHS_NOI_Stormwater_Rain_Garden_Maintenance.pdf",
+              "AHS NOI Stormwater and Rain Garden O&M Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9091&ItemID=9343": [
+              "AHS_NOI_Removal_of_Invasives_along_Mill_Brook.pdf",
+              "AHS NOI Mill Brook Invasive Species Removal Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9122&ItemID=9343": [
+              "AHS_Project_-_Site_Visit_Notes_12June2020.pdf",
+              "AHS NOI Site Visit 06122020 Notes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9123&ItemID=9343": [
+              "2020-07-02_MyRWA_Arlington_High_School_NoI_Comment_Letter.pdf",
+              "AHS NOI MyRWA Comment Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9130&ItemID=9343": [
+              "Letter_to_Conservation_Commission_from_AHSBC_Chair_(7.9.20).pdf",
+              "AHS Building Committee Comment Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9131&ItemID=9343": [
+              "Artificial_Turf_vs_Natural_Turf_Life_Cycle_Chapnick.pdf",
+              "AHS NOI S Chapnick Artificial Turf Life Cycle Analysis"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9132&ItemID=9343": [
+              "Cost_Artificial_Turf._September_2016.pdf",
+              "AHS NOI TURI Artificial Turf 2016 Paper"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9133&ItemID=9343": [
+              "TURI_Report_June_2019._Athletic_Playing_Fields.pdf",
+              "AHS NOI TURI Artificial Turf 2019 Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9134&ItemID=9343": [
+              "Sharon_Artificial_Turf_Documents.pdf",
+              "AHS NOI Sharon Conservation Commission Artificial Turf Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9136&ItemID=9343": [
+              "Letter_to_Conservation_Commission_from_Superintendent_and_AHS_Principal.pdf",
+              "AHS NOI Superintendent and AHS Principal Comment Letter"
+            ]
+          }
+        }
+      ]
+    }
   },
   "2020-06-18": {
     "date": "06/18/20",
@@ -25,7 +474,23 @@
     "viewurl": "MeetingView.aspx?MeetingID=1078&MinutesMeetingID=729&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1078",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=729",
-    "filename": "_agendas/2020-06-18-conservation.html"
+    "filename": "_agendas/2020-06-18-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, June 18, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 4,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the June 18, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: June 18, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/99917783740\r\nMeeting ID: 999 1778 3740\r\nMeeting Password: 322904\r\n \r\nOne tap mobile\r\nCall-in: +1 646 876 9923 \r\n            +1 301 715 8592 \r\nMeeting Number: 999 177 83740#\r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 05/21/2020 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Review draft 06/04/2020 minutes.</span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>Administrative update. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update:Section 24 Vegetation Removal and Replacement. </span>"
+        }
+      ]
+    }
   },
   "2020-06-04": {
     "date": "06/04/20",
@@ -35,7 +500,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=1065&MinutesMeetingID=723&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1065",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=723",
-    "filename": "_agendas/2020-06-04-conservation.html"
+    "filename": "_agendas/2020-06-04-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, June 4, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">In accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the June 4, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: June 4, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/92474063233\r\nMeeting ID: 924 7406 3233\r\nMeeting Password: 605520\r\n \r\nOne tap mobile\r\nCall-in: +1 646 876 9923\r\n            +1 301 715 8592\r\nMeeting Number: 924 740 632 33#\r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Administrative update. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Regulations Update:Section 24 Vegetation Removal and Replacement. </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">The Commission will review and discuss a proposed scout project for trail restoration work at Mt. Gilboa.</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Request for Certificate of Compliance: 12 Clyde TerraceLINK TO Notice of Intent: 869 Massachusetts Ave"
+        }
+      ]
+    }
   },
   "2020-05-21": {
     "date": "05/21/20",
@@ -45,7 +531,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=1049&MinutesMeetingID=722&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1049",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=722",
-    "filename": "_agendas/2020-05-21-conservation.html"
+    "filename": "_agendas/2020-05-21-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, May 21, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">In accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the May 21, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: May 21, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/862364087\r\nMeeting ID: 862 364 087\r\nMeeting Password: 894050\r\n \r\nOne tap mobile\r\nCall-in: +1 312 626 6799 \r\n            +1 646 876 9923\r\nMeeting Number: 862 364 087#\r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review draft 05/07/2020 meeting minutes. </span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Administrative update.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Regulations Update: Administrative Review </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Notice of Intent: 869 Massachusetts AveLINK TO Deliberation: Notice of Intent: 1297 Massachusetts AveLINK TO Deliberation: Notice of Intent: 105 Lafayette Street"
+        }
+      ]
+    }
   },
   "2020-05-07": {
     "date": "05/07/20",
@@ -55,7 +562,23 @@
     "viewurl": "MeetingView.aspx?MeetingID=1045&MinutesMeetingID=713&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1045",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=713",
-    "filename": "_agendas/2020-05-07-conservation.html"
+    "filename": "_agendas/2020-05-07-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, May 7, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 4,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">The Arlington Conservation Commission is inviting you to a scheduled Zoom meeting.\r\n \r\nIn accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the May 7, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\n\r\nTime: Apr 16, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\nhttps://zoom.us/j/921521418\r\n\r\nMeeting ID: 921 521 418\r\nPassword: 839254\r\n\r\nOne tap mobile\r\n+1-301-715-8592,,921521418# US \r\n+1312-626-6799,,921521418# US \r\n \r\n\r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download\r\n \r\nPublic access to this meeting shall be provided in the following manner:\r\nReal-time public comment can be addressed to the Conservation Commission utilizing the Zoom virtual meeting software for remote participation. This application will allow attendees to request an opportunity for public comment, and allow the Conservation Chair or Agent to grant attendees the opportunity for public comment. Attendees can use either phone or computer to participant in the meeting. Public comment can also be sent in advance of the meeting by emailing  the Conservation Agent at esullivan@town.arlington.ma.us by no later than 3pm on May 7 2020.  Submitted public comment will be read into the record at the appropriate points in the meeting.</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review draft 04/02/2020 minutes.</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Review draft 04/16/2020 minutes. </span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Administrative updates.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Hearings",
+          "details": "LINK TO Enforcement: 39 Wellington StreetLINK TO Notice of Intent: 1297 Massachusetts AveLINK TO Notice of Intent: 105 Lafayette StreetLINK TO Deliberations: 47 Spy Pond Lane Lots 1/A and 2/B (continued from 3/5/2020)"
+        }
+      ]
+    }
   },
   "2020-04-16": {
     "date": "04/16/20",
@@ -65,7 +588,23 @@
     "viewurl": "MeetingView.aspx?MeetingID=1036&MinutesMeetingID=703&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1036",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=703",
-    "filename": "_agendas/2020-04-16-conservation.html"
+    "filename": "_agendas/2020-04-16-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, April 16, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 4,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">The Arlington Conservation Commission is inviting you to a scheduled Zoom meeting.\r\n \r\nIn accordance with the Governor’s Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the April 16, 2020 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\n\r\nTime: Apr 16, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\n\r\nhttps://zoom.us/j/572270026\r\n\r\n\r\nMeeting ID: 572 270 026\r\nPassword: 296535\r\n\r\nOne tap mobile\r\nCall-in: +1(646)876-9923\r\nMeeting Number: 572 270 026#\r\n\r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download\r\n \r\nPublic access to this meeting shall be provided in the following manner:\r\nReal-time public comment can be addressed to the Conservation Commission utilizing the Zoom virtual meeting software for remote participation. This application will allow attendees to request an opportunity for public comment, and allow the Conservation Chair or Agent to grant attendees the opportunity for public comment. Attendees can use either phone or computer to participant in the meeting. Public comment can also be sent in advance of the meeting by emailing  the Conservation Agent at esullivan@town.arlington.ma.us by no later than 3pm on April 16, 2020.  Submitted public comment will be read into the record at the appropriate points in the meeting.</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">General administrative updates.</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Commission vote to authorize Conservation Agent to sign Commission’s behalf. </span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Commission vote for Zoom account.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Hearings",
+          "details": "LINK TO Deliberations: 47 Spy Pond Lane Lots 1/A and 2/B (continued from 3/5/2020)LINK TO Deliberation: 93 Sunnyside Ave (continued from 2/27/2020)LINK TO Notice of Intent: 77 Sunnyside Ave (continued from 4/2/2020)"
+        }
+      ]
+    }
   },
   "2020-04-02": {
     "date": "04/02/20",
@@ -75,7 +614,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=1030&MinutesMeetingID=702&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1030",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=702",
-    "filename": "_agendas/2020-04-02-conservation.html"
+    "filename": "_agendas/2020-04-02-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, April 2, 2020 Time: 7:30 PM Location: Conducted by Remote Participation  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">The Arlington Conservation Commission is inviting you to a scheduled Zoom meeting.\r\n\r\nTopic: Conservation Commission Meeting\r\n\r\nTime: Apr 2, 2020 07:30 PM Eastern Time (US and Canada)\r\n \r\nJoin Zoom Meeting\r\n\r\nhttps://zoom.us/j/387028558?pwd=b05KR0pva0Z1ZkdVVTcwL3ZKOURJdz09\r\n\r\n\r\nMeeting ID: 387 028 558\r\n\r\nPassword: 018950\r\n\r\nOne tap mobile\r\n\r\nCall-in: +1(646)876-9923 \r\nMeeting Number: 387028558# US (New York)\r\n\r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review draft 02/27/2020 minutes</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review draft 03/05/2020 minutes</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Notices of Intent: 47 Spy Pond Lane Lots 1/A and 2/B (continued from 3/5/2020)LINK TO Notice of Intent: 93 Sunnyside Ave (continued from 2/27/2020)LINK TO Notice of Intent: 77 Sunnyside AveLINK TO Notice of Intent: 1267 Massachusetts Ave"
+        }
+      ]
+    }
   },
   "2020-03-19": {
     "date": "03/19/20",
@@ -83,7 +643,12 @@
     "title": "Conservation Commission Meeting",
     "location": "CANCELLED",
     "error": "no implicit conversion of nil into String",
-    "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `+'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `block (2 levels) in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `open'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `block in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `download_meetings'\n\tassets/code/agendaparser.rb:270:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `+'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:151:in `block (2 levels) in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `open'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:150:in `block in download_meetings'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/agendautils.rb:142:in `download_meetings'\n\tassets/code/agendaparser.rb:270:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'",
+    "filename": "_agendas/2020-03-19-conservation.html",
+    "agenda": {
+      "error": "_agendas/2020-03-19-conservation.html Agenda data not found; perhaps meeting was cancelled?",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:41:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:257:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
   },
   "2020-03-05": {
     "date": "03/05/20",
@@ -93,7 +658,33 @@
     "viewurl": "MeetingView.aspx?MeetingID=1017&MinutesMeetingID=701&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1017",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=701",
-    "filename": "_agendas/2020-03-05-conservation.html"
+    "filename": "_agendas/2020-03-05-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, March 5, 2020 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 8,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review and vote on the offset contributed to the Department of Planning and Community Development (DPCD) budget from the Commission's permit fees account which contributes directly to the Conservation Agent's salary. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Project updates. </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Committee and working group updates, including but not limited to: Water Bodies, Open Space, Reservoir, Spy Pond, Community Preservation, Zoning Bylaw, Public Lands Maintenance, Land Stewards.</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">MACC Annual Conference update.</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discussion to determine and prioritize actionable goals for the general goals the Commission set for 2020 during its 1/2/2020 meeting.</span>"
+        },
+        {
+          "num": "4.",
+          "title": "Hearings",
+          "details": "LINK TO Notice of IntentLINK TO Notice of IntentLINK TO Notice of Intent"
+        }
+      ]
+    }
   },
   "2020-02-27": {
     "date": "02/27/20",
@@ -103,7 +694,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=1006&MinutesMeetingID=700&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1006",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=700",
-    "filename": "_agendas/2020-02-27-conservation.html"
+    "filename": "_agendas/2020-02-27-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, February 27, 2020 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review draft 02/06/2020 minutes. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Project updates. </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Committee and working group updates, including but not limited to: Water Bodies, Open Space, Reservoir, Spy Pond, Community Preservation, Zoning Bylaw, Public Lands Maintenance, Land Stewards.</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Request for Certificate of ComplianceLINK TO Notice of IntentLINK TO Request for Determination of ApplicabilityLINK TO Arlington Regulations for Wetlands Protection Update"
+        }
+      ]
+    }
   },
   "2020-02-06": {
     "date": "02/06/20",
@@ -113,7 +725,30 @@
     "viewurl": "MeetingView.aspx?MeetingID=1005&MinutesMeetingID=677&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1005",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=677",
-    "filename": "_agendas/2020-02-06-conservation.html"
+    "filename": "_agendas/2020-02-06-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, February 6, 2020 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 10,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review draft 01/16/2020 minutes</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review MACC Annual Conference workshop offerings. The conference is scheduled for Saturday, 02/29/2020.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Updates on project statuses </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Updates on committees and working groups, including: Water Bodies, Open Space, Reservoir, Spy Pond, Community Preservation Act Committee, Zoning Bylaw, Public Lands Maintenance, Land Stewards</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Request for Determination of ApplicabilityLINK TO Arlington's Great Meadows Restoration ProjectLINK TO Prioritize Commission Goals Established at the 01/02/2020 MeetingLINK TO Arlington Regulations for Wetlands Protection Update"
+        }
+      ],
+      "error": "_agendas/2020-02-06-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:54:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:257:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
   },
   "2020-01-16": {
     "date": "01/16/20",
@@ -123,7 +758,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=1000&MinutesMeetingID=652&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1000",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=652",
-    "filename": "_agendas/2020-01-16-conservation.html"
+    "filename": "_agendas/2020-01-16-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, January 16, 2020 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review draft 12/19/2019 minutes </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review draft 1/2/2020 minutes </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Updates on project statuses </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Updates on committees and working groups, including: Water Bodies, Open Space, Reservoir,  Spy Pond, CPAC, Zoning Bylaw, Public Lands Maintenance, Land Stewards</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discuss regulatory update, including:\r\n\r\n     Discuss and draft schedule for Arlington regulations update\r\n     Discuss and draft updates to Section 25 of the Arlington  Regulations for Wetlands Protection\r\n     Discuss minor project permit\r\n     Discuss and draft comments for the proposed updates to the Wetlands Protection Act</span>"
+        }
+      ]
+    }
   },
   "2020-01-02": {
     "date": "01/02/20",
@@ -133,7 +789,18 @@
     "viewurl": "MeetingView.aspx?MeetingID=988&MinutesMeetingID=650&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=988",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=650",
-    "filename": "_agendas/2020-01-02-conservation.html"
+    "filename": "_agendas/2020-01-02-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, January 2, 2020 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 2,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discuss update to Arlington Regulations for Wetlands Protection </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Discuss revisions to 2019 Annual Report to Town Meeting </span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Discuss 2020 goals for the Commission</span>"
+        }
+      ]
+    }
   },
   "2019-12-19": {
     "date": "12/19/19",
@@ -143,7 +810,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=976&MinutesMeetingID=649&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=976",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=649",
-    "filename": "_agendas/2019-12-19-conservation.html"
+    "filename": "_agendas/2019-12-19-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, December 19, 2019 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review 12/5/2019 draft meeting minutes</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Determine Water Bodies FY2021 fund appropriation request</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Determine what topics will be included in the Commission's annual report to Town Meeting </span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Review proposed planting plan for 1167R Mass Ave MassDEP File # 091-0314</span>\\n\\n<span class=\"subhead\">e.</span>\\n\\n<span class=\"subhead\">Upper Mystic Lake Treatment\r\n MassDEP File # 091-0277</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discussion of process to review draft permits and get feedback on draft conditions </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Discuss improvements to conservation lands using the Land Stewards Fund</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Discussion on Dec. 10, 2019  ZBA hearing on Thorndike Place 40B proposal</span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Discussion on 840 Emerson Gardens balanced housing proposal  next to Arlington’s Great Meadows in Lexington, MA  </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Review MWRA Contract No. 6544"
+        }
+      ]
+    }
   },
   "2019-12-05": {
     "date": "12/05/19",
@@ -153,7 +841,28 @@
     "viewurl": "MeetingView.aspx?MeetingID=975&MinutesMeetingID=648&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=975",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=648",
-    "filename": "_agendas/2019-12-05-conservation.html"
+    "filename": "_agendas/2019-12-05-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, December 5, 2019 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 6,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review 11/7/2019 draft meeting minutes</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review 11/21/2019 draft meeting minutes </span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">MWRA Contract No. 6544 - Cleaning and Lining of Weston Aqueduct Supply Main 3, Mystic River Reservation </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discuss the Veteran's Memorial Park at Cooke's Hollow CPA application</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": "LINK TO Request for Determination of Applicability"
+        }
+      ]
+    }
   },
   "2019-11-21": {
     "date": "11/21/19",
@@ -163,7 +872,33 @@
     "viewurl": "MeetingView.aspx?MeetingID=972&MinutesMeetingID=646&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=972",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=646",
-    "filename": "_agendas/2019-11-21-conservation.html"
+    "filename": "_agendas/2019-11-21-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, November 21, 2019 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 8,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review 10/3/2019 and 10/17/2019 minutes </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review Executive Session meeting minutes for 12 Clyde Terrace - 02/02/2017, 04/06/2017, and 05/04/2017.\r\n \r\nReview Executive Session meeting minutes for 47 Spy Pond Lane - 06/17/2018 and 07/19/2018. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Discuss project updates</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Discuss updates for Water Bodies Working Group, Open Space Committee, Reservoir Committee,   Spy Pond Committee, Community Preservation Act Committee, Zoning Bylaw Working Group, Public Lands Maintenance Working Group, Land Stewards</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review Draft Floodplain Encroachment Guide</span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review CPA Applications that have requested a Conservation Commission letter of support</span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Discuss ideas for potential scout projects</span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Review current version of the Arlington Regulations for Wetlands Protection and discuss possible updates</span>"
+        },
+        {
+          "num": "4.",
+          "title": "Hearings",
+          "details": "LINK TO Request for Minor Plan Modification"
+        }
+      ]
+    }
   },
   "2019-11-07": {
     "date": "11/07/19",
@@ -173,6 +908,32 @@
     "viewurl": "MeetingView.aspx?MeetingID=959&MinutesMeetingID=645&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=959",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=645",
-    "filename": "_agendas/2019-11-07-conservation.html"
+    "filename": "_agendas/2019-11-07-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, November 7, 2019 Time: 7:30 PM Location: Town Hall Annex, Second Floor Conference Room  Agenda",
+      "rows": 8,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review 10/03/2019 meeting minutes </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review 10/17/2019 meeting minutes </span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Discuss the MACC Fall Conference </span>\\n\\n<span class=\"subhead\">d.</span>\\n\\n<span class=\"subhead\">Determine which Commissioners would like paper submittals and which Commissioners would like electronic submittals</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Updates",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review updates for ongoing projects, including: Spy Pond Erosion Control and Slope Stabilization, Wellington Park, Mystic Restoration Outfall </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Review updates for Committees and Working Groups, including: Water Bodies, Open Space, Reservoir, Spy Pond, CPC, Zoning Bylaw, Public Lands Maintenance, Land Stewards </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Discussion",
+          "details": "\\n\\n<span class=\"subhead\">a.</span>\\n\\n<span class=\"subhead\">Review and edit the Commission's Floodplain Encroachment Guide </span>\\n\\n<span class=\"subhead\">b.</span>\\n\\n<span class=\"subhead\">Discuss and ratify emergency pruning approval for two willow trees at 2 Princeton Road </span>\\n\\n<span class=\"subhead\">c.</span>\\n\\n<span class=\"subhead\">Discuss the Commission representative for the Community Preservation Committee </span>"
+        },
+        {
+          "num": "4.",
+          "title": "Hearings",
+          "details": "LINK TO Novus Agenda UpdateLINK TO Notice of Non-ComplianceLINK TO Request for Determination of ApplicabilityLINK TO Request for Determination of ApplicabilityLINK TO Notice of IntentLINK TO Notice of IntentLINK TO Working Session"
+        }
+      ]
+    }
   }
 }
