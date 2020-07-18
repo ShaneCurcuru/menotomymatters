@@ -82,7 +82,8 @@ module AgendaUtils
   ARB = 'arb'
   SCHOOL = 'school' 
   FINCOM = 'fincom'
-  ACMI_URLS = {  # january-27-2020
+  CONSERVATION = 'conservation'
+  ACMI_URLS = {  # january-27-2020, only include types that have recordings
     SELECT => 'https://acmi.tv/videos/select-board-meeting-',
     ARB => 'https://acmi.tv/videos/redevelopment-board-meeting-',
     SCHOOL => 'https://acmi.tv/videos/school-committee-meeting-',
@@ -92,6 +93,7 @@ module AgendaUtils
     SELECT => 'https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=50',
     ARB => 'https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=45',
     SCHOOL => 'https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=2&Meetingtype=3&Meetingtype=4&Meetingtype=39',
+    CONSERVATION => 'https://arlington.novusagenda.com/agendapublic/meetingsresponsive.aspx?MeetingType=52',
     FINCOM => 'TBD'
   }
   # Various keys into hash structure used by all modules
@@ -228,6 +230,7 @@ module AgendaUtils
       matches = item[DETAILS].scan(COVERSHEET_MATCH) if item[DETAILS]
       urls = (urls + matches).uniq if matches
       urls.each do |url|
+        next if url.empty?
         attach = parse_coversheet(open(NOVUS_URL + url))
         if attach
           if item.has_key?(ATTACHMENTS)
@@ -270,6 +273,8 @@ module AgendaUtils
     if agenda.has_key?(DATE)
       # Don't lookup if a link already exists (if we're re-processing existing data)
       return if agenda.has_key?(VIDEO)
+      # Not all boards have ACMI recordings
+      return unless ACMI_URLS.has_key?(type)
       url = ACMI_URLS[type] + Date.strptime(agenda[DATE], "%m/%d/%y").strftime("%B-%-d-%Y").downcase + '/'
       rsp = Net::HTTP.get_response(URI.parse(url))
       if rsp.kind_of?(Net::HTTPSuccess)

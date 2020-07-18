@@ -36,6 +36,7 @@ module AgendaParser
   require_relative 'arbparser'
   require_relative 'selectparser'
   require_relative 'schoolparser'
+  require_relative 'conservationparser'
     
   # Download and parse any new meeting agendas from website (or use cached files)
   # @param type of agenda: SELECT_BOARD, ARB_BOARD, etc. (points to a parser)
@@ -120,6 +121,8 @@ module AgendaParser
         agenda = ARBParser.parse(input, ioname, meetingid)
       when AgendaUtils::SCHOOL
         agenda = SchoolParser.parse(input, ioname, meetingid)
+      when AgendaUtils::CONSERVATION
+        agenda = ConservationParser.parse(input, ioname, meetingid)
       else
         meeting[AgendaUtils::ERROR] = "Unknown agenda type(#{type}) for: #{ioname}"
       end
@@ -206,7 +209,7 @@ module AgendaParser
   
   # Convenience method for automation
   def do_it_all(options)
-    [AgendaUtils::SELECT, AgendaUtils::SCHOOL, AgendaUtils::ARB].each do |typ|
+    [AgendaUtils::SELECT, AgendaUtils::SCHOOL, AgendaUtils::ARB, AgendaUtils::CONSERVATION].each do |typ|
       # Sensible defaults by type
       options[:ioname] = "_data/meetings-#{typ}.json"
       options[:input] = File.read(options[:ioname])
