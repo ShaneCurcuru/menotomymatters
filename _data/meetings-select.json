@@ -73,6 +73,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1084&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1084",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=740",
     "filename": "_agendas/2020-07-07-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 7, 20206:00 PMConducted by Remote Participation",
@@ -119,6 +120,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1069&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1069",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=735",
     "filename": "_agendas/2020-06-29-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 29, 20207:15 PMConducted by Remote Participation",
