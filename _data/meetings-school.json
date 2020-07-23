@@ -33,9 +33,25 @@
           ],
           "details": "<a href='CoverSheet.aspx?ItemID=9424&MeetingID=1086'>6:45 p.m. OMS Visual Arts presentation D. Ardito and P. Ford</a> \n\n<a href='CoverSheet.aspx?ItemID=9408&MeetingID=1086'>6:55 p.m. Approve AFL-CIO, STATE COUNCIL 93, LOCAL 680 Traffic Supervisors contract</a> \n\n<a href='CoverSheet.aspx?ItemID=9409&MeetingID=1086'>7:05  p.m. Fall reopening update and draft plans, K. Bodie</a> \n\n<a href='CoverSheet.aspx?ItemID=9410&MeetingID=1086'>7:55 p.m. Special education reopening guidance summary and planning, A. Elmer</a> \n\n",
           "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9379&ItemID=9424": [
+              "Statement_about_the_Students_Reflect__Video.pdf",
+              "Statement about Student Reflect video"
+            ],
             "AttachmentViewer.ashx?AttachmentID=9278&ItemID=9408": [
               "Draft_Traffic_MOA.pdf",
               "Traffic MOA for approval 7 23 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9372&ItemID=9409": [
+              "DRAFT_of_FINAL_THREE_PLANS-Elementary_School_Program_Values_and_Models_for_APS_Fall_2020.pdf",
+              "Draft Final School Program Values and Models for APS Fall 2020 7.22.2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9374&ItemID=9410": [
+              "2020-0709special-ed-comp-guide-memo.pdf",
+              "Special Education Guidance on Fall 2020 Sp Ed Svcs"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9377&ItemID=9410": [
+              "Special_Education_Powerpoint_DESE_Guidance_on_Fall_2020_Special_Education_Services_July_23_2020.pdf",
+              "Special Education Reopening guidance summary presentation"
             ]
           }
         },
@@ -90,17 +106,33 @@
           ],
           "details": "<a href='CoverSheet.aspx?ItemID=9419&MeetingID=1086'>Correspondence Received:</a> \n\nWarrant  20319 dated July 14, 2020  \nSchool Committee Regular June 25 and July 9, 2020 minutes   \nTraffic Supervisors MOA   \nAEA MGL ch. 150 E Request for Information and Demand to Bargain   \nUpdate on Timeline for Reopening Plan and Building Safety Actions July 18, 2020  \nLetter to Parents and Guardians, District and Facilities  Dept. July 18, 2020  \nChing-King Chieng Ph.D letter reagarding Community Service June 23, 2020.  \nVanessa Steck email July 19 2020  \nCatherine Oranchak Rall 2020 reopening email July 18, 2020  \nSharie McNeill July 2020   \nSuperintendent Search survey and this weeks focus groups  \nSchool reopening email Michaela May June 25, 2020 recvd July 20, 2020  \nNational Endowment for the Arts, support application of True Story Theater grant. J. Morgan  \nAEA endorsement of MTA/AFT/BTU Reopening Proposals  \nErin Horton Email regarding reopening plane Masks use for K-1 July 20.  \nCitizens and School Committee Talk, Bill Hayner   \n\nTown of Arlington Legal Dept Supplement-Remote Meeting Checklist and Guidance   \nhttps://www.mass.gov/doc/open-meeting-law-order-march12-2020/download  \n\n",
           "attachments": {
-            "AttachmentViewer.ashx?AttachmentID=9281&ItemID=9419": [
-              "Supplement_re_Remote_Participation_During_Coronavirus_State_of_Emergency_-_Checklist_and_Script.pdf_(00022235xA050C)_(1).pdf",
-              "Supplement re Remote Participation during Coronavirus State of Emergency"
+            "AttachmentViewer.ashx?AttachmentID=9368&ItemID=9419": [
+              "National_Endowment_for_the_Arts_updated_scan_kfitzgerald_2020-07-21-11-10-18.pdf",
+              "National Endowment for the Arts"
             ],
-            "AttachmentViewer.ashx?AttachmentID=9282&ItemID=9419": [
-              "Remote_Participation_Checklist_for_COVID-19_Emergency_(00022229xA050C).docx",
-              "Remote Checklist"
+            "AttachmentViewer.ashx?AttachmentID=9369&ItemID=9419": [
+              "Ching-King_Chieng_letter_scanned.pdf",
+              "Ching-Kine Chieng letter"
             ],
-            "AttachmentViewer.ashx?AttachmentID=9283&ItemID=9419": [
-              "Remote_Meeting_Script_(00022231xA050C).docx",
-              "Remote script"
+            "AttachmentViewer.ashx?AttachmentID=9370&ItemID=9419": [
+              "Arlington_MA_Public_Schools_Mail_-_Superintendent_Search_Process_Focus_Groups.pdf",
+              "Supt Search process focus group notice sent to everyone"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9371&ItemID=9419": [
+              "COVID-19_Facilities_Update.pdf",
+              "COVID 19 Facilities Update"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9373&ItemID=9419": [
+              "Arlington_MA_Public_Schools_Mail_-_High_School_Logo_Mascot_Change.pdf",
+              "Logo Mascot change"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9375&ItemID=9419": [
+              "DESE_On_the_Desktop_July_17__2020_Protocols_for_Responding_to_COVID-19_Scenarios_Jeffrey_C._Riley_Commissioner.pdf",
+              "DESE On the Desktop Protocols for responding to COVID-19 Scenarios"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9376&ItemID=9419": [
+              "Protocols_for_responding_to_COVID_19_scenarios_in_school__on_the_bus__or_in_community_settings.pdf",
+              "Protocols for responding to COVID-19 scenarios in school, on the bus, or in community settings"
             ]
           }
         }
