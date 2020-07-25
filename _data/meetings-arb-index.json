@@ -13,7 +13,10 @@
       "2020-07-20",
       "2020-07-06",
       "2020-05-18"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/10178/3864": "Environmental Design Review Docket 3625, 882-892 Massachusetts Avenue - ARB hearing continued to 7/20/20."
+    }
   },
   "3616": {
     "address": "434 Massachusetts Avenue",
@@ -24,7 +27,10 @@
       "2020-04-27",
       "2020-02-24",
       "2020-02-03"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/9967/3864?arch=1": "Environmental Design Review Docket 3616, 434 Massachusetts Avenue ARB voted to approve on 4/27/20. Decision available to view."
+    }
   },
   "2818": {
     "address": "880 Massachusetts Avenue",
@@ -34,7 +40,10 @@
     "meetings": [
       "2020-05-18",
       "2020-04-27"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/10108/3864?arch=1": "Environmental Design Review Docket 2818, 880 Massachusetts Avenue (TD Bank) ARB voted to approve on 5/18/20. Decision available to view."
+    }
   },
   "3348": {
     "address": "833 Massachusetts Avenue",
@@ -55,11 +64,14 @@
   "3504": {
     "address": "93 Broadway",
     "purpose": "parking",
-    "owner": "Springboard Schools, Inc",
+    "owner": "Learn to Grow / Springboard Schools, Inc",
     "meetings": [
       "2020-02-24",
       "2020-02-03"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/9969/3864?arch=1": "Environmental Design Review Docket 3504, 93 Broadway (Learn To Grow) ARB voted to issue Special Permit Decision on 2/24/20. Decision will be issued by 3/9/20."
+    }
   },
   "3602": {
     "address": "1207-1211 Massachusetts Avenue",
@@ -77,7 +89,10 @@
       "2020-01-27",
       "2019-12-16",
       "2019-07-22"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/9931/3864": "Environmental Design Review Docket 3602, 1207-1211 Massachusetts Avenue - Continued public hearing on 8/17/20."
+    }
   },
   "3610": {
     "address": "1386 Massachusetts Avenue",
@@ -94,7 +109,10 @@
       "2020-01-06",
       "2019-12-16",
       "2019-11-18"
-    ]
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/9810/3864?arch=1": "Environmental Design Review Docket 3610, 1386 Massachusetts Avenue (Apothca) ARB voted to issue Special Permit Decision on 1/27/20. Decision will be issued by 2/10/20."
+    }
   },
   "3519": {
     "address": "19R Park Avenue",

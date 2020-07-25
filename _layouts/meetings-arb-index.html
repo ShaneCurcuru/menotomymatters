@@ -30,6 +30,11 @@ classes: wide
         </ul>
         {% endif %}
       <li>Docket Purpose: {{ itm.purpose }}</li>
+      {% if itm.urls %}
+        {% for otherurl in itm.urls %}
+        <li><a href="{{ otherurl[0] }}">{{ otherurl[1] }}</a></li>
+        {% endfor %}
+      {% endif %} 
       <li>Meetings heard at:
         <ul>
           {% for mtg in itm.meetings %}
