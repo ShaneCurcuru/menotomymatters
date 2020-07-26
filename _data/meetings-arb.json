@@ -458,6 +458,7 @@
     "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
     "viewurl": "MeetingView.aspx?MeetingID=1052&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1052",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=732",
     "agenda": {
       "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMay 18, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by May 18, 2020 at 12:00 p.m. If you are providing visual information as part of your correspondence, the Board requests that it is received by May 15, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, May 18, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
       "rows": 13,
