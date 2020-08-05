@@ -1,0 +1,77 @@
+{
+  "Arlington": {
+    "url": "https://arlington.k12.ma.us/",
+    "status": "still draft",
+    "committee": "http://www.arlington.k12.ma.us/asc/",
+    "announcements": {
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/ahsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - High school",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/omsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Ottoson",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/gibbprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Gibbs",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/elementaryprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Elementary Schools",
+      "/meetings/school/": "Arlington School Committee Meeting Tracker"
+    },
+    "updated": "22-July-2020"
+  },
+  "Belmont": {
+    "url": "https://www.belmont.k12.ma.us/bps",
+    "status": "still draft",
+    "committee": "https://www.belmont.k12.ma.us/bps/Committee",
+    "announcements": {
+      "https://www.belmont.k12.ma.us/bps/Administration/School-Opening-Fall-2020": "Superintendent’s Bulletins, Presentations, and other information related to Fall 2020 School Opening",
+      "https://www.belmont.k12.ma.us/bps/Home/Belmont-Public-Schools-News/Article/2849/2020-21-School-Opening-Options-and-Survey-and-Questions#.Xyrp7y2z2L4": "Superintendent Newsletter 5-Aug announcing final decision expected 11-Aug"
+    },
+    "updated": "5-August-2020"
+  },
+  "Medford": {
+    "url": "https://www.medfordpublicschools.org/",
+    "status": "still draft",
+    "committee": "https://www.mps02155.org/about-2/central-administration/medford-school-committee/",
+    "announcements": {
+      "http://www.mps02155.org/2020-2021-school-plan-under-construction/": "2020-2021 – Reopening Task Force Updates from the Superintendent of Schools",
+      "http://www.mps02155.org/2020/07/31/july-31-2020-reopening-task-force-communication-workgroup-update/": "July 31, 2020 – Reopening Task Force Communication Workgroup Update"
+    },
+    "remote": "http://www.mps02155.org/2020/04/20/medford-public-schools-remote-learning-site/",
+    "updated": "31-July-2020"
+  },
+  "Winchester": {
+    "url": "http://www.winchester.k12.ma.us/pages/Winchester_Public_Schools",
+    "status": "hybrid or remote (choice)",
+    "committee": "",
+    "announcements": {
+      "https://sites.google.com/winchesterps.org/wps-covid-19-portal/home": "Winchester Schools COVID Information Portal",
+      "https://drive.google.com/file/d/1F94Li0jyY7k6GDlI_HOm27QBCj_WZpEN/view": "WPS Preliminary Return to School Presentation - August 4, 2020 {pdf}",
+      "https://drive.google.com/file/d/13o0nofHyP7FZsxW36wB-qes25Ho3d_AA/view?usp=sharing": "WPS Preliminary Return to School Plan 2020-21 - August 4, 2020"
+    },
+    "updated": "5-August-2020"
+  },
+  "Lexington": {
+    "url": "https://www.lexingtonma.org/",
+    "status": "still draft",
+    "committee": "https://www.lexingtonma.gov/school-committee/links/school-committee-website",
+    "announcements": {
+      "https://sites.google.com/lexingtonma.org/lpscovid19andremotelearning/superintendent-updates": "LPS Superintendent Updates listing",
+      "https://docs.google.com/document/d/1yHtYDoRm88uo6mP_x0XjV5HQz_bcI8G5Aq9saM0BVuA/edit?usp=sharing": "LPS Back-to-School Blueprint (Version 2 - Published in July)"
+    },
+    "updated": "31-July-2020"
+  },
+  "Cambridge": {
+    "url": "https://www.cpsd.us/",
+    "status": "fully remote",
+    "committee": "https://www.cpsd.us/school_committee",
+    "announcements": {
+      "https://www.cpsd.us/fall2020": "Planning for School Year 2020-21",
+      "https://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=69638028": "Updated Proposal for Reopening Schools: August 4, 2020"
+    },
+    "updated": "4-August-2020"
+  },
+  "Somerville": {
+    "url": "https://somerville.k12.ma.us/",
+    "status": "fully remote",
+    "committee": "https://somerville.k12.ma.us/district-leadership/somerville-school-committee",
+    "announcements": {
+      "https://somerville.k12.ma.us/back-school-2020": "Back to School 2020 Planning",
+      "https://somerville.k12.ma.us/sites/default/files/080420_Remote%20Start%20Notice%20to%20Families.pdf": "Letter to Somerville Public Schools Families announcing full remote to start"
+    },
+    "updated": "4-August-2020"
+  }
+}

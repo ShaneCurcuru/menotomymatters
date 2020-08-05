@@ -1,0 +1,17 @@
+<dl>
+  {% for town in include.schoolopen %}
+  {% assign townname = town[0] %}
+  {% assign towndata = town[1] %}
+    <dt>
+      <a href="{{ towndata.url }}">{{ townname }} </a> - Opening Plan Status: <span style="color: #ee5f5b;">{{ towndata.status }}</span> As of: {{ towndata.updated }}
+    </dt>
+    <dd>
+      <a href="{{ towndata.committee }}">School Committee Homepage</a>
+      <ul>
+      {% for itm in towndata.announcements %}
+        <li><a href="{{ itm[0] }}">{{ itm[1] }}</a></li>
+      {% endfor %}
+      </ul>
+    </dd>
+  {% endfor %}
+</dl>
