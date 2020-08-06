@@ -18,6 +18,6 @@ If you're the parent of a school-aged child, you've been spending a lot of time 
 
 Here's a quick overview of Arlington and nearby towns, with links to the most currently posted school opening (or not) plans.  Updates appreciated!
 
-_News_ School Committee Standing Subcommittee: Policies and Procedures **meets 6-Aug at 5:30pm** to [discuss a updates to school policies](https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1096&MinutesMeetingID=-1&doctype=Agenda) in response to COVID issues.
+_News_ School Committee Standing Subcommittee: Policies and Procedures **meets 6-Aug at 5:30pm** to [discuss a updates to school policies](https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1096&MinutesMeetingID=-1&doctype=Agenda) in response to COVID issues.  Read the latest YourArlington article: "[Choice about how to reopen public schools expected Monday](https://www.yourarlington.com/arlington-archives/town-school/schools/17562-sc-073120)".
 
 {% include schoolopen.html schoolopen=site.data.schoolopen %}
