@@ -1,7 +1,7 @@
 {
   "Arlington": {
     "url": "https://arlington.k12.ma.us/",
-    "status": "still draft",
+    "status": "still draft; voting 10-Aug",
     "committee": "http://www.arlington.k12.ma.us/asc/",
     "announcements": {
       "http://www.arlington.k12.ma.us/news//pdfs/reopening/ahsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - High school",
@@ -10,7 +10,7 @@
       "http://www.arlington.k12.ma.us/news//pdfs/reopening/elementaryprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Elementary Schools",
       "/meetings/school/": "Arlington School Committee Meeting Tracker"
     },
-    "updated": "22-July-2020"
+    "updated": "7-August-2020"
   },
   "Belmont": {
     "url": "https://www.belmont.k12.ma.us/bps",
