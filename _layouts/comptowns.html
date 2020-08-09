@@ -21,6 +21,7 @@ classes: wide
           {% if itm.budgetFY19 %} | <a href="{{ itm.budgetFY19 }}">FY2019 Budget</a>{% endif %}
         </li>{% endif %}     
         {% if itm.opendata %}<li><i class='fa fa-fw fa-database' aria-hidden='true'></i><a href='{{ itm.opendata }}'> Open Data Portal</a> {% if itm.opendatatech %}({{ itm.opendatatech }}){% endif %}</li>{% endif %}
+        {% if itm.diversity %}<li><i class='fa fa-fw fa-universal-access' aria-hidden='true'></i><a href='{{ itm.diversity }}'> Diversity or Human Rights</a></li>{% endif %}
         {% if itm.records %}<li><i class='fa fa-fw fa-clipboard' aria-hidden='true'></i><a href='{{ itm.records }}'> Records Requests</a></li>{% endif %}
         {% if itm.licensing %}<li><i class='fa fa-fw fa-id-badge' aria-hidden='true'></i><a href='{{ itm.licensing }}'> Licensing & Permits</a></li>{% endif %}
         {% if itm.schools %}<li><i class='fa fa-fw fa-school' aria-hidden='true'></i><a href='{{ itm.schools }}'> Schools</a></li>{% endif %}
