@@ -98,7 +98,7 @@ module SchoolParser
       case node.name
       when 'a'
         links << node['href']
-        /http/ =~ node['href'] ? blob.concat(FULL_PREFIX, node['href'], '">') : blob.concat(LOCAL_PREFIX, node['href'], '">')
+        /http/ =~ node['href'] ? blobs.concat(FULL_PREFIX, node['href'], '">') : blobs.concat(LOCAL_PREFIX, node['href'], '">')
         blobs << "#{node.content.strip}</a> "
       when 'p'
         node.children.each do |child|
