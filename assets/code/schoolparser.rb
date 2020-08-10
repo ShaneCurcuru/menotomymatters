@@ -57,11 +57,6 @@ module SchoolParser
     return data
   end
   
-  # TODO Normalize, shared with SelectParser
-  LOCAL_PREFIX = '<a href="https://arlington.novusagenda.com/Agendapublic/'
-  FULL_PREFIX = '<a href="'
-  LINK_POSTFIX = '"><i class="fa fa-fw fa-file-alt" aria-hidden="true"></i></a> '
-  MAIL_POSTFIX = '"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i></a> '
   # Parse a single "row" (a sub <table>) element of a School Committee agenda
   # @param table element
   # @return hash of data; or nil if blank spacer
@@ -88,7 +83,9 @@ module SchoolParser
       return item
     end
   end
-  
+ 
+  LOCAL_PREFIX = '<a href="https://arlington.novusagenda.com/Agendapublic/'
+  FULL_PREFIX = '<a href="'
   # Recursively parse contents of a td cell or p element
   # @param node of td cell
   # @param blobs string to aggregate any markdown to
@@ -101,7 +98,8 @@ module SchoolParser
       case node.name
       when 'a'
         links << node['href']
-        blobs << "<a href='#{node['href']}'>#{node.content.strip}</a> "
+        /http/ =~ node['href'] ? blob.concat(FULL_PREFIX, node['href'], '">') : blob.concat(LOCAL_PREFIX, node['href'], '">')
+        blobs << "#{node.content.strip}</a> "
       when 'p'
         node.children.each do |child|
           parse_node(child, blobs, links)
