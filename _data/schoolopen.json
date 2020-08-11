@@ -1,16 +1,18 @@
 {
   "Arlington": {
     "url": "https://arlington.k12.ma.us/",
-    "status": "still draft; voting 10-Aug",
+    "status": "remote/hybrid mix; depends on teacher's union to approve",
     "committee": "http://www.arlington.k12.ma.us/asc/",
     "announcements": {
-      "http://www.arlington.k12.ma.us/news//pdfs/reopening/ahsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - High school",
-      "http://www.arlington.k12.ma.us/news//pdfs/reopening/omsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Ottoson",
-      "http://www.arlington.k12.ma.us/news//pdfs/reopening/gibbprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Gibbs",
-      "http://www.arlington.k12.ma.us/news//pdfs/reopening/elementaryprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Elementary Schools",
+      "http://www.arlington.k12.ma.us/news//apsproposedreopeningplanfall2020_redirect.asp": "APS FALL 2020 PROPOSED REOPENING PLAN 10-Aug",
+      "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1095&MinutesMeetingID=-1&doctype=Agenda": "School Committee Meeting Agenda for vote on plan 10-Aug",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/ahsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - High school 7-Aug",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/omsprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Ottoson 7-Aug",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/gibbprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Gibbs 7-Aug",
+      "http://www.arlington.k12.ma.us/news//pdfs/reopening/elementaryprelimreopeningplan.pdf": "PRELIMINARY REOPENING OF SCHOOL PLAN - Elementary Schools 7-Aug",
       "/meetings/school/": "Arlington School Committee Meeting Tracker"
     },
-    "updated": "7-August-2020"
+    "updated": "11-August-2020"
   },
   "Belmont": {
     "url": "https://www.belmont.k12.ma.us/bps",
@@ -44,10 +46,11 @@
     "status": "hybrid or remote (choice)",
     "committee": "",
     "announcements": {
+      "https://drive.google.com/file/d/1bWeRPEBfphutarIL4zj_3QIGVQaxUKbB/view?usp=sharing": "Return to School 2020-21 Frequently Asked Questions 7-Aug",
       "https://drive.google.com/file/d/1stgrPBOmA0siaexlG2u2i-wRpSJ-DE0T/view?usp=sharing": "Preliminary Return to School Plan 2020-21 7-Aug",
       "https://sites.google.com/winchesterps.org/wps-covid-19-portal/home": "Winchester Schools COVID Information Portal",
-      "https://drive.google.com/file/d/1F94Li0jyY7k6GDlI_HOm27QBCj_WZpEN/view": "WPS Preliminary Return to School Presentation - August 4, 2020 {pdf}",
-      "https://drive.google.com/file/d/13o0nofHyP7FZsxW36wB-qes25Ho3d_AA/view?usp=sharing": "WPS Preliminary Return to School Plan 2020-21 - August 4, 2020"
+      "https://drive.google.com/file/d/1F94Li0jyY7k6GDlI_HOm27QBCj_WZpEN/view": "WPS Preliminary Return to School Presentation - 4-Aug",
+      "https://drive.google.com/file/d/13o0nofHyP7FZsxW36wB-qes25Ho3d_AA/view?usp=sharing": "WPS Preliminary Return to School Plan 2020-21 - 4-Aug"
     },
     "updated": "7-August-2020"
   },
