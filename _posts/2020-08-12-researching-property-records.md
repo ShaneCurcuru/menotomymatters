@@ -25,10 +25,10 @@ If you're curious about a specific property in Arlington, here's how to learn mo
 
 - Figure out the property address (you can also search by owners, but we'll do address here).
 - Open your browser to the Arlington GIS Interactive Map - [https://www.mapsonline.net/arlingtonma/index.html](https://www.mapsonline.net/arlingtonma/index.html)
-- On the left side of the map, click on **Find**.
-- Next to **Address:** start typing _just the name_ of the street.  
-  - A dropdown of available streets in Arlington will appear - click on the appropriate entry, like "MASS AVE".
-- _Then_ enter the street number of the address in the **#** field - this will also bring up a drop-down.
+- On the left side of the map, click on **Find** to open the left-hand panel.
+- Next to **Address:** edit box start typing _just the name_ of the street.  
+  - A dropdown of available streets in Arlington will appear - click on the appropriate dropdown entry, like "MASS AVE".
+- _Then_ enter the street number of the address in the **#** field - this will also bring up a drop-down - finish typing the number or select the correct number from the drop-down.
 - Ta-da!  The Detail Information for the **Parcel** at that address will be displayed below, with basic ownership and facts about the property.
   - Click on the Property Card & Services "Click To View" to see the detailed building and ownership information for this property - typically includes the last several sales and amounts, past year's property taxes, along with number of rooms, bathrooms, a sketch of any buildings, photo, and other information.
   - For example, _882 Mass Ave_ - the building where [Toraya was and is now proposed as a new development](/issues/882massave) - is parcel _126-1-6_.
@@ -37,7 +37,7 @@ If you're curious about a specific property in Arlington, here's how to learn mo
 - Copy the Parcel ID of the property you want to share - typically three numbers, separated by - dash or minus signs.  Copy the ID exactly as shown.
 - Create your URL by putting the Parcel ID after this string: `https://www.mapsonline.net/arlingtonma/?ts_cama_id=`
 - That is, to send someone a link to the record for 882 Mass Ave, send them this link:
-  `https://www.mapsonline.net/arlingtonma/?ts_cama_id=126-1-6`
+  [`https://www.mapsonline.net/arlingtonma/?ts_cama_id=126-1-6`](https://www.mapsonline.net/arlingtonma/?ts_cama_id=126-1-6)
 - When they open the link, they will see the property Detail Information, and can click on the Zoom To arrow to see the property on the map in context.
 
 Try looking up 1211 Mass Ave (Parcel 58-11-1) yourself, to see who owns the [Hotel Lexington proposed development](/issues/hotellexington).
