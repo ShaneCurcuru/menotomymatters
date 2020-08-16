@@ -1,4 +1,245 @@
 {
+  "2020-08-17": {
+    "date": "08/17/20",
+    "isodate": "2020-08-17",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/93041375966 | Enter Meeting ID: 930 4137 5966 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 930 4137 5966 followed by â#â.",
+    "viewurl": "MeetingView.aspx?MeetingID=1105&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1105",
+    "filename": "_agendas/2020-08-17-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeAugust 17, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by August 17, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by August 14, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, August 17, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/93041375966 | Enter Meeting ID: 930 4137 5966 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 930 4137 5966 followed by “#”.",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=9562&MeetingID=1105",
+          "time": "7:00 p.m.                     7:30 p.m.          ",
+          "details": "Docket #3602, 1207-1211 Mass Ave *Continued Public Hearing* Board will continue hearing for Special Permit Docket #3602 to review application by James F. Doherty for 1211 Mass Ave Realty Trust, at 1207-1211 Massachusetts Avenue, Arlington, MA, 02476, to construct a 50-room hotel and restaurant at 1207-1211 Massachusetts Avenue in the B2 Neighborhood Business District and B4 Vehicular Oriented Business District. The continuation of the hearing is to allow the Board to review and approve the application in accordance with the provisions of MGL Chapter 40A and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review.  Docket #3631, 473 Mass Ave *Public Hearing* Board will open public hearing for Special Permit Docket #3631 to review application filed on July 21, 2020 by Gotu Hule for Acitron Cocina Mexicana, at 473 Massachusetts Avenue, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant seeks approval of signage that exceeds the size allowed for a wall sign in the B3 Village Business District. The opening of the Special Permit is to allow the Board to review the signage under Section 6.2, Signs. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
+          "dockets": {
+            "3602": "1207-1211 Mass Ave",
+            "3631": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9551&ItemID=9562": [
+              "Memo_to_ARB_re_Docket_#3602_08-10-20.pdf",
+              "NEW Memo to ARB re Docket #3602 08-10-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9554&ItemID=9562": [
+              "Application_Materials_Received_8-10-20_Part_1.pdf",
+              "NEW Docket #3602 Updated Application Materials Part 1 received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9555&ItemID=9562": [
+              "Application_Materials_Received_8-10-20_Part_2.pdf",
+              "NEW Docket #3602 Updated Application Materials Part 2 received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9556&ItemID=9562": [
+              "Application_Materials_Received_8-10-20_Part_3.pdf",
+              "NEW Docket #3602 Updated Application Materials Part 3 received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9552&ItemID=9562": [
+              "Updated_Valet_Parking_Figure.pdf",
+              "NEW Docket #3602 Valet Parking Figure received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9553&ItemID=9562": [
+              "Updated_Site_Layout_Plan_C-2.pdf",
+              "NEW Docket #3602 Updated Site Layout Plan received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9557&ItemID=9562": [
+              "08122020_Memo_1207-1211_Mass_Ave_Study.pdf",
+              "NEW Docket #3602 DPCD Shadow Study Memo 08122020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9558&ItemID=9562": [
+              "1207-1211_Mass_Ave_DPCD_Shadow_Study.pdf",
+              "NEW Docket #3602 DPCD Shadow Study Graphics 08072020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9559&ItemID=9562": [
+              "Traffic_Impact_and_Access_Review_by_TAC_080620.pdf",
+              "NEW Docket #3602 TAC Traffic Impact and Access Review 08062020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9560&ItemID=9562": [
+              "081020_Letter_to_Jennifer_Raitt_re_1207-1211_Mass_Ave._-_Doherty_(2).pdf",
+              "NEW Docket #3602 Correspondence from M. O'Connor re ARB Requests received 08102020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9561&ItemID=9562": [
+              "081220_Letter_to_Jennifer_Raitt_re_TAC_Report_-_Doherty_(1).pdf",
+              "NEW Docket #3602 Correspondence from M. O'Connor re TAC Review received 08122020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9563&ItemID=9562": [
+              "Correspondence_received_from_Disability_Commission_080720.pdf",
+              "NEW Docket #3602 Correspondence from Disability Commission received 08072020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9562&ItemID=9562": [
+              "081320_Email_to_Jennifer_Raitt_re_Disability_Commission_email.pdf",
+              "NEW Docket #3602 Correspondence from M. O'Connor re Disability Commission Comments received 08132020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9594&ItemID=9562": [
+              "8.13.2020_Cover_Memo_to_ARB_re_Docket_No._3602.pdf",
+              "NEW Docket #3602 Memo from Town Counsel Cover Letter received 08132020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9545&ItemID=9562": [
+              "Agenda_Item_1_-_Memo_to_ARB_re_Docket_#3602_07-02-20.pdf",
+              "Memo to ARB re Docket #3602 07-02-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9509&ItemID=9562": [
+              "Agenda_Item_1_-_Memo_to_ARB_re_Docket_#3602_05-14-20.doc",
+              "Memo to ARB re Docket #3602 05-14-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9510&ItemID=9562": [
+              "Agenda_Item_1A_-_Memo_to_ARB_re_Review_of_New_Material_Submissions_01-21-20.pdf",
+              "Memo to ARB re Review of New Material Submissions 01-21-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9511&ItemID=9562": [
+              "Agenda_Item_1B_-_EDR_Public_Hearing_Memo_Docket_#3602_1207-1211_Mass_Ave_Final.pdf",
+              "EDR Public Hearing Memo Docket #3602 1207-1211 Mass Ave. Final"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9512&ItemID=9562": [
+              "Agenda_Item_1C_-_Memo_to_ARB_from_E._Zwirko_re_Special_Permit_filing_fee_08-07-19.pdf",
+              "Memo to ARB from E.Zwirko re Special Permit filing fee 08-07-19"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9513&ItemID=9562": [
+              "Agenda_Item_1F_-_Application_Materials_Submitted_06-21-19.pdf",
+              "Application Materials Submitted 06-21-19"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9514&ItemID=9562": [
+              "Agenda_Item_1G_-_Application_Materials_Submitted_01-21-20_-.pdf",
+              "Application Materials Submitted 01-21-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9541&ItemID=9562": [
+              "3602_Plan_Set_Received_6-25-20_part_1.pdf",
+              "Docket #3602 Plan Set Received 6-25-20 Part 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9542&ItemID=9562": [
+              "3602_Plan_Set_Received_6-25-20_part_2.pdf",
+              "Docket #3602 Plan Set Received 6-25-20 Part 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9515&ItemID=9562": [
+              "3602_Updated_062420_1207-1211_Mass_Avenue_(Part_1).pdf",
+              "Docket #3602 Updated 062420 1207-1211 Mass. Ave. Part 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9516&ItemID=9562": [
+              "3602_Updated_062420_1207-1211_Mass_Avenue_(Part_2).pdf",
+              "Docket #3602 Updated 062420 1207-1211 Mass. Ave. Part 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9564&ItemID=9562": [
+              "Correspondence_received_from_DSeltzer_080720.pdf",
+              "NEW Docket #3602 Correspondence from D. Seltzer received 08072020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9574&ItemID=9562": [
+              "Correspondence_received_from_DSeltzer_080720_attachment.pdf",
+              "NEW Docket #3602 Correspondence from D. Seltzer Attachment received 08072020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9575&ItemID=9562": [
+              "Correspondence_received_from_DSeltzer_080920.pdf",
+              "NEW Docket #3602 Correspondence from D. Seltzer received 08092020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9576&ItemID=9562": [
+              "Correspondence_received_from_DSeltzer_080920_attachment.pdf",
+              "NEW Docket #3602 Correspondence from D. Seltzer Attachment received 08092020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9540&ItemID=9562": [
+              "Correspondence_Received_062920_for_3602_LeRoyer_Comments_on_Hotel_June_29__2020.pdf",
+              "Correspondence from A. LeRoyer received 062920"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9546&ItemID=9562": [
+              "Correspondence_from_B._McCauley_received_07022020.pdf",
+              "Correspondence from B. McCauley received 07022020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9538&ItemID=9562": [
+              "Correspondence_from_D._Seltzer_with_Attachment_received_05_01_2020.pdf",
+              "Correspondence from D. Seltzer with attachment received 05012020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9544&ItemID=9562": [
+              "Correspondence_from_C._Knight_received_070220.pdf",
+              "Correspondence from C. Knight received 07022020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9527&ItemID=9562": [
+              "Correspondence_from_D._Seltzer_received_05182020.pdf",
+              "Correspondence from D. Seltzer received 05182020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9539&ItemID=9562": [
+              "Correspondence_received_from_D._Seltzer_050120_.pdf",
+              "Attachment from D. Seltzer received 05012020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9577&ItemID=9562": [
+              "Agenda_Item_1b_Docket_3631_473_Mass_Ave.pdf",
+              "NEW Docket #3631 Application Materials received 07212020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9578&ItemID=9562": [
+              "Agenda_Item_1b_EDR_Public_Hearing_Memo_Docket_#3631_473_Mass_Ave.pdf",
+              "NEW Memo to ARB re Docket #3631 08-12-2020"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Discussion: Comprehensive Permit Application at 1165R Massachusetts Avenue",
+          "url": "CoverSheet.aspx?ItemID=9574&MeetingID=1105",
+          "time": "8:00 p.m.",
+          "details": "Board members will discuss and may vote to provide comments to Select Board for inclusion in Town comment letter to MassHousing.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9580&ItemID=9574": [
+              "Agenda_Item_2a_1165R_Mass_Avenue_MA_Comprehensive_Permit_Site_Approval_Application_to_MassHousing_070120.pdf",
+              "1165R Mass Ave MassHousing Application"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9581&ItemID=9574": [
+              "Agenda_Item_2b_1165R_Mass_Ave_Traffic_Impact_Report_(1).pdf",
+              "1165R Mass Ave Traffic Impact Report 07062020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9582&ItemID=9574": [
+              "agenda_Item_2c_1165R_Mass_Ave_Traffic_Impact_Report_Appendix_(2).pdf",
+              "1165R Mass Ave Traffic Impact Report Appendix 07062020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9583&ItemID=9574": [
+              "Agenda_Item_2d_town_comment_extension-1165R_Mass._Ave.pdf",
+              "1165R Mass Ave Town Comment Extension received 07282020"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Meeting Minutes (7/6)",
+          "url": "CoverSheet.aspx?ItemID=9575&MeetingID=1105",
+          "time": "8:15 p.m. ",
+          "details": "Board members will review and approve meeting minutes. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9587&ItemID=9575": [
+              "07062020_Draft_ARB_Minutes.pdf",
+              "07062020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "8:20 p.m. ",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video."
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": "Estimated 8:40 p.m. – Adjourn  "
+        },
+        {
+          "num": "6.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=9578&MeetingID=1105",
+          "details": "Correspondence received from:\r\nTown Counsel D. Heim 08132020\r\n \r\nCorrespondence received related to a specific docket can be found in the meeting materials for that docket.",
+          "correspondence": [
+            "Town Counsel D. Heim 08132020",
+            "Correspondence received related to a specific docket can be found in the meeting materials for that docket."
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9597&ItemID=9578": [
+              "Correspondence_received_from_Town_Counsel_081320.pdf",
+              "Correspondence from Town Counsel D. Heim received 08132020"
+            ]
+          }
+        }
+      ]
+    }
+  },
   "2020-07-20": {
     "date": "07/20/20",
     "isodate": "2020-07-20",
