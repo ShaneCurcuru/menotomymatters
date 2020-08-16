@@ -125,6 +125,7 @@ module AgendaUtils
   CORRESPONDENCE_MATCH = /Correspondence received/i
   COVERSHEET_MATCH = /CoverSheet.aspx\?ItemID=\d{1,5}&MeetingID=\d{1,5}/
   BOGUS_CHAR = " " # Not sure where this comes from in the html
+  BOGUS_QUOTE = "â"
   FILENAME = 'filename'
   ALT_MTG = 'alt'
   NBSP = 160.chr(Encoding::UTF_8) # &nbsp; entity to cleanup excess &nbsp;-only text nodes
@@ -198,7 +199,7 @@ module AgendaUtils
       meeting[DATE] = row.css('td:nth-child(2)').text.strip
       meeting[ISODATE] = Date.strptime(meeting[DATE], "%m/%d/%y").strftime("%Y-%m-%d")
       meeting[TITLE] = row.css('td:nth-child(3) label').text.strip
-      meeting[LOCATION] = row.css('td:nth-child(4)').text.strip
+      meeting[LOCATION] = row.css('td:nth-child(4)').text.strip.gsub(BOGUS_QUOTE, '"') # Some pages use smart quotes 
       a = row.css('td:nth-child(5) a')
       if a.any?
         meeting[VIEWURL] = a[0]['onclick'].split("'")[1]
