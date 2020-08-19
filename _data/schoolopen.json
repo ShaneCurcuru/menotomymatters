@@ -30,10 +30,12 @@
   },
   "Medford": {
     "url": "https://www.medfordpublicschools.org/",
-    "status": "start remote; switch to hybrid",
+    "status": "start remote; switch to hybrid after 13-Oct",
     "committee": "https://www.mps02155.org/about-2/central-administration/medford-school-committee/",
     "announcements": {
-      "https://docs.google.com/document/d/1QhDvNzIsxeGqkJbrHxxSSutoL6x4qAG-SW4huLQVw34/preview": "Superintendent Weekly Communication Week Ending 8/7/20",
+      "https://medford.vod.castus.tv/vod/?video=bd58a049-4b3a-4773-938e-4bcb42a2c495": "Superintendent Weekly Video Update 14-Aug",
+      "https://docs.google.com/document/d/1PSyh9kZ4zScMBi-3MSHNDWDlb4v216lvgAG7dKdwVgA/edit#heading=h.pyp8mw8lek1s": "COVID Reopening FAQs 13-Aug",
+      "https://docs.google.com/document/d/1QhDvNzIsxeGqkJbrHxxSSutoL6x4qAG-SW4huLQVw34/preview": "Superintendent Weekly Communication Week Ending 7-Aug",
       "http://www.mps02155.org/2020-2021-school-plan-under-construction/": "2020-2021 – Reopening Task Force Updates from the Superintendent of Schools",
       "http://www.mps02155.org/2020/07/31/july-31-2020-reopening-task-force-communication-workgroup-update/": "July 31, 2020 – Reopening Task Force Communication Workgroup Update"
     },
@@ -57,14 +59,16 @@
   },
   "Lexington": {
     "url": "https://www.lexingtonma.org/",
-    "status": "still draft",
+    "status": "hybrid or remote (choice)",
     "committee": "https://www.lexingtonma.gov/school-committee/links/school-committee-website",
     "announcements": {
+      "https://docs.google.com/document/d/13yRfsJSlAmpL5Z4wqq31q_HzlLx56uSjrjv6J6e5-JQ/preview": "Back to School Update 17-Aug",
+      "https://docs.google.com/document/d/1ik4MsaAvtPMbmQcmT90vnR0JLZ9xg020uHSg4HzvrT4/preview": "Back to School Update 10-Aug",
       "https://sites.google.com/lexingtonma.org/lpscovid19andremotelearning/superintendent-updates": "LPS Superintendent Updates listing",
       "https://docs.google.com/document/d/1yHtYDoRm88uo6mP_x0XjV5HQz_bcI8G5Aq9saM0BVuA/edit?usp=sharing": "LPS Back-to-School Blueprint (Version 2 - Published in July)"
     },
     "remote": "https://sites.google.com/lexingtonma.org/lpscovid19andremotelearning/home?authuser=0",
-    "updated": "31-July-2020"
+    "updated": "17-August-2020"
   },
   "Cambridge": {
     "url": "https://www.cpsd.us/",
