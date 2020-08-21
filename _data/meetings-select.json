@@ -1,4 +1,55 @@
 {
+  "2020-10-19": {
+    "date": "10/19/20",
+    "isodate": "2020-10-19",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1113&MinutesMeetingID=-1&doctype=Agenda",
+    "filename": "_agendas/2020-10-19-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 19, 20207:15 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "CITIZENS OPEN FORUM",
+          "subhead": "true"
+        }
+      ]
+    }
+  },
+  "2020-10-05": {
+    "date": "10/05/20",
+    "isodate": "2020-10-05",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1112&MinutesMeetingID=-1&doctype=Agenda",
+    "filename": "_agendas/2020-10-05-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 5, 20207:15 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "CITIZENS OPEN FORUM",
+          "subhead": "true"
+        }
+      ]
+    }
+  },
+  "2020-09-14": {
+    "date": "09/14/20",
+    "isodate": "2020-09-14",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1111&MinutesMeetingID=-1&doctype=Agenda",
+    "filename": "_agendas/2020-09-14-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 14, 20207:15 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "CITIZENS OPEN FORUM",
+          "subhead": "true"
+        }
+      ]
+    }
+  },
   "2020-08-17": {
     "date": "08/17/20",
     "isodate": "2020-08-17",
@@ -186,6 +237,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1070&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1070",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=743",
     "filename": "_agendas/2020-07-20-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 20, 20207:15 PMConducted by Remote Participation",
