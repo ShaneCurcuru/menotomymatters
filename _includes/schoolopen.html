@@ -7,6 +7,9 @@
     </dt>
     <dd>
       <a href="{{ towndata.committee }}">School Committee Homepage</a>
+      {% if towndata.remote %}| <a href="{{ towndata.remote }}">Remote Learning Portal</a>{% endif %}
+      {% if towndata.infection %}| <a href="{{ towndata.infection }}">COVID Infection Protocol</a>{% endif %}
+      {% if towndata.startdate %}| Start Date(s) {{ towndata.startdate }}{% endif %}
       <ul>
       {% for itm in towndata.announcements %}
         <li><a href="{{ itm[0] }}">{{ itm[1] }}</a></li>
