@@ -59,3 +59,5 @@ There's been a lot of discussion recently about town leadership and planning, es
 - [CDBG Citizen Participation Plan](https://www.arlingtonma.gov/home/showdocument?id=46337) - Ways citizens can propose or comment on Community Development Block Grant programs.
 
 Bonus points for referencing existing planning documents when questioning current town board or department decisions! 
+
+Did I miss something?  [Send me updates, suggestions, or thank yous](mailto:shane@menotomymatters.com?Subject=[MM] Get Involved Suggestion)!
