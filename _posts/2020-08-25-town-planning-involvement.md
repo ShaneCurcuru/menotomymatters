@@ -15,7 +15,7 @@ header:
   caption: "Photo: [**ray sangga kusuma / Unsplash**](https://unsplash.com/)"
 ---
 
-There's been a lot of discussion recently about town leadership and planning, especially in relation to some controversial zoning and development projects beign proposed.  It might be useful for some frequent A-List writers or Facebook group posters to also look around on the town website to either read the many existing town plans, or to get involved with town committees in forming future plans or decisions.  Actions may not always follow existing plans closely, but it's still informative to see what town committees or departments **said** they were planning when reviewing what _actually_ happens.
+There's been a lot of discussion recently about town leadership and planning, especially in relation to some [controversial zoning and development projects](/issues/) being proposed.  It might be useful for some frequent A-List writers or Facebook group posters to also look around on the town website to either read the many existing town plans, or to [get involved with town committees](/townhall/) in forming future plans or decisions.  Actions may not always follow existing plans closely, but it's still informative to see what town committees or departments **said** they were planning when reviewing what _actually_ happens.
 
 ## Get Town Notices, Attend Meetings, Get Involved
 
