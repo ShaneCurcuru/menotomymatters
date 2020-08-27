@@ -1,5 +1,4 @@
 [
-
   {
     "title": "Hotel Lexington - Learning the Rest of the Story",
     "url": "https://blog-arfrr.blogspot.com/2020/08/hotel-lexington-learning-rest-of-story.html",
@@ -23,14 +22,6 @@
     "icon": "gavel",
     "date": "20200817",
     "displaydate": "17-Aug-2020"
-  },
-  {
-    "title": "They're Baaaack... - Hotel Lexington (VII) and the Toraya Block Tear Down ",
-    "url": "https://blog-arfrr.blogspot.com/2020/07/theyre-baaaack.html",
-    "content": "ARFRR provides a detailed look and criticism of developer's detailed plans for both proposals.",
-    "icon": "blog",
-    "date": "20200703",
-    "displaydate": "3-July-2020"
   },
   {
     "title": "They're Baaaack... - Hotel Lexington (VII) and the Toraya Block Tear Down ",
@@ -236,5 +227,12 @@
     "icon": "newspaper",
     "date": "20190715",
     "displaydate": "15-Jul-2019"
+  },
+  {
+    "title": "Arlington Residents For Responsible Redevelopment",
+    "content": "Grass-roots group working to ensure that redevelopment is in the best interests of our residents and businesses, by advocating for the preservation and creation of affordable housing, accountable government, a robust business sector, and the protection of our natural environment.",
+    "url": "https://sites.google.com/view/arfrr/",
+    "displaydate": "",
+    "icon": "blog"
   }
 ]
