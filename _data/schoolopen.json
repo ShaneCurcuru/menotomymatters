@@ -4,6 +4,7 @@
     "status": "remote/hybrid mix; depends on teacher's union to approve",
     "committee": "http://www.arlington.k12.ma.us/asc/",
     "announcements": {
+      "https://drive.google.com/file/d/1jk-ikps6FeNcY13ITYajWYxFAJLzplIw/view": "Arlington Education Association (teacher's union) statement questioning APS reopening plans. 31-Aug",
       "https://docs.google.com/document/d/1WP71FmjmY4afz1qmdjg4nR9TiuWZ74iVBz6SE6H-Fo4/edit": "Ottoson parent/principal reopening FAQ (updated)",
       "https://docs.google.com/document/d/1dXmAyikyQbCzMYQhoVnt-sa3kJY99EKa8q9zWKFDKD8/edit#heading=h.xt52dc2peea0": "AHS Reopening Info / Principal Janger Email to Parents 16-Aug",
       "http://www.arlington.k12.ma.us/news//apsproposedreopeningplanfall2020_redirect.asp": "APS FALL 2020 PROPOSED REOPENING PLAN 10-Aug",
@@ -21,6 +22,7 @@
     "status": "remote start; still draft final plan",
     "committee": "https://www.belmont.k12.ma.us/bps/Committee",
     "announcements": {
+      "https://www.belmont.k12.ma.us/bps/Home/Belmont-Public-Schools-News/Article/2877/School-Committee-Presentations-on-Remote-Schedules-and-Revised-Phased-Plan#.X0puky2z2L4": "Superintendent's Bulletin #10 - School Committee Presentations on Remote Schedules and Revised Phased Plan 28-Aug",
       "https://www.belmont.k12.ma.us/bps/Home/Belmont-Public-Schools-News/Article/2860/Fall-2020-Return-to-Learning-Plan-20": "Updated Fall 2020 Return to Learning Plan 2.0 17-Aug",
       "https://www.belmont.k12.ma.us/bps/Home/Belmont-Public-Schools-News/Article/2861/Update-on-Opening-Plans-for-Special-Education-Students": "Updated Opening Plans for SPED students 17-Aug",
       "https://www.belmont.k12.ma.us/bps/Home/Belmont-Public-Schools-News/Article/2850/Fall-2020-Return-to-Learning-Plan-10-Document-and-Presentation-to-the-School-Co": "School Opening Fall 2020 Superintendent's Bulletin #5 7-Aug",
@@ -37,6 +39,7 @@
     "status": "start remote; decide on hybrid 16-Oct",
     "committee": "https://www.mps02155.org/about-2/central-administration/medford-school-committee/",
     "announcements": {
+      "http://www.mps02155.org/2020-2021-school-plan-under-construction/": "MPS Remote Learning Plan 2.0 28-Aug (embedded PDF to read",
       "https://medford.vod.castus.tv/vod/?video=bd58a049-4b3a-4773-938e-4bcb42a2c495": "Superintendent Weekly Video Update 14-Aug",
       "https://docs.google.com/document/d/1PSyh9kZ4zScMBi-3MSHNDWDlb4v216lvgAG7dKdwVgA/edit#heading=h.pyp8mw8lek1s": "COVID Reopening FAQs From Parents (with answers) 13-Aug",
       "https://docs.google.com/document/d/1QhDvNzIsxeGqkJbrHxxSSutoL6x4qAG-SW4huLQVw34/preview": "Superintendent Weekly Communication Week Ending 7-Aug",
@@ -68,6 +71,8 @@
     "status": "hybrid or remote (choice)",
     "committee": "https://www.lexingtonma.gov/school-committee/links/school-committee-website",
     "announcements": {
+      "https://sites.google.com/lexingtonma.org/lps-covid19-return-to-school/home": "Lexington Schools COVID information portal",
+      "https://docs.google.com/document/d/1hHco5pasrHTEbdKfsILL4bQWLp4DeMkyH18uhE8qZJ0/preview": "Superintendent's Report on School Opening 25-Aug",
       "https://docs.google.com/document/d/13yRfsJSlAmpL5Z4wqq31q_HzlLx56uSjrjv6J6e5-JQ/preview": "Back to School Update 17-Aug",
       "https://docs.google.com/document/d/1ik4MsaAvtPMbmQcmT90vnR0JLZ9xg020uHSg4HzvrT4/preview": "Back to School Update 10-Aug",
       "https://sites.google.com/lexingtonma.org/lpscovid19andremotelearning/superintendent-updates": "LPS Superintendent Updates listing",
@@ -79,9 +84,11 @@
   },
   "Cambridge": {
     "url": "https://www.cpsd.us/",
-    "status": "CHANGE: all fully remote",
+    "status": "remote start; opt-in for hybrid starting 13-Oct",
     "committee": "https://www.cpsd.us/school_committee",
     "announcements": {
+      "https://docs.google.com/document/d/1U5XldxRwaBTKJdd0DmdLnsoDwqOYwns1056BipClVFw/edit?usp=sharing": "COVID Back To School FAQs",
+      "https://www.cpsd.us/UserFiles/Servers/Server_3042785/File/schools/back_to_school_timeline_2020.pdf": "Back to School Timeline",
       "https://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=69565944": "Homepage for back to school FAQs",
       "https://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=69650195": "Reopening data dashboard - tracking infection numbers",
       "https://www.cpsd.us/district_news/revised_timeline": "Superintendent's Update Switch to All Remote Start Thru Oct August 17, 2020",
@@ -90,14 +97,15 @@
       "https://www.cpsd.us/fall2020": "Planning for School Year 2020-21",
       "https://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=69638028": "Updated Proposal for Reopening Schools: August 4, 2020"
     },
-    "startdate": "September 16 week all remote; September 21 half-days; September 28 full days",
+    "startdate": "September 16 week all remote; Oct 13 opt-in hybrid starts",
     "updated": "22-August-2020"
   },
   "Somerville": {
     "url": "https://somerville.k12.ma.us/",
-    "status": "fully remote",
+    "status": "fully remote start",
     "committee": "https://somerville.k12.ma.us/district-leadership/somerville-school-committee",
     "announcements": {
+      "https://somerville.k12.ma.us/sites/default/files/SPS%20Reopening%20Plan%20-%20Version%202%20-%20081820_FINAL_reduced.pdf": "Back to School Reopening Plan v2.0 18-Aug",
       "https://somerville.k12.ma.us/district-leadership/central-administration/curriculum-instruction-and-assessment/back-school-2020-0": "Detailed Back To School Plan (updated)", 
       "https://somerville.k12.ma.us/district-leadership/central-administration/curriculum-instruction-and-assessment/back-school-2020": "Back to School Details Homepage (updated)",
       "https://somerville.k12.ma.us/back-school-2020": "Back to School 2020 Planning",
