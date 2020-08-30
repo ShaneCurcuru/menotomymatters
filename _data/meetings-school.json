@@ -1,4 +1,123 @@
 {
+  "2020-08-31": {
+    "date": "08/31/20",
+    "isodate": "2020-08-31",
+    "title": "School Committee Special Meeting",
+    "location": "Remote Meeting",
+    "viewurl": "MeetingView.aspx?MeetingID=1107&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1107",
+    "filename": "_agendas/2020-08-31-school.html",
+    "agenda": {
+      "notice": "Conducted by Remote Participation\r\n \r\n https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download\r\n \r\n \r\n ",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9581&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9581&MeetingID=1107\">6:30 p.m. Open Meeting</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9567&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9567&MeetingID=1107\">6:35 p.m. Public Comment</a> \n\n- Members of the public are asked to send written comments to kfitzgerald@arlington.k12.ma.us by 3PM on Monday, August 31, 2020.  All comments and questions received by the School Committee by the date and time indicated will become part of the packet and public record and will be shared with the full School Committee and administration before the meeting via email.  No written comments will be read at the meeting. \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9666&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9666&MeetingID=1107\">7:05 AEA Statement on Hybrid Plans, J. Keyes</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9667&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9667&MeetingID=1107\">7:10 Report on Subcommittees</a> \n\n- Facilities Subcommittee Report, J. Thielman\n\n- Budget Subcommittee Report, K. Allison-Ampe\n\n- CIAA Subcommittee Report, L. Kardon\n\n- Policies & Procedures: Paul Schlichtman, Chair\n\n- Supt. Search Process Committee, P. Schlichtman\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9583&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9583&MeetingID=1107\">7:30  p.m. Discuss Fall Reopening Plans, K. Bodie</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9603&ItemID=9583": [
+              "APS_Fall_2020_Proposed_Reopening_Plan_8102020_400.docx",
+              "APS Fall 2020 Reentry Plan 08102020 400"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9703&ItemID=9583": [
+              "DESE_School_Reopening_FAQ.pdf",
+              "DESE School Reopening FAQ"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9597&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9597&MeetingID=1107\">Consent Agenda</a> \n\nAll items listed with an asterisk are considered to be routine and will be enacted by one motion.  There will be no separate discussion of these items unless a member of the committee so requests, in which event the item will be considered in its normal sequence:\n\n*Approval of Warrant:  \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9686&ItemID=9597": [
+              "Warrant_21039.pdf",
+              "Warrant 21039"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9569&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9569&MeetingID=1107\">8:30 p.m. Policy Second Read EBC, BEDB, JJK</a> \n\nFile EBC Supplemental: Policy Issues for the Pandemic  \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9570&ItemID=9569": [
+              "policies_and_Proceedures__08_06_2020.pdf",
+              "Policies and Procedures minutes 08 06 2020  EBC, BEDB, JJK"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9585&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9585&MeetingID=1107\">8:45 p.m. Subcommittee/Liaison Reports/Announcements</a> \n\n- Community Relations: Bill Hayner, Chair\n\n- Arlington High School Building Committee:  Jeff Thielman, (Chair), Kirsi Allison-Ampe\n\n- Liaisons Reports\n- Announcements\n- Future Agenda Items\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9705&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9705&MeetingID=1107\">Executive Session</a> \n\n- To conduct strategy sessions in preparation for negotiations with union and/or nonunion personnel or contract negotiations with union and/or nonunion in which if held in an open meeting, may have a detrimental effect.\n\n- To conduct strategy with respect to collective bargaining or litigation, in which if held in an open meeting, may have a detrimental effect. Collective bargaining may also be conducted.\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9571&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9571&MeetingID=1107\">10:00 p.m. Adjournment</a> \n\nThe listings of matters are those reasonably anticipated by the Chair, which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may also be brought up for discussion to the extent permitted by law.\n\nStated times and time amounts, listed in parenthesis, are the estimated amount of time for that particular agenda item. Actual times may be shorter or longer depending on the time needed to fully explore the topic.\n\n"
+        },
+        {
+          "details": "Submitted by  Jane Morgan, Chair\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9573&MeetingID=1107"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9573&MeetingID=1107\">Correspondence Received:</a> \n\nopening of schools.  \nJulia Plunkett  \nLucy R Hutyra  \nMareshia Donald  \nAndrea Canty  \nMary Beth Wilkes  \nThe Arlington SPED Alliance  \nKaren and Curt Connors  \nSheri Baron  \nLucy Conroy  \n\nhttps://www.mass.gov/doc/open-meeting-law-order-march12-2020/download  \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9571&ItemID=9573": [
+              "On_the_Desktop_7_27_20_Additional_Staff_Training_Days_this_Fall_(1).pdf",
+              "On the Desktop 7 27 2020 DESE additional staff training days this fall"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9572&ItemID=9573": [
+              "MOU_between_DESE.MTA._AFT.BT.7.27.20_(1).pdf",
+              "MOU between DESE, MTA, BTU 7 27 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9573&ItemID=9573": [
+              "Arlington_Public_Schools_Projected_Enrollment_2020-2021_-_Enrollment_Numbers_-_July_27__2020.pdf",
+              "APS Enrollment Projections July 27, 2020"
+            ]
+          }
+        }
+      ]
+    }
+  },
   "2020-08-10": {
     "date": "08/10/20",
     "isodate": "2020-08-10",
