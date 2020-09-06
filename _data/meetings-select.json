@@ -187,6 +187,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1071&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1071",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=747",
     "filename": "_agendas/2020-08-17-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaAugust 17, 20207:15 PMConducted by Remote Participation",
