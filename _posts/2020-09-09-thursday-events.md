@@ -30,7 +30,7 @@ It is hosted by Tony Fed, Elizabeth Frances and [America Backs The Blue, Inc.](h
 
 ## Counter-protest To The Back The Blue Rally - 3:45pm to 6pm, Whittemore Park
 
-The [Facebook event page](https://www.facebook.com/events/673048743299552/) shows this event will start at 3:45pm at [Whittemore Park](https://goo.gl/maps/eYerLVM2ikZWqCpd7) to counter-protest the above rally.  Sign-making, speeches, chants will be held there, and at the end, organizers will march to join the Mass Ave Vigil at 6pm at Calvary Church.  Event notes require masks, social distancing, and urges attendees to not interact with the Arlington Backs The Blue rally.
+The [Facebook event page](https://www.facebook.com/events/673048743299552/) shows this event will start at 3:45pm at [Whittemore Park](https://goo.gl/maps/eYerLVM2ikZWqCpd7) to counter-protest the above rally.  Sign-making, speeches, chants will be held in Whittemore Park.  Event notes require masks, social distancing, and urges attendees to not interact with the Arlington Backs The Blue rally.
 
 It is hosted by [Arlington Fights Racism](https://www.facebook.com/ArlingtonFR/) and the [Greater Boston Peace Coalition](https://www.facebook.com/Greater-Boston-Peace-Coalition-102014721646756/).
 
