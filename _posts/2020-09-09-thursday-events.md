@@ -14,7 +14,7 @@ header:
   caption: "Photo: [**ray sangga kusuma / Unsplash**](https://unsplash.com/)"
 ---
 
-There's been a lot of consternation about several rallies being held on Mass Ave tomorrow, Thursday September 9th.  Since there's also been a lot of confusion and unfounded assumptions about these events, here's a quick primer to the who, when, and where of these events, listed in order of them originally being announced.  In particular Facebook has a lot of allegations of alliances with other groups that don't have any evidence, so if you're curious, read up on the event hosts directly.
+There's been a lot of consternation about several rallies being held on Mass Ave today, Thursday September 10th.  Since there's also been a lot of confusion and unfounded assumptions about these events, here's a quick primer to the who, when, and where of these events, listed in order of them originally being announced.  In particular Facebook has a lot of allegations of alliances with other groups that don't have any evidence other than similarity in group names, so if you're curious, please read up on the event hosts directly.
 
 If you're planning to attend this afternoon, bring an umbrella - it will be warm but raining!
 
@@ -39,6 +39,12 @@ It is hosted by [Arlington Fights Racism](https://www.facebook.com/ArlingtonFR/)
 The [Facebook event page](https://www.facebook.com/events/1735452759938483/) shows this event will start at 3:45pm on the [opposite side of Mass Ave](https://goo.gl/maps/vAKPJuNdmcX67tZz9) from Town hall, to counter-protest the Arlington Backs the Blue rally.  Organizers ask for attendees to bring masks, food, water, and noisemakers as they attempt to drown out the rally across the street.
 
 It is hosted by [Solidarity Against Hate - Boston](https://www.facebook.com/NoHateInBoston/).
+
+## Counter Rally - 4pm, First Parish Unitarian Universalist
+
+The [church's event page](https://firstparish.info/events/counter-rally/) shows this event will start at 4pm on the [First Parish front lawn](https://goo.gl/maps/KW5ecdx8MmCYbg6z6).  They acknowledge the other rallies, and ask any attending their event to avoid confrontations with Back the Blue.
+
+It is hosted by [Revs. Erica and Marta](https://firstparish.info/our-staff/) of the First Parish Unitarian Universalist church. 
 
 ## Other Coverage
 
