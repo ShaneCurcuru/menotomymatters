@@ -23,6 +23,7 @@ Now that it's Friday and all events are completed, here's a news coverage roundu
 - [WHDH did a video story](https://whdh.com/news/dueling-blue-lives-matter-black-lives-matter-protests-take-over-arlington-street/).
 - [WBUR has an article](https://www.wbur.org/news/2020/09/11/back-the-blue-black-lives-matter-opposing-rallies).
 - [WickedLocal has a photo spread](https://arlington.wickedlocal.com/photogallery/WL/20200910/NEWS/910009988/PH/1) and [accompanying article](https://arlington.wickedlocal.com/news/20200910/crowds-brave-rain-and-humidity-to-support-apd-counter-protest?rssfeed=true&utm_campaign=snd-autopilot) (may be paywalled).
+- [VillenSQuad617 on YouTube livestreamed](https://www.youtube.com/watch?v=JhgfjPynDec) much of the event.
 
 ## Nightly Arlington Mass Ave Vigil - 6pm to 7pm, along Mass Ave
 
