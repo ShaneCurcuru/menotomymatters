@@ -24,8 +24,6 @@ Now that it's Friday and all events are completed, here's a news coverage roundu
 - [WBUR has an article](https://www.wbur.org/news/2020/09/11/back-the-blue-black-lives-matter-opposing-rallies).
 - [WickedLocal has a photo spread](https://arlington.wickedlocal.com/photogallery/WL/20200910/NEWS/910009988/PH/1) and [accompanying article](https://arlington.wickedlocal.com/news/20200910/crowds-brave-rain-and-humidity-to-support-apd-counter-protest?rssfeed=true&utm_campaign=snd-autopilot) (may be paywalled).
 
-If you're planning to attend this afternoon, bring an umbrella - it will be warm but raining!  (Postscript: the rain mostly held off!)
-
 ## Nightly Arlington Mass Ave Vigil - 6pm to 7pm, along Mass Ave
 
 Started by a local AHS graduate Isa Dray shortly after the [death of George Floyd in Minneapolis police custody](https://en.wikipedia.org/wiki/Killing_of_George_Floyd), protestors for Black Lives Matter have stood peacefully from 6pm - 7pm every night all along Mass Ave.  Weather and weekday dependent, there are generally groups at least [in the Heights](https://goo.gl/maps/WnEiGGxVTqitAcdd8), at [Mass Ave / Rt 60](https://goo.gl/maps/WwriHzHewogu94HQA), and [Calvary United Methodist Church](https://goo.gl/maps/kyzXbkiCPjfgGCU39) corners every night since.
