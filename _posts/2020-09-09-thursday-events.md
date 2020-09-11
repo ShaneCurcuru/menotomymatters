@@ -16,7 +16,15 @@ header:
 
 There's been a lot of consternation about several rallies being held on Mass Ave today, Thursday September 10th.  Since there's also been a lot of confusion and unfounded assumptions about these events, here's a quick primer to the who, when, and where of these events, listed in order of them originally being announced.  In particular Facebook has a lot of allegations of alliances with other groups that don't have any evidence other than similarity in group names, so if you're curious, please read up on the event hosts directly.
 
-If you're planning to attend this afternoon, bring an umbrella - it will be warm but raining!
+## News Coverage
+
+Now that it's Friday and all events are completed, here's a news coverage roundup so far.
+
+- [WHDH did a video story](https://whdh.com/news/dueling-blue-lives-matter-black-lives-matter-protests-take-over-arlington-street/).
+- [WBUR has an article](https://www.wbur.org/news/2020/09/11/back-the-blue-black-lives-matter-opposing-rallies).
+- [WickedLocal has a photo spread](https://arlington.wickedlocal.com/photogallery/WL/20200910/NEWS/910009988/PH/1) and [accompanying article](https://arlington.wickedlocal.com/news/20200910/crowds-brave-rain-and-humidity-to-support-apd-counter-protest?rssfeed=true&utm_campaign=snd-autopilot) (may be paywalled).
+
+If you're planning to attend this afternoon, bring an umbrella - it will be warm but raining!  (Postscript: the rain mostly held off!)
 
 ## Nightly Arlington Mass Ave Vigil - 6pm to 7pm, along Mass Ave
 
@@ -26,7 +34,7 @@ Started by a local AHS graduate Isa Dray shortly after the [death of George Floy
 
 The [Facebook event page](https://www.facebook.com/events/1009514112803326/) shows this event will be from 4pm to 6pm in [front of Town hall](https://goo.gl/maps/Rn7QPscA8PwqXDG47) and is to show support for the officers serving in the [Arlington Police Department](https://www.arlingtonma.gov/departments/police).  Event notes require masks, social distancing, and asks attendees to not bring any political campaign signs or flags.
 
-It is hosted by Tony Fed, Elizabeth Frances and [America Backs The Blue, Inc.](https://www.facebook.com/groups/2657215194537300/), a recently created Massachusetts non-profit corporation.  The organizers have [issued a statement disavowing connections to other similarly-named groups](https://drive.google.com/file/d/1Fmv4cwrEeyp9Jc7wDobFIzJbIPoB7CI3/view).
+It is hosted by Tony Fed, Elizabeth Frances and [America Backs The Blue, Inc.](https://www.facebook.com/groups/2657215194537300/), a recently created [Massachusetts non-profit corporation](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=qeP.zyk5eGQUMEl04Y5mGjkAdb9SH2QUqYuM.Nzl1M4-), but that does not yet have IRS 501(C)3 status.  The organizers have [issued a statement disavowing connections to other similarly-named groups](https://drive.google.com/file/d/1Fmv4cwrEeyp9Jc7wDobFIzJbIPoB7CI3/view).
 
 ## Counter-protest To The Back The Blue Rally - 3:45pm to 6pm, Whittemore Park
 
