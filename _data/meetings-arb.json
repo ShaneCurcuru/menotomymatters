@@ -1,4 +1,122 @@
 {
+  "2020-09-14": {
+    "date": "09/14/20",
+    "isodate": "2020-09-14",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93227445762 | Enter Meeting ID: 932 2744 5762 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 932274457",
+    "viewurl": "MeetingView.aspx?MeetingID=1137&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1137",
+    "filename": "_agendas/2020-09-14-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeSeptember 14, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by September 11, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by September 14, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, September 14, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93227445762 | Enter Meeting ID: 932 2744 5762 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 932274457",
+      "rows": 19,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Welcome to Katherine Levine-Einstein new Board member Organizational Meeting - Vote to designate new Chair",
+          "time": "7:00 p.m",
+          "details": " \n-  Board will nominate and vote on next chair"
+        },
+        {
+          "num": "2.",
+          "title": "Docket #3631, 473 Mass Ave *Continued Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=9809&MeetingID=1137",
+          "time": "7:00 p.m.",
+          "details": "Board will open public hearing for Special Permit Docket #3631 to review application filed on July 21, 2020 by Gotu Hule for Acitron Cocina Mexicana, at 473 Massachusetts Avenue, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant seeks approval of signage that exceeds the size allowed for a wall sign in the B3 Village Business District. The opening of the Special Permit is to allow the Board to review the signage under Section 6.2, Signs. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.  ",
+          "dockets": {
+            "3631": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9796&ItemID=9809": [
+              "Agenda_Item_1a_Docket_3631_473_Mass_Ave_Application_Materials.pdf",
+              "Docket 3631 473 Mass Ave. Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9785&ItemID=9809": [
+              "Agenda_Item_1a_Docket_3631_New_Additional_Materials_Submitted_9-9-20.pdf",
+              "Docket 3631 New Additional Materials Submitted 9-9-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9787&ItemID=9809": [
+              "Agenda_Item_1a_EDR_Public_Hearing_Memo_Docket_#3631_473_Mass_Ave.pdf",
+              "EDR Public Hearing Memo Docket #3631 473 Mass Ave."
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Docket #3633, 1500 Mass Ave *Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=9810&MeetingID=1137",
+          "time": "7:30 p.m.",
+          "details": "Board will open public hearing for Special Permit Docket #3633 to review application filed on July 27, 2020 by 1500 Mass Ave, LLC, at 1500 Massachusetts Avenue in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to develop a new mixed-use building with four (4) residential units and one (1) commercial unit in a B1 Neighborhood Office District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.  ",
+          "dockets": {
+            "3633": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9788&ItemID=9810": [
+              "Agenda_Item_1b_Docket_3633_1500_Mass_Ave_Combined_Application_Materials.pdf",
+              "Docket 3633 1500 Mass Ave Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9790&ItemID=9810": [
+              "Agenda_Item_1b_EDR_Public_Hearing_Memo_Docket_.pdf",
+              "EDR Public Hearing Memo Docket 3633 1500 Mass Ave"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "19R Park Ave – review of and update on Minuteman Bikeway connection",
+          "url": "CoverSheet.aspx?ItemID=9811&MeetingID=1137",
+          "time": "8:00 p.m.",
+          "details": "Board will review drawings provided by the Housing Corporation of Arlington via Davis Square Architects per Special Permit 3519, General Condition 1 (19R Park Ave, known as Downing Square). \n-  Applicant will be provided 5 minutes for an introductory presentation. \n-  Board members will review, discuss, and may vote.  ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9791&ItemID=9811": [
+              "Agenda_Item_2_Docket_#3519_19R_Park_Ave_Downing_Square_Site_Plan_update.pdf",
+              "Docket #3519 19R Park Ave Downing Square Site Plan update"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9792&ItemID=9811": [
+              "Agenda_Item_2_Letter_to_ARB_from_HCA_regarding_the_delay_or_deletion_of_the_bridge_(1).pdf",
+              "Letter to ARB from HCA regarding the delay or deletion of the bridge"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Committees and Appointments:",
+          "url": "CoverSheet.aspx?ItemID=9812&MeetingID=1137",
+          "time": "8:15 p.m.",
+          "details": "Benjamin Bradlow, Housing Plan Implementation Committee ARB Committee appointments (Community Preservation Act Committee, Master Plan Implementation Committee, Zoning Bylaw Working Group, Housing Plan Implementation Committee) Board will vote on appointments to committees.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9793&ItemID=9812": [
+              "Agenda_Item_3_B.Bradlow_LOI_and_Resume.pdf",
+              "B. Bradlow LOI and Resume"
+            ]
+          }
+        },
+        {
+          "num": "6.",
+          "title": "Fall meeting schedule",
+          "time": "8:30 p.m.",
+          "details": "Special Town Meeting update and scheduling potential additional ARB meeting and hearing dates Staff will present and Board will discuss and may vote "
+        },
+        {
+          "num": "7.",
+          "title": "Upcoming ARB Goal Setting Meeting and Joint Meeting with Select Board on September 21",
+          "time": "8:45 p.m.",
+          "details": "Staff will present and Board will discuss agenda "
+        },
+        {
+          "num": "8.",
+          "title": "Open Forum",
+          "time": "9:00 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video."
+        },
+        {
+          "num": "9.",
+          "title": "Adjourn",
+          "details": "Estimated 9:20 p.m. – Adjourn  "
+        }
+      ]
+    }
+  },
   "2020-08-17": {
     "date": "08/17/20",
     "isodate": "2020-08-17",

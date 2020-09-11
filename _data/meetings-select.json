@@ -7,7 +7,7 @@
     "viewurl": "MeetingView.aspx?MeetingID=1113&MinutesMeetingID=-1&doctype=Agenda",
     "filename": "_agendas/2020-10-19-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 19, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 19, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "title": "CITIZENS OPEN FORUM",
@@ -24,7 +24,7 @@
     "viewurl": "MeetingView.aspx?MeetingID=1112&MinutesMeetingID=-1&doctype=Agenda",
     "filename": "_agendas/2020-10-05-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 5, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 5, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "title": "CITIZENS OPEN FORUM",
@@ -39,13 +39,34 @@
     "title": "Select Board Meeting",
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1111&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1111",
     "filename": "_agendas/2020-09-14-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 14, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 14, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "title": "CITIZENS OPEN FORUM",
           "subhead": "true"
+        }
+      ]
+    }
+  },
+  "2020-09-10": {
+    "date": "09/10/20",
+    "isodate": "2020-09-10",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1132&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1132",
+    "filename": "_agendas/2020-09-10-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 10, 20206:00 PM Conducted by Remote Participation",
+      "items": [
+        {
+          "details": "<span class='itemnum' id='2020-09-10_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9776&MeetingID=1132\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-09-10_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9777&MeetingID=1132\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Select Board/Town Manager Goal Setting\n\nJohn V. Hurd, Chair \nAdam W. Chapdelaine, Town Manager\n\n"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9778&MeetingID=1132\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Regular Scheduled Meeting of Select Board September 14, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_xtlVEWTSRq2H0BbLIQ07HQ\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar. \nWhen: Sep 10, 2020 06:00 PM Eastern Time (US and Canada) \nTopic: Select Board/Town Manager Goal Setting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_xtlVEWTSRq2H0BbLIQ07HQ\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
         }
       ]
     }
@@ -59,7 +80,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1110",
     "filename": "_agendas/2020-08-31-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaAugust 31, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaAugust 31, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-08-31_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9622&MeetingID=1110\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
@@ -190,7 +211,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=747",
     "filename": "_agendas/2020-08-17-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaAugust 17, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaAugust 17, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-08-17_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9433&MeetingID=1071\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
@@ -371,7 +392,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=743",
     "filename": "_agendas/2020-07-20-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 20, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 20, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-07-20_1'>1.</span>Executive Order on Remote Participation\n\n \n\n"
@@ -439,7 +460,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=740",
     "filename": "_agendas/2020-07-07-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 7, 20206:00 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJuly 7, 20206:00 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-07-07_1'>1.</span>Executive Order on Remote Participation\n\n"
@@ -486,7 +507,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=735",
     "filename": "_agendas/2020-06-29-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 29, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 29, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-06-29_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9265&MeetingID=1069\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation",
@@ -672,7 +693,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=727",
     "filename": "_agendas/2020-06-15-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 15, 20205:00 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 15, 20205:00 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-06-15_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9197&MeetingID=1068\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation",
@@ -763,7 +784,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=725",
     "filename": "_agendas/2020-06-08-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 8, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 8, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-06-08_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9089&MeetingID=1056\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-06-08_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9070&MeetingID=1056\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Organizational Meeting for the Purpose of Electing a Chair and Vice Chair",
@@ -1108,7 +1129,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=724",
     "filename": "_agendas/2020-06-01-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 1, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaJune 1, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-06-01_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9013&MeetingID=1055\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n  ",
@@ -1254,7 +1275,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1039",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=707",
     "agenda": {
-      "notice": "Town of Arlington\r\nSelect Board\r\nMeeting AgendaMay 18, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\r\nSelect Board\r\nMeeting AgendaMay 18, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-05-18_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8843&MeetingID=1039\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-05-18_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8903&MeetingID=1039\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion & Approval:</span> Shared Streets One Week Pilot\n\n- Adam W. Chapdelaine, Town Manager\nDaniel Amstutz, Senior Transportation Planner",
@@ -1448,7 +1469,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1038",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=706",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaMay 4, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaMay 4, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-05-04_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8806&MeetingID=1038\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-05-04_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8824&MeetingID=1038\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Third Quarter Financial Report 2020\n\n- Sandy Pooler, Deputy Town Manager",
@@ -1572,7 +1593,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1026",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=704",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaApril 27, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaApril 27, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-04-27_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8759&MeetingID=1026\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-04-27_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8764&MeetingID=1026\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Update:  Town Meeting and Annual Town Election\n\n- Diane M. Mahon, Chair\n ",
@@ -1787,7 +1808,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1031",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=698",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaApril 13, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaApril 13, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-04-13_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8734&MeetingID=1031\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-04-13_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8710&MeetingID=1031\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Organizational Meeting for the Purpose of Electing a Chair and Vice Chair\n\n- Diane M. Mahon, Chair",
@@ -1869,7 +1890,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1028",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=694",
     "agenda": {
-      "notice": "Town of Arlington\r\nSelect Board\r\nMeeting AgendaMarch 30, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\r\nSelect Board\r\nMeeting AgendaMarch 30, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-03-30_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8690&MeetingID=1028\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation",
@@ -1947,7 +1968,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=984",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=693",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaMarch 23, 20207:15 PMConducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaMarch 23, 20207:15 PM Conducted by Remote Participation",
       "items": [
         {
           "details": "<span class='itemnum' id='2020-03-23_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8671&MeetingID=984\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation",
@@ -2688,7 +2709,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=933",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=636",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 28, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 28, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "details": "<span class='itemnum' id='2019-10-28_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8002&MeetingID=933\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Introduction:  Acting Assistant Town Manager\n\n- Ray Santilli\n\n<span class='itemnum' id='2019-10-28_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=8001&MeetingID=933\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Introduction:  Dwi Jayanthi and Jolly Nguyen, U.S. State Department Young Southeast Asian Leadership Initiative Fellows (YSEALI)",
@@ -2849,7 +2870,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=932",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=617",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 7, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 7, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "title": "PROCLAMATIONS",
@@ -3042,7 +3063,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=931",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=604",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 23, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 23, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "details": "<span class='itemnum' id='2019-09-23_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=7802&MeetingID=931\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Welcome to New Fire Chief - Kevin Kelley\n\n- Chief Kevin Kelley, Arlington Fire Department\n\n<span class='itemnum' id='2019-09-23_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=7803&MeetingID=931\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Arlington Police Department Update\n\n- Acting Chief Juliann Flaherty\n \n "
@@ -3163,7 +3184,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=930",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=616",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 9, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 9, 20197:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "title": "CONSENT AGENDA",
@@ -6612,7 +6633,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=777",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=516",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 22, 20187:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 22, 20187:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "title": "CONSENT AGENDA",
@@ -6837,7 +6858,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=776",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=496",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 10, 20187:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 10, 20187:15 PMSelect Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "title": "CONSENT AGENDA",
@@ -7014,7 +7035,7 @@
     "viewurl": "MeetingView.aspx?MeetingID=783&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=783",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 24, 20187:15 PMEMERGENCY ADDENDUM Select Board Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 24, 20187:15 PMEMERGENCY ADDENDUM Select Board Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "details": "<span class='itemnum' id='2018-09-24_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=6320&MeetingID=783\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span>  Common Victualler and All Alcohol License\n\n- Mini Punjab, 444 Massachusetts Avenue, Kashmir Singh\n(postponed from 9.12.18 meeting)\n ",
@@ -7038,7 +7059,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=750",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=482",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 12, 20187:15 PMSelectmen's Chambers, 2nd Floor, Town Hall",
+      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 12, 20187:15 PMSelectmen's Chambers, 2nd Floor, Town Hall",
       "items": [
         {
           "details": "<span class='itemnum' id='2018-09-12_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=6232&MeetingID=750\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span>  Appointment of Treasurer-Collector\n\n- Daniel J. Dunn, Chair\nAdam W. Chapdelaine, Town Manager\n \n ",

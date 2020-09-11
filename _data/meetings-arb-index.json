@@ -249,7 +249,18 @@
     "purpose": "signage",
     "owner": "Acitron Cocina Mexicana",
     "meetings": [
+      "2020-09-14",
       "2020-08-17"
     ]
+  },
+  "3633": {
+    "address": "1500 Massachusetts Ave",
+    "purpose": "B1 zone mixed use construction",
+    "meetings": [
+      "2020-09-14"
+    ],
+    "urls": {
+      "https://www.arlingtonma.gov/Home/Components/News/News/10465/3864?backlist=%2ftown-governance%2fall-boards-and-committees%2fredevelopment-board": "Environmental Design Review Docket 3633, 1500 Massachusetts Avenue"
+    }
   }
 }
