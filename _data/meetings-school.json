@@ -1,4 +1,27 @@
 {
+  "2020-09-18": {
+    "date": "09/18/20",
+    "isodate": "2020-09-18",
+    "title": "School Committee Special Meeting",
+    "location": "Via Remote Zoom Meeting",
+    "viewurl": "MeetingView.aspx?MeetingID=1146&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1146",
+    "filename": "_agendas/2020-09-18-school.html",
+    "agenda": {
+      "notice": "Conducted by Remote Participation\r\n \r\n https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download\r\n \r\n \r\n ",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=9852&MeetingID=1146"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9852&MeetingID=1146\">Executive Session</a> \n\n- To conduct strategy sessions in preparation for negotiations with union and/or nonunion personnel or contract negotiations with union and/or nonunion in which if held in an open meeting, may have a detrimental effect.\n\n- To conduct strategy with respect to collective bargaining or litigation, in which if held in an open meeting, may have a detrimental effect. Collective bargaining may also be conducted.\n- AEA MOA\n\n"
+        },
+        {
+          "details": "Submitted by  Jane Morgan, Chair\n\n"
+        }
+      ]
+    }
+  },
   "2020-09-10": {
     "date": "09/10/20",
     "isodate": "2020-09-10",

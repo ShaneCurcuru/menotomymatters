@@ -1,4 +1,79 @@
 {
+  "2020-09-21alt": {
+    "date": "09/21/20",
+    "isodate": "2020-09-21",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92048210509  | Enter Meeting ID: 920 4821 0509 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 920 4821 0509",
+    "viewurl": "MeetingView.aspx?MeetingID=1147&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1147",
+    "filename": "_agendas/2020-09-21alt-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeSeptember 21, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20.The Arlington Redevelopment Board will meet Monday, September 21, 2020 at 5:45 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92048210509 | Enter Meeting ID: 920 4821 0509 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 920 4821 0509",
+      "rows": 7,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Review of FY21 Arlington planning and community development objectives per Annual Plan",
+          "details": ""
+        },
+        {
+          "num": "2.",
+          "title": "Review existing ARB objectives per Annual Plan and discuss new ARB annual objectives",
+          "details": ""
+        },
+        {
+          "num": "3.",
+          "title": "Adjourn",
+          "details": ""
+        }
+      ]
+    }
+  },
+  "2020-09-21": {
+    "date": "09/21/20",
+    "isodate": "2020-09-21",
+    "title": "Redevelopment Board",
+    "location": "The Arlington Redevelopment Board and the Select Board will meet jointly on Monday, September 21, 2020 at 7:00 PM",
+    "viewurl": "MeetingView.aspx?MeetingID=1148&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1148",
+    "filename": "_agendas/2020-09-21-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeSeptember 21, 2020  You are invited to a Zoom webinar. When: Sep 21, 2020 07:00 PM Eastern Time (US and Canada) Topic: Joint Meeting of Select Board & Redevelopment Board Register in advance for this webinar: https://town-arlington-ma-us.zoom.us/webinar/register/WN_bDgWYXG3Qjauwj2-uOBCSA After registering, you will receive a confirmation email containing information about joining the webinar.The Arlington Redevelopment Board will meet Monday, September 21, 2020 at 7:00 PM in theThe Arlington Redevelopment Board and the Select Board will meet jointly on Monday, September 21, 2020 at 7:00 PM",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Meeting called to order by Chair of Select Board and Chair of Arlington Redevelopment Board",
+          "details": ""
+        },
+        {
+          "num": "2.",
+          "title": "Welcome and introductions (Board and staff introductions)",
+          "details": ""
+        },
+        {
+          "num": "3.",
+          "title": "Presentation and Discussion (led by Town Manager / Director of Planning and Community Development)",
+          "details": "-Summary of joint meeting and agreed next steps from January, including housing and economic development question campaign and engagement strategy -Update on community plans in progress -Report out from July 7th Community Conversation: Race and Housing -Update on economic recovery efforts -Overview of process to update town’s Housing Production Plan  "
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "details": ""
+        },
+        {
+          "num": "5.",
+          "title": "Future joint meeting dates",
+          "details": ""
+        },
+        {
+          "num": "6.",
+          "title": "Adjourn",
+          "details": ""
+        }
+      ]
+    }
+  },
   "2020-09-14": {
     "date": "09/14/20",
     "isodate": "2020-09-14",

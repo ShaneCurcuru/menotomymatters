@@ -33,6 +33,30 @@
       ]
     }
   },
+  "2020-09-21": {
+    "date": "09/21/20",
+    "isodate": "2020-09-21",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1144&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1144",
+    "filename": "_agendas/2020-09-21-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 21, 20207:00 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "THIS IS A JOINT MEETING OF THE SELECT BOARD AND REDEVELOPMENT BOARD",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-21_1'>1.</span>Meeting called to order by Chair of Select Board and Chair of Arlington Redevelopment Board\n\n<span class='itemnum' id='2020-09-21_2'>2.</span>Welcome and introductions (Board and staff introductions)\n\n<span class='itemnum' id='2020-09-21_3'>3.</span>Presentation and Discussion (led by Town Manager / Director of Planning and Community Development)\n\n-Summary of joint meeting and agreed next steps from January, including housing ad economic development question campaign and engagement strategy\n-Update on community plans in progress\n-Report out from July 7th Community Conversation: Race and Housing\n-Update on economic recovery efforts \n-Overview of process to update Town's Housing Production Plan\n\n<span class='itemnum' id='2020-09-21_4'>4.</span>Open Forum\n\n<span class='itemnum' id='2020-09-21_5'>5.</span>Future joint meeting dates\n\n<span class='itemnum' id='2020-09-21_6'>6.</span>Adjourn\n\n"
+        },
+        {
+          "details": "You are invited to a Zoom webinar.\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_bDgWYXG3Qjauwj2-uOBCSA\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12 2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> When: Sep 21, 2020 07:00 PM Eastern Time (US and Canada) \nTopic: Joint Meeting of Select Board & Redevelopment Board\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_bDgWYXG3Qjauwj2-uOBCSA\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n\nhttps://www.mass.gov/doc/open-meeting-law-order-march-12 2020/download\n\n"
+        }
+      ]
+    }
+  },
   "2020-09-14": {
     "date": "09/14/20",
     "isodate": "2020-09-14",
