@@ -1,4 +1,122 @@
 {
+  "2020-10-05": {
+    "date": "10/05/20",
+    "isodate": "2020-10-05",
+    "title": "Redevelopment Board",
+    "location": "Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/98592063485 | Enter Meeting ID: 985 9206 3485 or by phone with by calling: 1-646-876-9923, enter the Meeting ID followed by #",
+    "viewurl": "MeetingView.aspx?MeetingID=1160&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1160",
+    "filename": "_agendas/2020-10-05-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 5, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 2, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 5, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, October 5, 2020 at 7:00 PM in theZoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/98592063485 | Enter Meeting ID: 985 9206 3485 or by phone with by calling: 1-646-876-9923, enter the Meeting ID followed by #",
+      "rows": 17,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Docket #2717, as amended #2905, 23 Broadway *Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=9989&MeetingID=1160",
+          "time": "7:00 p.m.",
+          "details": "Board will open public hearing to reopen Special Permit #2717 as amended by Docket #2905 to review application filed September 3, 2020 by Eskar, LLC, 9 Wildwood Rood, Middleton, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to establish a marijuana retail establishment at 23 Broadway Arlington, MA in the B2A Major Business District. The reopening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
+          "dockets": {
+            "2905": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9974&ItemID=9989": [
+              "Agenda_Item_1_Final_EDR_Public_Hearing_Memo_Docket_2717_amended_by_2905_Eskar_23_Broadway.pdf",
+              "Final EDR Public Hearing Memo Docket 2717"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9972&ItemID=9989": [
+              "Combined_Application_Materials.pdf",
+              "Docket #2717 Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10003&ItemID=9989": [
+              "LEED_Memo_and_Scorecard.pdf",
+              "Docket #2717 LEED Memo and Scorecard"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Committee Appointment:",
+          "url": "CoverSheet.aspx?ItemID=9990&MeetingID=1160",
+          "time": "7:30 p.m.",
+          "details": "Alex Bagnall, Envision Arlington Standing Committee \n-  Board will vote on committee appointment.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9975&ItemID=9990": [
+              "Agenda_Item_2_Bagnall_Cover_Letter.pdf",
+              "A. Bagnall Cover Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9976&ItemID=9990": [
+              "Agenda_Item_2_Bagnall_Resume.pdf",
+              "A. Bagnall Resume"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Presentation and Discussion:",
+          "url": "CoverSheet.aspx?ItemID=9991&MeetingID=1160",
+          "time": "7:40 p.m.",
+          "details": "Residential Design Guidelines and Design Review Process for R0, R1, R2 Zoning Districts \n-  Representatives from Harriman and the Department of Planning and Community Development will make a presentation and facilitate a discussion with the Board ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9977&ItemID=9991": [
+              "Agenda_Item_3_Arlington_Residential_Design_Guidelines.pdf",
+              "Arlington Residential Design Guidelines"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10004&ItemID=9991": [
+              "Agenda_Item_3_ARB_Presentation.pdf",
+              "ARB Presentation"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Meeting Minutes (07/20/20)",
+          "url": "CoverSheet.aspx?ItemID=9992&MeetingID=1160",
+          "time": "8:25 p.m.",
+          "details": "\n-  Board will vote on approval of minutes. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10002&ItemID=9992": [
+              "07202020_Draft_ARB_Minutes.docx",
+              "07202020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Open Forum",
+          "time": "8:30 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video."
+        },
+        {
+          "num": "6.",
+          "title": "Executive Session",
+          "time": "8:50 p.m.",
+          "details": "To discuss pending litigation "
+        },
+        {
+          "num": "7.",
+          "title": "Adjourn",
+          "details": ""
+        },
+        {
+          "num": "8.",
+          "title": "Correspondence received:",
+          "url": "CoverSheet.aspx?ItemID=9996&MeetingID=1160",
+          "details": "Correspondence received from J. Berson 093020 re Docket 2717 23 Broadway",
+          "correspondence": [
+            "J. Berson 093020 re Docket 2717 23 Broadway"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9978&ItemID=9996": [
+              "Correspondence_received_from_J._Berson_093020_re_Docket_2717_23_Broadway.pdf",
+              "Correspondence received from J. Berson 09032020 re Docket #2717"
+            ]
+          }
+        }
+      ]
+    }
+  },
   "2020-09-21alt": {
     "date": "09/21/20",
     "isodate": "2020-09-21",

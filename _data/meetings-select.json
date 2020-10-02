@@ -22,6 +22,7 @@
     "title": "Select Board Meeting",
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1112&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1112",
     "filename": "_agendas/2020-10-05-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 5, 20207:15 PM Conducted by Remote Participation",
