@@ -1,21 +1,4 @@
 {
-  "2020-10-19": {
-    "date": "10/19/20",
-    "isodate": "2020-10-19",
-    "title": "Select Board Meeting",
-    "location": "Conducted by Remote Participation",
-    "viewurl": "MeetingView.aspx?MeetingID=1113&MinutesMeetingID=-1&doctype=Agenda",
-    "filename": "_agendas/2020-10-19-select.html",
-    "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 19, 20207:15 PM Conducted by Remote Participation",
-      "items": [
-        {
-          "title": "CITIZENS OPEN FORUM",
-          "subhead": "true"
-        }
-      ]
-    }
-  },
   "2020-10-05": {
     "date": "10/05/20",
     "isodate": "2020-10-05",
@@ -25,11 +8,176 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1112",
     "filename": "_agendas/2020-10-05-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda October 5, 20207:15 PM Conducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 5, 20207:15 PMConducted by Remote Participation",
       "items": [
         {
-          "title": "CITIZENS OPEN FORUM",
+          "details": "<span class='itemnum' id='2020-10-05_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9829&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9808&ItemID=9829": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Executive Order on Remote Participation"
+            ]
+          }
+        },
+        {
+          "title": "CONSENT AGENDA",
           "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-10-05_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9830&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Minutes of Meetings:</span> September 14, 2020\n\n<span class='itemnum' id='2020-10-05_3'>3.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9986&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Appointment of New Election Workers: (1) Caitlin Santacroce, 39 Sunnyside Avenue, D, Pct. 5; (2) Aimee Taberner, 41 Wellington Street, D, Pct. 10; (3) Madeline Upson, 46 Teel Street #2, U, Pct. 1; (4) Sarah White, 32 Pondview Road #1, D, Pct. 2\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9957&ItemID=9830": [
+              "9.14.2020_draft_minutes.pdf",
+              "Draft 9.14.2020 Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9996&ItemID=9986": [
+              "Election_Master_Records.pdf",
+              "Election Master Records"
+            ]
+          }
+        },
+        {
+          "title": "APPOINTMENTS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-10-05_4'>4.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9906&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Conservation Commission\n\nDouglas Kilgour, Associate Member (term to expire 6/30/2022)\nMike Gildesgame (term to expire 6/30/2023)\n\n<span class='itemnum' id='2020-10-05_5'>5.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9909&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Cyrus E. Dallin Museum Board of Trustees\n\nMolly Harper (term to expire 12/31/2023)\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9882&ItemID=9906": [
+              "D._Kilgour_Reference.pdf",
+              "D. Kilgour Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9883&ItemID=9906": [
+              "M._Gildesgame_Reference.pdf",
+              "M. Gildesgame Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9884&ItemID=9909": [
+              "M._Harper_Reference.pdf",
+              "M. Harper Reference"
+            ]
+          }
+        },
+        {
+          "title": "LICENSES & PERMITS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-10-05_6'>6.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9831&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span> Common Victualler License\n\nAlfredo Italian Kitchen, 242 Massachusetts Avenue, Emadeldine Derebala\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9982&ItemID=9831": [
+              "Venice_Italian_Kitcehn_-_Inspection_Report.pdf",
+              "Inspection Reports"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9983&ItemID=9831": [
+              "Venice_Italian_Kitchen_-_Application.pdf",
+              "Common Victualler Application"
+            ]
+          }
+        },
+        {
+          "title": "OPEN FORUM",
+          "subhead": "true"
+        },
+        {
+          "title": "TRAFFIC RULES & ORDERS / OTHER BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-10-05_7'>7.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9997&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span> Amendments to the Temporary Outdoor Dining License Regulations\n\nAli Carter, Economic Development Coordinator\n\n<span class='itemnum' id='2020-10-05_8'>8.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9988&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion:</span> Plan to Implement & Outreach for Mary Street Shared Streets Pilot\n\nAdam W. Chapdelaine, Town Manager\n\n<span class='itemnum' id='2020-10-05_9'>9.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10023&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion:</span> Racial Equity Work in the Coming Year\n\nAdam W. Chapdelaine, Town Manager\n\n<span class='itemnum' id='2020-10-05_10'>10.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9998&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion & Approval:</span> Town Manager Evaluation Process\n\nAdam W. Chapdelaine, Town Manager\n\n<span class='itemnum' id='2020-10-05_11'>11.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9907&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion & Vote:</span> Select Board Policy Changes\n\nJohn V. Hurd, Chair\nJoseph A. Curro, Jr., Vice Chair\n \n\n<span class='itemnum' id='2020-10-05_12'>12.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9818&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Presentations: Marijuana Establishment Host Community Agreement License Applicants\n\na)  Calyx Peak of MA, Inc., 2 Hampshire Street, Suite 100-B, Foxborough, MA\n     Edward Schmults\n \nb)  The Human Connection LLC, 29 Florence Avenue, Arlington, MA\n      Jared Glamz-Berger\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10000&ItemID=9997": [
+              "TODL_regulations_rev_9.29.20.pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9971&ItemID=9988": [
+              "Planning_Memo_-_Mary_Street_Pilot_Shared_Street_Update.pdf",
+              "Memo from Planning Department"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10010&ItemID=10023": [
+              "Racial_Justice_Teach-ins_Description.pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9980&ItemID=9998": [
+              "TM_Performance_Eval_2020.pdf",
+              "Town Manager Performance Evaluation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9981&ItemID=9998": [
+              "TM_Eval_Form_Approved_02-25-2013.pdf",
+              "TM Evaluation Form"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10007&ItemID=9907": [
+              "Handbook_Policy_Changes.pdf",
+              "J. Curro Handbook Policy Changes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10005&ItemID=9818": [
+              "HCA_Applicant_Review_Memo_from_Town_Counsel.pdf",
+              "Memo from Legal Department"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9794&ItemID=9818": [
+              "DPCD_Memo_to_Select_Board_re_HCA_090920._(1).doc",
+              "Memo from Planning Department"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9795&ItemID=9818": [
+              "MSG_Memo_to_Select_Board_re_HCA_Final.pdf",
+              "Memo from Marijuana Study Group"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10006&ItemID=9818": [
+              "2020_Select_Board_Host_Community_Agreement_Process_Criteria_for_publication.pdf",
+              "Select Board Host Community Agreement Process Criteria"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9800&ItemID=9818": [
+              "Calyx_Peak_2020_HCA_Application_Arlington_Submitted.pdf",
+              "Caylx Peak Application"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10009&ItemID=9818": [
+              "Calyx_Peak_Presentation.pdf",
+              "Caylx Peak Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9801&ItemID=9818": [
+              "The_Human_Connection_2020_HCA_Application_-_v1.00.pdf",
+              "The Human Connection LLC Application"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9970&ItemID=9818": [
+              "THC_Presentation.pdf",
+              "The Human Connection LLC Presentation"
+            ]
+          }
+        },
+        {
+          "title": "CORRESPONDENCE RECEIVED",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-10-05_13'>13.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9898&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Letter Regarding Black Lives Matter Banner\n\nSam O'Keefe\nRebecca Gruber\nRobert Santosuosso\nAnne-Marie Bono\nBeth Loomis\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9868&ItemID=9898": [
+              "S._O_Keefe_CR.docx",
+              "S. O'Keefe CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9888&ItemID=9898": [
+              "R._Gruber_CR.docx",
+              "R. Gruber CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9889&ItemID=9898": [
+              "R._Santosuosso_CR.docx",
+              "R. Santosuosso CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9890&ItemID=9898": [
+              "A._Bono_CR.docx",
+              "A. Bono CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9891&ItemID=9898": [
+              "B._Loomis_CR.pdf",
+              "B. Loomis CR"
+            ]
+          }
+        },
+        {
+          "title": "EXECUTIVE SESSION",
+          "subhead": "true"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9919&MeetingID=1112\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board October 19, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_iuAEbOmCTr-C-Lx0oxSQ8w\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar. \nWhen: Oct 5, 2020 07:15 PM Eastern Time (US and Canada) \nTopic: Select Board Meeting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_iuAEbOmCTr-C-Lx0oxSQ8w\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n \n\n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nMembers of the public are asked to send written comment to amaher@town.arlington.ma.us by October 5, 2020 at 3:00 p.m.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
         }
       ]
     }
@@ -67,14 +215,130 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1111",
     "filename": "_agendas/2020-09-14-select.html",
     "agenda": {
-      "notice": "Town of Arlington\nSelect Board\nMeeting Agenda September 14, 20207:15 PM Conducted by Remote Participation",
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaSeptember 14, 20207:15 PMConducted by Remote Participation",
       "items": [
         {
-          "title": "CITIZENS OPEN FORUM",
+          "details": "<span class='itemnum' id='2020-09-14_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9734&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-09-14_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9827&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> End of Year Budget Report\n\nSandy Pooler, Deputy Town Manager\n \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9744&ItemID=9734": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9802&ItemID=9827": [
+              "Fourth_Quarter_Report_2020.pdf",
+              "Fourth Quarter Budget Report"
+            ]
+          }
+        },
+        {
+          "title": "CONSENT AGENDA",
           "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-14_3'>3.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9801&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Minutes of Meetings:</span> August 31, 2020\n\n<span class='itemnum' id='2020-09-14_4'>4.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9821&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span> Shop Arlington First Banners in Arlington Center and Capitol Square\n\nAli Carter, Economic Development Recovery Task Force \n\n<span class='itemnum' id='2020-09-14_5'>5.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9803&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Request:</span> Contractor/Drainlayer License\n\nSean S. Tocci Excavating, Inc., 72 Meadow Road, Townsend, MA\n\n<span class='itemnum' id='2020-09-14_6'>6.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9802&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Appointment of New Election Workers: Susan Doctrow, 99 Westminster Avenue, D, Pct. 20\n\n \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9780&ItemID=9801": [
+              "8.31.2020_draft_minutes.pdf",
+              "Draft 8.31.2020 Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9798&ItemID=9821": [
+              "Schedule.docx",
+              "Banner Schedule"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9799&ItemID=9821": [
+              "Shop_Arlington_First_Banner_Request.pdf",
+              "Shop Arlington First Banner Request"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9773&ItemID=9803": [
+              "Tocci_Excavating.pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9774&ItemID=9802": [
+              "Election_Worker_Master_Record.pdf",
+              "Election Worker Master Record"
+            ]
+          }
+        },
+        {
+          "title": "APPOINTMENTS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-14_7'>7.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9747&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Commission for Arts and Culture\n\nChristine Noah (term to expire 06/30/2023)\nSarah Morgan-Wu (term to expire 06/30/2023)\n \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9748&ItemID=9747": [
+              "ACAC_Appointment_Letter.docx",
+              "Reference from ACAC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9749&ItemID=9747": [
+              "C._Noah_Reference.pdf",
+              "C. Noah Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9750&ItemID=9747": [
+              "S._Morgan-Wu_Reference.pdf",
+              "S. Morgan-Wu Reference"
+            ]
+          }
+        },
+        {
+          "title": "LICENSES & PERMITS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-14_8'>8.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9735&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span> Food Vendor License\n\nNumber 1 Taste, 165 Massachusetts Avenue, Jack Sy\n \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9783&ItemID=9735": [
+              "Number_1_Taste_-_Inspection_Reports.pdf",
+              "Inspection Reports"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9781&ItemID=9735": [
+              "Number_1_Taste_-_FV_Application.pdf",
+              "Food Vendor Application"
+            ]
+          }
+        },
+        {
+          "title": "DISCUSSION",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-14_9'>9.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9826&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Black Lives Matter Banner\n\nAdam W. Chapdelaine, Town Manager\n \n \n\n"
+        },
+        {
+          "title": "OPEN FORUM",
+          "subhead": "true"
+        },
+        {
+          "title": "TRAFFIC RULES & ORDERS / OTHER BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-09-14_10'>10.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9819&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Update: Arlington Economic Development Recovery Task Force\n\nJenny Raitt, Director of Planning and Community Development\n\n<span class='itemnum' id='2020-09-14_11'>11.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9807&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion:</span> Future Select Board Meetings\n\n<span class='itemnum' id='2020-09-14_12'>12.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9824&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Vote: Special Town Meeting\n\nJohn V. Hurd, Chair\n\n<span class='itemnum' id='2020-09-14_13'>13.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9825&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>For Approval:</span> Opening of Special Town Meeting Warrant\n\nJohn V. Hurd, Chair\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=9797&ItemID=9819": [
+              "Arlington_Economic_Development_Recovery_Task_Force_Memo_September_2020_(1).pdf",
+              "Reference"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=9779&ItemID=9807": [
+              "Nov_-_Dec_Calendar.pdf",
+              "November - December Calendar"
+            ]
+          }
+        },
+        {
+          "title": "NEW BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "title": "EXECUTIVE SESSION",
+          "subhead": "true"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=9805&MeetingID=1111\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board October 5, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_NcU-gweXRe-fSB1gtjrLwA\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar. \nWhen: Sep 14, 2020 07:15 PM Eastern Time (US and Canada) \nTopic: Select Board Meeting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_NcU-gweXRe-fSB1gtjrLwA\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nMembers of the public are asked to send written comment to amaher@town.arlington.ma.us by September 14, 2020 at 3:00 p.m.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
         }
       ]
-    }
+    },
+    "video": "https://acmi.tv/videos/select-board-meeting-september-14-2020/"
   },
   "2020-09-10": {
     "date": "09/10/20",
