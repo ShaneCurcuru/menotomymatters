@@ -22,7 +22,13 @@ to see what the official reports or recommendations are?
 - [Official 2020 TMM member list](https://www.arlingtonma.gov/home/showdocument?id=51888) - see who represents your precinct.
 - [ACMi "Town Meeting Matters" video series](https://www.youtube.com/playlist?list=PLztbi9KA9roUApm2ebTFRoQ9Of81Z2ge4) explaining how the 2020 Town Meeting worked for newcomers.
 
-## 2020 Town Meeting Final Articles And Reports
+## 2020 Special Town Meeting Final Articles And Reports - November
+
+Read an overview of the [warrant articles for the virtual Special Town Meeting](/tm/2020special) scheduled [November 16th at 8pm on Zoom](https://www.arlingtonma.gov/Home/Components/Calendar/Event/25513/3784?curm=11&cury=2020).  This includes many deferred articles from this summer's Annual Town Meeting, as well as at least one newly citizen-submitted article. 
+
+The many non-time-critical warrant articles that were deferred from the normal Annual Town Meeting will soon be considered at 
+
+## 2020 Annual Town Meeting Final Articles And Reports - June
 
 I've posted the [2020 articles](/tm/2020draft/) that were presented to Town Meeting in June 2020, as well as all the reports to town meeting including details of board's recommendations on various warrant articles.  In particular, due to the pandemic, the [Town Moderator and others all agreed to move "No action"](https://www.arlingtonma.gov/home/showdocument?id=51032) or otherwise defer most of the articles submitted this year, including all articles with bylaws or zoning changes.  The only articles addressed in this year's [super-short outdoor town meeting](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17341-tm-061120.html) were key housekeeping and financial articles needing to be passed to keep government working smoothly.
 
