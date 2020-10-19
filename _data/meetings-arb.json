@@ -1,4 +1,140 @@
 {
+  "2020-10-19": {
+    "date": "10/19/20",
+    "isodate": "2020-10-19",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92047821512 , Meeting ID: 920 4782 1512. To call in, dial 1-646-876-9923, Enter the Meeting ID 920 4782 1512 followed by #",
+    "viewurl": "MeetingView.aspx?MeetingID=1173&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1173",
+    "filename": "_agendas/2020-10-19-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 19, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 16, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 19, 2020 at 12:00 p.m. Due to the setup of the meeting platform, please note that you may be asked to register for the meeting, request to be an authenticated user, and/ or be placed in a waiting room prior to the meeting starting all for security purposes.The Arlington Redevelopment Board will meet Monday, October 19, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92047821512 , Meeting ID: 920 4782 1512. To call in, dial 1-646-876-9923, Enter the Meeting ID 920 4782 1512 followed by #",
+      "rows": 9,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=10121&MeetingID=1173",
+          "time": "7:00 p.m.                     7:30 p.m.",
+          "details": "Docket #3633, 1500 Mass Ave *Continued Public Hearing*\n\nBoard will continue public hearing for Special Permit Docket #3633 to review application filed on July 27, 2020 by 1500 Mass Ave, LLC, at 1500 Massachusetts Avenue in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to develop a new mixed-use building with four (4) residential units and one (1) commercial unit in a B1 Neighborhood Office District.\n\n \n\n \n\nDocket #3637, 476 Mass Avenue *Public Hearing*\n\nBoard will open a public hearing for Special Permit Docket #3637 to review application filed on September 25, 2020 by Chad Cohen, Marco Realty Group, 89 Winchester Street, Brookline, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to renovate the façade of the vacant storefront at 476 Massachusetts Avenue, Arlington, MA in the B5 Central Business District.\n\n \n\n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.\n\n",
+          "dockets": {
+            "3633": "1500 Mass Ave ",
+            "3637": "476 Mass Avenue "
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10112&ItemID=10121": [
+              "Agenda_Item_1a_Updated_Memo_to_ARB_re_Docket_#3633_10-14-20.pdf",
+              "Updated Memo to ARB re Docket #3633 10-14-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10134&ItemID=10121": [
+              "201009_1500_Mass_Ave_-_EDR_Narrative.pdf",
+              "1500 Mass Ave 201009 EDR Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10132&ItemID=10121": [
+              "19018_201009_EDR_-_Hearing_Materials.pdf",
+              "1500 Mass Ave 201009 EDR Hearing Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10130&ItemID=10121": [
+              "1500_Mass_Ave_201009_Exhibit_A_Statement_of_intent.pdf",
+              "1500 Mass Ave 201009 Exhibit A Statement of Intent"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10133&ItemID=10121": [
+              "19018_201009_EDR_-_Presentation_Boards.pdf",
+              "1500 Mass Ave 201009 EDR Presentation Boards"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10105&ItemID=10121": [
+              "1500_Mass_Ave_Construction_Requirements.pdf",
+              "1500 Mass Ave Construction Requirements"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10131&ItemID=10121": [
+              "19018_201001_1500_Mass_Ave_-_Dimentional_Charts.pdf",
+              "1500 Mass Ave 201001 Dimensional Chart"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10111&ItemID=10121": [
+              "Docket_3633_1500_Mass_Ave._Tree_Plan.pdf",
+              "Docket 3633 1500 Mass Ave Tree Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10106&ItemID=10121": [
+              "Agenda_Item_1a_Docket_3633_1500_Mass_Ave_Combined_Application_Materials.pdf",
+              "Docket #3633 1500 Mass Ave Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10107&ItemID=10121": [
+              "Agenda_Item_1a_EDR_Public_Hearing_Memo_Docket.pdf",
+              "EDR Public Hearing Memo Docket 1500 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10108&ItemID=10121": [
+              "Correspondence_from_C._Loreti_091420_re_Docket_3633_1500_Mass_Ave.PDF",
+              "Correspondence from C Loreti 091420 re Docket 3633 1500 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10109&ItemID=10121": [
+              "Correspondence_received_from_D_Seltzer_091420_re_Docket_3633_1500_Mass_Ave.pdf",
+              "Correspondence from D. Seltzer 091420 re Docket 3633 1500 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10110&ItemID=10121": [
+              "Correspondence_received_from_P._Worden_091420_re_Docket_3633_1500_Mass_Ave.pdf",
+              "Correspondence from P. Worden 091420 re Docket 3633 1500 Mass Ave."
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10113&ItemID=10121": [
+              "Agenda_Item_1b_EDR_Public_Hearing_Memo_476_Mass_Ave_Final.pdf",
+              "Public Hearing Memo 476 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10115&ItemID=10121": [
+              "476_Mass_Ave_Permit_Set_12-16-19.pdf",
+              "476 Mass Ave Permit Set 12-16-19"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10116&ItemID=10121": [
+              "AHC_476_Massachusetts_Ave._Hearing_Decision.pdf",
+              "AHC 476 Mass Ave Hearing Decision"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10114&ItemID=10121": [
+              "EDRSpecialPermitApplicatio_Completed.pdf",
+              "Docket #3637 476 Mass Ave Application"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10117&ItemID=10121": [
+              "Application_for_Special_Permit_In_Accordance_With_Environmental_Design_Review_Procedures_Expanded_Details.pdf",
+              "Docket #3637 476 Mass Ave Application Expanded Checklist Details"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10118&ItemID=10121": [
+              "LEED_v4_Checklist_for_476_Complete.pdf",
+              "Docket #3637 476 Mass Ave LEED Checklist"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10119&ItemID=10121": [
+              "Proposed_Storefront_Design_476.pdf",
+              "476 Mass Ave Proposed Storefront Design"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Presentation and Discussion:",
+          "url": "CoverSheet.aspx?ItemID=10123&MeetingID=1173",
+          "time": "8:15 p.m.",
+          "details": "Economic Analysis of Industrial Zoning Districts – Update and Zoning Recommendations \n-  Representatives from RKG Associates and Harriman and the Department of Planning and Community Development will make a presentation and facilitate a discussion with the Board ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10157&ItemID=10123": [
+              "Agenda_Item_2_20201019_ARB_Presentation_compressed.pdf",
+              "ARB Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10120&ItemID=10123": [
+              "Agenda_Item_2_20201009_Revsied_Draft_Zoning_Text_Only.pdf",
+              "20201009 Revised Draft Zoning"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Open Forum",
+          "time": "9:00 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video. "
+        },
+        {
+          "num": "4.",
+          "title": "Adjourn",
+          "details": "Adjourn – estimated at 9:20 p.m.  "
+        }
+      ]
+    }
+  },
   "2020-10-05": {
     "date": "10/05/20",
     "isodate": "2020-10-05",
@@ -558,6 +694,7 @@
     "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by.",
     "viewurl": "MeetingView.aspx?MeetingID=1090&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1090",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=756",
     "filename": "_agendas/2020-07-20-arb.html",
     "agenda": {
       "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJuly 20, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by July 20, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by July 17, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, July 20, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by “#”.",

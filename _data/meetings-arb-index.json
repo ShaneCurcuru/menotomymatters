@@ -257,6 +257,7 @@
     "address": "1500 Massachusetts Ave",
     "purpose": "B1 zone mixed use construction",
     "meetings": [
+      "2020-10-19",
       "2020-09-14"
     ],
     "urls": {
@@ -267,6 +268,13 @@
     "address": "",
     "meetings": [
       "2020-10-05"
+    ]
+  },
+  "3637": {
+    "address": "476 Massachusetts Avenue",
+    "purpose": "B5 zone vacant storefront renovation",
+    "meetings": [
+      "2020-10-19"
     ]
   }
 }
