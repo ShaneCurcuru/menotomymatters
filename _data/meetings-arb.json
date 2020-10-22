@@ -1,4 +1,54 @@
 {
+  "2020-10-22": {
+    "date": "10/22/20",
+    "isodate": "2020-10-22",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91519677337, Meeting ID: 915 1967 7337, or by calling (646) 876-9923 Meeting ID 915 1967 7337 followed by \"#\"",
+    "viewurl": "MeetingView.aspx?MeetingID=1181&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1181",
+    "filename": "_agendas/2020-10-22-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 22, 2020  This meeting will be held via Zoom Meeting with audio and video. This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 22, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 21, 2020 at 4:00 p.m.The Arlington Redevelopment Board will meet Thursday, October 22, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91519677337, Meeting ID: 915 1967 7337, or by calling (646) 876-9923 Meeting ID 915 1967 7337 followed by “#”",
+      "rows": 5,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Warrant Article Public Hearings 2020 Special Town Meeting",
+          "url": "CoverSheet.aspx?ItemID=10157&MeetingID=1181",
+          "time": "Beginning at 7:00 p.m.",
+          "details": "ARTICLE 20 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS To see if the Town will vote to amend the Zoning Bylaw to allow the Board of Appeals or Arlington Redevelopment Board, as applicable, to reduce the parking requirement as low as zero in the B3 and B5 Districts through Special Permit where businesses have no ability to create new parking by amending SECTION 6.1.5. PARKING REDUCTION IN BUSINESS, INDUSTRIAL, AND MULTI-FAMILY RESIDENTIAL ZONES; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 16 ZONING BYLAW AMENDMENT/DEFINITIONS RELATED TO OPEN SPACE To see if the Town will vote to amend the Zoning Bylaw by renaming the terms \"Open Space\", \"Open Space, Usable\" and \"Open Space, Landscaped\" in Section 2 – Definitions; or take any action related thereto. (Inserted at the request of Stephen A. Revilak and 10 registered voters) ARTICLE 17 ZONING BYLAW AMENDMENT/NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS To see if the Town will vote to amend the Zoning Bylaw in Section 3.1.B. by appending to the end of this section the sentence: “No such permit shall be issued until the Building Inspector finds that the applicant is in compliance with the applicable provisions of Title VI, Article 7 of the Town Bylaws.”; or take any action related thereto. (Inserted at the request of Michael Ruderman and 10 registered voters)\n\n \n\n\n-  A brief introductory presentation will be provided for each article \n-  Board members and members of the public will be provided time to ask questions and comment for each article\n\n",
+          "bylaws": {
+            "20": "ARTICLE 20 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS T",
+            "16": "ARTICLE 16 ZONING BYLAW AMENDMENT/DEFINITIONS RELATED TO OPEN SPACE T",
+            "17": "ARTICLE 17 ZONING BYLAW AMENDMENT/NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS T"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10170&ItemID=10157": [
+              "Item_1_STM_2020_Zoning_Bylaw_Amendments_10-8-20.docx",
+              "2020 Special Town Meeting Draft Zoning Bylaw Amendments"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10174&ItemID=10157": [
+              "Item_2_Memo_to_ARB_regarding_Warrant_Articles_16_17_and_20.pdf",
+              "Memo to ARB regarding Warrant Articles 16, 17, and 20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10172&ItemID=10157": [
+              "Item_3_arb-20201007-open-space.pdf",
+              "ARB- 20201007 Open Space"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10173&ItemID=10157": [
+              "Item_4_B3_and_B5_maps.pdf",
+              "B3 and B5 Maps"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Adjourn",
+          "details": "Estimated 9:00 p.m. – Adjourn"
+        }
+      ]
+    }
+  },
   "2020-10-19": {
     "date": "10/19/20",
     "isodate": "2020-10-19",

@@ -1,4 +1,32 @@
 {
+  "2020-10-19alt": {
+    "date": "10/19/20",
+    "isodate": "2020-10-19",
+    "title": "Select Board Meeting",
+    "location": "EMERGENCY ADDENDUM Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1180&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1180",
+    "filename": "_agendas/2020-10-19alt-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 19, 20207:15 PMEMERGENCY ADDENDUM Conducted by Remote Participation",
+      "items": [
+        {
+          "details": "<span class='itemnum' id='2020-10-19alt_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10154&MeetingID=1180\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-10-19alt_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10153&MeetingID=1180\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Appointment of New Election Workers: (1) Sierra Curro, 21 Millett Street, U, Pct. 13; (2) Carol Cohen, 256 Renfrew Street, D, Pct. 12; (3) Charlotte Doud, 182 Palmer Street, U, Pct. 5; (4) Katherine Geusz, 38 Johnson Road, U, Pct. 11; (5) Hannah Faith Kelnhofer, 489 Summer Street #10, D, Pct. 19; (6) Matthew Maes, 126 Warren Street, D, Pct. 10; (7) Julie Powers, 10 Mayflower Road, D, Pct. 12\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10162&ItemID=10154": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Executive Order on Remote Participation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10163&ItemID=10153": [
+              "Election_Worker_Master_Record_-_Amendment.pdf",
+              "Election Master Records"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/select-board-meeting-october-19-2020/"
+  },
   "2020-10-19": {
     "date": "10/19/20",
     "isodate": "2020-10-19",
