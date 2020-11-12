@@ -15,6 +15,7 @@ layout: single
         {% if itm.noaction %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i> {{ itm.noaction }}{% endif %}
         {% if itm.defer %}<i class="fa fa-sign-in-alt" aria-hidden="true" style="color: orange"></i> {{ itm.defer }}{% endif %}
         {% if itm.consent %}<i class="fa fa-hand-paper" aria-hidden="true" style="color: yellow"></i> {{ itm.consent }}{% endif %}
+        {% if itm.video %}<i class="fa fa-video" aria-hidden="true"></i> <a href="{{ itm.video }}">Watch Video Presentation</a>{% endif %}
       </small>
     </dt>
     <dd>
@@ -22,6 +23,7 @@ layout: single
         {{ itm.text | markdownify }}
         <br/>
         {% if itm.insertcomment %}<small><i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> Proposer Comments: {{ itm.insertcomment }}</small>{% endif %}
+        {% if itm.boardcomment %}<small><i class="fa fa-highlighter" aria-hidden="true" style="color: orange"></i> Board or Committee Comments: {{ itm.boardcomment }}</small>{% endif %}
         {% if itm.inserturl  %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
         {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}</small>
         {% endif %}
