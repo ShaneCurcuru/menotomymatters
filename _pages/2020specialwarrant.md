@@ -12,10 +12,11 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 ## Reports To Town Meeting
 
 - [Select Board](https://www.arlingtonma.gov/home/showdocument?id=53536) (updated 12-Nov)
-- [Finance Committee (updated)](https://www.arlingtonma.gov/home/showdocument?id=53482)
+- [Finance Committee (updated)](https://www.arlingtonma.gov/home/showdocument?id=53482) AND [Finance Committee Addendum](https://www.arlingtonma.gov/home/showdocument?id=53540)
 - [Capital Planning Committee](https://www.arlingtonma.gov/home/showdocument?id=53480)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showdocument?id=53444)
 - [Community Preservation Act Committee](https://www.arlingtonma.gov/home/showdocument?id=53506)
+- [Human Rights Commission](http://www.arlingtonma.gov/home/showdocument?id=53538)
 
 ## How Tos For Town Meeting
 
