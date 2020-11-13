@@ -1,4 +1,340 @@
 {
+  "2020-11-02": {
+    "date": "11/02/20",
+    "isodate": "2020-11-02",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92272831117 | Enter Meeting ID: 922 7283 1117 or join by phone: 1-646-876-9923, enter the Meeting ID 92272831117 followed by #",
+    "viewurl": "MeetingView.aspx?MeetingID=1193&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1193",
+    "filename": "_agendas/2020-11-02-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeNovember 2, 2020 This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by November 2, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 30, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, November 2, 2020 at 7:00 PM in the Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92272831117 | Enter Meeting ID: 922 7283 1117 or join by phone: 1-646-876-9923, enter the Meeting ID 92272831117 followed by #",
+      "rows": 11,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Continued Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=10247&MeetingID=1193",
+          "time": "7:00 p.m.",
+          "details": "Docket #2717, as amended #2905, 23 Broadway *Continued Public Hearing* The applicant has not provided new materials for the Board’s review and will be requesting a continued hearing to a date certain. Docket #3633, 1500 Mass Ave *Continued Public Hearing* Board will continue public hearing for Special Permit Docket #3633 to review application filed on July 27, 2020 by 1500 Mass Ave, LLC, at 1500 Massachusetts Avenue in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to develop a new mixed-use building with four (4) residential units and one (1) commercial unit in a B1 Neighborhood Office District.",
+          "dockets": {
+            "2717": "as amended #2905, 23 Broadway",
+            "3633": "1500 Mass Ave"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10279&ItemID=10247": [
+              "Agenda_Item_1_Updated_Memo_to_ARB_re_Docket_#3633_10-27-20.pdf",
+              "Updated Memo to ARB re Docket #3633 10-27-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10281&ItemID=10247": [
+              "201102_1500_Mass_Ave_-_EDR_Narrative.pdf",
+              "201102 1500 Mass Ave - EDR Narrative"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10280&ItemID=10247": [
+              "Updated_Statement_of_Intent_2020_10_27.pdf",
+              "Updated Statement of Intent 2020 10 27"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10293&ItemID=10247": [
+              "Agenda_Item_1a_Docket_3633_1500_Mass_Ave_Combined_Application_Materials.pdf",
+              "Docket 3633 1500 Mass Ave Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10282&ItemID=10247": [
+              "19018_201102_1500_Mass_Ave_-_Dimensional_Charts.pdf",
+              "19018 201102 1500 Mass Ave - Dimensional Charts"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10283&ItemID=10247": [
+              "19018_201102_EDR_-_Presentation_Boards_.pdf",
+              "19018 201102 EDR Presentation Boards"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10284&ItemID=10247": [
+              "19018_201102_EDR_Submission_Materials_.pdf",
+              "19018 201102 EDR Submission Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10285&ItemID=10247": [
+              "1500_Mass_Ave_Construction_Requirements.pdf",
+              "1500 Mass Ave Construction Requirements"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10287&ItemID=10247": [
+              "Agenda_Item_1a_EDR_Public_Hearing_Memo_Docket.pdf",
+              "EDR Public Hearing Memo Docket #3633 1500 Mass Ave 200909"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10294&ItemID=10247": [
+              "Combined_Application_Materials_for_10-19-20_Hearing.pdf",
+              "Combined Application Materials for 10-19-20 Hearing"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10288&ItemID=10247": [
+              "Docket_3633_1500_Mass_Ave._Tree_Plan.pdf",
+              "Docket 3633 Mass Ave. Tree Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10289&ItemID=10247": [
+              "Correspondence_from_C._Loreti_091420_re_Docket_3633_1500_Mass_Ave.PDF",
+              "Correspondence received from C. Loreti 091420 re Docket 3633 1500 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10290&ItemID=10247": [
+              "Correspondence_received_from_D_Seltzer_091420_re_Docket_3633_1500_Mass_Ave.pdf",
+              "Correspondence received from D. Seltzer 091420 re Docket 3633 1500 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10291&ItemID=10247": [
+              "Correspondence_received_from_P._Worden_091420_re_Docket_3633_1500_Mass_Ave.pdf",
+              "Correspondence received from P. Worden 091420 re Docket 3633 1500 Mass Ave"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Draft Report to Town Meeting",
+          "url": "CoverSheet.aspx?ItemID=10251&MeetingID=1193",
+          "time": "7:30 p.m.",
+          "details": "Board will vote on their report to Town Meeting. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10292&ItemID=10251": [
+              "Agenda_Item_2_Draft_Report_to_Town_Meeting_STM_10-29-20.pdf",
+              "Draft Report to Town Meeting STM 10-29-20"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Meeting Minutes (8/17/20, 9/14/20)",
+          "url": "CoverSheet.aspx?ItemID=10248&MeetingID=1193",
+          "time": "8:00 p.m.",
+          "details": "Board will vote on approval of minutes.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10276&ItemID=10248": [
+              "08172020_Draft_ARB_Minutes.pdf",
+              "8/17/20 Draft ARB Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10277&ItemID=10248": [
+              "09142020_Draft_ARB_Minutes.pdf",
+              "9/14/20 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "8:05 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video."
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": "Adjourn (estimated at 8:25 p.m.)"
+        }
+      ]
+    }
+  },
+  "2020-10-28": {
+    "date": "10/28/20",
+    "isodate": "2020-10-28",
+    "title": "Redevelopment Board",
+    "location": "Join via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #.",
+    "viewurl": "MeetingView.aspx?MeetingID=1189&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1189",
+    "filename": "_agendas/2020-10-28-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 28, 2020  The ARB will hear public comments on the proposed amendments to the Zoning Bylaw. After receiving public comments, the ARB will make recommendations on the proposed amendments for Special Town Meeting, which will begin on Monday, November 16, 2020. This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 26, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 28, 2020 at 4:00 p.m.The Arlington Redevelopment Board will meet Wednesday, October 28, 2020 at 7:00 PM in theJoin via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #.",
+      "rows": 5,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Warrant Article Public Hearings 2020 Special Town Meeting",
+          "url": "CoverSheet.aspx?ItemID=10188&MeetingID=1189",
+          "time": "Beginning at 7:00 p.m.",
+          "details": "The following articles propose changes to the Zoning Bylaw and are the subject of the public hearing: ARTICLE 21 ZONING MAP AMENDMENT/REZONE TOWN PROPERTY To see if the Town will vote to rezone a parcel of land belonging to the Town of Arlington with access from Grove Street and being identified by Map 54, Block 3, Lot 2.B from R1 to I, or take any other action related thereto. (Inserted at the request of the Town Manager) \n-  A brief introductory presentation will be provided for each article \n-  Board members and members of the public will be provided time to ask questions and comment for each article \n-  Board members may conclude the public hearings and vote to make recommendations to Town Meeting.",
+          "bylaws": {
+            "21": "ARTICLE 21 ZONING MAP AMENDMENT/REZONE TOWN PROPERTY T"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10265&ItemID=10188": [
+              "2020_Special_Town_Meeting_Zoning_Warrant_Articles_and_Draft_Proposed_Votes_102720.pdf",
+              "2020 Special Town Meeting Zoning Warrant Articles and Draft Proposed Votes 102720"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10224&ItemID=10188": [
+              "Item_1_STM_2020_Zoning_Bylaw_Amendments_10-8-20.pdf",
+              "2020 Special Town Meeting Draft Zoning Bylaw Amendments"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10235&ItemID=10188": [
+              "Memo_to_ARB_regarding_Warrant_Article21.pdf",
+              "Memo to ARB re Warrant Article 21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10263&ItemID=10188": [
+              "Arlington_Municipal_Facility_-_Redevelopment_Board_Presentation_102720.pdf",
+              "Arlington Municipal Facility ARB Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10269&ItemID=10188": [
+              "Memo_to_ARB_regarding_Warrant_Article_20.pdf",
+              "Memo to ARB regarding Warrant Article 20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10234&ItemID=10188": [
+              "Proposed_Main_Montion_for_Article_18.pdf",
+              "Proposed Main Motion for Article 18"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10264&ItemID=10188": [
+              "Memo_on_Replacement_Homes-2010-2019.pdf",
+              "Memo on Replacement Homes 2010-2019"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10225&ItemID=10188": [
+              "Main_Motion_ADU_102120_(1).pdf",
+              "Main Motion ADU 102120"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10233&ItemID=10188": [
+              "Item_3_arb-20201007-open-space.pdf",
+              "Zoning Bylaw Amendment/Definitions Related to Open Space"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10226&ItemID=10188": [
+              "Correspondence_received_from_B_Thornton_received_10252020_with_attachment.pdf",
+              "Correspondence received from B.Thornton with attachment 10252020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10227&ItemID=10188": [
+              "Attachment_received_from_B.Thornton_10252020.pdf",
+              "Attachment received from B. Thornton 10252020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10239&ItemID=10188": [
+              "Correspondence_received_from_C._Loreti_10262020.pdf",
+              "Correspondence received from C. Loreti 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10267&ItemID=10188": [
+              "Correspondence_received_from_C._Marceau_102720.pdf",
+              "Correspondence received from C. Marceau 102720"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10228&ItemID=10188": [
+              "Correspondence_received_from_C_Sciuto_102320.pdf",
+              "Correspondence received from C. Sciuto 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10236&ItemID=10188": [
+              "Correspondence_received_from_E._Pyle_10262020.pdf",
+              "Correspondence received from E. Pyle 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10229&ItemID=10188": [
+              "Correspondence_received_from_J._Krechmer_102320.pdf",
+              "Correspondence received from J. Krechmer 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10245&ItemID=10188": [
+              "Correspondence_received_from_J._Lewis_10262020.pdf",
+              "Correspondence received from J. Lewis 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10230&ItemID=10188": [
+              "Correspondence_received_from_N_Mann_102320.pdf",
+              "Correspondence received from N. Mann 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10266&ItemID=10188": [
+              "new-homes_S_Revilak_102720.pdf",
+              "Correspondence received from S. Revilak re new homes 102720"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10231&ItemID=10188": [
+              "Correspondence_received_from_W._Evans_10252020_with_attachment.pdf",
+              "Correspondence received from W. Evans 10252020 with attachment"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10232&ItemID=10188": [
+              "Attachment_received_from_W._Evans_10252020.pdf",
+              "Attachment from W. Evans received 10252020"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Adjourn",
+          "details": "Estimated 8:30 p.m. – Adjourn  "
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-28-2020/"
+  },
+  "2020-10-26": {
+    "date": "10/26/20",
+    "isodate": "2020-10-26",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by \"#\".",
+    "viewurl": "MeetingView.aspx?MeetingID=1183&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1183",
+    "filename": "_agendas/2020-10-26-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 26, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 23, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 26, 2020 at 4:00 p.m.The Arlington Redevelopment Board will meet Monday, October 26, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by #.",
+      "rows": 5,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Warrant Article Public Hearings 2020 Special Town Meeting",
+          "url": "CoverSheet.aspx?ItemID=10167&MeetingID=1183",
+          "time": "Beginning at 7:00 p.m.",
+          "details": "ARTICLE 19\n\nZONING BYLAW AMENDMENT/ACCESSORY DWELLING UNITS\n\nTo see if the Town will vote to allow Accessory Dwelling Units (ADUs) in single and two-family dwellings in residential districts, or take any action related thereto by amending the Zoning Bylaw as follows: Section 1.2 Purposes to add “to encourage housing for persons at all income levels and stages of life”: and Section 2.5 Definitions Associated with Dwelling: to add An ACCESSORY DWELLING UNIT, OR ACCESSORY APARTMENT,  “Accessory dwelling unit”, four or more rooms constituting a self-contained accessory housing unit, inclusive of sleeping, cooking and sanitary facilities on the same premises as the principal dwelling, subject to otherwise applicable dimensional and parking requirements, that: (i) maintains a separate entrance, either directly from the outside or through an entry hall or corridor shared with the principal dwelling sufficient to meet the requirements of the state building code and state fire safety code; (ii) is not larger in floor area than 1/2 the floor area of the principal dwelling. And Section 3.3.3 Special Permits to add “in the case of requests for special permits for Accessory Dwelling Units, the use will add to the need for a range of affordable housing opportunities for the Town.” And Section 5.2.3 Districts and Uses:  to add “to allow for the creation of accessory dwelling units in all zoning districts which allow residential use, (Include in Section 5.4 Residential Districts); or take any action related thereto.\n\n(Inserted at the request of Barbara Thornton and 10 registered voters)\n\n \n\nARTICLE 18\n\nZONING BYLAW AMENDMENT/IMPROVING RESIDENTIAL INCLUSIVENESS, SUSTAINABILITY, AND AFFORDABILITY BY ENDING SINGLE FAMILY ZONING\n\nTo see if the Town will vote to or take any action related thereto: To amend the Zoning Bylaw for the Town of Arlington by expanding the set of allowed residential uses in the R0 and R1 Zoning Districts with the goal of expanding and diversifying the housing stock by altering the district definitions for the R0 and R1 Zoning Districts.\n\n (Inserted at the request of Benjamin Rudick and 10 registered voters)\n\n \n\n\n-  A brief introductory presentation will be provided for each article \n-  Board members and members of the public will be provided time to ask questions and comment for each article\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10192&ItemID=10167": [
+              "Item_1_STM_2020_Zoning_Bylaw_Amendments_10-8-20.pdf",
+              "STM 2020 Zoning Bylaw Amendments"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10193&ItemID=10167": [
+              "Item_2_Main_Motion_ADU_102120_.pdf",
+              "ADU Main Motion"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10195&ItemID=10167": [
+              "Item_3_DPCD_Memo_to_ARB_regarding_Warrant_Articles_18_and_19.pdf",
+              "Memo to ARB regarding Warrant Articles 18 and 19"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10218&ItemID=10167": [
+              "Proposed_Main_Montion_for_Article_18.pdf",
+              "Proposed Main Motion for Article 18"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10196&ItemID=10167": [
+              "Item_4_WarrantArticle18_2020TM_2020-10-21.pdf",
+              "Warrant Article 18 Map"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10208&ItemID=10167": [
+              "Item_5_2020_10_22_SFZ_Presentation.pdf",
+              "Single Family Zoning Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10222&ItemID=10167": [
+              "Correspondence_received_from_B_Thornton_received_10252020_with_attachment.pdf",
+              "B. Thornton Correspondence 10252020 with attachment"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10223&ItemID=10167": [
+              "Attachment_received_from_B.Thornton_10252020.pdf",
+              "Attachment received from B. Thornton 10252020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10238&ItemID=10167": [
+              "Correspondence_received_from_C._Loreti_10262020.pdf",
+              "Correspondence from C. Loreti received 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10209&ItemID=10167": [
+              "Correspondence_received_from_C_Sciuto_102320.pdf",
+              "C Sciuto Correspondence 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10237&ItemID=10167": [
+              "Correspondence_received_from_E._Pyle_10262020.pdf",
+              "Correspondence from E.Pyle received 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10212&ItemID=10167": [
+              "Correspondence_received_from_J._Krechmer_102320.pdf",
+              "J. Krechmer Correspondence 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10244&ItemID=10167": [
+              "Correspondence_received_from_J._Lewis_10262020.pdf",
+              "J. Lewis Correspondence 10262020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10210&ItemID=10167": [
+              "Correspondence_received_from_N_Mann_102320.pdf",
+              "N Mann Correspondence 10232020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10221&ItemID=10167": [
+              "Correspondence_received_from_W._Evans_10252020_with_attachment.pdf",
+              "W. Evans Correspondence 10252020 with attachment"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10220&ItemID=10167": [
+              "Attachment_received_from_W._Evans_102520.pdf",
+              "Attachment received from W. Evans 10252020"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Adjourn",
+          "details": "Estimated 9:00 p.m. – Adjourn"
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-october-26-2020/"
+  },
   "2020-10-22": {
     "date": "10/22/20",
     "isodate": "2020-10-22",
@@ -8,7 +344,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1181",
     "filename": "_agendas/2020-10-22-arb.html",
     "agenda": {
-      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 22, 2020  This meeting will be held via Zoom Meeting with audio and video. This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 22, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 21, 2020 at 4:00 p.m.The Arlington Redevelopment Board will meet Thursday, October 22, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91519677337, Meeting ID: 915 1967 7337, or by calling (646) 876-9923 Meeting ID 915 1967 7337 followed by “#”",
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeOctober 22, 2020  This meeting will be held via Zoom Meeting with audio and video. This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by October 22, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by October 21, 2020 at 4:00 p.m.The Arlington Redevelopment Board will meet Thursday, October 22, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91519677337, Meeting ID: 915 1967 7337, or by calling (646) 876-9923 Meeting ID 915 1967 7337 followed by #",
       "rows": 5,
       "items": [
         {
@@ -505,7 +841,7 @@
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1105",
     "filename": "_agendas/2020-08-17-arb.html",
     "agenda": {
-      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeAugust 17, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by August 17, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by August 14, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, August 17, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/93041375966 | Enter Meeting ID: 930 4137 5966 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 930 4137 5966 followed by “#”.",
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeAugust 17, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by August 17, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by August 14, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, August 17, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/93041375966 | Enter Meeting ID: 930 4137 5966 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 930 4137 5966 followed by #.",
       "rows": 13,
       "items": [
         {
@@ -747,7 +1083,7 @@
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=756",
     "filename": "_agendas/2020-07-20-arb.html",
     "agenda": {
-      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJuly 20, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by July 20, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by July 17, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, July 20, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by “#”.",
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJuly 20, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by July 20, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by July 17, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, July 20, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/97369487293 | Enter Meeting ID: 973 6948 7293 or join by phone with by calling: 1-646-876-9923, enter the Meeting ID 973 6948 7293 followed by #.",
       "rows": 13,
       "items": [
         {
@@ -1195,12 +1531,12 @@
     "date": "05/18/20",
     "isodate": "2020-05-18",
     "title": "Redevelopment Board",
-    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by #",
     "viewurl": "MeetingView.aspx?MeetingID=1052&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1052",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=732",
     "agenda": {
-      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMay 18, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by May 18, 2020 at 12:00 p.m. If you are providing visual information as part of your correspondence, the Board requests that it is received by May 15, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, May 18, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by “#”",
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMay 18, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by May 18, 2020 at 12:00 p.m. If you are providing visual information as part of your correspondence, the Board requests that it is received by May 15, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, May 18, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://zoom.us/j/92252518239 | Enter Meeting ID: 922 5251 8239 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 922 5251 8239 followed by #",
       "rows": 13,
       "items": [
         {

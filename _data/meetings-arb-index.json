@@ -257,6 +257,7 @@
     "address": "1500 Massachusetts Ave",
     "purpose": "B1 zone mixed use construction",
     "meetings": [
+      "2020-11-02",
       "2020-10-19",
       "2020-09-14"
     ],
@@ -275,6 +276,12 @@
     "purpose": "B5 zone vacant storefront renovation",
     "meetings": [
       "2020-10-19"
+    ]
+  },
+  "2717": {
+    "address": "as amended #2905, 23 Broadway",
+    "meetings": [
+      "2020-11-02"
     ]
   }
 }
