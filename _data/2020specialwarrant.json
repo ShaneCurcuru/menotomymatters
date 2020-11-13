@@ -44,9 +44,14 @@
     "insertemail": "paul@schlichtman.org",
     "insertby": "Citizen petition led by: Paul Schlichtman",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
       {
-        "comment": "Select Board votes 4-0 to recommend this article.",
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },
+      {
+        "comment": "Select Board votes 4-0 to recommend this article for summer meeting.",
         "https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MinutesMeetingID=657": "Select Board Meeting Minutes 10-Feb-2020"
       },
       {
@@ -70,9 +75,14 @@
     "insertemail": "adamjamesmacneill@gmail.com",
     "insertby": "Citizen petition led by: Adam MacNeill",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
       {
-        "comment": "Select Board vote and recommendation to change bylaw to make Town Manager responsible (and to extend hours).",
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
+      {
+        "comment": "Select Board summer vote and recommendation to change bylaw to make Town Manager responsible (and to extend hours).",
         "https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MinutesMeetingID=657": "Select Board Meeting Minutes 10-Feb-2019"
       },
       {
@@ -100,7 +110,16 @@
     "insertby": "Select Board at the request of the Clean Energy Future Committee",
     "insertcomment": "As the Board likely knows, several communities in the Commonwealth have considered or adopted a prohibition on installation of new infrastructure for fossil fuel-based systems (including natural gas and oil-based systems) in new construction and major renovation projects; most notably [Brookline at its November 2019 Special Town Meeting](https://www.brooklinema.gov/DocumentCenter/View/20106/November-19-2019-Special-Town-Meeting-Warrant). The overall purpose of these ordinances is to take action to reduce carbon emissions in response to the climate change crisis. Such ordinances have generally been limited in scope to prohibit installation of new gas or oil pipping and systems such as certain boilers, furnaces, and cooktops, primarily in new residential construction but could be broader or narrower in Arlington. Similarly, the scope of exemptions to such prohibitions likely varies considerably.",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board votes (4-0, one abstention) to recommend.",
+        "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
+      },
+      {
+        "comment": "Additional information Article 5 from Clean Heat For Arlington group",
+        "https://drive.google.com/drive/u/0/folders/1nAKT0R-EHscyFNun8ySDeOb7PPk681nR": "Documents supporting Article 5"
+      },
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
@@ -123,9 +142,18 @@
     "insertemail": "jordanweinstein@rcn.com",
     "insertby": "Citizen petition led by: Jordan Weinstein",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
       {
-        "comment": "Your Arlington news story covering Select Board comments and vote of no action.",
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },
+      {
+        "comment": "Select Board votes (5-0) to recommend.",
+        "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
+      },
+      {
+        "comment": "EARLIER: Your Arlington summer news story covering Select Board comments and vote of no action for summer TMM.",
         "https://www.yourarlington.com/arlington-archives/town-school/selectboard/16826-police-031020": "Your Arlington News Coverage"
       },
       {
@@ -144,7 +172,12 @@
     "insertsource": "W.A._Text.pdf",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article including various updates to the group's charter.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
@@ -169,7 +202,20 @@
     "insertby": "Town Counsel potential proposed articles",
     "insertcomment": "This warrant article is requested by the Housing Plan Implementation Committee (“HPIC”) as a means to provide a new and invaluable tool to the Town’s goal of creating and supporting affordable housing in Arlington. An Affordable Housing Trust provides significant flexibility and additional resources over and above existing resources for affordable housing. HPIC continues to work on a proposed version of the bylaw itself, but the following provides an overview of the operation and scope of an Affordable Housing Trust bylaw in Arlington for the Board in its consideration of whether or not to support an article on the 2020 Warrant: (See town counsel memo for complete details.)",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
+      {
+        "comment": "Frequently Asked Questions About Article 8",
+        "https://www.arlingtonma.gov/home/showdocument?id=53476": "Important overview of this article"
+      },
+      {
+        "comment": "Video of informational session on Article 8 by the Town",
+        "https://vimeo.com/469010746": "Important overview of this article"
+      },
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
@@ -189,7 +235,14 @@
     "text": "To see if the Town will vote to extend the life of the [Election Modernization Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/election-modernization-committee), change its structure, objectives, or membership; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
-    "board": "Select Board"
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      }
+    ]
   },
   {
     "article": "ARTICLE 10",
@@ -197,10 +250,21 @@
     "type": "new",
     "title": "ACCEPTANCE OF LEGISLATION/GOLD STAR FAMILY TAX EXEMPTION",
     "text": "To see if the Town will vote to accept Massachusetts General Law Chapter 59 sec. 5(22H) to provide a local to surviving parents or guardians of members of the United States armed services who died on active duty tax exemption; or take any action related thereto.",
-    "submitted": "Inserted at the request of the Town Manager",
+    "submitted": "",
     "insertemail": "",
-    "insertby": "",
-    "board": ""
+    "insertby": "Inserted at the request of the Town Manager",
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
+      {
+        "comment": "Select Board votes (5-0) to recommend.",
+        "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
+      }
+    ]
   },
   {
     "article": "ARTICLE 11",
@@ -212,7 +276,12 @@
     "insertemail": "Justin Brown",
     "insertby": "Citizen petition led by: jb@usbrown.com",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
@@ -232,7 +301,12 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
       {
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"
@@ -250,7 +324,13 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },
+    
       {
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"
@@ -278,7 +358,12 @@
     "insertby": "Town Counsel potential proposed articles",
     "boardcomment": "As the Board will recall from recent discussions, a number of municipalities have enacted water and sewer discount programs for local seniors. It remains the position of this Office that a straightforward form of such a discount programs may be offered by vote of the Select Board without Town Meeting action or Home Rule Petition. However, further research has revealed that Home Rule Legislation would be required if the Board were to contemplate a model of discount similar to the Board’s recent means-tested tax deferral and “work-off” programs or to certain specific subcategories of senior residents in Arlington, based upon the Department of Revenue’s interpretation of Brand v. Water Commissioners of Billerica, 242 Mass. 223 (1922). Accordingly, it may be in the Board’s interest to place an article on the warrant for further discussion.",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
@@ -298,7 +383,12 @@
     "insertby": "(Inserted by the Select Board)",
     "insertcomment": "The purpose of this article is to implement an agreement between the Town and its collectively bargain police unions to retain qualifying retired Arlington police officers to serve on police details as needed.",
     "board": "Select Board",
+    "recommend": "Select Board",
     "supplements": [
+      {
+        "comment": "Select Board voted (5-0) to recommend this article.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
@@ -348,7 +438,7 @@
     "board": "Redevelopment Board",
     "supplements": [
       {
-        "comment": "Redevelopment Board voted (5-0) to recommend No Action on Article 17.",
+        "comment": "Redevelopment Board previously voted (5-0) to recommend No Action on Article 17.",
         "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10238&MeetingID=1192": "No action recommendation"
       },
       {
@@ -498,7 +588,18 @@
     "insertemail": "",
     "insertby": "(Inserted at the request of the Community Preservation Act Committee)",
     "boardcomment": "These projects total $175,200. The CPA appropriations and budget reserves at Annual Town Meeting on June 15th left a projected unrestricted fund balance of $242,297 for FY21 based on anticipated CPA revenues. These revenue projections have been realized to date and will likely be exceeded due to a larger than expected state match this year. If Town Meeting funds the three projects above, the unrestricted CPA fund balance heading into the new FY22 budget cycle will be at least $67,097.\n\nVote Language:\n\nVOTED (8-0):\n\n  That the Town take the following actions to appropriate funds for FY2021 CPA projects, with each project considered a separate appropriation:\n\n   (a) Appropriate the sum of $80,000 for the Minuteman Bikeway Planning project from FY2021 Community Preservation Fund revenues for the rehabilitation of recreational land, said funds to be expended under the direction of the Department of Planning and Community Development and the Community Preservation Act Committee;\n\n(b) Appropriate the sum of $60,000 for the Communitywide Archaeological Reconnaissance Survey project from FY2021 Community Preservation Fund revenues for the preservation of historic resources, said funds to be expended under the direction of the Department of Planning and Community Development and the Community Preservation Act Committee;\n\n(c) Appropriate the sum of $35,200 for the Documentation of Historic Municipal Resources project from FY2021 Community Preservation Fund revenues for the preservation of historic resources, said funds to be expended under the direction of the Department of Planning and Community Development and the Community Preservation Act Committee.",
-    "board": "Finance Committee"
+    "board": "Finance Committee",
+    "recommend": "Community Preservation Act Committee",
+    "supplements": [
+      {
+        "comment": "Community Preservation Act Committee voted (8-0) to recommend this article.",
+        "https://www.arlingtonma.gov/home/showdocument?id=53506": "CPAC report to TMM"
+      },
+      {
+        "comment": "Finance Committee supports recommendation for of the Community Preservation Act Committee",
+        "http://www.arlingtonma.gov/home/showdocument?id=53540": "FinCom addendum"
+      }
+    ]
   },  
   {
     "article": "ARTICLE 25",
@@ -511,6 +612,13 @@
     "submitted": "",
     "insertemail": "",
     "insertby": "Inserted at the request of Katell Gullec and 100 registered voters",
-    "board": "Select Board"
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "Select Board voted (4-1) to advance this article for TMM's consideration, without recommendation.",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM, p32..36"
+      }
+    ]
   }
 ]
