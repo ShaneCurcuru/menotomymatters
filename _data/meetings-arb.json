@@ -128,7 +128,7 @@
     "date": "10/28/20",
     "isodate": "2020-10-28",
     "title": "Redevelopment Board",
-    "location": "Join via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #.",
+    "location": "Join via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #\u009d.",
     "viewurl": "MeetingView.aspx?MeetingID=1189&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1189",
     "filename": "_agendas/2020-10-28-arb.html",
@@ -245,7 +245,7 @@
     "date": "10/26/20",
     "isodate": "2020-10-26",
     "title": "Redevelopment Board",
-    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by \"#\".",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by \"\u009c#\"\u009d.",
     "viewurl": "MeetingView.aspx?MeetingID=1183&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1183",
     "filename": "_agendas/2020-10-26-arb.html",
@@ -354,9 +354,9 @@
           "time": "Beginning at 7:00 p.m.",
           "details": "ARTICLE 20 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS To see if the Town will vote to amend the Zoning Bylaw to allow the Board of Appeals or Arlington Redevelopment Board, as applicable, to reduce the parking requirement as low as zero in the B3 and B5 Districts through Special Permit where businesses have no ability to create new parking by amending SECTION 6.1.5. PARKING REDUCTION IN BUSINESS, INDUSTRIAL, AND MULTI-FAMILY RESIDENTIAL ZONES; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 16 ZONING BYLAW AMENDMENT/DEFINITIONS RELATED TO OPEN SPACE To see if the Town will vote to amend the Zoning Bylaw by renaming the terms \"Open Space\", \"Open Space, Usable\" and \"Open Space, Landscaped\" in Section 2 – Definitions; or take any action related thereto. (Inserted at the request of Stephen A. Revilak and 10 registered voters) ARTICLE 17 ZONING BYLAW AMENDMENT/NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS To see if the Town will vote to amend the Zoning Bylaw in Section 3.1.B. by appending to the end of this section the sentence: “No such permit shall be issued until the Building Inspector finds that the applicant is in compliance with the applicable provisions of Title VI, Article 7 of the Town Bylaws.”; or take any action related thereto. (Inserted at the request of Michael Ruderman and 10 registered voters)\n\n \n\n\n-  A brief introductory presentation will be provided for each article \n-  Board members and members of the public will be provided time to ask questions and comment for each article\n\n",
           "bylaws": {
-            "20": "ARTICLE 20 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS T",
             "16": "ARTICLE 16 ZONING BYLAW AMENDMENT/DEFINITIONS RELATED TO OPEN SPACE T",
-            "17": "ARTICLE 17 ZONING BYLAW AMENDMENT/NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS T"
+            "17": "ARTICLE 17 ZONING BYLAW AMENDMENT/NOTICE OF DEMOLITION, OPEN FOUNDATION EXCAVATION, NEW CONSTRUCTION, OR LARGE ADDITIONS T",
+            "20": "ARTICLE 20 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS T"
           },
           "attachments": {
             "AttachmentViewer.ashx?AttachmentID=10170&ItemID=10157": [
@@ -1650,9 +1650,9 @@
           "time": "7:00 p.m. ",
           "details": "**Docket #3616**, 434 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on January 7, 2020 by Andy Liam, Taipei-Tokyo, at 434 Massachusetts Avenue, to open Special Permit Docket #3616 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant seeks approval of signage that is already installed. The opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\n**Docket #2818**, 880 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that an application has been filed on March 3, 2020 by Back Bay Signs, for TD Bank, at 880 Massachusetts Avenue, to re-open Special Permit Docket #2818 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to install new signage in a B4 Vehicular Oriented Business District. The re-opening of the Special Permit is to allow the Board to review and approve the signage under Section 6.2, Signs. \n\n**Docket #3348**, 833 Massachusetts Avenue *Continued Public Hearing* Notice is herewith given that the Arlington Redevelopment Board will re-open Special Permit Docket #3348 in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review, in order to review compliance with special condition 5 of the Special Permit Decision, dated April 13, 2009, and in order to hear from the property owner regarding such compliance. Special condition 5 of the Special Permit Decision refers to the future redevelopment of the Atwood House. \n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
           "dockets": {
-            "3616": "434 Massachusetts Avenue",
             "2818": "880 Massachusetts Avenue",
-            "3348": "833 Massachusetts Avenue"
+            "3348": "833 Massachusetts Avenue",
+            "3616": "434 Massachusetts Avenue"
           }
         },
         {
@@ -1825,11 +1825,11 @@
           "time": "Beginning at 7:30 p.m.   ",
           "details": "**[ARTICLE 34](/tm/2020draft/#34) ZONING BYLAW AMENDMENT/CLARIFICATION OF DEFINITION OF MIXED USE** To see if the Town will vote to amend the definition of Mixed Use in the Zoning Bylaw to clarify that as enacted by Town Meeting, land uses individually prohibited in any particular zoning district are also prohibited as part of Mixed Use developments in the same zoning district; or take any action related thereto. _(Inserted at the request of Christopher Loreti and 10 registered voters)_ \n\n**[ARTICLE 28](/tm/2020draft/#28) ZONING BYLAW AMENDMENT/CONVERSION OF COMMERCIAL TO RESIDENTIAL** To see if the Town will vote to amend Section 5.2.4 the Zoning Bylaw, by inserting in the last sentence of said section, after the word footprint, the words “if allowed by special permit” and by inserting, after the words residential use, the words “provided that the addition or expansion is for affordable housing” so that said sentence will read as follows: In the case of an existing commercial use, the addition or expansion of residential use within the building footprint if allowed by special permit shall not require adherence to setback regulations for residential uses, provided that the addition or expansion is for affordable housing, even if the residential use becomes the principal use of the building; or take any action relating thereto. _(Inserted at the request of John L. Worden III and 10 registered voters)_ \n\n**[ARTICLE 43](/tm/2020draft/#43) ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS** To see if the Town will vote to amend the Zoning Bylaw to allow the Board of Appeals or Arlington Redevelopment Board, as applicable, to reduce the parking requirement as low as zero in the B3 and B5 Districts through Special Permit where businesses have no ability to create new parking by amending SECTION 6.1.5. PARKING REDUCTION IN BUSINESS, INDUSTRIAL, AND MULTI-FAMILY RESIDENTIAL ZONES; or take any action related thereto. _(Inserted at the request of the Redevelopment Board)_ **[ARTICLE 35](/tm/2020draft/#35) ZONING BYLAW AMENDMENT/PARKING REQUIREMENTS** To see if the Town will support allowing the Arlington Redevelopment Board and the Zoning Board of Appeals to reduce parking requirements for applicants in the B3 or B5 Zoning Districts to zero; or take any action related thereto. _(Inserted at the request of Gami Maislin and 10 registered voters)_ **[ARTICLE 36]](/tm/2020draft/#36) ZONING BYLAW AMENDMENT/PARKING REGULATIONS** To see if the Town Meeting will vote to amend Section 6.1 of the current Zoning Bylaw regarding off-street parking to encourage new businesses such as restaurants; or take any action related thereto. _(Inserted at the request of Marvin Lewiton and 10 registered voters)_\n\n-  A brief introductory presentation will be provided for each article \n-  Board members and members of the public will be provided time to ask questions and comment for each article  ",
           "bylaws": {
-            "34": "ARTICLE 34 ZONING BYLAW AMENDMENT/CLARIFICATION OF DEFINITION OF MIXED USE",
             "28": "ARTICLE 28 ZONING BYLAW AMENDMENT/CONVERSION OF COMMERCIAL TO RESIDENTIAL",
-            "43": "ARTICLE 43 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS",
+            "34": "ARTICLE 34 ZONING BYLAW AMENDMENT/CLARIFICATION OF DEFINITION OF MIXED USE",
             "35": "ARTICLE 35 ZONING BYLAW AMENDMENT/PARKING REQUIREMENTS",
-            "36": "ARTICLE 36 ZONING BYLAW AMENDMENT/PARKING REGULATIONS"
+            "36": "ARTICLE 36 ZONING BYLAW AMENDMENT/PARKING REGULATIONS",
+            "43": "ARTICLE 43 ZONING BYLAW AMENDMENT/PARKING REDUCTIONS IN THE B3 AND B5 DISTRICTS"
           }
         },
         {
@@ -2310,8 +2310,8 @@
           "time": "8:00 p.m. - 8:10 p.m. ",
           "details": "Docket #3610 - 1386 MASSACHUSETTS AVENUE \n\nDocket #3602 – 1207-1211 MASSACHUSETTS AVENUE\n\n-  Board will review requests and vote to continue hearings",
           "dockets": {
-            "3610": "1386 Massachusetts Avenue",
-            "3602": "1207-1211 Massachusetts Avenue"
+            "3602": "1207-1211 Massachusetts Avenue",
+            "3610": "1386 Massachusetts Avenue"
           }
         },
         {
