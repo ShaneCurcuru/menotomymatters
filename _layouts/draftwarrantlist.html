@@ -10,13 +10,13 @@ layout: single
     <dt>
       <h3 class="header-link" id="{{ itm.id }}">{{ itm.article }} - {{ itm.title }}</h3>
       <small>
-        {% if itm.official %}<a href="{{ itm.official }}"><i>See Official Article Homepage</i></a>{% endif %}
         {% if itm.amendments %}<i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> {{ itm.amendments }}{% endif %}
         {% if itm.recommend %}<i class="fa fa-check" aria-hidden="true" style="color: green"></i> {{ itm.recommend }}{% endif %}
         {% if itm.noaction %}<i class="fa fa-times" aria-hidden="true" style="color: red"></i> {{ itm.noaction }}{% endif %}
         {% if itm.defer %}<i class="fa fa-sign-in-alt" aria-hidden="true" style="color: orange"></i> {{ itm.defer }}{% endif %}
         {% if itm.consent %}<i class="fa fa-hand-paper" aria-hidden="true" style="color: yellow"></i> {{ itm.consent }}{% endif %}
         {% if itm.video %}<i class="fa fa-video" aria-hidden="true"></i> <a href="{{ itm.video }}">Watch Video Presentation</a>{% endif %}
+        {% if itm.official %} <a href="{{ itm.official }}"><i>See Official Article Homepage</i></a>{% endif %}
       </small>
     </dt>
     <dd>
@@ -36,7 +36,7 @@ layout: single
             {% for supplement in itm.supplements %}
               {% assign nocomma = forloop.last %}
               {% for hash in supplement %}
-                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %},{% endif %}{% endif %}
+                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %}; {% endif %}{% endif %}
               {% endfor %}
             {% endfor %}
           </small>
