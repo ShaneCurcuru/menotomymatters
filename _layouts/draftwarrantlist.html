@@ -20,28 +20,26 @@ layout: single
       </small>
     </dt>
     <dd>
-      <p>
-        {{ itm.text | markdownify }}
-        <br/>
-        {% if itm.insertcomment %}<small><i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> Proposer Comments: {{ itm.insertcomment }}</small>{% endif %}
-        {% if itm.boardcomment %}<small><i class="fa fa-highlighter" aria-hidden="true" style="color: orange"></i> Board or Committee Comments: {{ itm.boardcomment | markdownify }}</small>{% endif %}
-        {% if itm.inserturl  %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>
-        {% elsif itm.insertby != "" %}<small><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}</small>
-        {% endif %}
-        {% if itm.related %}<small><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> See also: {% for rels in itm.related %}{% if rels != itm.id %}<a href="#{{ rels }}">{{ rels }}</a> {% endif %}{% endfor %}</small>{% endif %}
-        <br/>
-        {% if itm.supplements %}
-          <small>
-            <i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Supplemental documents: 
-            {% for supplement in itm.supplements %}
-              {% assign nocomma = forloop.last %}
+      {{ itm.text | markdownify }}
+      {% if itm.insertcomment %}<p class="warrantcomments"><i class="fa fa-highlighter" aria-hidden="true" style="color: gold"></i> <strong>Proposer Comments:</strong> {{ itm.insertcomment }}</p>{% endif %}
+      {% if itm.boardcomment %}<p class="warrantcomments"><i class="fa fa-highlighter" aria-hidden="true" style="color: orange"></i> <b>Board or Committee Comments:</b> {{ itm.boardcomment | markdownify }}</p>{% endif %}
+      {% if itm.inserturl  %}<p class="warrantcomments"><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> <a href="{{ itm.inserturl }}">{{ itm.insertby }}</a></small>{% elsif itm.insertby != "" %}<p><i class="fa fa-fw fa-glasses" aria-hidden="true"></i> {{ itm.insertby }}</p>{% endif %}
+      {% if itm.related %}<p class="warrantcomments"><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> See also: {% for rels in itm.related %}{% if rels != itm.id %}<a href="#{{ rels }}">{{ rels }}</a> {% endif %}{% endfor %}</p>{% endif %}
+      {% if itm.supplements %}
+        <p class="warrantsupplements">
+          <span><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Supplemental documents: </span>
+          <ul class="warrantsupplements">
+          {% for supplement in itm.supplements %}
+            {% assign nocomma = forloop.last %}
+            <li>
               {% for hash in supplement %}
-                {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %}; {% endif %}{% endif %}
+              {% if hash[0] == 'comment' %}<i>{{ hash[1] }}</i>{% else %}<a href="{{ hash[0] }}">{{ hash[1] }}</a>{% if nocomma == false %}; {% endif %}{% endif %}
               {% endfor %}
-            {% endfor %}
-          </small>
-        {% endif %}
-      </p>
+            </li>
+          {% endfor %}
+          </ul>
+        </p>
+      {% endif %}
     </dd>
   {% endfor %}
 </dl>
