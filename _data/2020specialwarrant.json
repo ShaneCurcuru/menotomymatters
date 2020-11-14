@@ -20,6 +20,7 @@
     "id": "article3",
     "id2": "draft-a-citizen",
     "type": "bylaw",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10224&MeetingID=1192",
     "title": "BYLAW AMENDMENT/REGULATION OF OUTDOOR LIGHTING – UPLIGHTING",
     "text": "To see if the Town will vote to amend [Title V Article 14 Section 3D of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-v-regulations-upon-the-use-of-private-property#A14) to include structures used for religious purposes, and structures used for commercial purposes, among the exemptions to the prohibition of uplighting; or take any action related thereto.",
     "submitted": "31-January-2020",
@@ -51,6 +52,7 @@
     "id": "article4",
     "id2": "draft-b-citizen",
     "type": "bylaw",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10225&MeetingID=1192",
     "title": "BYLAW AMENDMENT/MINUTEMAN BIKEWAY HOURS",
     "text": "To see if the town will vote to amend [Title III, Article 1, Section 10 of the town bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-iii-public-and-private-ways#A1) (Minuteman Bikeway Hours) to extend the operating hours of the Minuteman Bikeway; or any action related thereto.",
     "submitted": "31-January-2020",
@@ -131,6 +133,10 @@
     "recommend": "Select Board",
     "supplements": [
       {
+        "comment": "AMENDMENT proposal by C. Kelleher 9 November",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10422&ItemID=10227": "TMM List Amendment"
+      },
+      {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
       },
@@ -141,10 +147,6 @@
       {
         "comment": "EARLIER: Your Arlington summer news story covering Select Board comments and vote of no action for summer TMM.",
         "https://www.yourarlington.com/arlington-archives/town-school/selectboard/16826-police-031020": "Your Arlington News Coverage"
-      },
-      {
-        "comment": "Amendmen proposal by C. Kelleher 9 November",
-        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10422&ItemID=10227": "TMM List Amendment"
       }
     ]
   },
@@ -152,6 +154,7 @@
     "article": "ARTICLE 7",
     "id": "article7",
     "type": "bylaw",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10228&MeetingID=1192",
     "title": "VOTE/BYLAW AMENDMENT/ENVISION ARLINGTON UPDATED LANGUAGE",
     "text": "To see if the Town will vote to amend Title I, Article 15 to change the name of “Vision 2020” to comport with its current name “Envision Arlington;” to revise the Bylaw’s articulation of “Goals” as a “Statement of Community Values” or similar term; and to modernize the “Goals” as set forth in the vote of the 1993 Town Meeting (Article 19) with more inclusive language; or take any action related thereto.",
     "insertby": "Inserted at the request of the Envision Arlington Standing Committee",
@@ -191,12 +194,20 @@
     "recommend": "Select Board",
     "supplements": [
       {
+        "comment": "AMENDMENT - J. Gersh - multiple changes to the article.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10441&ItemID=10229": "Amendment 1"
+      },
+      {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
       },    
       {
         "comment": "Frequently Asked Questions About Article 8",
         "https://www.arlingtonma.gov/home/showdocument?id=53476": "Important overview of this article"
+      },
+      {
+        "comment": "Video from town Director Jennifer Raitt on DPCD notes on this article",
+        "https://vimeo.com/478533903": "Town Video comments"
       },
       {
         "comment": "Video of informational session on Article 8 by the Town",
@@ -233,6 +244,7 @@
     "id": "article9",
     "status": "Draft",
     "type": "election",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10230&MeetingID=1192",
     "title": "VOTE/ELECTION MODERNIZATION COMMITTEE",
     "text": "To see if the Town will vote to extend the life of the [Election Modernization Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/election-modernization-committee), change its structure, objectives, or membership; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
@@ -254,6 +266,7 @@
     "article": "ARTICLE 10",
     "id": "article10",
     "type": "new",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10231&MeetingID=1192",
     "title": "ACCEPTANCE OF LEGISLATION/GOLD STAR FAMILY TAX EXEMPTION",
     "text": "To see if the Town will vote to accept Massachusetts General Law Chapter 59 sec. 5(22H) to provide a local to surviving parents or guardians of members of the United States armed services who died on active duty tax exemption; or take any action related thereto.",
     "insertby": "Inserted at the request of the Town Manager",
@@ -279,6 +292,7 @@
     "article": "ARTICLE 11",
     "id": "defer11",
     "type": "misc",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10232&MeetingID=1192",
     "title": "HOME RULE LEGISLATION/JUSTIN BROWN",
     "text": "To see if the Town will vote to request and authorize the Select Board to file Home Rule Legislation so as to enable Justin Brown, a resident of the Town, to be eligible for appointment as firefighter in the Town of Arlington notwithstanding the fact that he has attained the age of 32, or  take any action related there",
     "submitted": "30-January-2020",
@@ -305,6 +319,7 @@
     "article": "ARTICLE 12",
     "id": "article12",
     "type": "election",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10233&MeetingID=1192",
     "title": "HOME RULE LEGISLATION/CONSOLIDATION OF TOWN MEETING MEMBER ELECTIONS",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to reform the nomination and election process for Town Meeting seats to permit the consolidation of elections of Town Meeting Members when there are vacant seats into a single election per precinct, such that the highest vote-getters win the longest available terms, to promulgate regulations to effectuate the same; or take any action related thereto.",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
@@ -340,6 +355,18 @@
     "recommend": "Select Board",
     "supplements": [
       {
+        "comment": "AMENDMENT 1 - P. Schlichtman - removing ranked choice from any multi-seat election",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10423&ItemID=10234": "Amendment 1 proposed"
+      },
+      {
+        "comment": "AMENDMENT 2 - P. Schlichtman - requiring a townwide ballot to enact this provision",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10424&ItemID=10234": "Amendment 2 proposed"
+      },
+      {
+        "comment": "AMENDMENT 3 - A. Auster - changing details of single-seat vs. multi-seat elections",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10442&ItemID=10234": "Amendment 3 proposed"
+      },
+      {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
       },
@@ -350,22 +377,15 @@
       {
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"
-      },
-      {
-        "comment": "Amendment 1 - P. Schlichtman",
-        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10423&ItemID=10234": "Amendment proposed"
-      },
-      {
-        "comment": "Amendment 2 - P. Schlichtman",
-        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10424&ItemID=10234": "Amendment proposed"
       }
-    ]
+   ]
   },
   {
     "article": "ARTICLE 14",
     "id": "article14",
     "id2": "draft-a-counsel",
     "type": "misc",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10235&MeetingID=1192",
     "title": "HOME RULE/SENIOR WATER DISCOUNT",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation or other Special Legislation which would permit the Town to discount fees charged to qualifying, means-tested Arlington Seniors for water and sewer usage; or take any action related thereto.",
     "submitted": "24-January-2020",
@@ -391,6 +411,7 @@
     "id": "article15",
     "id2": "draft-c-counsel",
     "type": "misc",
+    "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10236&MeetingID=1192",
     "title": "HOME RULE LEGISLATION/RETIRED POLICE OFFICER DETAILS",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation, as set forth below, to allow retired police officers to work police details: or take any other action relative thereto. (Please see [official warrant, p.8](https://www.arlingtonma.gov/town-governance/town-meeting/2021-special-town-meeting-warrant) for full rule proposal.)",
     "submitted": "24-January-2020",
@@ -468,8 +489,8 @@
         "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10238&MeetingID=1192": "No action recommendation"
       },
       {
-        "comment": "Substitute Motion - M. Ruderman",
-        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10359&ItemID=10238": "Updated motion from submitter"
+        "comment": "Substitute Motion - M. Ruderman - updated 4-November",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10359&ItemID=10238": "Updated motion from article submitter"
       }
     ]
   },
@@ -549,6 +570,10 @@
         "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10241&MeetingID=1192": "Redevelopment Board detailed commentary"
       },
       {
+        "comment": "Video from town Director Jennifer Raitt on DPCD notes on this article",
+        "https://vimeo.com/478533903": "Town Video comments"
+      },
+      {
         "comment": "Supporting documentation for Article 20",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10418&ItemID=10241": "Redevelopment Board additional data"
       },
@@ -581,6 +606,10 @@
         "comment": "Redevelopment Board voted (5-0) to recommend Action on Article 21.",
         "https://www.arlingtonma.gov/home/showdocument?id=53444": "Redevelopment Board report to TMM"
       },    
+      {
+        "comment": "Video from town Director Jennifer Raitt on DPCD notes on this article",
+        "https://vimeo.com/478533903": "Town Video comments"
+      },
       {
         "comment": "The Redevelopment Board voted (5-0) to Recommend Action on Article 21 to amend the Arlington Zoning Map, to rezone a parcel of land belonging to the Town of Arlington with access to Grove Street at Map 54, Block 3, Lot 2.B from Residential District 1 to Industrial.",
         "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10242&MeetingID=1192": "Redevelopment Board recommends action"
