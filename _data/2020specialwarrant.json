@@ -117,6 +117,10 @@
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
       },
       {
+        "comment": "Clean Heat For Arlington group recommendations on this article.",
+        "https://cleanheatforarlingtonma.org/#importance": "Documents supporting Article 5"
+      },
+      {
         "comment": "Additional information Article 5 from Clean Heat For Arlington group",
         "https://drive.google.com/drive/u/0/folders/1nAKT0R-EHscyFNun8ySDeOb7PPk681nR": "Documents supporting Article 5"
       },
@@ -217,6 +221,18 @@
         "https://vimeo.com/469010746": "Important overview of this article"
       },
       {
+        "comment": "Equitable Arlington is an advocacy group supporting fair housing prices.",
+        "https://equitable-arlington.org/": "Equitable Arlington Homepage"
+      },
+      {
+        "comment": "Arlington Residents for Responsible Development advocate for affordable housing.",
+        "https://sites.google.com/view/arfrr/affordability": "ARFFR affordability page"
+      },
+      {
+        "comment": "Data driven case for affordable housing advocacy information.",
+        "https://drive.google.com/file/d/1XbSEngc5qCJlC2LfCWCYfh3fNAlgl-og/view": "Housing affordability overview"
+      },
+      {
         "comment": "Finance Committee supports recommendation of Select Board to recommend.",
         "http://www.arlingtonma.gov/home/showdocument?id=53482": "FinCom Report to TMM (updated)"
       },
@@ -245,6 +261,10 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },
+      {
+        "comment": "Election Modernization Committee recommends this article.",
+        "https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view": "Election Modernization Committee"
       }
     ]
   },
@@ -263,9 +283,14 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
       {
-        "comment": "Select Board votes (5-0) to recommend.",
+        "comment": ".",
+        "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
+      },    
+
+      {
+        "comment": "Select Board votes (5-0) to recommend previously.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
       }
     ]
@@ -310,7 +335,11 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
+      {
+        "comment": "Election Modernization Committee recommends this article.",
+        "https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view": "Election Modernization Committee"
+      },
       {
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"
@@ -334,7 +363,10 @@
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
       },
-    
+      {
+        "comment": "Election Modernization Committee recommends this article.",
+        "https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view": "Election Modernization Committee"
+      },
       {
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"

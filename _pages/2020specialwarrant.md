@@ -17,6 +17,7 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showdocument?id=53444)
 - [Community Preservation Act Committee](https://www.arlingtonma.gov/home/showdocument?id=53506)
 - [Human Rights Commission](http://www.arlingtonma.gov/home/showdocument?id=53538)
+- [Election Modernization Committee](https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view) on Articles [9](#article9), [12](#article12), [13](#article9)
 
 ## How Tos For Town Meeting
 
