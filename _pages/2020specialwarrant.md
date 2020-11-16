@@ -11,6 +11,7 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 
 ## Reports To Town Meeting
 
+- [Town Moderator's Consent Agenda proposal](https://www.arlingtonma.gov/home/showdocument?id=53366) (Articles 3, 4, 6-12, 14, 22, 24)
 - [Select Board](https://www.arlingtonma.gov/home/showdocument?id=53536) (updated 12-Nov)
 - [Finance Committee (updated)](https://www.arlingtonma.gov/home/showdocument?id=53482) AND [Finance Committee Addendum](https://www.arlingtonma.gov/home/showdocument?id=53540)
 - [Capital Planning Committee](https://www.arlingtonma.gov/home/showdocument?id=53480)
