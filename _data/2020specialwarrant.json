@@ -31,6 +31,14 @@
     "recommend": "Select Board",
     "supplements": [
       {
+        "comment": "AMENDMENT by A.Badik: changing the specific hours allowed.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10455&ItemID=10224": "Amdendment"
+      },
+      {
+        "comment": "AMENDMENT bt B.Friedman: adding 'exclusively' before commercial buildings.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10456&ItemID=10224": "Amdendment"
+      },
+      {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
       },
@@ -136,8 +144,16 @@
     "recommend": "Select Board",
     "supplements": [
       {
-        "comment": "AMENDMENT proposal by C. Kelleher 9 November",
+        "comment": "AMENDMENT proposal by E Dray 16-November changing specific roles of the group to reflect more diversity in town.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10454&ItemID=10227": "TMM List Amendment"
+      },
+      {
+        "comment": "AMENDMENT proposal by C. Kelleher 9 November; changing number in group and who comprises it.",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10422&ItemID=10227": "TMM List Amendment"
+      },
+      {
+        "comment": "Finance Committee report on article.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10453&ItemID=10227": "Finance Committee report"
       },
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -660,6 +676,7 @@
     "article": "ARTICLE 23",
     "id": "article23",
     "type": "finance",
+    "video": "https://www.youtube.com/watch?v=M7vVBIj0uxw&list=PLztbi9KA9roVEhX9eU23jGuYZrNp9s3Ly&index=2",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10244&MeetingID=1192",
     "title": "CAPITAL BUDGET/DPW YARD",
     "text": "To see if the Town will vote to appropriate a sum of money for remodeling, reconstructing, or making extraordinary repairs to the DPW Yard and associated buildings, including original equipment and landscaping, paving and other site improvements incidental or directly related to such remodeling, reconstruction or repair, and determine whether such appropriations shall be raised by taxation, transferred from available funds, borrowed or provided by any combination of the foregoing; or take any action related thereto.",

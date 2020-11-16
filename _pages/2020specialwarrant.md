@@ -13,12 +13,12 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 
 - [Town Moderator's Consent Agenda proposal](https://www.arlingtonma.gov/home/showdocument?id=53366) (Articles 3, 4, 6-12, 14, 22, 24)
 - [Select Board](https://www.arlingtonma.gov/home/showdocument?id=53536) (updated 12-Nov)
-- [Finance Committee (updated)](https://www.arlingtonma.gov/home/showdocument?id=53482) AND [Finance Committee Addendum](https://www.arlingtonma.gov/home/showdocument?id=53540)
+- [Finance Committee (updated)](https://www.arlingtonma.gov/home/showdocument?id=53482) AND [Finance Committee Addendum](https://www.arlingtonma.gov/home/showdocument?id=53540) AND [Finance Committee report on Arlington Police Department](https://www.arlingtonma.gov/home/showdocument?id=53569) (re: [Article 6](#article6))
 - [Capital Planning Committee](https://www.arlingtonma.gov/home/showdocument?id=53480)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showdocument?id=53444)
 - [Community Preservation Act Committee](https://www.arlingtonma.gov/home/showdocument?id=53506)
 - [Human Rights Commission](http://www.arlingtonma.gov/home/showdocument?id=53538)
-- [Election Modernization Committee](https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view) on Articles [9](#article9), [12](#article12), [13](#article9)
+- [Election Modernization Committee](https://drive.google.com/file/d/1QIzSLCk9qhT68JvTU5WaiRuzKB3Bbj-2/view) on Articles [9](#article9), [12](#article12), [13](#article13), with [an updated report on 16-Nov](https://www.arlingtonma.gov/home/showdocument?id=53567).
 
 ## How Tos For Town Meeting
 
