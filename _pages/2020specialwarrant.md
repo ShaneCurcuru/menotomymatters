@@ -9,6 +9,11 @@ The 2020 Special Town Meeting will be held in November with special COVID precau
 
 This now includes the official text of the Special Town Meeting Warrant, and includes cross-references to various board or committee reports on articles where found.  Take special note of what articles appear on the consent agenda as well.  The Town Meeting Moderator has provided an [introductory video for how this Special Town Meeting](https://www.youtube.com/watch?v=G7kByMBt6Y8&list=PLztbi9KA9roW3HezeZdWRe92B5bCYq9nr&index=1) works.
 
+## What's Happening At Town Meeting
+
+- [Your Arlington news coverage](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17752-stm-091920) (updates frequently)
+- [Votes taken Monday 16-Nov (21pp)](https://www.arlingtonma.gov/home/showdocument?id=53597) Attendance; Approve use of Remote Technology (pass); Article 1 (pass); Article 3 debate & amendments; Article 4 debate & amendments.
+
 ## Reports To Town Meeting
 
 - [Town Manager's overview of some articles at town meeting](https://www.youtube.com/watch?v=TUiSvvhng94) (ACMi video interview)

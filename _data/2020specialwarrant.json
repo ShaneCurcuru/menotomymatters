@@ -5,7 +5,12 @@
     "type": "procedural",
     "title": "REPORTS OF COMMITTEES",
     "text": "To receive, hear, and act upon the reports of the Select Board, Finance Committee, Redevelopment Board, School Committee and other committees, commissions, and boards heretofore appointed, or dissolve any inactive committees; and take any action related thereto.",
-    "insertby": "Inserted at the request of the Town Moderator"
+    "insertby": "Inserted at the request of the Town Moderator",
+    "voted": "16-Nov-2020",
+    "for": "242",
+    "against": "",
+    "abstain": "1",
+    "status": "Pass"
   },
   {
     "article": "ARTICLE 2",
@@ -29,13 +34,18 @@
     "insertby": "Citizen petition led by: Paul Schlichtman",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "16-Nov-2020",
+    "for": "194",
+    "against": "50",
+    "abstain": "1",
+    "status": "Pass",
     "supplements": [
       {
-        "comment": "AMENDMENT by A.Badik: changing the specific hours allowed.",
+        "comment": "AMENDMENT by A.Badik: changing the specific hours allowed. VOTED: 16-Nov Pass (for: 177, against: 58, abstain: 5)",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10455&ItemID=10224": "Amdendment"
       },
       {
-        "comment": "AMENDMENT bt B.Friedman: adding 'exclusively' before commercial buildings.",
+        "comment": "AMENDMENT bt B.Friedman: adding 'exclusively' before commercial buildings. VOTED: 16-Nov Pass (for: 180, against: 54, abstain: 5)",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10456&ItemID=10224": "Amdendment"
       },
       {

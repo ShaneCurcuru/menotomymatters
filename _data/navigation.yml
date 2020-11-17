@@ -1,8 +1,8 @@
 main:
-  - title: "Mutual Aid Arlington"
-    url: https://mutualaidarlington.org/?mm
-    description: "Neighbors Helping Neighbors"
-  - title: "Town Meetings Tracker"
+  - title: "Town Meeting 2020"
+    url: /tm/2020special/
+    description: "Simple details about Special Town Meeting in 2020"
+  - title: "Town Boards Tracker"
     url: /meetings/
     description: "Making Amazing Agendas For Town Boards" 
   - title: "Issues Research"
