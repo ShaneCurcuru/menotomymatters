@@ -12,7 +12,29 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 ## What's Happening At Town Meeting
 
 - [Your Arlington news coverage](https://www.yourarlington.com/arlington-archives/town-school/town-meeting/17752-stm-091920) (updates frequently)
-- [Votes taken Monday 16-Nov (21pp)](https://www.arlingtonma.gov/home/showdocument?id=53597) Attendance; Approve use of Remote Technology (pass); Article 1 (pass); Article 3 debate & amendments; Article 4 debate & amendments.
+
+<ul>
+  <li>
+    <strong>Monday 16-Nov</strong>
+    <a href="https://acmi.tv/videos/special-town-meeting-november-16-2020/"><i class="fa fa-video" aria-hidden="true"></i> Video</a>
+    <a href="https://www.arlingtonma.gov/home/showdocument?id=53597"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Approve use of Remote Technology (pass); Article 1, 3, 4 all pass.  
+    <a href="http://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night-one.html"><i class="fa fa-blog" aria-hidden="true"></i> Christian's notes</a>
+  </li>
+  <li>
+    <strong>Wednesday 18-Nov</strong>
+    <a href=""><i class="fa fa-video" aria-hidden="true"></i> Video</a>
+    <a href="https://www.arlingtonma.gov/home/showdocument?id=53637"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> 
+    <a href="http://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night-two.html"><i class="fa fa-blog" aria-hidden="true"></i> Christian's notes</a>
+  </li>
+  <li>
+    <strong>Monday 23-Nov</strong>
+    <!--
+    <a href=""><i class="fa fa-video" aria-hidden="true"></i> Video</a>
+    <a href=""><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> 
+    <a href=""><i class="fa fa-blog" aria-hidden="true"></i> Christian's notes</a>
+    -->
+  </li>
+</ul>
 
 ## Reports To Town Meeting
 

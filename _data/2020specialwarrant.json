@@ -115,6 +115,11 @@
     "insertcomment": "As the Board likely knows, several communities in the Commonwealth have considered or adopted a prohibition on installation of new infrastructure for fossil fuel-based systems (including natural gas and oil-based systems) in new construction and major renovation projects; most notably [Brookline at its November 2019 Special Town Meeting](https://www.brooklinema.gov/DocumentCenter/View/20106/November-19-2019-Special-Town-Meeting-Warrant). The overall purpose of these ordinances is to take action to reduce carbon emissions in response to the climate change crisis. Such ordinances have generally been limited in scope to prohibit installation of new gas or oil pipping and systems such as certain boilers, furnaces, and cooktops, primarily in new residential construction but could be broader or narrower in Arlington. Similarly, the scope of exemptions to such prohibitions likely varies considerably.",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "18-Nov-2020",
+    "for": "225",
+    "against": "18",
+    "abstain": "2",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board votes (4-0, one abstention) to recommend.",
@@ -152,13 +157,18 @@
     "insertby": "Citizen petition led by: Jordan Weinstein",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "18-Nov-2020",
+    "for": "205",
+    "against": "36",
+    "abstain": "3",
+    "status": "Pass",
     "supplements": [
       {
-        "comment": "AMENDMENT proposal by E Dray 16-November changing specific roles of the group to reflect more diversity in town.",
+        "comment": "AMENDMENT proposal by E Dray 16-November changing specific roles of the group to reflect more diversity in town; VOTED: 18-Nov Pass (for: 148, against: 90, abstain: 4)",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10454&ItemID=10227": "TMM List Amendment"
       },
       {
-        "comment": "AMENDMENT proposal by C. Kelleher 9 November; changing number in group and who comprises it.",
+        "comment": "AMENDMENT proposal by C. Kelleher 9 November; changing number in group and who comprises it; VOTED: 18-Nov Pass (for: 162, against: 77, abstain: 2)",
         "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10422&ItemID=10227": "TMM List Amendment"
       },
       {
@@ -192,6 +202,11 @@
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "18-Nov-2020",
+    "for": "242",
+    "against": "2",
+    "abstain": "1",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -223,10 +238,23 @@
     "insertcomment": "NOTE: HPIC and the Select Board have made updates since this article was originally proposed for the summer Town Meeting; see below. Earlier this summer the Housing Plan Implementation Committee (“HPIC”) proposed this article as a means to provide a new and invaluable tool to the Town’s goal of creating and supporting affordable housing in Arlington. An Affordable Housing Trust provides significant flexibility and additional resources over and above existing resources for affordable housing. HPIC continues to work on a proposed version of the bylaw itself, but the following provides an overview of the operation and scope of an Affordable Housing Trust bylaw in Arlington for the Board in its consideration of whether or not to support an article on the 2020 Warrant: (See town counsel memo for complete details.)",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "18-Nov-2020",
+    "for": "221",
+    "against": "13",
+    "abstain": "4",
+    "status": "Pass",
     "supplements": [
       {
-        "comment": "AMENDMENT - J. Gersh - multiple changes to the article.",
-        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10441&ItemID=10229": "Amendment 1"
+        "comment": "AMENDMENT - K. Kelleher - change definitions in article to match CPA definitions; VOTED 18-Nov Pass (for: 170, against: 53, abstain:11)",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10461&ItemID=10229": "Amendment 2 text"
+      },
+      {
+        "comment": "K. Kelleher explanatory memo explaining definitions used in Amendment 2",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10463&ItemID=10229": "Amendment 2 explanatory memo"
+      },
+      {
+        "comment": "AMENDMENT - J. Gersh - multiple changes to the article; VOTED 18-Nov, on three votes, all Failed.",
+        "https://arlington.novusagenda.com/Agendapublic/AttachmentViewer.ashx?AttachmentID=10441&ItemID=10229": "Amendment 1 text"
       },
       {
         "comment": "Housing Plan Implementation Committee letter to the editor on importance of Article 8.",
