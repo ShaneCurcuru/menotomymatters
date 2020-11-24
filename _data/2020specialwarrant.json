@@ -25,7 +25,6 @@
     "id": "article3",
     "id2": "draft-a-citizen",
     "type": "bylaw",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10224&MeetingID=1192",
     "title": "BYLAW AMENDMENT/REGULATION OF OUTDOOR LIGHTING – UPLIGHTING",
     "text": "To see if the Town will vote to amend [Title V Article 14 Section 3D of the Town Bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-v-regulations-upon-the-use-of-private-property#A14) to include structures used for religious purposes, and structures used for commercial purposes, among the exemptions to the prohibition of uplighting; or take any action related thereto.",
@@ -71,7 +70,6 @@
     "id": "article4",
     "id2": "draft-b-citizen",
     "type": "bylaw",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10225&MeetingID=1192",
     "title": "BYLAW AMENDMENT/MINUTEMAN BIKEWAY HOURS",
     "text": "To see if the town will vote to amend [Title III, Article 1, Section 10 of the town bylaws](https://www.arlingtonma.gov/town-governance/laws-and-regulations/town-bylaws/title-iii-public-and-private-ways#A1) (Minuteman Bikeway Hours) to extend the operating hours of the Minuteman Bikeway; or any action related thereto.",
@@ -81,11 +79,16 @@
     "boardcomment": "**Discussion:**  This articles returns to the Warrant from the 2020 Annual Town Meeting.\nThe Select Board strongly supports this effort to increase Minuteman Bikeway hours beyond 9:00 p.m. in recognition of the Bikeway’s increased use in later evening hours. Rather than affix a specific time in the Bylaws, the Board urges Town Meeting to vest discretion in the Town Manager to set and post evening hours (with a curfew no earlier than 9:00 p.m.) as appropriate for conditions. For example, if summer month conditions are appropriate, the Bikeway could be open for longer periods than in winter months. It bears noting that several Bikeway communities, including Lexington and Bedford have no hour restrictions whatsoever. This proposal would maintain control of Bikeway hours, but afford appropriate flexibility as seasonal or infrastructure conditions allow.\n\n **Vote Language:**\nThat that Title III, Article 1, Section 10 of the Town Bylaws (“Minuteman Bikeway Hours”) be and hereby is amended as follows:\n\n**Section 10. Minuteman Bikeway Hours**\n\nThe Minuteman Bikeway shall be open to the use of the public between the hours of 5:00 A.M. and such evening hour as set and posted by the Town Manager no earlier than 9:00 P.M. Anyone found on said premises between the posted evening hours of 9:00 P.M. and 5:00 A.M. shall be considered trespassers and subject to a fine of up to $20.",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "228",
+    "against": "14",
+    "abstain": "2",
+    "status": "Pass",
     "supplements": [
       {
-        "comment": "AMENDMENT P. Muldoon - removing entirely Section 10 of bylaws specifying hours, extending hours indefinitely.",
+        "comment": "AMENDMENT P. Muldoon - removing entirely Section 10 of bylaws specifying hours, extending hours indefinitely. VOTED: 23-Nov Pass (for: 211, against: 29, abstain: 2)",
         "https://www.arlingtonma.gov/home/showpublisheddocument?id=53681": "Amendment #1"
-      },    
+      },
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
@@ -153,7 +156,6 @@
     "id": "article6",
     "id2": "draft-e-citizen",
     "type": "misc",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10227&MeetingID=1192",
     "title": "VOTE/ESTABLISHMENT OF POLICE CIVILIAN ADVISORY BOARD STUDY COMMITTEE",
     "text": "To see if the Town will vote to form a committee of Town Meeting to study, craft and submit a Warrant Article to Town Meeting in 2021 for the creation of an Arlington police civilian advisory board comprised of seven (7) voting members and three (3) non-voting members, or take any action related thereto. The study committee would make decisions based on the vote of a simple majority of the committee's voting members who shall be appointed to the committee by: the Envision Arlington Standing Committee (1); the Arlington Human Rights Commission (1); the LGBTQIA & Rainbow Commission (1); the  Disability Commission (1); the  Board of Youth Services (1); the Equal Opportunity  Advisory Committee  (1); and the  Town Moderator  (1). Non-voting  members of  the  committee shall include one  (1)  representative from the Arlington Police Department, the Town's Diversity, Equity and Inclusion Coordinator, and the Town Counsel. The membership of the study committee's voting members will include at  least one Town Meeting member  and shall reflect racial/ethnic  and    other  forms of diversity  of Town residents. The study committee will complete its work and recommendations and shall report to the 2021 Annual town Meeting; or take any action related thereto.",
@@ -198,7 +200,6 @@
     "article": "ARTICLE 7",
     "id": "article7",
     "type": "bylaw",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10228&MeetingID=1192",
     "title": "VOTE/BYLAW AMENDMENT/ENVISION ARLINGTON UPDATED LANGUAGE",
     "text": "To see if the Town will vote to amend Title I, Article 15 to change the name of “Vision 2020” to comport with its current name “Envision Arlington;” to revise the Bylaw’s articulation of “Goals” as a “Statement of Community Values” or similar term; and to modernize the “Goals” as set forth in the vote of the 1993 Town Meeting (Article 19) with more inclusive language; or take any action related thereto.",
@@ -216,7 +217,7 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article including various updates to the group's charter.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
@@ -232,7 +233,6 @@
     "id": "article8",
     "type": "bylaw",
     "video": "https://youtu.be/WhvsWzppF8A",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10229&MeetingID=1192",
     "title": "ACCEPTANCE OF LEGISLATION/BYLAW AMENDMENT/ MUNICIPAL AFFORDABLE HOUSING TRUST FUND",
     "text": "To see if the Town will vote to accept [Massachusetts General Laws c. 44 § 55C](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section55C), to authorize the creation of a Municipal Affordable Housing Trust Fund to support the development of affordable housing in Arlington, establish a new bylaw for the administration of same; or take any action related thereto.",
@@ -268,7 +268,7 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
       {
         "comment": "Frequently Asked Questions About Article 8",
         "https://www.arlingtonma.gov/home/showdocument?id=53476": "Important overview of this article"
@@ -314,9 +314,7 @@
   {
     "article": "ARTICLE 9",
     "id": "article9",
-    "status": "Draft",
     "type": "election",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10230&MeetingID=1192",
     "title": "VOTE/ELECTION MODERNIZATION COMMITTEE",
     "text": "To see if the Town will vote to extend the life of the [Election Modernization Committee](https://www.arlingtonma.gov/town-governance/all-boards-and-committees/election-modernization-committee), change its structure, objectives, or membership; or take any action related thereto.",
@@ -324,6 +322,11 @@
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "234",
+    "against": "5",
+    "abstain": "4",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -339,13 +342,17 @@
     "article": "ARTICLE 10",
     "id": "article10",
     "type": "new",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10231&MeetingID=1192",
     "title": "ACCEPTANCE OF LEGISLATION/GOLD STAR FAMILY TAX EXEMPTION",
     "text": "To see if the Town will vote to accept Massachusetts General Law Chapter 59 sec. 5(22H) to provide a local to surviving parents or guardians of members of the United States armed services who died on active duty tax exemption; or take any action related thereto.",
     "insertby": "Inserted at the request of the Town Manager",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "229",
+    "against": "6",
+    "abstain": "8",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -354,8 +361,7 @@
       {
         "comment": ".",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
-
+      },
       {
         "comment": "Select Board votes (5-0) to recommend previously.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=10308&ItemID=10163": "Select Board / Town Counsel email"
@@ -366,7 +372,6 @@
     "article": "ARTICLE 11",
     "id": "defer11",
     "type": "misc",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10232&MeetingID=1192",
     "title": "HOME RULE LEGISLATION/JUSTIN BROWN",
     "text": "To see if the Town will vote to request and authorize the Select Board to file Home Rule Legislation so as to enable Justin Brown, a resident of the Town, to be eligible for appointment as firefighter in the Town of Arlington notwithstanding the fact that he has attained the age of 32, or  take any action related there",
@@ -375,11 +380,16 @@
     "insertby": "Citizen petition led by: jb@usbrown.com",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "214",
+    "against": "24",
+    "abstain": "4",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
       {
         "comment": "Town Counsel email: Select Board (5-0) recommends this article.",
         "https://arlington.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=8153&ItemID=8544": "Select Board Draft_Final_Votes_and_Comments.pdf"
@@ -394,7 +404,6 @@
     "article": "ARTICLE 12",
     "id": "article12",
     "type": "election",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10233&MeetingID=1192",
     "title": "HOME RULE LEGISLATION/CONSOLIDATION OF TOWN MEETING MEMBER ELECTIONS",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to reform the nomination and election process for Town Meeting seats to permit the consolidation of elections of Town Meeting Members when there are vacant seats into a single election per precinct, such that the highest vote-getters win the longest available terms, to promulgate regulations to effectuate the same; or take any action related thereto.",
@@ -402,6 +411,11 @@
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "213",
+    "against": "29",
+    "abstain": "2",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -429,6 +443,11 @@
     "insertby": "(Inserted by the Select Board and at the request of the Election Modernization Committee)",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "222",
+    "against": "5",
+    "abstain": "14",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "AMENDMENT 1 - P. Schlichtman - removing ranked choice from any multi-seat election",
@@ -454,14 +473,13 @@
         "comment": "Election Modernization Committee proposal of article",
         "https://www.arlingtonma.gov/Home/ShowDocument?id=50167": "Minutes 14-January-2020"
       }
-   ]
+    ]
   },
   {
     "article": "ARTICLE 14",
     "id": "article14",
     "id2": "draft-a-counsel",
     "type": "misc",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10235&MeetingID=1192",
     "title": "HOME RULE/SENIOR WATER DISCOUNT",
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation or other Special Legislation which would permit the Town to discount fees charged to qualifying, means-tested Arlington Seniors for water and sewer usage; or take any action related thereto.",
@@ -472,6 +490,11 @@
     "boardcomment": "As the Board will recall from recent discussions, a number of municipalities have enacted water and sewer discount programs for local seniors. It remains the position of this Office that a straightforward form of such a discount programs may be offered by vote of the Select Board without Town Meeting action or Home Rule Petition. However, further research has revealed that Home Rule Legislation would be required if the Board were to contemplate a model of discount similar to the Board’s recent means-tested tax deferral and “work-off” programs or to certain specific subcategories of senior residents in Arlington, based upon the Department of Revenue’s interpretation of Brand v. Water Commissioners of Billerica, 242 Mass. 223 (1922). Accordingly, it may be in the Board’s interest to place an article on the warrant for further discussion.",
     "board": "Select Board",
     "recommend": "Select Board",
+    "voted": "23-Nov-2020",
+    "for": "217",
+    "against": "9",
+    "abstain": "8",
+    "status": "Pass",
     "supplements": [
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
@@ -502,7 +525,7 @@
       {
         "comment": "Select Board voted (5-0) to recommend this article.",
         "http://www.arlingtonma.gov/home/showdocument?id=53536": "Select Board report to TMM"
-      },    
+      },
       {
         "comment": "For discussion and approval",
         "https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=980&MinutesMeetingID=651&doctype=Agenda": "Select Board Agenda 27-Jan-2020"
@@ -682,7 +705,7 @@
       {
         "comment": "Redevelopment Board voted (5-0) to recommend Action on Article 21.",
         "https://www.arlingtonma.gov/home/showdocument?id=53444": "Redevelopment Board report to TMM"
-      },    
+      },
       {
         "comment": "Video from town Director Jennifer Raitt on DPCD notes on this article",
         "https://vimeo.com/478533903": "Town Video comments"
@@ -701,7 +724,6 @@
     "article": "ARTICLE 22",
     "id": "article22",
     "type": "finance",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10243&MeetingID=1192",
     "title": "COLLECTIVE BARGAINING",
     "text": "To see if the Town will vote to fund any fiscal items in the event that any are contained in collective bargaining agreements between the Town and the following named collective bargaining unit’s salaries or fringe benefits, determine how the money shall be raised and expended; or take any action related thereto:\n\n- A. Arlington Police Patrol Officers’ Association (formerly Arlington Patrolmen’s Association);",
@@ -746,7 +768,6 @@
     "article": "ARTICLE 24",
     "id": "article24",
     "type": "finance",
-    "consent": "Consent Agenda",
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10245&MeetingID=1192",
     "title": "APPROPRIATION/COMMUNITY PRESERVATION FUND",
     "text": "To see if the Town will vote to make appropriations from the Community Preservation Fund for eligible community preservation projects; for community preservation reserve accounts for historic preservation, open space and recreation, and affordable housing; for Community Preservation Act Committee administrative expenses or other eligible expenses; or take any action related thereto.",
@@ -764,7 +785,7 @@
         "http://www.arlingtonma.gov/home/showdocument?id=53540": "FinCom addendum"
       }
     ]
-  },  
+  },
   {
     "article": "ARTICLE 25",
     "id": "article25",
