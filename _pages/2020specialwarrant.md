@@ -16,7 +16,7 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
 <ul>
   <li>
     <strong>Monday 16-Nov</strong>
-    <a href="https://acmi.tv/videos/special-town-meeting-november-16-2020/"><i class="fa fa-video" aria-hidden="true"></i> Video</a>
+    <a href="https://acmi.tv/videos/special-town-meeting-november-16-2020/"><i class="fa fa-video" aria-hidden="true"></i> ACMi Video</a>
     <a href="https://www.arlingtonma.gov/home/showdocument?id=53597"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Approve use of Remote Technology (pass); Article 1, 3, 4 all pass.  
     <i class="fa fa-blog" aria-hidden="true"></i> Blogs: 
     <a href="http://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night-one.html">Christian Klein P10</a>,
@@ -25,7 +25,7 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
   </li>
   <li>
     <strong>Wednesday 18-Nov</strong>
-    <a href="https://www.youtube.com/watch?v=c53KlvUhDu0"><i class="fa fa-video" aria-hidden="true"></i> Video</a>
+    <a href="https://www.youtube.com/watch?v=c53KlvUhDu0"><i class="fa fa-video" aria-hidden="true"></i> ACMi Video</a>
     <a href="https://www.arlingtonma.gov/home/showdocument?id=53637"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles 5,6,7 all pass; discussion of Article 8 amendments; article 8 pass.
     <i class="fa fa-blog" aria-hidden="true"></i> Blogs: 
     <a href="http://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night-two.html">Christian Klein P10</a>,
@@ -34,12 +34,12 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
   </li>
   <li>
     <strong>Monday 23-Nov</strong>
-    <a href=""><i class="fa fa-video" aria-hidden="true"></i> Video</a>
-    <a href="https://www.arlingtonma.gov/home/showpublisheddocument?id=53687"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles ...
+    <a href="https://www.youtube.com/watch?v=9hH3qPpUSqw"><i class="fa fa-video" aria-hidden="true"></i> ACMi Video</a>
+    <a href="https://www.arlingtonma.gov/home/showpublisheddocument?id=53687"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles 4, 9-12 pass, 13 is No Action, 15 passes, and 16 was debated.
     <i class="fa fa-blog" aria-hidden="true"></i> Blogs: 
     <a href="https://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night.html">Christian Klein P10</a>,
     <a href="https://www.facebook.com/HaddenTM/posts/193643852252057">Jeff Hadden P18</a>,
-    <a href="">Stephen A. Revilak P1</a>
+    <a href="https://www.srevilak.net/wiki/Town_Meeting_-_Nov_23rd,_2020">Stephen A. Revilak P1</a>
   </li>
 </ul>
 
