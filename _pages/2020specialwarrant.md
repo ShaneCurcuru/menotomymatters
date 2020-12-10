@@ -44,11 +44,21 @@ This now includes the official text of the Special Town Meeting Warrant, and inc
     <li>
     <strong>Monday 30-Nov</strong>
     <a href="https://www.youtube.com/watch?v=ewAV6-YLjlw"><i class="fa fa-video" aria-hidden="true"></i> ACMi Video</a>
-    <a href="https://www.arlingtonma.gov/home/showpublisheddocument?id=53755"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles .
+    <a href="https://www.arlingtonma.gov/home/showpublisheddocument?id=53755"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles 23, 24, 15, 16 Pass.
     <i class="fa fa-blog" aria-hidden="true"></i> Blogs: 
     <a href="https://atmnotes.blogspot.com/2020/11/special-town-meeting-fall-2020-night_30.html">Christian Klein P10</a>,
     <a href="https://www.facebook.com/HaddenTM/posts/198449765104799">Jeff Hadden P18</a>,
-    <a href="">Stephen A. Revilak P1</a>
+    <a href="https://www.srevilak.net/wiki/Town_Meeting_-_Nov_30th,_2020">Stephen A. Revilak P1</a>
+  </li>
+    </li>
+    <li>
+    <strong>Wednesday 2-Dec</strong>
+    <a href="https://www.youtube.com/watch?v=hZCYOB2wv_g"><i class="fa fa-video" aria-hidden="true"></i> ACMi Video</a>
+    <a href="https://www.arlingtonma.gov/home/showpublisheddocument?id=53805"><i class="fa fa-gavel" aria-hidden="true"></i> Votes</a> Articles .
+    <i class="fa fa-blog" aria-hidden="true"></i> Blogs: 
+    <a href="https://atmnotes.blogspot.com/2020/12/special-town-meeting-fall-2020-night.html">Christian Klein P10</a>,
+    <a href="https://www.facebook.com/HaddenTM/posts/199844248298684">Jeff Hadden P18</a>,
+    <a href="https://www.srevilak.net/wiki/Town_Meeting_-_Dec_2nd,_2020">Stephen A. Revilak P1</a>
   </li>
 </ul>
 
