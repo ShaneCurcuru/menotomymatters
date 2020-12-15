@@ -268,6 +268,7 @@
   "2905": {
     "address": "",
     "meetings": [
+      "2020-12-07",
       "2020-10-05"
     ]
   },
@@ -282,6 +283,12 @@
     "address": "as amended #2905, 23 Broadway",
     "meetings": [
       "2020-11-02"
+    ]
+  },
+  "3638": {
+    "address": "400-402 Massachusetts Avenue",
+    "meetings": [
+      "2020-12-07"
     ]
   }
 }

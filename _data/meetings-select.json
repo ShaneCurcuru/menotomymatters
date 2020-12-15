@@ -1,4 +1,325 @@
 {
+  "2020-12-09": {
+    "date": "12/09/20",
+    "isodate": "2020-12-09",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1221&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1221",
+    "filename": "_agendas/2020-12-09-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaDecember 9, 20207:00 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "Joint Meeting of the Select Board and the Arlington Housing Authority",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-12-09_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10404&MeetingID=1221\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n<span class='itemnum' id='2020-12-09_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10405&MeetingID=1221\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Appointment: Arlington Housing Authority\n\nJohn V. Hurd, Select Board, Chair\nNicholas Mitropoulos, Arlington Housing Authority\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10488&ItemID=10404": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Executive Order on Remote Participation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10556&ItemID=10405": [
+              "Memo_from_Town_Counsel.pdf",
+              "Memo from Town Counsel"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10536&ItemID=10405": [
+              "Vacancy_Notice.pdf",
+              "Vacancy Meeting Notice"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10537&ItemID=10405": [
+              "F._Badilla_Resume.pdf",
+              "F. Badilla Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10538&ItemID=10405": [
+              "M._Healy_Resume.pdf",
+              "M. Healy Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10540&ItemID=10405": [
+              "M._King_Resume.pdf",
+              "M. King Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10541&ItemID=10405": [
+              "C._McGinty_Resume.pdf",
+              "C. McGinty Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10542&ItemID=10405": [
+              "A._McInnes_Resume.pdf",
+              "A. McInnes Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10543&ItemID=10405": [
+              "R._Pontes_Resume.pdf",
+              "R. Pontes Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10544&ItemID=10405": [
+              "D._Rulon_Resume.pdf",
+              "D. Rulon Resume"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10545&ItemID=10405": [
+              "J._Ward_Resume.pdf",
+              "J. Ward Resume"
+            ]
+          }
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10497&MeetingID=1221\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board Monday, December 21, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/j/97258367008\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar.\nWhen: Dec 9, 2020 07:00 PM Eastern Time (US and Canada)\nTopic: Joint Select Board/Housing Authority Meeting\nPlease click the link below to join the webinar:\nhttps://town-arlington-ma-us.zoom.us/j/97258367008\nOr iPhone one-tap : \n    US: +16468769923,,97258367008#  or +13017158592,,97258367008# \nOr Telephone:\n    Dial(for higher quality, dial a number based on your current location):\n        US: +1 646 876 9923  or +1 301 715 8592  or +1 312 626 6799  or +1 253 215 8782  or +1 346 248 7799  or +1 408 638 0968  or +1 669 900 6833 \nWebinar ID: 972 5836 7008\n    International numbers available: https://town-arlington-ma-us.zoom.us/u/aoIKmJq7X\n \n\n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
+        }
+      ]
+    }
+  },
+  "2020-12-07": {
+    "date": "12/07/20",
+    "isodate": "2020-12-07",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1142&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1142",
+    "filename": "_agendas/2020-12-07-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaDecember 7, 20207:15 PMConducted by Remote Participation",
+      "items": [
+        {
+          "details": "<span class='itemnum' id='2020-12-07_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10366&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10405&ItemID=10366": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Reference"
+            ]
+          }
+        },
+        {
+          "title": "PROCLAMATIONS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-12-07_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10494&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Diamond Chamallas, Arlington's Eldest Living Resident\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10620&ItemID=10494": [
+              "Diamond_Chamallas_106th_Birthday.pdf",
+              "Proclamation"
+            ]
+          }
+        },
+        {
+          "title": "CONSENT AGENDA",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-12-07_3'>3.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10502&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Minutes of Meetings:</span> November 30, 2020 Joint Meeting with Arlington Housing Authority\n\n<span class='itemnum' id='2020-12-07_4'>4.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10504&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Minutes of Meetings:</span> November 30, 2020\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10647&ItemID=10502": [
+              "11.30.2020_joint_draft_minutes.pdf",
+              "Joint Meeting Draft Minutes 11.30.2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10658&ItemID=10504": [
+              "11.30.2020_draft_minutes.pdf",
+              "Draft Minutes 11.30.2020"
+            ]
+          }
+        },
+        {
+          "title": "OPEN FORUM",
+          "subhead": "true"
+        },
+        {
+          "title": "TRAFFIC RULES & ORDERS / OTHER BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-12-07_5'>5.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10493&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion:</span> Future Select Board Meetings\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10649&ItemID=10493": [
+              "Jan_-_March_Calendar.pdf",
+              "January - March Calendar"
+            ]
+          }
+        },
+        {
+          "title": "CORRESPONDENCE RECEIVED",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-12-07_6'>6.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10440&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Traffic Concerns re: Westminster Avenue, Downing Square and Lowell Street Areas\n\nBecca Charlier-Matthews, 265 Lowell Street\n\n<span class='itemnum' id='2020-12-07_7'>7.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10442&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Speed Limit Enforcement in Crosby Street Neighborhood\n\nLaura Fuller, 219 Crosby Street\n\n<span class='itemnum' id='2020-12-07_8'>8.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10503&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Harold Brothers HVAC Bid re: Arlington High School Project\n\n<span class='itemnum' id='2020-12-07_9'>9.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10501&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Town Manager Vacation Buy Back Memorandum\n\nAdam W. Chapdelaine, Town Manager\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10525&ItemID=10440": [
+              "B._Matthews_CR.pdf",
+              "B. Matthews CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10526&ItemID=10442": [
+              "L._Fuller_CR.pdf",
+              "L. Fuller CR"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10648&ItemID=10503": [
+              "CR_Arlington_High_School_Response_Letter.pdf",
+              "CR Harold Brothers"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10656&ItemID=10501": [
+              "Town_Manager_Vac_BuyBack_2020.pdf",
+              "TM Vacation Buy Back"
+            ]
+          }
+        },
+        {
+          "title": "NEW BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "title": "EXECUTIVE SESSION",
+          "subhead": "true"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10365&MeetingID=1142\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board December 21, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_8TPYryKfSPWWmaeuIZo5xg\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a>  \nYou are invited to a Zoom webinar. \nWhen: Dec 7, 2020 07:15 PM Eastern Time (US and Canada) \nTopic: Select Board Meeting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_8TPYryKfSPWWmaeuIZo5xg\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n \n\n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nMembers of the public are asked to send written comment to amaher@town.arlington.ma.us by December 7, 2020 at 3:00 p.m.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/select-board-meeting-december-7-2020/"
+  },
+  "2020-11-30alt": {
+    "date": "11/30/20",
+    "isodate": "2020-11-30",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1212&MinutesMeetingID=784&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1212",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=784",
+    "filename": "_agendas/2020-11-30alt-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaNovember 30, 20206:00 PMConducted by Remote Participation",
+      "items": [
+        {
+          "title": "Joint Meeting of the Select Board and the Arlington Housing Authority",
+          "subhead": "true"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10406&MeetingID=1212\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board December 7, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_-HG20bblQMe1z8OWGW5vJw\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar. \nWhen: Nov 30, 2020 06:00 PM Eastern Time (US and Canada) \nTopic: Select Board Meeting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_-HG20bblQMe1z8OWGW5vJw\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n\n\n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/select-board-meeting-november-30-2020/"
+  },
+  "2020-11-30": {
+    "date": "11/30/20",
+    "isodate": "2020-11-30",
+    "title": "Select Board Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1141&MinutesMeetingID=785&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1141",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=785",
+    "filename": "_agendas/2020-11-30-select.html",
+    "agenda": {
+      "notice": "Town of Arlington\nSelect Board\nMeeting AgendaNovember 30, 20207:00 PMConducted by Remote Participation",
+      "items": [
+        {
+          "details": "<span class='itemnum' id='2020-11-30_1'>1.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10352&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Executive Order on Remote Participation\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10401&ItemID=10352": [
+              "Executive_Order_on_Remote_Participation.pdf",
+              "Reference"
+            ]
+          }
+        },
+        {
+          "title": "CONSENT AGENDA",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-11-30_2'>2.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10353&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Minutes of Meetings:</span> November 4, 2020; November 9, 2020; November 16, 2020\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10551&ItemID=10353": [
+              "11.4.2020_draft_minutes.pdf",
+              "Draft Minutes 11.4.2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10528&ItemID=10353": [
+              "11.9.2020_draft_minutes.pdf",
+              "Draft Minutes 11.9.2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10529&ItemID=10353": [
+              "11.16.2020_draft_minutes.pdf",
+              "Draft Minutes 11.16.2020"
+            ]
+          }
+        },
+        {
+          "title": "PUBLIC HEARINGS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-11-30_3'>3.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10363&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> 7:00 p.m.\n\na.  Vote:  MWRA Debt Shift\nb.  Discussion and Vote:  Property Tax Classification - Tax Rate\nPaul Tierney, Director of Assessments\nKevin Feeley, Chair, Board of Assessments\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10549&ItemID=10363": [
+              "Draft_Property_Tax_Classification_2021.pdf",
+              "Draft Property Tax Classification 2021"
+            ]
+          }
+        },
+        {
+          "title": "APPOINTMENTS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-11-30_4'>4.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10354&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Open Space Committee\n\nEmily Nink (term to expire 6/30/2023)\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10534&ItemID=10354": [
+              "E._Nink_Reference.pdf",
+              "Reference"
+            ]
+          }
+        },
+        {
+          "title": "TRAFFIC RULES & ORDERS / OTHER BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-11-30_5'>5.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10441&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion & Approval:</span> MBTA Proposed Service Reductions\n\nAdam W. Chapdelaine, Town Manager\n\n<span class='itemnum' id='2020-11-30_6'>6.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10443&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <span class='itemact'>Discussion & Vote:</span> Minuteman High School Athletic Complex Project Borrowing Notification\n\nAdam W. Chapdelaine, Town Manager\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10592&ItemID=10441": [
+              "Forging_Ahead_Service_Changes_-_Comments_from_Town_of_Arlington_and_Delegation_113020_(2)_Final.pdf",
+              "Letter to MBTA"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10531&ItemID=10443": [
+              "Letter_to_Selectmen_re_Debt_Via_16(d)_MM_Fields_11_20_2020_Arlington.pdf",
+              "Letter to Select Board re Debt"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10532&ItemID=10443": [
+              "Finance_Committee_memo_related_to_the_Minuteman_field_project.pdf",
+              "Finance Committee Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10533&ItemID=10443": [
+              "20201110_MM_Town_Review_V_4.0.pdf",
+              "Minuteman Town Review Presentation"
+            ]
+          }
+        },
+        {
+          "title": "CORRESPONDENCE RECEIVED",
+          "subhead": "true"
+        },
+        {
+          "details": "<span class='itemnum' id='2020-11-30_7'>7.</span><a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10439&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Traffic Concerns re: Intersection of Massachusetts Avenue and Bates Road\n\nTimur Kaya Yontar, 58 Bates Road\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10524&ItemID=10439": [
+              "Traffic_Concerns_Bates_Road.pdf",
+              "Correspondence from T. Yontar"
+            ]
+          }
+        },
+        {
+          "title": "NEW BUSINESS",
+          "subhead": "true"
+        },
+        {
+          "title": "EXECUTIVE SESSION",
+          "subhead": "true"
+        },
+        {
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10357&MeetingID=1141\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> Next Scheduled Meeting of Select Board December 7, 2020\n\n<a href=\"https://town-arlington-ma-us.zoom.us/webinar/register/WN_-HG20bblQMe1z8OWGW5vJw\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> <a href=\"https://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\"><i class=\"fa fa-fw fa-file-alt\" aria-hidden=\"true\"></i></a> You are invited to a Zoom webinar. \nWhen: Nov 30, 2020 06:00 PM Eastern Time (US and Canada) \nTopic: Select Board Meeting\nRegister in advance for this webinar:\nhttps://town-arlington-ma-us.zoom.us/webinar/register/WN_-HG20bblQMe1z8OWGW5vJw\nAfter registering, you will receive a confirmation email containing information about joining the webinar.\n\n \n\n \n*Notice to the Public on meeting privacy* In the interests of preventing abuse of videoconferencing technology (i.e. Zoom Bombing) all participants, including members of the public, wishing to engage via the Zoom App must register for each meeting and will notice multi-step authentication protocols. Please allow additional time to join the meeting. Further, members of the public who wish to participate without providing their name may still do so by telephone dial-in information provided above.\n \nMembers of the public are asked to send written comment to amaher@town.arlington.ma.us by November 30, 2020 at 3:00 p.m.\n \nDocuments regarding agenda items will be made available via Novus Agenda and the Town's Website.\n \nhttps://www.mass.gov/doc/open-meeting-law-order-march-12-2020/download\n\n"
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/select-board-meeting-november-30-2020/"
+  },
   "2020-11-16": {
     "date": "11/16/20",
     "isodate": "2020-11-16",
@@ -6,6 +327,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1140&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1140",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=782",
     "filename": "_agendas/2020-11-16-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaNovember 16, 20207:00 PMConducted by Remote Participation",
@@ -78,6 +400,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1139&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1139",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=781",
     "filename": "_agendas/2020-11-09-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaNovember 9, 20207:15 PMConducted by Remote Participation",
@@ -212,6 +535,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1182&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1182",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=780",
     "filename": "_agendas/2020-11-04-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaNovember 4, 20207:15 PMConducted by Remote Participation",
@@ -331,6 +655,7 @@
     "location": "EMERGENCY ADDENDUM Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1180&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1180",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=772",
     "filename": "_agendas/2020-10-19alt-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 19, 20207:15 PMEMERGENCY ADDENDUM Conducted by Remote Participation",
@@ -359,6 +684,7 @@
     "location": "Conducted by Remote Participation",
     "viewurl": "MeetingView.aspx?MeetingID=1113&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1113",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=771",
     "filename": "_agendas/2020-10-19-select.html",
     "agenda": {
       "notice": "Town of Arlington\nSelect Board\nMeeting AgendaOctober 19, 20207:15 PMConducted by Remote Participation",

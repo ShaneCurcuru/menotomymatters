@@ -1,4 +1,304 @@
 {
+  "2020-12-10": {
+    "date": "12/10/20",
+    "isodate": "2020-12-10",
+    "title": "School Committee Regular Meeting",
+    "location": "Via Remote Zoom  Meeting",
+    "viewurl": "MeetingView.aspx?MeetingID=1213&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1213",
+    "filename": "_agendas/2020-12-10-school.html",
+    "agenda": {
+      "notice": "Conducted by Remote Participation\r\n \r\n https://www.mass.gov/doc/order-suspending-certain-provision-of-open-meeting-law/download\r\n \r\n \r\n ",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10409&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10409&MeetingID=1213\">6:30 p.m. Open Meeting</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10410&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10410&MeetingID=1213\">6:30 p.m. Public Comment</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10499&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10519&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10427&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10520&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10446&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10444&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10445&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10499&MeetingID=1213\">6:45 p.m. Menotomy Hunter image retirement, L. Baldwin</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10519&MeetingID=1213\">7:00 p.m. Enrollment Projections, M. Mason</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10427&MeetingID=1213\">7:10 p.m. Fiscal Year 2022 AHS,  OMS, Gibbs Budget needs</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10520&MeetingID=1213\">7:40 p.m. Fiscal Year 2022 AEA Budget priorities, J. Fernandes</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10446&MeetingID=1213\">7:50 p.m. AHS hybrid options discussion, K. Bodie, M. Janger</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10444&MeetingID=1213\">8:20 p.m. Jason Russell House CPA application support, J. Morgan</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10445&MeetingID=1213\">8:25 p.m. Vote approval of 2020-2021 Budget Calendar, K. Allison-Ampe</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10693&ItemID=10499": [
+              "hunter_proposal.pdf",
+              "Proposal to retire hunter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10726&ItemID=10519": [
+              "Enrollment_Report_for_SC_12.10.2020updated.pdf",
+              "Enrollment Report updated 12 10 2020 mm"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10725&ItemID=10427": [
+              "AHS_Budget_Memo_2020_(1).pdf",
+              "AHS Budget Memo 2020 for FY 22"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10698&ItemID=10427": [
+              "Budget_Requests_for_the_Ottoson_Middle_School_FY_2022.pdf",
+              "Budget requests for OMS FY 22"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10722&ItemID=10427": [
+              "Gibbs_School_FY_22_Budget_memo.pdf",
+              "Gibbs School FY22 Budget requests"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10721&ItemID=10520": [
+              "AEA_Secondary_Budget_Priorities_2020_for_FY_22.pdf",
+              "AEA Secondary Budget priorities"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10706&ItemID=10446": [
+              "AHS_Semester_2_Proposal_201210.pdf",
+              "AHS Semester Proposal 12 10 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10727&ItemID=10446": [
+              "motions_for_tonight.pdf",
+              "motions for tonight"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10546&ItemID=10444": [
+              "JasonRussellHouseCPAPrelimApplication101220_2_3.pdf",
+              "Jason Russell House CPA appl"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10663&ItemID=10445": [
+              "budget_calendar_2020-21_v2_12_10_2020.docx",
+              "Budget Calendar 2020-21"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10500&MeetingID=1213",
+            "CoverSheet.aspx?ItemID=10429&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10500&MeetingID=1213\">8:30 p.m. Election Modernization Committee, J. Morgan</a> \n\n<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10429&MeetingID=1213\">8:35 p.m. End of Year 2020 Report, M. Mason</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10678&ItemID=10429": [
+              "END_of_Year_2020_Report_dated_11_19_2020.pdf",
+              "END of Year 2020 Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10679&ItemID=10429": [
+              "Expenditure_Summary_FY20.pdf",
+              "Expenditure Summary FY 2020"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10411&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10411&MeetingID=1213\">8:45 p.m.  Superintendent's Report. K. Bodie</a> \n\n- AHS Building Update\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10492&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10492&MeetingID=1213\">9:05 p.m. Vote amendment and Contract of  Michael Mason, CFO</a> \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10683&ItemID=10492": [
+              "Michael_Mason_Fiscal_Year_2022_2023_and_2024.pdf",
+              "Michael Mason 2022,2023, 2024 contract"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10684&ItemID=10492": [
+              "First_Amendment_to_M_Mason__Employment_Contract_Nov_30_2020_DRAFT.docx",
+              "Amendment to Michael Mason contract"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10412&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10412&MeetingID=1213\">9:15 p.m. Consent Agenda</a> \n\nAll items listed with an asterisk are considered to be routine and will be enacted by one motion.  There will be no separate discussion of these items unless a member of the committee so requests, in which event the item will be considered in its normal sequence:\n\nVote approval of Warrant:21107 Warrant #  Dated 11/10/2020, Total Amount:  $ 751,9210.42  \nVote approval of Warrant:  Warrant # 21113  Dated 11/24/2020, Total Amount  $ 714070.20  \nVote approval of Warrant:  Warrant # 21130, Dated 12/8/2020, Total Amount $386,657.59  \nVote approval of Minutes:  September 24, 2020, October 8, 2020, and October 22, 2020 Regular Minutes   \nVote to approve Kathleen Bodie as Arlington Representative for EDCO Board of Directors for 2020-2021   \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10680&ItemID=10412": [
+              "21107_11_07_2020.pdf",
+              "Warrant 21107 11 07 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10681&ItemID=10412": [
+              "21113__11_24_2020_warrant.pdf",
+              "warrant 21113 11 24 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10682&ItemID=10412": [
+              "21130_12_8_2020_warrant.pdf",
+              "warrant 21130 12 8 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10719&ItemID=10412": [
+              "09_24_2020_SCM_Regular_Minutes_kf_use.docx",
+              "09 24 2020 SCM minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10717&ItemID=10412": [
+              "10_8_2020_Schoool_Committee_Meeting_final.docx",
+              "10 8 2020 SCM minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10718&ItemID=10412": [
+              "10_22_2020_SCM_use.docx",
+              "10 22 2020 SCM minutes"
+            ]
+          }
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10413&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10413&MeetingID=1213\">9:25 p.m. Subcommittee/Liaison Reports/Announcements</a> \n\n- Budget, Kirsi Allison-Ampe\n- Community Relations: Bill Hayner, Chair\n- Curriculum, Instruction, Assessment & Accountability, Len Kardon\n- Facilities, Jeff Thielman\n- Policy & Procedures, Paul Schlichtman \n- Superintendent Search Process, Paul Schlichtman \n\n- Arlington High School Building Committee:  Jeff Thielman, (Chair), Kirsi Allison-Ampe\n\n- Liaisons Reports\n- Announcements\n- Future Agenda Items\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10414&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10414&MeetingID=1213\">9:40 p.m. Executive Session</a> \n\n- To enter into Executive Session to pursuant to Massachusetts General Laws chapter 30A, section 21(a), purpose (2) to discuss strategy in preparation for negotiations of an employment agreement with nonunion personnel specifically Dr. Homan. \n\n- To discuss pending litigation - McLaughlin v. DESE \n\n- To conduct strategy sessions in preparation for negotiations with union and/or nonunion personnel or contract negotiations with union and/or nonunion in which if held in an open meeting, may have a detrimental effect.\n\n- To conduct strategy with respect to collective bargaining or litigation, in which if held in an open meeting, may have a detrimental effect. Collective bargaining may also be conducted..\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10415&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10415&MeetingID=1213\">10:00 p.m. Adjournment</a> \n\nThe listings of matters are those reasonably anticipated by the Chair, which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may also be brought up for discussion to the extent permitted by law.\n\nStated times and time amounts, listed in parenthesis, are the estimated amount of time for that particular agenda item. Actual times may be shorter or longer depending on the time needed to fully explore the topic.\n\n"
+        },
+        {
+          "details": "Submitted by  Jane Morgan, Chair\n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10417&MeetingID=1213"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10417&MeetingID=1213\">Correspondence Received:</a> \n\nWarrants   21107 11 10/2020, 21113 11/24/2020, 21130 12/8/2020   \n9/24/2020, 10/8/2020/ 10/22/2020  \n\nOctober 1, 2020 Enrollment SIMS report numbers  \nMichael Mason Contract   \nDr. Elizabeth Homan contract  \nListening Session on AHS Semester 2 options, CIAA Dec 7, 2020  \nMJanger slide deck   \nSummons McLaughlin vs DESE   \nCOVID Dashboard Brookline schools   \nDr. Bodie email 12/4/2020 COVID-19 cases  \nDr. Bodie email Update COVID-19 Cases Over Thanksgiving Week   \nHybrid High School Pete Gast   \nMelinda Mesmer Semester two email   \nDr. Bodie email COVID-19 Case at Gibbs   \nAnti-Racism Working Group newsletter link from M. Janger   \nM. Janger teacher feedback   \nJanice Bakey Supt Hiring email   \nM. Janger parent feedback   \nOctober 1, 2020 Enrollment   \nSchool Committee selects Dr. Elizabeth Homan as next Superintendent   \n11/25/20  \nEileen Hirsch in person learning feedback 11/18/2020  \nGeoff Freed AHS semester 2 feedback and survey concerns 11/27/2020  \nBetsy Cameron survey concerns 11/23/2020  \nCarrie Finison survey thoughts 11/23/2020  \nCaitlin Lauchlan letter to SC regarding AHS semester 2 11/24/2020  \nAPS Families Positive COVID-19 case email 11/23/2020  \nLisa Szturma email to speak at meeting 11/24/2020   \nLisa Robinson email to speak at meeting 11/24/2020   \nAnn Skoczenski AHS 2 semester survey and plans email 11/24/2020  \nNewtons high schools link from KAA 11/24/2020   \n\nLisa Robinson email on AHS plans and survey on semester 2 11 24 2020  \nLiz F comments for 11/24/2020 meetings and survey concerns   \nJune Rutkowski AHS plans and survey 11/24/2020   \nJennifer Weintraub AHS plans choices 11/29/2020   \nIan Goodsell email on AHS models 11/29/2020  \nFamily Fall survey sent out 11/16/2020   \nFY 2020 End of Year Report MMason  \nSharon Racial Equity Alliance email to School Committee   \nMikel Satcher Concerns about the interview process 11/16/2020  \nMarty Rodgers email regarding a teacher's view of Liz Homan 11/15/2020  \nKate Cubeta email support of Supt Greer 11/16/2020   \nOffice of the School Committee notice 11/25/2020 selected Dr. Homan   \nJanna Stephan Moreau supt selection process 11/29/2020   \nCPA Funding  \nFY 2022 Preliminary Application Jason Russell House   \nAdditional correspondence   \nSteve and Maura AHS presentation and survey 11/23/2020   \nCarrie Finison AHS Survey thoughts 11/23/2020  \nArlington Public Schools Visual Art Department examples  \nLABBB at Minuteman email   \nBudget Calendar 2020-2021  \nJason Russell CPA   \nSad news on the death of APS alumni Chief Warrant Officer 2 Marwan Ghabour, An AHS graduate in a helicopter crash in egypt Marwan Chat  \nLeague of Women Voters November/December 2020 Newsletter   \nCOVID-19 Cases and Town of Arlington Testing Pilot  Dec 8, 2020  \nLetter to Athletic Director asking for fee structure for hockey payment. 12/4/2020  \nAEA FY22 Budget priorities secondary J. Keys and   \n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10673&ItemID=10417": [
+              "emails___1_of__3.pdf",
+              "emails 1 of 3 11/12 12/8/2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10674&ItemID=10417": [
+              "emails_2__of_3.pdf",
+              "emails 2 of 3 11/12 12/8/2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10675&ItemID=10417": [
+              "emails_2__of_3.pdf",
+              "emails 3 of 3 11/12 12/8/2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10676&ItemID=10417": [
+              "LWV_newsletter.pdf",
+              "League of Women's Voters newsletter Nov/Dec"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10677&ItemID=10417": [
+              "visual_art.pdf",
+              "Visual Art"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10695&ItemID=10417": [
+              "MLK.Draft_Letter_to_School_Committee.12.03.20.K.pdf",
+              "KC MLK letter to SC regarding new Supt"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10697&ItemID=10417": [
+              "Vaccine_Presentation.12.9.FINAL_.pdf",
+              "Vaccine Presentation Gov Baker"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10699&ItemID=10417": [
+              "Matthew_Cincotta_-_School_Committee_Testimonial.pdf",
+              "Mathew Cincotta letter to School Committee"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10702&ItemID=10417": [
+              "L_Bessette_email.pdf",
+              "L Bessette email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10703&ItemID=10417": [
+              "Justin_Bourassa_12_10_2020__Note_to_School_Committee_re__Semester_2_Thoughts.pdf",
+              "Justin Bourassa email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10704&ItemID=10417": [
+              "Superintendent_s_Diversity_Advisory_Committee_letter_support_MLK.pdf",
+              "Supt Diversity email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10705&ItemID=10417": [
+              "Ann_Skoczenski_email_-_AHS_Semester2___12_9_2020.pdf",
+              "Ann Skoczenski email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10707&ItemID=10417": [
+              "December_1_2020.pdf",
+              "Enrollment December 1,2 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10708&ItemID=10417": [
+              "Janna_Moreau__-_Superintendent_selection_process.pdf",
+              "janna Stephan Moreau email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10709&ItemID=10417": [
+              "Elizabeth_and_Ian_Goodsell.pdf",
+              "Elizabeth and Ian Goodsell"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10710&ItemID=10417": [
+              "Jennifer_Weintraub__-_High_school_Semester_2_choices.pdf",
+              "Jennifer Weintraub"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10711&ItemID=10417": [
+              "Spencer_Harlow_and_Patty_Miranda__To_forward_to_all_school_committee_members__please.pdf",
+              "Spencer Harlow and Patty Miranda H"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10715&ItemID=10417": [
+              "Mikel_E._Satcher_-_My_Concern_about_Racial_Bias_in_the_Arlington_MA_Superintendent_Interview_Process.pdf",
+              "Mikel E. Satcher email"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10716&ItemID=10417": [
+              "Scott_Stelter_AHS_English_Teacher.pdf",
+              "Scott Stelter AHS English Teacher"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10720&ItemID=10417": [
+              "Megan_Miller__Statement_for_the_school_committee.pdf",
+              "Megan Miller statement to school committee"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10724&ItemID=10417": [
+              "Joy_and_Doug_Danison__-_In_regards_to_proposed_hybrid_models_for_AHS_second_semester.pdf",
+              "Joy and Doug Danison email"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/school-committee-meeting-december-10-2020/"
+  },
+  "2020-12-01": {
+    "date": "12/01/20",
+    "isodate": "2020-12-01",
+    "title": "School Committee Special Meeting",
+    "location": "Via Remote Zoom Meeting",
+    "viewurl": "MeetingView.aspx?MeetingID=1216&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1216",
+    "filename": "_agendas/2020-12-01-school.html",
+    "agenda": {
+      "notice": "Conducted by remote participation ",
+      "items": [
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10463&MeetingID=1216"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10463&MeetingID=1216\">Open Meeting</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10464&MeetingID=1216"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10464&MeetingID=1216\">Executive Session</a> \n\n"
+        },
+        {
+          "urls": [
+            "CoverSheet.aspx?ItemID=10465&MeetingID=1216"
+          ],
+          "details": "<a href=\"https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=10465&MeetingID=1216\">Adjournment</a> \n\nThe listings of matters are those reasonably anticipated by the Chair, which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may also be brought up for discussion to the extent permitted by law.\n\nStated times and time amounts, listed in parenthesis, are the estimated amount of time for that particular agenda item. Actual times may be shorter or longer depending on the time needed to fully explore the topic.\n\n"
+        },
+        {
+          "details": "Submitted by Jane Morgan, Chair\n\n"
+        }
+      ]
+    }
+  },
   "2020-11-24": {
     "date": "11/24/20",
     "isodate": "2020-11-24",
