@@ -1,4 +1,312 @@
 {
+  "2021-01-04": {
+    "date": "01/04/21",
+    "isodate": "2021-01-04",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91549871573 | Enter Meeting ID: 915 4987 1573 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 915 4987 1573.",
+    "viewurl": "MeetingView.aspx?MeetingID=1241&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1241",
+    "filename": "_agendas/2021-01-04-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJanuary 4, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any comments to jraitt@town.arlington.ma.us by January 4, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, January 4, 2021 at 7:00 PM in theJoin Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/91549871573 | Enter Meeting ID: 915 4987 1573 or join by phone by calling: 1-646-876-9923, enter the Meeting ID 915 4987 1573.",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Continued Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=10654&MeetingID=1241",
+          "time": "7:00 p.m.",
+          "details": " Docket #3640, 86 River Street *Continued Public Hearing*\n\nBoard will continue public hearing for Special Permit #3640 to review application filed on November 19, 2020 by Craig Murphy, Cambridge Repro-Graphic, 21 McGrath Highway, Somerville, MA, for owner Frank Balurdi, 30 Harvard Avenue, Medford, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to install two wall signs at 86 River Street, Arlington, MA, which exceeds the allowed signage in the R2 Two-Family District. The opening of the Special Permit is to allow the Board to review the signage under Section 6.2, Signs. Docket #3638, 400-402 Massachusetts Avenue *Continued Public Hearing* Board will continue public hearing for Special Permit #3638 to review application filed on October 15, 2020 and supplemented on November 5, 2020, by 400-402 Mass Avenue, LLC, at 400-402 Massachusetts Avenue, Arlington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to establish a mixed-use building with four (4) residential units and one (1) office unit in an existing building in a B1 Neighborhood Office District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review.\n\n \n\n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.\n\n",
+          "dockets": {
+            "3640": "86 River Street",
+            "3638": "400-402 Massachusetts Avenue"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10872&ItemID=10654": [
+              "EDR_Public_Hearing_Memo_Docket_#3640_86_River_Street.pdf",
+              "EDR Public Hearing Memo Docket #3640 86 River Street"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10873&ItemID=10654": [
+              "Combined_Application_Materials.pdf",
+              "Combined Application Materials Docket #3640 86 River Street"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10874&ItemID=10654": [
+              "EDR_Public_Hearing_Memo_Docket_3638_400-402_Mass_Ave_11-19-20.pdf",
+              "EDR Public Hearing Memo Docket 3638 400-402 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10877&ItemID=10654": [
+              "Jennifer_Raitt_supplement_submission_400-402_Mass_2020_12_16.pdf",
+              "Jennifer Raitt Supplemental Submission 400-402 Mass Ave."
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10875&ItemID=10654": [
+              "400_Mass_Ave_-_LEED_v4_for_BD+C_-_2020_12_15.pdf",
+              "400 Mass Ave LEED"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10876&ItemID=10654": [
+              "400_MASS_AVE_-_Sustainable_goals_2020_12_15.pdf",
+              "400 Mass Ave - Sustainable Goals"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10878&ItemID=10654": [
+              "Land_and_Sea_Real_Estate_2020_12_15.pdf",
+              "Land and Sea Real Estate 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10879&ItemID=10654": [
+              "Mass_Ave_Arlington_Apartments_2020_12_15.pdf",
+              "Mass Ave Arlington Apartments 2020 12 15"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10880&ItemID=10654": [
+              "New_York_Times_2020_12_15.pdf",
+              "New York Times 2020 12 15"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10881&ItemID=10654": [
+              "Application_Materials_Submitted_11-5-20.pdf",
+              "Application Materials Submitted 11-5-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10882&ItemID=10654": [
+              "Application_Materials_Submitted_10-15-20_-_Superseded.pdf",
+              "Application Materials Submitted 10-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10883&ItemID=10654": [
+              "400-402_Mass_Ave_ZBA_Decision_dated_6-23-20.pdf",
+              "400-402 Mass Ave ZBA Decision dated 6-23-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10884&ItemID=10654": [
+              "Docket_#2306_400-402_Mass_Ave_Decision_date_4-9-1980.pdf",
+              "Docket #2306 400-402 Mass Ave Decision date 4-9-1980-"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Potential Zoning Bylaw amendments for 2021 Annual Town Meeting continued discussion from December 9, 2020",
+          "url": "CoverSheet.aspx?ItemID=10655&MeetingID=1241",
+          "time": "7:45 p.m.",
+          "details": "This agenda item will include presentation and discussion about a proposal for energy efficient homes and two separate proposals for accessory dwelling units Board members will continue discussion and may move to support advancement and filing of warrant articles Pasi Miettinen will be provided time to discuss a proposed warrant article regarding energy efficient homes",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10867&ItemID=10655": [
+              "Agenda_Item_2A_memo_from_JR_regarding_potential_zoning_bylaw_amendments_for_2021_Annual_Town_Meeting_122220.pdf",
+              "Memo from JR regarding potential zoning bylaw amendments for 2021 Annual Town Meeting 122220"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10868&ItemID=10655": [
+              "Agenda_Item_2B_-_Proposed_Zoning_Bylaw_Change_for_Spring_Town_Meeting_updated_12-2-20.pdf",
+              "Proposed Zoning Bylaw Change for Spring Town Meeting updated 12-22-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10869&ItemID=10655": [
+              "Agenda_Item_2C_-_Zoning_proposal_for_ARB_discussion1.pdf",
+              "Zoning Proposal for ARB discussion"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10870&ItemID=10655": [
+              "Agenda_Item_2D_-_Main_Motion_ADU_102120.pdf",
+              "Main Motion ADU 10 21 20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10871&ItemID=10655": [
+              "Agenda_Item_2E_-_ADU_Amendment_11-15-20_from_DPCD_on_behalf_of_the_ARB.pdf",
+              "ADU Amendment 11-15-20 from DPCD on behalf of the ARB"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "ARB pre-hearing process recommendation",
+          "url": "CoverSheet.aspx?ItemID=10656&MeetingID=1241",
+          "time": "9:00 pm.",
+          "details": "Board will discuss suggested process for review of Warrant Article process ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10866&ItemID=10656": [
+              "Agenda_Item_3_-_Suggestions_for_ARB_Review_11-02-20_(2).pdf",
+              "Suggestions for ARB Review 11-02-20"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "9:30 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. "
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": "9:50 p.m. Estimated Time for Adjournment "
+        },
+        {
+          "num": "6.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=10696&MeetingID=1241",
+          "details": "Correspondence received from:\r\nD. Seltzer 01-04-21\r\nP. Worden 01-04-21",
+          "correspondence": [
+            "D. Seltzer 01-04-21",
+            "P. Worden 01-04-21"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10964&ItemID=10696": [
+              "Correspondence_received_from_D._Seltzer_01-04-21.pdf",
+              "Correspondence received from D. Seltzer 01-04-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10965&ItemID=10696": [
+              "Correspondence_received_from_P._Worden_01-04-21.pdf",
+              "Correspondence received from P. Worden 01-04-21"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "2020-12-21": {
+    "date": "12/21/20",
+    "isodate": "2020-12-21",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/99074856981 | Meeting ID: 990 7485 6981 or join by phone by calling:1-646-876-9923, Meeting ID 990 7485 6981",
+    "viewurl": "MeetingView.aspx?MeetingID=1240&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1240",
+    "filename": "_agendas/2020-12-21-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeDecember 21, 2020  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by December 21, 2020 at 12:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by December 18, 2020 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, December 21, 2020 at 7:00 PM in theJoin Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/99074856981 | Meeting ID: 990 7485 6981 or join by phone by calling:1-646-876-9923, Meeting ID 990 7485 6981",
+      "rows": 17,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Docket #3640, 86 River Street *Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=10620&MeetingID=1240",
+          "time": "7:00 p.m.",
+          "details": "Board will open public hearing for Special Permit #3640 to review application filed on November 19, 2020 by Craig Murphy, Cambridge Repro-Graphic, 21 McGrath Highway, Somerville, MA, for owner Frank Balurdi, 30 Harvard Avenue, Medford, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to install two wall signs at 86 River Street, Arlington, MA, which exceeds the allowed signage in the R2 Two-Family District. The opening of the Special Permit is to allow the Board to review the signage under Section 6.2, Signs. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.  ",
+          "dockets": {
+            "3640": "86 River Street"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10796&ItemID=10620": [
+              "EDR_Public_Hearing_Memo_Docket_#3640_86_River_Street.pdf",
+              "EDR Public Hearing Memo Docket #3640 86 River Street"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10797&ItemID=10620": [
+              "Combined_Application_Materials.pdf",
+              "Combined Application Materials"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Docket #3638, 400-402 Massachusetts Avenue *Continued Public Hearing*",
+          "url": "CoverSheet.aspx?ItemID=10621&MeetingID=1240",
+          "time": "7:30 p.m.",
+          "details": "Board will continue public hearing for Special Permit #3638 to review application filed on October 15, 2020 and supplemented on November 5, 2020, by 400-402 Mass Avenue, LLC, at 400-402 Massachusetts Avenue, Arlington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to establish a mixed-use building with four (4) residential units and one (1) office unit in an existing building in a B1 Neighborhood Office District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.  ",
+          "dockets": {
+            "3638": "400-402 Massachusetts Avenue"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10801&ItemID=10621": [
+              "EDR_Public_Hearing_Memo_Docket_3638_400-402_Mass_Ave_11-19-20.pdf",
+              "EDR Public Hearing Memo Docket 3638 400-402 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10802&ItemID=10621": [
+              "Jennifer_Raitt_supplement_submission_400-402_Mass_2020_12_16.pdf",
+              "Jennifer Raitt Supplemental Submission 400-402 Mass Ave."
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10809&ItemID=10621": [
+              "400_Mass_Ave_-_LEED_v4_for_BD+C_-_2020_12_15.pdf",
+              "400 Mass Ave LEED"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10810&ItemID=10621": [
+              "400_MASS_AVE_-_Sustainable_goals_2020_12_15.pdf",
+              "400 Mass Ave Sustainable Goals 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10811&ItemID=10621": [
+              "Land_and_Sea_Real_Estate_2020_12_15.pdf",
+              "Land and Sea Real Estate 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10812&ItemID=10621": [
+              "Mass_Ave_Arlington_Apartments_2020_12_15.pdf",
+              "Mass Ave Arlington Apartments 2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10813&ItemID=10621": [
+              "New_York_Times_2020_12_15.pdf",
+              "New York Times 2020 12 15"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10815&ItemID=10621": [
+              "Application_Materials_Submitted_11-5-20.pdf",
+              "Application Materials Submitted 11-5-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10814&ItemID=10621": [
+              "Application_Materials_Submitted_10-15-20_-_Superseded.pdf",
+              "Application Materials Submitted 10-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10816&ItemID=10621": [
+              "400-402_Mass_Ave_ZBA_Decision_dated_6-23-20.pdf",
+              "400-402 Mass Ave ZBA Decision dated 6-23-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10817&ItemID=10621": [
+              "Docket_#2306_400-402_Mass_Ave_Decision_date_4-9-1980.pdf",
+              "Docket #2306 400-402 Mass Ave Decision date 4-9-1980-"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Meeting Minutes (9/21/20)",
+          "url": "CoverSheet.aspx?ItemID=10622&MeetingID=1240",
+          "time": "8:00 p.m.",
+          "details": "Board will review and may vote to approve meeting minutes. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10820&ItemID=10622": [
+              "09212020_Draft_ARB_Minutes.pdf",
+              "09212020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Final Draft of 2021 Goals",
+          "url": "CoverSheet.aspx?ItemID=10623&MeetingID=1240",
+          "time": "8:05 p.m.",
+          "details": "Board will discuss and vote on the next year’s goals ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10818&ItemID=10623": [
+              "Agenda_Item_3_-_ARB_2021_Draft_Goals.pdf",
+              "ARB 2021 Draft Goals"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Final Draft ARB Rules and Regulations Amendment",
+          "url": "CoverSheet.aspx?ItemID=10624&MeetingID=1240",
+          "time": "8:15 p.m.",
+          "details": "Board will review and discuss final draft to post for public comment and for hearing at future ARB meeting",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10819&ItemID=10624": [
+              "Agenda_Item_4_-_ARB_Draft_Rules_and_Regs_070219_amendment_12-16-20.pdf",
+              "ARB Draft Rules and Regs 070219 amendment 12-16-20"
+            ]
+          }
+        },
+        {
+          "num": "6.",
+          "title": "Public Forum: Economic Analysis of Industrial Zoning Districts",
+          "url": "CoverSheet.aspx?ItemID=10625&MeetingID=1240",
+          "time": "8:30 p.m.",
+          "details": "The Economic Analysis of Industrial Zoning Districts looks to create opportunities for the Town to realize greater revenue in the industrially-zoned areas of Arlington by making strategic zoning amendments to incentivize new growth. The Zoning Bylaw Working Group, DPCD, and consultants RKG Associates and Harriman considered community goals and various development scenarios in order to inform zoning recommendations and possible amendments to well-position Arlington in the regional industrial and commercial marketplace. This presentation will be made during the Arlington Redevelopment Board's December 21st meeting with time for public comment, input, and dialogue following the presentation. Project information, including draft zoning, may be found on the ZBWG’s website: https://www.arlingtonma.gov/town-governance/boards-and-committees/master-plan-implementation-committee/zoning-bylaw-working-group. \n\n \n\nRepresentatives from RKG Associates and Harriman and the Department of Planning and Community Development will make a presentation and facilitate a discussion with the Board and participants about the final report and recommendations.\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10825&ItemID=10625": [
+              "20201221_ARB_Presentation_compressed.pdf",
+              "Presentation - Economic Analysis of Industrial Zoning Districts"
+            ]
+          }
+        },
+        {
+          "num": "7.",
+          "title": "Open Forum",
+          "time": "10:00 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. Meeting participants will not have access to video."
+        },
+        {
+          "num": "8.",
+          "title": "Adjourn",
+          "details": "Adjourn – estimated at 10:20 p.m.    "
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-december-21-2020/"
+  },
   "2020-12-09": {
     "date": "12/09/20",
     "isodate": "2020-12-09",
@@ -335,7 +643,7 @@
     "date": "10/28/20",
     "isodate": "2020-10-28",
     "title": "Redevelopment Board",
-    "location": "Join via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #\u009d.",
+    "location": "Join via Zoom at https://town-arlington-ma-us.zoom.us/j/97526798411, Meeting ID: 975 2679 8411, or by calling (646) 876-9923, Meeting ID 97526798411 followed by #.",
     "viewurl": "MeetingView.aspx?MeetingID=1189&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1189",
     "filename": "_agendas/2020-10-28-arb.html",
@@ -452,7 +760,7 @@
     "date": "10/26/20",
     "isodate": "2020-10-26",
     "title": "Redevelopment Board",
-    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by \"\u009c#\"\u009d.",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/93824818427, Meeting ID: 938 2481 8427, or by calling (646) 876-9923, Meeting ID 938 2481 8427 followed by #.",
     "viewurl": "MeetingView.aspx?MeetingID=1183&MinutesMeetingID=-1&doctype=Agenda",
     "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1183",
     "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=788",
