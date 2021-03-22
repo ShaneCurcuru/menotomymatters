@@ -126,7 +126,9 @@ module AgendaUtils
   COVERSHEET_MATCH = /CoverSheet.aspx\?ItemID=\d{1,5}&MeetingID=\d{1,5}/
   BOGUS_CHAR = " " # Not sure where this comes from in the html
   BOGUS_QUOTE = "â"
-  FILENAME = 'filename'
+  BOGUS_ARBC = "\u009C" # TODO remove from ARB files
+  BOGUS_ARBD = "\u009D" # TODO remove from ARB files
+  FILENAME = 'filename'9c"
   ALT_MTG = 'alt'
   NBSP = 160.chr(Encoding::UTF_8) # &nbsp; entity to cleanup excess &nbsp;-only text nodes
   

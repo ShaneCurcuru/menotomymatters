@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Read town agenda materials HTML listing data into JSON
+# Parse town committee or department HTML pages into JSON
 # Copyright (c) 2020 Shane Curcuru
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,7 +16,7 @@
 
 module BoardParser
   DESCRIPTION = <<-HEREDOC
-  BoardParser: Parse board listings from arlingtonma.gov website
+  BoardParser: Parse board or department listings from arlingtonma.gov website
   HEREDOC
   extend self
   require 'nokogiri'
@@ -27,19 +27,20 @@ module BoardParser
   require_relative 'agendautils'
 
   ALLBOARDS_ROOT = 'https://www.arlingtonma.gov/town-governance/all-boards-and-committees/'
+  ALLDEPT_ROOT = 'https://www.arlingtonma.gov/departments/'
   
   # Download a committee listing html page (or use cached files)
   # @param dir to place files
   # @param json listing all committees (manually generated from https://www.arlingtonma.gov/town-governance/all-boards-and-committees)
   # @return hash of committee list, annotated with filename; or with error
   # Side effect: creates local dir/committee-name.html files
-  def download_boardpages(dir, cttees)
+  def download_boardpages(dir, cttees, rooturl)
     puts "WARNING: No working directory #{dir} provided, using ." unless dir
     puts("#{__method__.to_s}() Downloading committee homepages # #{cttees.length} into #{dir}")
     cttees.each do |url, cttee|
       # Only process committees that have normal pages
-      next unless url.start_with?(ALLBOARDS_ROOT)
-      cttee.has_key?(AgendaUtils::FILENAME) ? fn = cttee[AgendaUtils::FILENAME] : fn = File.join(dir, "#{url.slice(ALLBOARDS_ROOT.length..)}.html")
+      next unless url.start_with?(rooturl)
+      cttee.has_key?(AgendaUtils::FILENAME) ? fn = cttee[AgendaUtils::FILENAME] : fn = File.join(dir, "#{url.slice(rooturl.length..)}.html")
       if File.file?(fn)
         puts("Found cached file #{fn}")
         cttee[AgendaUtils::FILENAME] = fn unless cttee.has_key?(AgendaUtils::FILENAME)
@@ -63,13 +64,13 @@ module BoardParser
   # @param dir to scan for committee.html files
   # @param cttees json of the committee listings; either preparsed or just notice listings
   # @return hash of all data, annotated
-  def parse_committees(dir, cttees)
+  def parse_committees(dir, cttees, rooturl)
     hash = {}
     begin
       puts("#{__method__.to_s}() Parsing committees # #{cttees.length} from #{dir}")
       cttees.each do |url, cttee|
           # Annotate each item by parsing corresponding file
-          cttee['id'] = url.slice(ALLBOARDS_ROOT.length..)
+          cttee['id'] = url.slice(rooturl.length..)
           cttee.has_key?(AgendaUtils::FILENAME) ? fn = cttee[AgendaUtils::FILENAME] : fn = File.join(dir, "#{cttee['id']}.html")
           if File.file?(fn)     
             parse_committee(File.open(fn), cttee)
@@ -258,13 +259,14 @@ module BoardParser
   # Main method for command line use
   if __FILE__ == $PROGRAM_NAME
     options = {}
-    options[:input] = '_data/townhall.json'
-    options[:out] = '_data/townhall-index.json'
+    options[:input] = '_data/towndept.json'
+    options[:out] = '_data/towndept-index.json'
     options[:dir] = '_agendas'
-    puts "Processing committee files #{options[:input]} into dir: #{options[:dir]}"
-#    data = download_boardpages(options[:dir], JSON.parse(File.read(options[:input])))
-#    data = parse_committees(options[:dir], JSON.parse(File.read(options[:input])))
-    data = post_process(JSON.parse(File.read(options[:input])))    
+    options[:rooturl] = ALLDEPT_ROOT
+    puts "Processing committee files #{options[:input]} into dir: #{options[:dir]} from: options[:rooturl]"
+#    data = download_boardpages(options[:dir], JSON.parse(File.read(options[:input])), options[:rooturl])
+    data = parse_committees(options[:dir], JSON.parse(File.read(options[:input])), options[:rooturl])
+#    data = post_process(JSON.parse(File.read(options[:input])))    
     puts "Outputting file #{options[:out]}"
     File.open("#{options[:out]}", "w") do |f|
       f.puts JSON.pretty_generate(data)

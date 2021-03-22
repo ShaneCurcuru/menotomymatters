@@ -22,11 +22,11 @@ module ConservationParser
   require 'nokogiri'
   require 'json'
   require_relative 'agendautils'
-  
-  ARB_DOCKET_MATCH = /docket.{1,2}(\d\d\d\d),?([^*]+)/i
-  ARB_BYLAW_MATCH = /ARTICLE (\d+) ZONING/
-  ARB_BYLAW_MATCH2 = /ARTICLE \d+ ZONING [^a-z]*/
-  
+    
+  # TODO Normalize handling local vs. Agendapublic links with schoolparser and others
+  LOCAL_PREFIX = '<a href="https://arlington.novusagenda.com/Agendapublic/'
+  FULL_PREFIX = '<a href="'
+
   # Parse an Conservation Commission Board agenda page and output hash of items
   # This is customized to the specific Conservation Commission agenda formats from Nov 2019-current
   # @param io stream to read
@@ -46,39 +46,39 @@ module ConservationParser
       # Following pairs of tables are alternately agenda item number/header or details of an agenda item
       agenda[AgendaUtils::ROWS] = tables.length
       agenda[AgendaUtils::ITEMS] = []
-      tables.each_slice(2) do | header, details |
+      tables.each_slice(2) do | itemheader, details |
         item = {}
-        style1 = header.css('.style1')
+        style1 = itemheader.css('.style1')
         item[AgendaUtils::ITEMNUM] = style1[0].text.strip
         item[AgendaUtils::TITLE] = style1[1].text.strip
         # Agenda item details table has:
         # - blank tr
         # - data tr with
         #   id=column2 .style1 subheadernumber
-        #   id=column3 colspan=4 .style1
+        #   id=column3 colspan=4 .style1 | style2 | style4
         #     Either bare link, or bare text node, or set of <p> elements
         blobs = ''
         links = []
         details.css('tr').each do | tr |
-          styles = tr.css('.style1, .style2, .style4')
-          puts "DEBUG style124 row count: #{styles.length}"
-          styles.each do | cell |
-            case cell['class']
-            when 'style1' # Blank, or a subheader
-              tmp = cell.text.strip
-              blobs << "\n\n<span class='subhead'>#{tmp}</span>" unless tmp.empty?
-            when 'style2' # Single link (usually)
-              a = cell.css('a')
-              if a.any?
-                links << a[0]['href']
-                blobs << " <a href='#{a[0]['href']}'>#{a[0].content.strip}</a> "
-              end
-            when 'style4' # Contains paragraphs etc.
-              parse_node(cell, blobs, links)
-            else
-              # no-op
-            end
+          tr.css('td[class]') do |row|
+            parse_node(row[0], blobs, links)
           end
+           # cells = tr.css('#column3.style4')
+          # if cells.any?
+          #   # Process style4 as a blob
+          #   parse_node(cells[0], blobs, links)
+          # else
+          #   # # Process as a link or text
+          #   # cells = tr.css('#column3')
+          #   # a = cells[0].css('a')
+          #   # if a.any?
+          #   #   links << a[0]['href']
+          #   #   blobs << " <a href='#{a[0]['href']}'>#{a[0].content.strip}</a> "
+          #   # else
+          #   #   blobs << cells[0].text.strip
+          #   # end
+          # end
+          # # Note: above code assumes use of styles/columns is consistent
         end
         #item[AgendaUtils::ITEMLINK] = ''
         item[AgendaUtils::DETAILS] = blobs
@@ -103,6 +103,7 @@ module ConservationParser
       case node.name
       when 'a'
         links << node['href']
+        /http/ =~ a['href'] ? blob.concat(FULL_PREFIX, node['href'], LINK_POSTFIX) : blob.concat(LOCAL_PREFIX, node['href'], LINK_POSTFIX)
         blobs << "<a href='#{node['href']}'>#{node.content.strip}</a> "
       when 'p'
         node.children.each do |child|
@@ -130,5 +131,4 @@ module ConservationParser
     end
     blobs << "\n\n" # Ensure markdown treats as list
   end
-
 end
