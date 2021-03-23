@@ -1,4 +1,912 @@
 {
+  "2021-03-15": {
+    "date": "03/15/21",
+    "isodate": "2021-03-15",
+    "title": "Redevelopment Board",
+    "location": "This meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: 972 4412 5035 https://town-arlington-ma-us.zoom.us/j/972 4412 5035 Meeting ID: 972 4412 5035 or by phone:1-646-876-9923, enter Meeting ID then #",
+    "viewurl": "MeetingView.aspx?MeetingID=1293&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1293",
+    "filename": "_agendas/2021-03-15-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMarch 15, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. Per Board Rules and Regulations, public comments will be accepted during the public comment periods designated on the agenda. Written comments may be provided by email to jraitt@town.arlington.ma.us by March 15, 2021 at 4:00 p.m. The Board requests that correspondence that includes visual information should be provided by March 12, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, March 15, 2021 at 6:00 PM in theThis meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: 972 4412 5035 https://town-arlington-ma-us.zoom.us/j/972 4412 5035 Meeting ID: 972 4412 5035 or by phone:1-646-876-9923, enter Meeting ID then \"#”",
+      "rows": 17,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=11145&MeetingID=1293",
+          "time": "6:00 p.m.",
+          "details": "Docket #3647, 10 Sunnyside Avenue *Continued Public Hearing* PLEASE NOTE THAT THE APPLICANT HAS REQUESTED A CONTINUANCE AND THE PUBLIC HEARING WILL BE CONTINUED TO AN UPCOMING ARB MEETING. Board will open a public hearing for Special Permit #3647 to review an application filed by MB Realty Group, LLC, 339 Massachusetts Avenue, Arlington, MA, on January 26, 2021, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to reconstruct a mixed-use building containing general office space and five residential condominiums at 10 Sunnyside Avenue, Arlington, MA in the B4 Vehicular Oriented Business District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. Docket #3646, 1420 Massachusetts Avenue *Continued Public Hearing* Board will open a public hearing to review an application filed on January 26, 2021 by 1420 Massachusetts Avenue, LLC, c/o Bierbrier Development, 420 Bedford Street, Lexington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to reconstruct the Citizens Bank and make other site improvements at 1416-1420 Massachusetts Avenue, Arlington, MA in the B4 Vehicular Oriented Business District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review, and Section 6.2, Signs. \n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.",
+          "dockets": {
+            "3647": "10 Sunnyside Avenue",
+            "3646": "1420 Massachusetts Avenue"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12111&ItemID=11145": [
+              "Docket_3647_Request_for_Continuance_03-11-21.pdf",
+              "Docket #3647 Request for Continuance 03-11-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12055&ItemID=11145": [
+              "EDR_Public_Hearing_Memo_Docket_3647_10_Sunnyside_Final.pdf",
+              "EDR Public Hearing Memo Docket #3647 10 Sunnyside Final"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12056&ItemID=11145": [
+              "Combined_Application_Materials.pdf",
+              "Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12057&ItemID=11145": [
+              "Updated_Plan_Set_10_Sunnyside_Received_2-25-21.pdf",
+              "Updated Plan Set 10 Sunnyside received 2-25-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12058&ItemID=11145": [
+              "Stormwater_Report.pdf",
+              "Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12060&ItemID=11145": [
+              "Updated_Memo_to_ARB_re_Docket_3646_03-11-21.pdf",
+              "Updated Memo to ARB re Docket #3646 03-11-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12059&ItemID=11145": [
+              "EDR_Public_Hearing_Memo_Docket_3646_1420_Mass_Ave.pdf",
+              "EDR Public Hearing Memo Docket #3646 1420 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12063&ItemID=11145": [
+              "Docket_3646_Combined_Application_Materials.pdf",
+              "Docket #3646 Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12061&ItemID=11145": [
+              "Docket_3646_Supplemental_Application_Materials_for_3-15-21_Hearing.pdf",
+              "Docket #3646 Supplemental Application Materials for 3-15-21 Hearing"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12062&ItemID=11145": [
+              "Updated_Sign_Package_Received_02-17-21_superseded.pdf",
+              "Updated Sign Package Received 02-17-21 superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12064&ItemID=11145": [
+              "1420_-_LEED_v4_for_Building_Design_and_Construction_superseded.pdf",
+              "Docket #3646 1420 Mass Ave LEED for Building Design and Construction superseded"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "23 Maple Street - Memorandum of Understanding",
+          "url": "CoverSheet.aspx?ItemID=11146&MeetingID=1293",
+          "time": "6:40 p.m.",
+          "details": "23 Maple Street - Memorandum of Understanding between Town of Arlington (Department of Public Works, Department of Inspectional Services, and Department of Information Technology) and Arlington Redevelopment Board Board members will review MOU and authorize Director to proceed with tenancy  ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12065&ItemID=11146": [
+              "Agenda_Item_2_-_Draft_MOU_between_ARB_and_DPW_et_al.docx",
+              "Draft MOU between ARB and DPW et al"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Zoning Warrant Article Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=11147&MeetingID=1293",
+          "time": "7:00 p.m.",
+          "details": "ARTICLE 45 ZONING BYLAW AMENDMENT/ TO INCREASE THE PERCENTAGE OF AFFORDABLE HOUSING UNITS To see if the Town will vote to amend Section 8.2.3A of the Zoning Bylaw to increase the percentage of affordable housing units required in any development subject to Section 8.2 of the Zoning Bylaw from 15% to a percentage between 25 and 30%; or take any action related thereto. (Inserted at the request of John Sanbonmatsu, Laura Kiesel, and 10 registered voters) ARTICLE 41 ZONING BYLAW AMENDMENT/DEFINITION OF FOUNDATION To see if the Town will vote to amend the Zoning Bylaw in Section 2, by adding a new definition as follows: Building Foundation: The masonry or concrete structure in the ground which supports the building. It does not include porches, decks, sheds, patios, one story attached garages, carports, or the like; or take any action related thereto. (Inserted at the request of Patricia B. Worden and 10 registered voters) ARTICLE 38 ZONING BYLAW AMENDMENT/ ENERGY EFFICIENT HOMES ON NONCONFORMING LOTS To see if the Town will vote to amend the Zoning Bylaw to allow new construction of energy efficient foundations and homes on nonconforming lots in the R0, R1, and R2 Districts that meet certain energy efficiency industry standards; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 43 ZONING BYLAW AMENDMENT/ ARTICLE TO PROPOSE THE ADOPTION OF ACCESSORY DWELLING UNITS (ADUs) To see if the Town will vote to the purpose of this article is to see if the Town will amend the Zoning Bylaw to allow Accessory Dwelling Units (ADUs) on the property of single family, two-family, and duplex dwellings; or take any action related thereto. (Inserted at the request of Barbara Thornton and 10 registered voters) ** Please note that this Zoning Bylaw Amendment is subject to M.G.L. c 40A Section 5 such that this zoning bylaw may be enacted by a simple majority vote, rather than the 2/3 supermajority that applies to other zoning amendments. ** ARTICLE 42 ZONING BYLAW AMENDMENT/ AFFORDABLE HOUSING ON PRIVATELY OWNED PARCELS OF “NON-CONFORMING” SIZE To see if the Town will vote to allow the development of new sources of permanently affordable housing (affordable in perpetuity and affordability as defined in Arlington Zoning By-Laws) by modifying the requirements for constructing housing units to enable construction on smaller lots as long as those units are permanently committed to be available for rental or ownership according to official regional guidelines (see (Zoning Bylaw Section 2, Basic Provisions, Definitions Associated with Affordable Housing) of affordability. Such construction would be permissible in all zoning districts allowing residential use, providing the tracts were laid out prior to July 1, 2019, and receive a special permit from the ZBA. Ownership, sale, repurchase and rentals of each property would be overseen by the Arlington Housing Trust Fund or a comparable entity that would have the authority to enforce the affordability guidelines in perpetuity; or take any action related thereto. (Inserted at the request of Barbara Thornton and 10 registered voters) A brief introductory presentation will be provided for each article Board members and members of the public will be provided time to ask questions and comment for each article  ",
+          "bylaws": {
+            "45": "ARTICLE 45 ZONING BYLAW AMENDMENT/ TO INCREASE THE PERCENTAGE OF AFFORDABLE HOUSING UNITS T",
+            "41": "ARTICLE 41 ZONING BYLAW AMENDMENT/DEFINITION OF FOUNDATION T",
+            "38": "ARTICLE 38 ZONING BYLAW AMENDMENT/ ENERGY EFFICIENT HOMES ON NONCONFORMING LOTS T",
+            "43": "ARTICLE 43 ZONING BYLAW AMENDMENT/ ARTICLE TO PROPOSE THE ADOPTION OF ACCESSORY DWELLING UNITS (ADU",
+            "42": "ARTICLE 42 ZONING BYLAW AMENDMENT/ AFFORDABLE HOUSING ON PRIVATELY OWNED PARCELS OF “NON-CONFORMING” SIZE T"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12066&ItemID=11147": [
+              "Agenda_Item_3_-_Memo_to_ARB_from_DPCD_re_Warrant_Articles_45__41__38__43__42_.docx",
+              "Memo to ARB from DPCD re Warrant Articles 45, 41, 38, 43, 42"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12074&ItemID=11147": [
+              "Article_41_-_Materials_from_Petitioner.pdf",
+              "Article 41 - Materials from Petitioner"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12075&ItemID=11147": [
+              "Article_42_-_Materials_from_Petitioner.pdf",
+              "Article 42 - Materials from Petitioner"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12076&ItemID=11147": [
+              "Article_43_-_Materials_from_Petitioner.pdf",
+              "Article 43 - Materials from Petitioner"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12077&ItemID=11147": [
+              "Article_43_-_Petitioner_FAQ.pdf",
+              "Article 43 - Petitioner FAQ"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12078&ItemID=11147": [
+              "Article_43_-_Petitioner_Presentation.pdf",
+              "Article 43 - Petitioner Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12079&ItemID=11147": [
+              "Article_45_-_Petitioner_FAQ.pdf",
+              "Article 45 - Petitioner FAQ"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12080&ItemID=11147": [
+              "Article_45_-_Petitioner_Presentation.pdf",
+              "Article 45 - Petitioner Presentation"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12081&ItemID=11147": [
+              "Article_45_-_Supporting_Articles_from_Petitioner.pdf",
+              "Article 45 -  Supporting Articles from Petitioner"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Warrant Article Review",
+          "url": "CoverSheet.aspx?ItemID=11148&MeetingID=1293",
+          "time": "9:15 p.m.",
+          "details": "Article 11 Bylaw Amendment/ Stormwater Management Article 22 Vote/ Reserve Affordable Housing for People Earning Under 60% AMI Article 27 Home Rule Petition/ Real Estate Transfer Fee Board will discuss articles and provide feedback to Director to prepare a memo on behalf of Board to Select Board ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12109&ItemID=11148": [
+              "Article_15_Stormwater_Bylaw_and_Regulations.pdf",
+              "Article 15 Stormwater Bylaw and Regulations"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12110&ItemID=11148": [
+              "Article_27_Draft_Real_Estate_Transfer_Fee_03-03-21.pdf",
+              "Article 27 Draft Real Estate Transfer Fee 03-03-21"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Meeting Minutes (12/9/20, 12/21/20)",
+          "url": "CoverSheet.aspx?ItemID=11149&MeetingID=1293",
+          "time": "10:00 p.m.",
+          "details": "Board will review and approve minutes ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12067&ItemID=11149": [
+              "Agenda_Item_5_-_12092020_Draft_ARB_Minutes.docx",
+              "12092020 Draft ARB Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12068&ItemID=11149": [
+              "Agenda_Item_5_-_12212020_Draft_ARB_Minutes.docx",
+              "12212020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "6.",
+          "title": "Open Forum",
+          "time": "10:05 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. "
+        },
+        {
+          "num": "7.",
+          "title": "Adjourn",
+          "time": "10:25 p.m.",
+          "details": "Estimated Time for Adjournment"
+        },
+        {
+          "num": "8.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=11152&MeetingID=1293",
+          "details": "Correspondence received from:\r\nR. Harney 030321\r\nC. Loreti 030521\r\nX. Pretzer 030921\r\nE. Adams 031021\r\nL. Somervell 031121\r\nS. Newton 031121\r\nS. Schou 031121\r\nC. Cunningham 031221\r\nC. Lake 031221\r\nL. Martyn 031221\r\nR. Persson 031221\r\nR. Shaw 031221\r\nMembers of the Envision Arlington Diversity Task Group 031221\r\nA. Henkin 031321\r\nP. Worden 031321\r\nS. Ettinger de Cuba 031321\r\nD. Seltzer 031421\r\nJ. Lewis 031421\r\nS. Revilak 031421\r\nL. Rosenbaum 031421\r\nC. Farrell 031521\r\nG. Cook 031521\r\nK. Kelleher 031521\r\nK. Martin 031521\r\nL. Culverhouse 031521\r\nR. Peterson 031521",
+          "correspondence": [
+            "R. Harney 030321",
+            "C. Loreti 030521",
+            "X. Pretzer 030921",
+            "E. Adams 031021",
+            "L. Somervell 031121",
+            "S. Newton 031121",
+            "S. Schou 031121",
+            "C. Cunningham 031221",
+            "C. Lake 031221",
+            "L. Martyn 031221",
+            "R. Persson 031221",
+            "R. Shaw 031221",
+            "Members of the Envision Arlington Diversity Task Group 031221",
+            "A. Henkin 031321",
+            "P. Worden 031321",
+            "S. Ettinger de Cuba 031321",
+            "D. Seltzer 031421",
+            "J. Lewis 031421",
+            "S. Revilak 031421",
+            "L. Rosenbaum 031421",
+            "C. Farrell 031521",
+            "G. Cook 031521",
+            "K. Kelleher 031521",
+            "K. Martin 031521",
+            "L. Culverhouse 031521",
+            "R. Peterson 031521"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12069&ItemID=11152": [
+              "Correspondence_received_from_C_Loreti_030521.pdf",
+              "Correspondence from C. Loreti received 030521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12070&ItemID=11152": [
+              "Correspondence_received_from_R_Harney_030321.pdf",
+              "Correspondence from R. Harney received 030321"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12072&ItemID=11152": [
+              "Correspondence_received_from_X_Pretzer_030921.pdf",
+              "Correspondence from X. Pretzer received 030921"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12127&ItemID=11152": [
+              "Correspondence_from_E._Adams_received_031021.pdf",
+              "Correspondence from E. Adams received 031021"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12071&ItemID=11152": [
+              "Correspondence_received_from_S._Newton_031121.pdf",
+              "Correspondence from S. Newton received 031121"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12130&ItemID=11152": [
+              "Correspondence_from_S._Schou_received_031121.pdf",
+              "Correspondence from S. Schou received 031121"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12128&ItemID=11152": [
+              "Correspondence_from_L._Somervell_received_with_attachment_031121.pdf",
+              "Correspondence from L. Somervell with attachment received 031121"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12129&ItemID=11152": [
+              "Attachment_received_from_L._Somervell_031121.pdf",
+              "Attachment from L. Somervell received 031121"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12118&ItemID=11152": [
+              "Correspondence_received_from_C._Cunningham_with_attachment_031221.pdf",
+              "Correspondence from C. Cunningham with attachment received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12119&ItemID=11152": [
+              "Attachment_received_from_C._Cunningham_031221.pdf",
+              "Attachment from C. Cunningham received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12139&ItemID=11152": [
+              "Correspondence_from_C._Lake_received_031221.pdf",
+              "Correspondence from C. Lake received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12120&ItemID=11152": [
+              "Correspondence_received_from_L._Martyn_031221.pdf",
+              "Correspondence from L. Martyn received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12121&ItemID=11152": [
+              "Correspondence_received_from_R._Persson.pdf",
+              "Correspondence from R. Persson received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12122&ItemID=11152": [
+              "Correspondence_received_from_R._Shaw_031221.pdf",
+              "Correspondence from R. Shaw received 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12123&ItemID=11152": [
+              "Correspondence_received_from_Members_of_the_Envision_Arlington_Diversity_Task_Group_031221.pdf",
+              "Correspondence received from Members of the Envision Arlington Diversity Task Group 031221"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12137&ItemID=11152": [
+              "Correspondence_from_A._Henkin_received_031321.pdf",
+              "Correspondence from A. Henkin received 031321"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12131&ItemID=11152": [
+              "Correspondence_from_P._Worden_received_031321.pdf",
+              "Correspondence received from P. Worden 031321"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12138&ItemID=11152": [
+              "Correspondence_from_S._Ettinger_de_Cuba_received_031321.pdf",
+              "Correspondence from S. Ettinger de Cuba received 031321"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12124&ItemID=11152": [
+              "Correspondence_from_D._Seltzer_received_031421_with_attachment.pdf",
+              "Correspondence from D. Seltzer with attachment received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12125&ItemID=11152": [
+              "Attachment_received_from_D._Seltzer_031421.pdf",
+              "Attachment from D. Seltzer received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12136&ItemID=11152": [
+              "Correspondence_from_J._Lewis_received_031421.pdf",
+              "Correspondence from J. Lewis received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12126&ItemID=11152": [
+              "Correspondence_from_L._Rosenbaum_received_031421.pdf",
+              "Correspondence from L. Rosenbaum received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12133&ItemID=11152": [
+              "Correspondence_from_S._Revilak_with_attachment_received_031421.pdf",
+              "Correspondence from S. Revilak with attachment received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12134&ItemID=11152": [
+              "Attachment_from_S._Revilak_received_031421.pdf",
+              "Attachment from S. Revilak received 031421"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12132&ItemID=11152": [
+              "Correspondence_from_C._Farrell_received_031521.pdf",
+              "Correspondence from C. Farrell received 031521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12135&ItemID=11152": [
+              "Correspondence_from_G._Cook_received_031521.pdf",
+              "Correspondence from G. Cook received 031521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12145&ItemID=11152": [
+              "Correspondence_from_K._Kelleher_received_031521.pdf",
+              "Correspondence from K. Kelleher received 031521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12143&ItemID=11152": [
+              "Correspondence_from_K._Martin_received_031521.pdf",
+              "Correspondence from K. Martin received 031521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12144&ItemID=11152": [
+              "Correspondence_from_L._Culverhouse_received_031521.pdf",
+              "Correspondence from L. Culverhouse received 031521"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12142&ItemID=11152": [
+              "Correspondence_from_R._Peterson_received_031521.pdf",
+              "Correspondence from R. Peterson received 031521"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-15-2021/"
+  },
+  "2021-03-01": {
+    "date": "03/01/21",
+    "isodate": "2021-03-01",
+    "title": "Redevelopment Board",
+    "location": "This meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/99259100788  Meeting ID: 992 5910 0788 or by phone:1-646-876-9923, enter Meeting ID 992 5910 0788 then #",
+    "viewurl": "MeetingView.aspx?MeetingID=1283&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1283",
+    "filename": "_agendas/2021-03-01-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeMarch 1, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. Per Board Rules and Regulations, public comments will be accepted during the public comment periods designated on the agenda. Written comments may be provided by email to jraitt@town.arlington.ma.us by March 1, 2021 at 4:00 p.m. The Board requests that correspondence that includes visual information should be provided by February 26, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, March 1, 2021 at 7:00 PM in theThis meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/99259100788 Meeting ID: 992 5910 0788 or by phone:1-646-876-9923, enter Meeting ID 992 5910 0788 then \"#”",
+      "rows": 15,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=11048&MeetingID=1283",
+          "time": "7:00 p.m.",
+          "details": "\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote. Docket #3647, 10 Sunnyside Avenue *Public Hearing* Board will open a public hearing for Special Permit #3647 to review an application filed by MB Realty Group, LLC, 339 Massachusetts Avenue, Arlington, MA, on January 26, 2021, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to reconstruct a mixed-use building containing general office space and five residential condominiums at 10 Sunnyside Avenue, Arlington, MA in the B4 Vehicular Oriented Business District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. Docket #3638, 400-402 Massachusetts Avenue *Continued Public Hearing* Board will continue public hearing for Special Permit #3638 to review application filed on October 15, 2020 and supplemented on November 5, 2020, by 400-402 Mass Avenue, LLC, at 400-402 Massachusetts Avenue, Arlington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to establish a mixed-use building with four (4) residential units and one (1) office unit in an existing building in a B1 Neighborhood Office District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review.  ",
+          "dockets": {
+            "3647": "10 Sunnyside Avenue",
+            "3638": "400-402 Massachusetts Avenue"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11894&ItemID=11048": [
+              "EDR_Public_Hearing_Memo_Docket_3647_10_Sunnyside_Final.pdf",
+              "EDR Public Hearing Memo Docket #3647 10 Sunnyside Final"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11895&ItemID=11048": [
+              "Updated_Plan_Set_10_Sunnyside_Received_2-25-21.pdf",
+              "Updated Plan Set 10 Sunnyside received 2-25-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11896&ItemID=11048": [
+              "Stormwater_Report.pdf",
+              "Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11897&ItemID=11048": [
+              "Combined_Application_Materials.pdf",
+              "Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11899&ItemID=11048": [
+              "Correspondence_from_R._Annese_regarding_400-402_Mass_Ave_022421.pdf",
+              "Correspondence from R. Annese regarding 400-402 Mass Ave 02-24-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11900&ItemID=11048": [
+              "400-402_Mas_Ave_Dimensional_and_Open_Space_2021_02_24.pdf",
+              "400-402 Mass Ave Dimensional and Open Space 02-24-2021"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11898&ItemID=11048": [
+              "2021-02-23_400_Mass_Ave_Arlington_Apartments_REV_PLANS.pdf",
+              "2021-02-23 400 Mass Ave Arlington Apartments - Revised Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11901&ItemID=11048": [
+              "EDR_Public_Hearing_Memo_Docket_3638_400-402_Mass_Ave_11-19-20.pdf",
+              "EDR Memo Docket #3638 400-402 Mass Ave 11-19-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11902&ItemID=11048": [
+              "400_Mass_Ave_signs_.pdf",
+              "400 Mass Ave signs"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11906&ItemID=11048": [
+              "2021-02-17_400_Mass_Ave_Arlington_Apartments_zREV_PLANS_-_Superseded.pdf",
+              "2-17-21 400 Mass Ave Arlington Apartments Rev. Plans - Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11913&ItemID=11048": [
+              "Jennifer_Raitt_supplement_submission_400-402_Mass_2020_12_16.pdf",
+              "Jennifer Raitt Supplement Submission 400-402 Mass Ave 12-16-2020"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11911&ItemID=11048": [
+              "400_MASS_AVE_-_Sustainable_goals_2020_12_15.pdf",
+              "400 Mass Ave Sustainable Goals 12-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11916&ItemID=11048": [
+              "Mass_Ave_Arlington_Apartments_2020_12_15_-_Superseded.pdf",
+              "Mass Ave Arlington Apartments 12-15-20 - Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11910&ItemID=11048": [
+              "400_Mass_Ave_-_LEED_v4_for_BD+C_-_2020_12_15.pdf",
+              "400 Mass Ave - LEED 12-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11914&ItemID=11048": [
+              "Land_and_Sea_Real_Estate_2020_12_15.pdf",
+              "Land and Sea Real Estate 12-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11917&ItemID=11048": [
+              "New_York_Times_2020_12_15.pdf",
+              "New York Times 12-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11908&ItemID=11048": [
+              "Application_Materials_Submitted_11-5-20_-_Superseded.pdf",
+              "Application Materials Submitted 11-5-20 Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11907&ItemID=11048": [
+              "Application_Materials_Submitted_10-15-20_-_Superseded.pdf",
+              "Application Materials Submitted 10-15-20 Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11903&ItemID=11048": [
+              "400-402_Mass_Ave_ZBA_Decision_dated_6-23-20.pdf",
+              "400-402 Mass Ave ZBA Decision dated 06-23-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11909&ItemID=11048": [
+              "Docket_#2306_400-402_Mass_Ave_Decision_date_4-9-1980.pdf",
+              "Docket #2306 40-402 Mass Ave Decision date 4-9-1980"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Update on Special Permits issued by the Redevelopment Board 2016-2020",
+          "url": "CoverSheet.aspx?ItemID=11049&MeetingID=1283",
+          "time": "7:45 p.m.",
+          "details": "Board will receive update on special permits issued by the Redevelopment Board from 2016-2020.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11883&ItemID=11049": [
+              "Agenda_Item_2_-_Status_of_Special_Permits_granted_by_ARB_Memo_02-18-21.pdf",
+              "Status of Special Permits granted by ARB Memo 02-18-21"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Warrant Article Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=11050&MeetingID=1283",
+          "time": "8:00 p.m.",
+          "details": "A brief introductory presentation will be provided for each article Board members and members of the public will be provided time to ask questions and comment for each article Warrant Article Public Hearings 2021 Annual Town Meeting ARTICLE 39 ZONING BYLAW AMENDMENT/ CLARIFICATION OF DEFINITION OF MIXED USE To see if the Town will vote to amend the definition of Mixed Use in the Zoning Bylaw to clarify that as enacted by Town Meeting, land uses individually prohibited in any particular zoning district are also prohibited as part of Mixed Use developments in the same zoning district; or take any action related thereto. (Inserted at the request of Christopher Loreti and 10 registered voters) ARTICLE 40 ZONING BYLAW AMENDMENT/CONVERSION OF COMMERCIAL TO RESIDENTIAL To see if the Town will vote to amend the Zoning Bylaw in Section 5.2.4, by inserting in the last sentence of said section, after the word footprint, the words “if allowed by special permit” and by inserting, after the words residential use, the words “provided that the addition or expansion is for affordable housing” so that said sentence will read as follows: In the case of an existing commercial use, the addition or expansion of residential use within the building footprint if allowed by special permit shall not require adherence to setback regulations for residential uses, provided that the addition or expansion is for affordable housing, even if the residential use becomes the principal use of the building; or take any action related thereto. (Inserted at the request of John L. Worden III and 10 registered voters) ARTICLE 34 ZONING BYLAW AMENDMENT/ MARIJUANA USES To see if the Town will vote to amend the Zoning Bylaw to allow Marijuana Delivery-Only Retailers and other amendments for consistency with the state regulations for the adult use of marijuana and the medical use of marijuana by amending SECTION 2 DEFINITIONS, SECTION 5.5.3. USE REGULATIONS FOR BUSINESS DISTRICTS, SECTION 5.6.3. USE REGULATIONS FOR MU, PUD, I, T, AND OS DISTRICTS, and SECTION 8.3 STANDARDS FOR MARIJUANA USES; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 28 ZONING BYLAW AMENDMENT/ AFFORDABLE HOUSING REQUIREMENTS To see if the Town will vote to amend the Zoning Bylaw to increase the time during which the affordable housing requirements apply from a two-year period to a three-year period in alignment with G.L. c.40A § 9 by amending SECTION 8.2.2. APPLICABILITY; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 29 ZONING BYLAW AMENDMENT/ APARTMENT CONVERSION To see if the Town will vote to amend the Zoning Bylaw to include a definition of apartment conversion by amending SECTION 2 DEFINITIONS; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 30 ZONING BYLAW AMENDMENT/ GROSS FLOOR AREA To see if the Town will vote to amend the Zoning Bylaw to clarify how landscaped and usable open space is calculated relative to gross floor area by amending SECTION 5.3.22. GROSS FLOOR AREA to add subsection C; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 31 ZONING BYLAW AMENDMENT/ PROHIBITED USES To see if the Town will vote to amend the Zoning Bylaw to indicate that uses without a “Y” or “SP” in the Tables of Uses are prohibited by amending SECTION 5.2.2. PROHIBITED USES to add subsection C; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 32 ZONING BYLAW AMENDMENT/ OTHER DISTRICTS DIMENSIONAL AND DENSITY REGULATIONS To see if the Town will vote to amend the Zoning Bylaw to include the legend for tables by amending SECTION 5.6.2. DIMENSIONAL AND DENSITY REGULATIONS; or take any action related thereto. (Inserted at the request of the Redevelopment Board) ARTICLE 33 ZONING BYLAW AMENDMENT/ ADMINISTRATIVE AMENDMENTS To see if the Town will vote to amend the Zoning Bylaw to make the following administrative corrections; 1. Correcting references to Board of Selectmen in subparagraph B of SECTION 3.1.4. PENALTY and in Section 3.2.1. ESTABLISHMENT; 2. Removing gendered terms in subparagraph A of SECTION 3.2.3. RULES AND REGULATIONS and subparagraph D of SECTION 6.2.7. NONCONFORMING SIGNS; 3. Correcting reference to August, 1975 in subparagraphs C and D in SECTION 5.4.2. DIMENSIONAL AND DENSITY REQUIREMENTS; 4. Correcting reference to Section 7 in SECTION 3.3.4.A SPECIAL PERMIT CONDITIONS; and 5. Correcting reference to seven feet three inches in subsection A(1) in SECTION 5.3.22. APPLICABILITY; or take any action related thereto. (Inserted at the request of the Redevelopment Board)  ",
+          "bylaws": {
+            "39": "ARTICLE 39 ZONING BYLAW AMENDMENT/ CLARIFICATION OF DEFINITION OF MIXED USE T",
+            "40": "ARTICLE 40 ZONING BYLAW AMENDMENT/CONVERSION OF COMMERCIAL TO RESIDENTIAL T",
+            "34": "ARTICLE 34 ZONING BYLAW AMENDMENT/ MARIJUANA USES T",
+            "28": "ARTICLE 28 ZONING BYLAW AMENDMENT/ AFFORDABLE HOUSING REQUIREMENTS T",
+            "29": "ARTICLE 29 ZONING BYLAW AMENDMENT/ APARTMENT CONVERSION T",
+            "30": "ARTICLE 30 ZONING BYLAW AMENDMENT/ GROSS FLOOR AREA T",
+            "31": "ARTICLE 31 ZONING BYLAW AMENDMENT/ PROHIBITED USES T",
+            "32": "ARTICLE 32 ZONING BYLAW AMENDMENT/ OTHER DISTRICTS DIMENSIONAL AND DENSITY REGULATIONS T",
+            "33": "ARTICLE 33 ZONING BYLAW AMENDMENT/ ADMINISTRATIVE AMENDMENTS T"
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11884&ItemID=11050": [
+              "Agenda_Item_3A_Memo_to_ARB_from_DPCD_re_Warrant_Articles_28__29__30__31__32__33__34__40_.pdf",
+              "Memo to ARB from DPCD re Warrant Articles 28, 29, 30, 31, 32, 33, 34, 40"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11885&ItemID=11050": [
+              "Agenda_Item_3B_-_Article_39_-_Loreti_Supporting_Material.pdf",
+              "Article 39 - Loreti Supporting Material"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11886&ItemID=11050": [
+              "Agenda_Item_3C_-_Article_40_-_Worden_Supporting_Material.pdf",
+              "Article 40 - Worden Supporting Material"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Board members will review MOU and authorize Director to proceed with tenancy",
+          "url": "CoverSheet.aspx?ItemID=11051&MeetingID=1283",
+          "time": "9:55 p.m.",
+          "details": "23 Maple Street - Memorandum of Understanding between Town of Arlington (Department of Public Works and Department of Inspectional Services) and Arlington Redevelopment Board "
+        },
+        {
+          "num": "5.",
+          "title": "Open Forum",
+          "time": "10:10 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. "
+        },
+        {
+          "num": "6.",
+          "title": "Adjourn",
+          "time": "10:30 p.m.",
+          "details": "Estimated Time for Adjournment"
+        },
+        {
+          "num": "7.",
+          "title": "Correspondence received:",
+          "url": "CoverSheet.aspx?ItemID=11054&MeetingID=1283",
+          "details": "D. Seltzer 2-25-21 with attachment -  Novus Agenda does not support the video file that was attached.\r\nS. Revilak 3-1-21 with attachment\r\nD. Seltzer 3-1-21\r\nR. Annese 3-1-21",
+          "correspondence": [
+            "D. Seltzer 2-25-21 with attachment - Novus Agenda does not support thevideo file that was attached.",
+            "S. Revilak 3-1-21 with attachment",
+            "D. Seltzer 3-1-21",
+            "R. Annese 3-1-21"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11921&ItemID=11054": [
+              "Correspondence_from_D._Seltzer_received_2-25-21.pdf",
+              "Correspondence from D. Seltzer received 2-25-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11938&ItemID=11054": [
+              "Correspondence_from_S._Revilak_with_attachment_received_2-28-21.pdf",
+              "Correspondence from S. Revilak with attachment received 2-28-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11939&ItemID=11054": [
+              "Attachment_from_S._Revilak_received_2-28-21.pdf",
+              "Attachment from S. Revilak received 2-28-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11940&ItemID=11054": [
+              "Correspondence_from_D._Seltzer_received_3-1-21.pdf",
+              "Correspondence from D. Seltzer received 3-1-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11943&ItemID=11054": [
+              "Correspondence_from_R._Annese_received_3-1-21.pdf",
+              "Correspondence from R. Annese received 3-1-21"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-march-1-2021/"
+  },
+  "2021-02-22": {
+    "date": "02/22/21",
+    "isodate": "2021-02-22",
+    "title": "Redevelopment Board",
+    "location": "This meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92728990188  Meeting ID: 927 2899 0188 or by phone:1-646-876-9923, enter Meeting ID 927 2899 0188 then #",
+    "viewurl": "MeetingView.aspx?MeetingID=1277&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1277",
+    "filename": "_agendas/2021-02-22-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeFebruary 22, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. Per Board Rules and Regulations, public comments will be accepted during the public comment periods designated on the agenda. Written comments may be provided by email to jraitt@town.arlington.ma.us by February 22, 2021 at 4:00 p.m. The Board requests that correspondence that includes visual information should be provided by February 19, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, February 22, 2021 at 7:00 PM in theThis meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/92728990188 Meeting ID: 927 2899 0188 or by phone:1-646-876-9923, enter Meeting ID 927 2899 0188 then \"#”",
+      "rows": 15,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearings",
+          "url": "CoverSheet.aspx?ItemID=10977&MeetingID=1277",
+          "time": "7:00 p.m.",
+          "details": "Docket #3638, 400-402 Massachusetts Avenue *Continued Public Hearing* Board will continue public hearing for Special Permit #3638 to review application filed on October 15, 2020 and supplemented on November 5, 2020, by 400-402 Mass Avenue, LLC, at 400-402 Massachusetts Avenue, Arlington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to establish a mixed-use building with four (4) residential units and one (1) office unit in an existing building in a B1 Neighborhood Office District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review. Docket #3646, 1420 Massachusetts Avenue *Public Hearing* Board will open a public hearing to review an application filed on January 26, 2021 by 1420 Massachusetts Avenue, LLC, c/o Bierbrier Development, 420 Bedford Street, Lexington, MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to reconstruct the Citizens Bank and make other site improvements at 1416-1420 Massachusetts Avenue, Arlington, MA in the B4 Vehicular Oriented Business District. The opening of the Special Permit is to allow the Board to review and approve the development under Section 3.4, Environmental Design Review, and Section 6.2, Signs. Docket #2150 as amended by Docket #2618, 49-51 Grove Street * Public Hearing* Board will open a public hearing to review an application filed on January 28, 2021 by the Town of Arlington, 730 Massachusetts Avenue, Arlington MA, in accordance with the provisions of MGL Chapter 40A § 11, and the Town of Arlington Zoning Bylaw Section 3.4, Environmental Design Review. The applicant proposes to consolidate Town operations through the renovation of four existing buildings, construction of one new building, site improvements, and construction of ancillary support features at the Department of Public Works Yard, 49 and 51 Grove Street, Arlington, MA in the Industrial District. The reopening of the Special Permit is to allow the Board to review and approve the project under Section 3.4, Environmental Design Review.\n\n \n\n\n-  For each public hearing, applicants will be provided 5 minutes for a presentation. \n-  DPCD staff will be provided 3 minutes to discuss public hearing memo. \n-  Members of the public will be provided time to comment. \n-  Board members will discuss each docket and may vote.  \n\n",
+          "dockets": {
+            "3638": "400-402 Massachusetts Avenue",
+            "3646": "1420 Massachusetts Avenue",
+            "2150": "as amended by Docket #2618, 49-51 Grove Street",
+            "2618": ""
+          },
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11794&ItemID=10977": [
+              "Jennifer_Raitt_supplement_submission_400-402_Mass_2020_12_16.pdf",
+              "Jennifer Raitt Supplement Submission 400-402 Mass Ave 2020 12 16"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11796&ItemID=10977": [
+              "EDR_Public_Hearing_Memo_Docket_3638_400-402_Mass_Ave_11-19-20.pdf",
+              "EDR Public Hearing Memo Docket #3638 400-402 Mass Ave 11-19-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11789&ItemID=10977": [
+              "400_Mass_Ave_signs_.pdf",
+              "400 Mass Ave signs"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11790&ItemID=10977": [
+              "2021-02-17_400_Mass_Ave_Arlington_Apartments_zREV_PLANS.pdf",
+              "2021-02-17 400 Mass Ave Apartments Rev. Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11793&ItemID=10977": [
+              "400_MASS_AVE_-_Sustainable_goals_2020_12_15.pdf",
+              "400 Mass Ave Sustainable Goals 2020 12 15"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11792&ItemID=10977": [
+              "400_Mass_Ave_-_LEED_v4_for_BD+C_-_2020_12_15.pdf",
+              "400 Mass Ave - LEED 12-15-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11795&ItemID=10977": [
+              "New_York_Times_2020_12_15.pdf",
+              "New York Times 2020 12 15"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11787&ItemID=10977": [
+              "Application_Materials_Submitted_11-5-20_-_Superseded.pdf",
+              "Application Materials Submitted 11-5-20 Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11797&ItemID=10977": [
+              "Application_Materials_Submitted_10-15-20_-_Superseded.pdf",
+              "Application Materials Submitted 10-15-20 Superseded"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11786&ItemID=10977": [
+              "400-402_Mass_Ave_ZBA_Decision_dated_6-23-20.pdf",
+              "400-402 Mass Ave. ZBA Decision dated 6-23-20"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11788&ItemID=10977": [
+              "Docket_#2306_400-402_Mass_Ave_Decision_date_4-9-1980.pdf",
+              "Docket #2306 400-402 Mass Ave dated 4-9-1980"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11798&ItemID=10977": [
+              "EDR_Public_Hearing_Memo_Docket_3646_1420_Mass_Ave.pdf",
+              "EDR Public Hearing Memo Docket #3646 1420 Mass Ave"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11799&ItemID=10977": [
+              "Docket_3646_Combined_Application_Materials.pdf",
+              "Docket 3646 Combined Application Materials"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11800&ItemID=10977": [
+              "1420_-_LEED_v4_for_Building_Design_and_Construction.pdf",
+              "Docket 3646 1420 - LEED for Building Design and Construction"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11801&ItemID=10977": [
+              "Updated_Sign_Package_Received_02-17-21.pdf",
+              "Docket 3646 Updated Sign Package Received 02-17-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11802&ItemID=10977": [
+              "EDR_Public_Hearing_Memo_Docket_2150-2618_49___51_Grove_Street.pdf",
+              "EDR Public Hearing Memo Docket 2150-2618 49 & 51 Grove Street"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11803&ItemID=10977": [
+              "Arlington_Municipal_Facility_EDR_01-28-21.pdf",
+              "Arlington Municipal Facility EDR 01-28-21"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Update on Special Permits issued by the Redevelopment Board 2016-2021",
+          "url": "CoverSheet.aspx?ItemID=10979&MeetingID=1277",
+          "time": "8:30 p.m.",
+          "details": "Board will receive update on special permits issued by the Redevelopment Board from 2016-2021. ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11804&ItemID=10979": [
+              "Agenda_Item_2_-_Status_of_Special_Permits_granted_by_ARB_Memo_02-18-21.pdf",
+              "Status of Special Permits granted by ARB Memo 02-18-21"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Zoning Warrant Article Public Hearing schedule",
+          "url": "CoverSheet.aspx?ItemID=10980&MeetingID=1277",
+          "time": "8:45 p.m.",
+          "details": "\n-  Discuss upcoming meetings \n-  Discuss proposed communications with Select Board on various warrant articles Board will receive notice for upcoming Warrant Articles hearings ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11806&ItemID=10980": [
+              "Agenda_Item_3_-_Legal_Notice_Zoning_Bylaw_Amendments_-_Timestamped_copy.pdf",
+              "Legal Notice Zoning Bylaw Amendments"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Meeting Minutes (11/2/20, 12/7/20)",
+          "url": "CoverSheet.aspx?ItemID=10981&MeetingID=1277",
+          "time": "9:15 p.m.",
+          "details": "Board will review and approve minutes ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11808&ItemID=10981": [
+              "Agenda_Item_4A_-_11022020_Draft_ARB_Minutes.pdf",
+              "11022020 Draft ARB Minutes"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11809&ItemID=10981": [
+              "Agenda_Item_4B_-_12072020_Draft_ARB_Minutes.pdf",
+              "12072020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Open Forum",
+          "time": "9:20 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. "
+        },
+        {
+          "num": "6.",
+          "title": "Adjourn",
+          "time": "9:40 p.m. ",
+          "details": "Estimated Time for Adjournment "
+        },
+        {
+          "num": "7.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=11038&MeetingID=1277",
+          "details": "Correspondence received from:\r\nD. Seltzer 2/19/21",
+          "correspondence": [
+            "D. Seltzer 2/19/21"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11867&ItemID=11038": [
+              "Correspondence_from_D._Seltzer_with_attachment_received_2-19-21.pdf",
+              "Correspondence received from D. Seltzer with attachment 02-19-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11868&ItemID=11038": [
+              "Attachment_from_D._Seltzer_received_2-19-21.pdf",
+              "D. Seltzer attachment received 02-19-21"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-22-2021/"
+  },
+  "2021-02-08": {
+    "date": "02/08/21",
+    "isodate": "2021-02-08",
+    "title": "Redevelopment Board",
+    "location": "This meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/96304249971  Meeting ID: 963 0424 9971 or by phone:1-646-876-9923, enter Meeting ID 963 0424 9971 then #",
+    "viewurl": "MeetingView.aspx?MeetingID=1268&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1268",
+    "filename": "_agendas/2021-02-08-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeFebruary 8, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Per Board Rules and Regulations, public comments will be accepted during the public comment periods designated on the agenda. Written comments may be provided by email to jraitt@town.arlington.ma.us by February 8, 2021 at 4:00 p.m. The Board requests that correspondence that includes visual information should be provided by February 5, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, February 8, 2021 at 7:30 PM in theThis meeting will be held via Zoom Meeting with audio and video by using this link and Meeting ID: https://town-arlington-ma-us.zoom.us/j/96304249971 Meeting ID: 963 0424 9971 or by phone:1-646-876-9923, enter Meeting ID 963 0424 9971 then \"#”",
+      "rows": 13,
+      "items": [
+        {
+          "num": "1.",
+          "title": "MBTA Community District",
+          "url": "CoverSheet.aspx?ItemID=10876&MeetingID=1268",
+          "time": "7:30 p.m. ",
+          "details": "Proposed zoning amendment to comply with new requirement in MGL 40A for MBTA Communities Staff and Board will review requirements and discuss potential district. Members of the public will be provided time to comment.",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11382&ItemID=10876": [
+              "Agenda_Item_1_-_MBTA_Community_Map_Showing_Half_Mile_Radius_from_Alewife.pdf",
+              "MBTA Community Map Showing Half Mile Radius from Alewife"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11383&ItemID=10876": [
+              "Agenda_Item_1_-_MBTA_Community_Map_Showing_Massachusetts_Ave_Detail.pdf",
+              "MBTA Community Map Showing Massachusetts Ave Detail"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11384&ItemID=10876": [
+              "Agenda_Item_1_-_MBTA_Draft_Communities_Zoning_02-02-21.docx",
+              "MBTA Draft Communities Zoning 02-02-21"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Update on Redevelopment Board properties",
+          "time": "8:30 p.m.",
+          "details": "23 Maple Street update Central School renovation update Staff will provide Board with an update"
+        },
+        {
+          "num": "3.",
+          "title": "Meeting Minutes (10/28/20)",
+          "url": "CoverSheet.aspx?ItemID=10878&MeetingID=1268",
+          "time": "8:45 p.m.",
+          "details": "Board will review and approved minutes",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11381&ItemID=10878": [
+              "Agenda_Item_3_-_10282020_Draft_ARB_Minutes.docx",
+              "10282020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "4.",
+          "title": "Open Forum",
+          "time": "8:50 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request."
+        },
+        {
+          "num": "5.",
+          "title": "Adjourn",
+          "details": " 9:10 p.m. Estimated Time for Adjournment"
+        },
+        {
+          "num": "6.",
+          "title": "Correspondence received",
+          "url": "CoverSheet.aspx?ItemID=10927&MeetingID=1268",
+          "details": "Correspondence received from:\r\nP. Worden 020821",
+          "correspondence": [
+            "P. Worden 020821"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11433&ItemID=10927": [
+              "Correspondence_from_P_Worden_020821.pdf",
+              "Correspondence received from P. Worden 020821"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-february-8-2021/"
+  },
+  "2021-01-25": {
+    "date": "01/25/21",
+    "isodate": "2021-01-25",
+    "title": "Redevelopment Board",
+    "location": "Join Zoom Meeting with audio and video by connecting using this link and Meeting ID:https://town-arlington-ma-us.zoom.us/j/94387696913  | Meeting ID:943 8769 6913 or join by phone by calling: 1-646-876-9923, enter Meeting ID:943 8769 6913 then #",
+    "viewurl": "MeetingView.aspx?MeetingID=1258&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1258",
+    "filename": "_agendas/2021-01-25-arb.html",
+    "agenda": {
+      "notice": "Town of Arlington, MA Redevelopment BoardAgenda & Meeting NoticeJanuary 25, 2021  This meeting is being held remotely in accordance with the Governor’s March 12, 2020 Order Suspending Certain Provisions of the Open Meeting Law G.L. c. 30A, Section 20. Public comments will be accepted during the public comment periods designated in the agenda. The public may email or provide any written comments to jraitt@town.arlington.ma.us by January 25, 2021 at 4:00 p.m. If visual information is provided as part of your correspondence, the Board requests this by January 22, 2021 at 12:00 p.m.The Arlington Redevelopment Board will meet Monday, January 25, 2021 at 7:00 PM in theJoin Zoom Meeting with audio and video by connecting using this link and Meeting ID:https://town-arlington-ma-us.zoom.us/j/94387696913 | Meeting ID:943 8769 6913 or join by phone by calling: 1-646-876-9923, enter Meeting ID:943 8769 6913 then #",
+      "rows": 15,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Public Hearing",
+          "url": "CoverSheet.aspx?ItemID=10794&MeetingID=1258",
+          "time": "7:00 p.m.",
+          "details": "Arlington Redevelopment Board (ARB) for the Board’s Draft Amended Rules and Regulations\n\n\n-  Members of the public will be provided time to comment. \n-  Board members will discuss the document and may vote.\n\n",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11087&ItemID=10794": [
+              "Agenda_Item_1_-_ARB_Rules_and_Regs_adopted_070219_proposed_amendment_12-21-20.docx",
+              "ARB Rules and Regs adopted 070219 proposed amendment 122120"
+            ]
+          }
+        },
+        {
+          "num": "2.",
+          "title": "Zoning Bylaw amendments to be submitted by the Redevelopment Board for 2021 Annual Town Meeting",
+          "url": "CoverSheet.aspx?ItemID=10795&MeetingID=1258",
+          "time": "7:30 p.m.",
+          "details": "- Continued discussion from January 4, 2021 - Discussion about zoning amendments related to Housing Choice and MBTA Communities Board members will continue discussion and vote to file warrant articles  ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11144&ItemID=10795": [
+              "Agenda_Item_2A_-_Memo_to_JR_re_draft_warrant_article_submissions_01-19-21.pdf",
+              "Memo to JR re draft warrant article submissions 01-19-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11122&ItemID=10795": [
+              "Agenda_Item_2B_-_ARB_Town_Meeting_Process_Draft.pdf",
+              "Town Meeting Process Draft"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11089&ItemID=10795": [
+              "Agenda_Item_2B_-_H5250.pdf",
+              "H5250"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11090&ItemID=10795": [
+              "Agenda_Item_2C_-_H5250_-_Signed_Letter.pdf",
+              "H5250 - Signed Letter"
+            ]
+          }
+        },
+        {
+          "num": "3.",
+          "title": "Proposed Citizen Petition Zoning Warrant Article",
+          "url": "CoverSheet.aspx?ItemID=10796&MeetingID=1258",
+          "time": "8:30 p.m.",
+          "details": "James Fleming will discuss his proposed warrant article, Board may discuss and ask questions"
+        },
+        {
+          "num": "4.",
+          "title": "Meeting Minutes (10/5/20)",
+          "url": "CoverSheet.aspx?ItemID=10797&MeetingID=1258",
+          "time": "8:45 p.m.",
+          "details": "Board will review and approved minutes ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11091&ItemID=10797": [
+              "Agenda_Item_4_-_10052020_Draft_ARB_Minutes.docx",
+              "10052020 Draft ARB Minutes"
+            ]
+          }
+        },
+        {
+          "num": "5.",
+          "title": "Open Forum",
+          "time": "8:50 p.m.",
+          "details": "Except in unusual circumstances, any matter presented for consideration of the Board shall neither be acted upon, nor a decision made the night of the presentation. There is a three minute time limit to present a concern or request. "
+        },
+        {
+          "num": "6.",
+          "title": "Adjourn",
+          "time": "9:10 p.m.",
+          "details": "Estimated Time for Adjournment "
+        },
+        {
+          "num": "7.",
+          "title": "Correspondence Received",
+          "url": "CoverSheet.aspx?ItemID=10835&MeetingID=1258",
+          "details": "Correspondence received from:\r\nC. Cunningham 1-25-21\r\nC. Loreti 1-25-21",
+          "correspondence": [
+            "C. Cunningham 1-25-21",
+            "C. Loreti 1-25-21"
+          ],
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11160&ItemID=10835": [
+              "Correspondence_from_C._Cunningham_received_012521.pdf",
+              "Correspondence received from C. Cunningham 1-25-21"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11161&ItemID=10835": [
+              "Correspondence_from_C._Loreti_received_012521.pdf",
+              "Correspondence received from C. Loreti 1-25-21"
+            ]
+          }
+        }
+      ]
+    },
+    "video": "https://acmi.tv/videos/redevelopment-board-meeting-january-25-2021/"
+  },
   "2021-01-04": {
     "date": "01/04/21",
     "isodate": "2021-01-04",

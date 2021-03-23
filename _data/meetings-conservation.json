@@ -1,4 +1,374 @@
 {
+  "2021-03-18": {
+    "date": "03/18/21",
+    "isodate": "2021-03-18",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1299&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1299",
+    "filename": "_agendas/2021-03-18-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, March 18, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 8,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the March 18, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: March 18, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJAvcu-gqj4uHdUW9lGtNb6ncO3N6WjZNs72 \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 02/18/2021 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Review draft 03/04/2021 minutes </span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>Community Preservation Act Update</span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>Review draft comment letter for 1165R Mass Ave comprehensive permit application.</span>\n\n<span class='subhead'>f.</span>\n\n<span class='subhead'>Review draft ZBA decision for Thorndike Place comprehensive permit application. </span>\n\n<span class='subhead'>g.</span>\n\n<span class='subhead'>Review National Grid's Notice of Maintenance Work for gas mains in East Arlington. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Discussion: AC Turf Field and Resource Areas</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=11191&MeetingID=1299'>Request for Certificate of Compliance</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=12158&ItemID=11191": [
+              "46_Spy_Pond_Parkway_Plan_10232018.pdf",
+              "46 Spy Pond Parkway Proposed Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12159&ItemID=11191": [
+              "46_Spy_Pond_Parkway_Planting_Plan_10202018.pdf",
+              "46 Spy Pond Parkway Proposed Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12157&ItemID=11191": [
+              "46_Spy_Pond_Parkway_Recorded_OOC_11292018.pdf",
+              "46 Spy Pond Parkway OOC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12162&ItemID=11191": [
+              "46_Spy_Pond_Parkway_RCOC_Cover_Letter_08252020.PDF",
+              "46 Spy Pond Parkway Request for COC Letter"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12160&ItemID=11191": [
+              "46_Spy_Pond_Parkway_RCOC.pdf",
+              "46 Spy Pond Parkway Request for COC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12161&ItemID=11191": [
+              "46_Spy_Pond_Parkway_As-Built.PDF",
+              "46 Spy Pond Parkway As Built"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=12163&ItemID=11191": [
+              "46_Spy_Pond_Parkway_COC_Additional_Letter_02252021.pdf",
+              "46 Spy Pond Parkway RCOC Additional Letter"
+            ]
+          }
+        }
+      ],
+      "error": "_agendas/2021-03-18-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:52:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:221:in `block in do_it_all'\n\tassets/code/agendaparser.rb:212:in `each'\n\tassets/code/agendaparser.rb:212:in `do_it_all'\n\tassets/code/agendaparser.rb:242:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
+  },
+  "2021-03-04": {
+    "date": "03/04/21",
+    "isodate": "2021-03-04",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1290&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1290",
+    "filename": "_agendas/2021-03-04-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, March 4, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 8,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the March 4, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: March 4, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJAlcOmvqj8rH9GYVkinqEqIeS1umpLkkgAU \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 02/18/2021 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Thorndike Place 40B Comprehensive Permit Update</span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>1165R Mass Ave 40B Comprehensive Permit Update</span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>Spy Pond Treatment Plan</span>\n\n<span class='subhead'>f.</span>\n\n<span class='subhead'>Review 2021 goals</span>\n\n<span class='subhead'>g.</span>\n\n<span class='subhead'>Review map jurisdictional areas and confirm resource area delineations</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update: Full Draft </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=11084&MeetingID=1290'>Working Session</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11959&ItemID=11084": [
+              "55_Orient_Ave_Wetland_Delineation_Sketch.pdf",
+              "55 Orient Ave Wetland Sketch"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11960&ItemID=11084": [
+              "55_Orient_Ave_Drain_Pipe_Photographs.pdf",
+              "55 Orient Ave Photos"
+            ]
+          }
+        }
+      ],
+      "error": "_agendas/2021-03-04-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:52:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:221:in `block in do_it_all'\n\tassets/code/agendaparser.rb:212:in `each'\n\tassets/code/agendaparser.rb:212:in `do_it_all'\n\tassets/code/agendaparser.rb:242:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
+  },
+  "2021-02-18": {
+    "date": "02/18/21",
+    "isodate": "2021-02-18",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1276&MinutesMeetingID=-1&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1276",
+    "filename": "_agendas/2021-02-18-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, February 18, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 10,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the February 18, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: February 18, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJAtfuqrrDooGNTfSvA3KnlBIB5lj_x5gOw1 \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 02/04/2021 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Update on Thorndike Place ZBA 02/16/2021 hearing.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update: \r\nFull Draft </span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=10969&MeetingID=1276'>Request for Determination of Applicability</a>  <a href='CoverSheet.aspx?ItemID=10970&MeetingID=1276'>Request for Certificate of Compliance</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11716&ItemID=10969": [
+              "25_Henry_St_Plan.pdf",
+              "25 Henry St Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11717&ItemID=10969": [
+              "25_Henry_St_Stormwater_Report.pdf",
+              "25 Henry St Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11724&ItemID=10970": [
+              "RCOC_Arlington_Res_Phase_1_MassDEP#_091-0304.pdf",
+              "Reservoir Phase 1 RCOC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11726&ItemID=10970": [
+              "COC_Internal_Checklist_Arlington_Res_Phase_1.pdf",
+              "Reservoir Phase 1 RCOC Checklist"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11725&ItemID=10970": [
+              "Arlington_Reservoir_Phase_2_NOI_Plans_12032020.pdf",
+              "Res Phase 1 As-Builts/Phase 2 Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11721&ItemID=10970": [
+              "12052018_NOI_Packet.pdf",
+              "Reservoir Phase 1 NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11722&ItemID=10970": [
+              "01032019_Revised_Plans.pdf",
+              "Reservoir Phase 1 Revised Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11723&ItemID=10970": [
+              "Arlington_OOC.pdf",
+              "Reservoir Phase 1 OOC"
+            ]
+          }
+        }
+      ],
+      "error": "_agendas/2021-02-18-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:52:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:221:in `block in do_it_all'\n\tassets/code/agendaparser.rb:212:in `each'\n\tassets/code/agendaparser.rb:212:in `do_it_all'\n\tassets/code/agendaparser.rb:242:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
+  },
+  "2021-02-04": {
+    "date": "02/04/21",
+    "isodate": "2021-02-04",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1265&MinutesMeetingID=833&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1265",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=833",
+    "filename": "_agendas/2021-02-04-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, February 4, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 4,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the February 4, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: February 4, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJwkf--hpj4qH9eIxwI8AbZJ9hrWL9pX3gmh \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 01/21/2021 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Review 2020 goals and determine 2021 goals. </span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>Review draft annual report and financial budget spreadsheet. </span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>Review draft conditions for Thorndike Place. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update: \r\nFull Draft </span>"
+        }
+      ]
+    }
+  },
+  "2021-01-21": {
+    "date": "01/21/21",
+    "isodate": "2021-01-21",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1254&MinutesMeetingID=834&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1254",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=834",
+    "filename": "_agendas/2021-01-21-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, January 21, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 10,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the January 21, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: January 21, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJclcOmoqTkpE9C9MdVOPbR8UbuTuhDfIoCo \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 01/07/2020 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Updates: Community Preservation Act, Water Bodies Working Group</span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>Review 2020 goals and determine 2021 goals. </span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>Review and discuss Arlington Land Trust's independent climate change resiliency report on the Thorndike Place Proposal.</span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Regulations Update: \r\nSection 31: Climate Change Resilience\r\nSection 23: Floodplain</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=10776&MeetingID=1254'>Request for Minor Plan Amendment</a>  <a href='CoverSheet.aspx?ItemID=10774&MeetingID=1254'>Notice of Intent</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=11078&ItemID=10776": [
+              "49_Spy_Pond_Lane_Plot_Plan_with_Proposed_Patio.pdf",
+              "49 Spy Pond Lane_Proposed Patio Plot Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11080&ItemID=10776": [
+              "49_Spy_Pond_Lane_Proposed_patio.pdf",
+              "49 Spy Pond Lane_Proposed Patio"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11081&ItemID=10776": [
+              "49_SPL_UniLock_Thornbury_Permeable_Pavers.pdf",
+              "49 Spy Pond Lane Permeable Pavers 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11082&ItemID=10776": [
+              "49_SPL_Permeable_Paving___Unilock.pdf",
+              "49 Spy Pond Lane Permeable Pavers 2"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11083&ItemID=10776": [
+              "47SPL_Lot_1_Recorded_OOC.pdf",
+              "49 Spy Pond Lane OOC"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11084&ItemID=10776": [
+              "47SPL_Lot_1_Proposed_Plan.pdf",
+              "49 Spy Pond Lane Proposed Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11085&ItemID=10776": [
+              "47SPL_Lot_1_Planting_Plan.pdf",
+              "49 Spy Pond Lane Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11064&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_NOI_12032020.pdf",
+              "Res Phase 2 NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11065&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_NOI_Plans_12032020.pdf",
+              "Res Phase 2 NOI Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11066&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Stormwater_Report_12032020.pdf",
+              "Res Phase 2 Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11067&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Supplemental_KZLA_Memo_12302020.pdf",
+              "Res Phase 2 Supplemental KZLA Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11068&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Supplemental_SWCA_Memo_12312020.pdf",
+              "Res Phase 2 Supplemental SWCA Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11069&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Tree_Planting_Plans_Revised.pdf",
+              "Res Phase 2 Revised Tree Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11070&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Parking_Lot_Plans_Revised.pdf",
+              "Res Phase 2 Revised Parking Lot Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=11071&ItemID=10774": [
+              "Arlington_Reservoir_Phase_2_Stormwater_Report_Revised.pdf",
+              "Res Phase 2 Revised Stormwater Report"
+            ]
+          }
+        }
+      ],
+      "error": "_agendas/2021-01-21-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:52:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:221:in `block in do_it_all'\n\tassets/code/agendaparser.rb:212:in `each'\n\tassets/code/agendaparser.rb:212:in `do_it_all'\n\tassets/code/agendaparser.rb:242:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
+  },
+  "2021-01-07": {
+    "date": "01/07/21",
+    "isodate": "2021-01-07",
+    "title": "Conservation Commission Meeting",
+    "location": "Conducted by Remote Participation",
+    "viewurl": "MeetingView.aspx?MeetingID=1247&MinutesMeetingID=827&doctype=Agenda",
+    "pdfurl": "DisplayAgendaPDF.ashx?MeetingID=1247",
+    "minurl": "DisplayAgendaPDF.ashx?MinutesMeetingID=827",
+    "filename": "_agendas/2021-01-07-conservation.html",
+    "agenda": {
+      "notice": "Arlington Conservation CommissionDate: Thursday, January 7, 2021 Time: 7:30 PM Location: Conducted by Remote Participation Please note: The listing of matters are those reasonably anticipated which may be discussed at the meeting. Not all items listed may in fact be discussed and other items not listed may be brought up for discussion to the extent permitted by law. Agenda",
+      "rows": 10,
+      "items": [
+        {
+          "num": "1.",
+          "title": "Administrative",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>In accordance with the Governor's Order Suspending Certain Provisions of the Open Meeting Law, G. L. c. 30A, § 20 relating to the COVID-19 emergency, the January 7, 2021 public meeting of the Arlington Conservation Commission shall be physically closed to the public to avoid group congregation. The meeting shall instead be held virtually using Zoom.\r\n \r\nTopic: Conservation Commission Meeting\r\nTime: January 7, 2021 07:30 PM Eastern Time (US and Canada)\r\n \r\nRegister in advance for this meeting:\r\nhttps://town-arlington-ma-us.zoom.us/meeting/register/tJEpcuCvqzMiH9Ewibvnx82ZXRBdNGuPB0Jg \r\n \r\nMembers of the public are strongly encouraged to send written comment regarding any of the hearings listed below to Conservation Agent Emily Sullivan at esullivan@town.arlington.ma.us.\r\n \r\nPlease read Governor Baker's Executive Order Suspending Certain Provision of Open Meeting Law for more information regarding virtual public hearings and meetings: https://www.mass.gov/doc/open-meeting-law-order-march-12- 2020/download</span>\n\n<span class='subhead'>b.</span>\n\n<span class='subhead'>Review draft 12/03/2020 minutes.</span>\n\n<span class='subhead'>c.</span>\n\n<span class='subhead'>Review draft 12/17/2020 minutes. </span>\n\n<span class='subhead'>d.</span>\n\n<span class='subhead'>Review draft 2020 annual report. </span>\n\n<span class='subhead'>e.</span>\n\n<span class='subhead'>Update on ZBA 1/5/2021 hearing on 1165R Mass Ave Comprehensive Permit. </span>"
+        },
+        {
+          "num": "2.",
+          "title": "Discussion",
+          "details": "\n\n<span class='subhead'>a.</span>\n\n<span class='subhead'>Discussion on proposed Warrant Article: Zoning Bylaw Amendment/Allow cemetery use in the open space district</span>"
+        },
+        {
+          "num": "3.",
+          "title": "Hearings",
+          "details": " <a href='CoverSheet.aspx?ItemID=10702&MeetingID=1247'>Notice of Intent</a>  <a href='CoverSheet.aspx?ItemID=10706&MeetingID=1247'>Request for Determination of Applicability</a> ",
+          "attachments": {
+            "AttachmentViewer.ashx?AttachmentID=10980&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_NOI_12032020.pdf",
+              "Res Phase 2 NOI"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10981&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_NOI_Plans_12032020.pdf",
+              "Res Phase 2 NOI Plans"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10982&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Stormwater_Report_12032020.pdf",
+              "Res Phase 2 Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10986&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Supplemental_KZLA_Memo_12302020.pdf",
+              "NEW_Res Phase 2 Supplemental KZLA Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10987&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Supplemental_SWCA_Memo_12312020.pdf",
+              "NEW_Res Phase 2 Supplemental SWCA Memo"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10988&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Tree_Planting_Plans_Revised.pdf",
+              "NEW_Res Phase 2 Revised Tree Planting Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10989&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Parking_Lot_Plans_Revised.pdf",
+              "NEW_Res Phase 2 Revised Parking Lot Plan"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10990&ItemID=10702": [
+              "Arlington_Reservoir_Phase_2_Stormwater_Report_Revised.pdf",
+              "NEW_ Res Phase 2 Revised Stormwater Report"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10995&ItemID=10706": [
+              "59_Lowell_Street_RDA_WPA_Form_1.pdf",
+              "59 Lowell St RDA WPA Form 1"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10996&ItemID=10706": [
+              "59_Lowell_Street_RDA.pdf",
+              "59 Lowell St RDA"
+            ],
+            "AttachmentViewer.ashx?AttachmentID=10997&ItemID=10706": [
+              "59_Lowell_Street_RDA_Photos.pdf",
+              "59 Lowell St RDA Site Photos"
+            ]
+          }
+        }
+      ],
+      "error": "_agendas/2021-01-07-conservation.html undefined method `text' for nil:NilClass",
+      "stack": "/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:52:in `block in parse'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:238:in `block in each'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `upto'\n\t/Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.9/lib/nokogiri/xml/node_set.rb:237:in `each'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `each_slice'\n\t/Users/curcuru/src/g/menotomymatters/assets/code/conservationparser.rb:49:in `parse'\n\tassets/code/agendaparser.rb:125:in `parse_agenda'\n\tassets/code/agendaparser.rb:88:in `block in parse_agendas'\n\tassets/code/agendaparser.rb:82:in `each'\n\tassets/code/agendaparser.rb:82:in `parse_agendas'\n\tassets/code/agendaparser.rb:68:in `process_latest'\n\tassets/code/agendaparser.rb:221:in `block in do_it_all'\n\tassets/code/agendaparser.rb:212:in `each'\n\tassets/code/agendaparser.rb:212:in `do_it_all'\n\tassets/code/agendaparser.rb:242:in `<module:AgendaParser>'\n\tassets/code/agendaparser.rb:17:in `<main>'"
+    }
+  },
   "2020-07-16": {
     "date": "07/16/20",
     "isodate": "2020-07-16",
