@@ -14,7 +14,7 @@ header:
 
 ---
 
-Debating how to vote?  The best way to learn about the candidates is to read their own words or watch the interviews - not to read Facebook comments.  To help, here's a list of **all** the major candidates and what's available online about them!  Reminder: [Arlington's elections page has all the details about how to vote](https://arlingtonma.gov/elections) - at your normal precinct in most cases.  
+Debating how to vote?  The best way to learn about the candidates is to read their own words or watch the interviews - not to read Facebook comments.  To help, here's a list of **all** the major candidates and what's available online about them!  Reminder: [Arlington's elections page has all the details about how to vote](https://arlingtonma.gov/elections) - at your normal precinct in most cases.  If you got a vote-by-mail ballot and haven't yet returned it, [you can still return ballots at drop boxes](https://www.arlingtonma.gov/home/showpublisheddocument?id=55333) until 8PM election day (drop boxes: Fox library, town hall, outside ACMi in Heights).
 
 Bob Sprague's [Your Arlington also covers all the major races](https://yourarlington.com/arlington-archives/town-school/elections/18112-townelection-21.html).  The [League of Women Voters has detailed overview of all candidates](http://lwva.com/LWVGuide2021.pdf) and has a [video of Candidate's Night](https://www.youtube.com/watch?v=1wbynWNckE4).
 
