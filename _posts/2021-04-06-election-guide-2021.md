@@ -21,16 +21,18 @@ Bob Sprague's [Your Arlington also covers all the major races](https://yourarlin
 
 ## Select Board - electing 2 seats for 3 years
 
-Read [all about the Select Board](/townhall/#select), and view my [Meeting Agenda Tracker](/meetings/select/).
+Read [all about the Select Board](/townhall/#select), and view my [Meeting Agenda Tracker](/meetings/select/), and watch the [ACMi Select Board debate](https://www.youtube.com/watch?v=qwMxS5Gmhlc&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=1).
 
 ### Eric D. Helmuth
 - [Candidate website](https://www.ericforselectboard.com/) / [Facebook page](http://facebook.com/ericforselectboard)
 - [Your Arlington profile or interview](https://yourarlington.com/arlington-archives/town-school/elections/18145-helmuth-122920.html)
+- [ACMi Interview](https://www.youtube.com/watch?v=p0XDWFy0AWU&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=8)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55664)
 
 ### Jennifer R. Susse
 - [Candidate website](https://www.susseforselectboard.com/) / [Facebook page](https://www.facebook.com/susseforselectboard/)
 - [Your Arlington profile or interview](https://yourarlington.com/arlington-archives/town-school/elections/18109-susse-121620.html)
+- [ACMi Interview](https://www.youtube.com/watch?v=oUiMdyZRlDQ&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=7)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55668)
 
 ### John V. Hurd _(incumbent)_
@@ -45,16 +47,18 @@ Read [all about the School Committee Board](/townhall/#school), and view my [Mee
 
 ### Jane Pierce Morgan _(incumbent)_
 - [Candidate website](https://www.janepmorgan.com/janepmorgan.com/Welcome.html) / [Facebook page](https://www.facebook.com/janemorganschoolcommittee/)
+- [ACMi Interview](https://www.youtube.com/watch?v=bmnGjKubQ0c&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=6)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55566)
 
 ### Jeffrey D. Thielman _(incumbent)_
 - [Candidate website](http://www.jeffthielman.com/) 
+- [ACMi Interview](https://www.youtube.com/watch?v=zbI_hDjaS0k&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=5)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55674)
 
 
 ## Assessors electing 1 seat for 3 years
 
-Read all [about the Board of Assessors](/townhall/#assessors).
+Read all [about the Board of Assessors](/townhall/#assessors) and [watch the ACMi Assessors Debate](https://www.youtube.com/watch?v=_T9rsP8Bad0&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=2).
 
 ### Kevin P. Feeley _(incumbent)_
 - [Candidate website]()
@@ -63,6 +67,7 @@ Read all [about the Board of Assessors](/townhall/#assessors).
 ### Guillermo S. Hamlin
 - [Facebook page](https://www.facebook.com/gshamlinfor14/)
 - [Your Arlington profile or interview](https://yourarlington.com/arlington-archives/town-school/elections/18237-hamlin-011721.html)
+- [ACMi Interview](https://www.youtube.com/watch?v=nEfykZziXlk&list=PLztbi9KA9roWEdyqqohpVw-F1EEZBp4cP&index=4)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55678)
 
 ### Phillip P. Lohnes
@@ -81,6 +86,8 @@ Read all [about the Board of Assessors](/townhall/#assessors).
 ### Kelda Kristen Fontenot
 - [Candidate website](https://www.votekelda.com/) / [Facebook page](https://www.facebook.com/VoteKelda)
 - [Your Arlington profile or interview](https://yourarlington.com/arlington-archives/town-school/elections/18530-fontenot-031621.html)
+- [Wicked Local campaign letter](https://docs.google.com/document/d/1EMoSfygSevAk6f-OjaJtsiox-KaRRrklCzww9eQxjtc/edit) 
+- [ACMi Interview](https://www.youtube.com/watch?v=GL1uqWEJlww)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55662)
 
 
