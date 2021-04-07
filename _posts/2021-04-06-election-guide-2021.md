@@ -74,6 +74,7 @@ Read all [about the Board of Assessors](/townhall/#assessors).
 ## Housing Authority electing 1 seat for 5 years  
 
 ### Nicholas C. Mitropoulos _(incumbent)_
+- [Candidate website](http://www.reelectnickaha.com/)
 - [Your Arlington profile or interview](https://yourarlington.com/arlington-archives/town-school/elections/18540-mitropoulos-031821.html)
 - [Official 8-day campaign finance report](https://www.arlingtonma.gov/home/showpublisheddocument?id=55564)
 
