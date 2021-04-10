@@ -18,6 +18,8 @@ Debating how to vote?  The best way to learn about the candidates is to read the
 
 Bob Sprague's [Your Arlington also covers all the major races](https://yourarlington.com/arlington-archives/town-school/elections/18112-townelection-21.html).  The [League of Women Voters has detailed overview of all candidates](http://lwva.com/LWVGuide2021.pdf) and has a [video of Candidate's Night](https://www.youtube.com/watch?v=1wbynWNckE4).
 
+**Curious About Town Meeting Votes?**  Dylan and other folks have a great [visualization of Town Meeting Member's votes per warrant article](https://www.votesmartarlington.com/) in 2020!
+
 
 ## Select Board - electing 2 seats for 3 years
 
