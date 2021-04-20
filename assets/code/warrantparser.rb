@@ -21,6 +21,7 @@ module WarrantParser
   - Save raw HTML of underlying agenda
   - Add id='warrantparse' to enclosing TABLE
   - Run this and double-check output is correct
+  - NOTE: Format changed between 2020 - 2021!
   HEREDOC
   extend self
   require 'nokogiri'
@@ -84,7 +85,7 @@ module WarrantParser
     'misc' => 'Various other articles'
   }
 
-  # Parse a single NOVUSAgenda table row
+  # Parse a single NOVUSAgenda table row from HTML
   # @param node tr from a warrant (may be blank spacer row)
   # @param data to fill in if has valid article data
   def parse_row(row, data)
@@ -99,11 +100,8 @@ module WarrantParser
           hash['id'] = hash['article'].downcase.gsub(/\s*/, '')
           hash[STYLE_MAP[LINK_S]] = a['href'] # TODO Scrub escapes?
           
-        when TITLE_S # Grab all strong text
-          strong = col.search('strong')
-          strong.each do |s|
-            (hash[STYLE_MAP[TITLE_S]] ||= "") << s.text.strip
-          end
+        when TITLE_S # Grab all text (as of 2021, is no longer strong)
+          (hash[STYLE_MAP[TITLE_S]] ||= "") << col.text.strip
           
         when TEXT_S # Note: not consistently structured; just grab all text
           hash[STYLE_MAP[TEXT_S]] = col.text.strip # TODO Scrub for cruft?
@@ -133,7 +131,7 @@ module WarrantParser
     data << hash unless hash.empty?
   end
     
-  # Parse warrant and output array of hashes of semi-structured data
+  # Parse warrant HTML table with id=warrantparse and output array of hashes of semi-structured data
   # @param f filename to read
   def parse_warrant(f)
     doc = Nokogiri::HTML(File.read(f))
