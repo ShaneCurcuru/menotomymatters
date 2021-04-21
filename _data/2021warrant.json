@@ -10,6 +10,11 @@
     "related": [
       "article2",
       "article65"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -23,6 +28,11 @@
     "related": [
       "article3",
       "article5"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -48,6 +58,11 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -61,6 +76,11 @@
     "related": [
       "article3",
       "article5"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -71,6 +91,8 @@
     "text": "To see if the Town will vote to amend Title II Article 12 (“Community Preservation Act Committee”) Section 1(c) of the Town Bylaws remove term limits for CPAC at-large members, and replace it with a provision for member removal based upon a majority vote of the member’s appointing authority; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article6",
       "article7",
@@ -89,6 +111,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board supports this article to remove term limits for “at large” Community Preservation Act Committee (CPAC) members. Term limits are not required under the Community Preservation Act; nor are they imposed on other CPAC members. Most importantly, volunteers for CPAC membership, at-large and otherwise often need several CPA funding cycles to become fully familiar with CPA program areas. There is sufficient turnover to provide opportunities for fresh perspectives on CPAC without automatically disqualifying persons who have invested time and energy to become knowledgeable in the work of the committee.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -99,6 +127,8 @@
     "text": "To see if the Town will vote to amend Title VI of the Town Bylaws to add a new provision to require rock excavation in residential or commercial development be conducted by blasting rather than chipping, digging, or other means of mechanical excavation consistent with the requirements of state law wherever such means of excavation is determined safe and feasible, and to further set forth the scope of applicability, terms, and conditions of such requirements; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article6",
       "article7",
@@ -117,6 +147,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board recommends positive action on placing an additional requirement on the development of rock-removal-intensive lots in Arlington in the interests of ensuring consideration of alternatives to highly disruptive, lengthy, extensive rock chipping projects in Arlington, which often pose to abutters and neighborhoods. In short, the proposed bylaw would not require excavation by “blasting.” It would however require that developers conduct an analysis of the feasibility of blasting, including engaging abutters within 250 feet before commencing an excavation of a magnitude of 50 or more cubic yards consistent with State Fire Safety standards. Projects of that scope have been the subject of increasing concern and complaints in recent years as rock-chipping and other mechanical means of excavation carry on for weeks or in extreme cases, months. It is important to note that “blasting” is already permitted by State law and should be conducted pursuant to extensive regulations, established in 527 CMR 1.00, summarized by a pamphlet from the State provided in the appendix to this report. The proposal before Town Meeting does not change anything about blasting requirements. In discussing this matter at hearing, some residents expressed concerns with blasting projects in their neighborhoods and reported that they were unaware of some of their rights. Such matters are outside the scope of this article, but this proposal provided opportunity for Town staff to examine those concerns and determine whether additional tools are available to persons with site specific issues under the Town or State’s present rules and regulations.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -125,7 +161,15 @@
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=11448&MeetingID=1317",
     "title": "BYLAW AMENDMENT/CANINE CONTROL FEES & FINES",
     "text": "To see if the Town will vote to amend the Town Bylaws, Title VIII, Article 2 (“Canine Control”) Section 4 to clarifying canine licensing registration deadlines, and adjust penalties; or take any action related thereto.",
-    "insertby": "(Inserted at the request of the Town Clerk)"
+    "insertby": "(Inserted at the request of the Town Clerk)",
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "The Select Board supports these straightforward amendments to the Town’s dog licensing bylaw provisions requested by the Town Clerk. The proposed changes make the bylaw easier to understand and enforce by clarifying timelines, reducing initial registration penalties, and better empowering the Clerk’s Office to pursue late fees for failure to pay the reduced fines.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 9",
@@ -135,6 +179,8 @@
     "text": "To see if the Town will vote to amend the Town Bylaws, Title V, Article 1 Section 2 to reduce fines for violations greater than twenty days from $500 to $300 in accordance with state law; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article6",
       "article7",
@@ -153,6 +199,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "The proposed changes constitute administrative corrections to the amount of fines allowed under Title V, Article I (“Display of Notices”), Section 2 of the Town Bylaws following 2019 Town Meeting’s successful updates to Arlington signage regulations. A side effect of moving most signage regulation into the Zoning Bylaw is that the Town Bylaws’ regulation of temporary of “Notices,” such as lost-pet, yard sale, and Town committee temporary flyers and signs are no longer tethered to state laws governing outdoor advertising, which authorized higher levels of fines that state law affords for Bylaw violations. Accordingly, the Town’s fine for violations of the Display of Notices Bylaw cannot now exceed $300. Therefore, the Select Board recommends Town Meeting adopt this administrative change to accurately reflect the maximum cap on Bylaw fines under the law.",
+        "https": "Select Board Report"
+      }
     ]
   },
   {
@@ -163,6 +215,8 @@
     "text": "To see if the Town will vote to amend the Town Bylaws, Title III, Article 1, Section 18 (“Street Performances”) to expand the definition of “Perform” to allow the creation of items for sale; and further to remove or amend the prohibition of street performances in Town parks and recreation areas; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article6",
       "article7",
@@ -181,6 +235,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board recommends no further action on this article during the 2021 Town Meeting as its proponents inform us that further examination of the issues is necessary to developing any appropriate updates and revisions to street performance definitions.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -191,6 +251,8 @@
     "text": "To see if the Town will vote to amend Title V, Article 15 of the Town Bylaws (“Stormwater Mitigation”) to update such bylaw so as to add, remove or amend definitions, clarify the bylaw’s procedures and applicability to certain projects, and adjust fees; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -206,6 +268,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board strongly recommends Town Meeting approve this comprehensive update to the Town’s present Stormwater Mitigation Bylaw requested by both the Town’s Engineering Department and the Town’s Environmental Planner. The primary goals of these updates are providing a clearer bylaw for residents and contractors, better aligning our local ordinance with MADEP and EPA NPDES Municipal Separate Storm Sewer Systems permitting (better known as the “MS4 Permit”), and improving the efficient and coordinated administration of the Bylaw. The updated bylaw achieves these goals in part by enhancing definitions and substantive terms, but affording greater discretion over process to Town staff. Such process shall be outlined in rules and regulations, a draft of which shall be available for Town Meeting’s reference along with a memorandum from the Environmental Planner further detailing the rationale for these proposed updates and alterations.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -216,6 +284,8 @@
     "text": "To see if the Town will vote to celebrate and recognize the heritage of the peoples indigenous to Massachusetts and Arlington by amending Title I, Article 6: Classification and Compensation Plans and Human Resource Bylaw, Section 16, Holidays, to rename “Columbus Day” as “Indigenous Peoples Day”; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of the Arlington Human Rights Commission)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -231,6 +301,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "This Article, inserted at the request Arlington Human Rights Commission, seeks to amend the Town Bylaws to rename the federal and state holiday on the second Monday in October known as “Columbus Day” to “Indigenous Peoples Day”. The holiday falls annually on the second Monday in October. The proposed amendment is a piece of a wider effort to celebrate and recognize the heritage of the peoples indigenous to Massachusetts and Arlington in lieu of the often mythologized 15th Century explorer Christopher Columbus and his expeditions and colonies established on behalf of the Spanish Crown.        The Select Board unanimously recommends positive action on this article, and notes that the Massachusetts Legislature is presently considering similar changes to the state law. We further note that the above motion includes the language “known as the state and federal holiday ‘Columbus Day’” to make it clear that a new holiday is not being created for Town employees.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -241,6 +317,8 @@
     "text": "To see if the Town will vote to amend Title I, Article 6: Classification and Compensation Plans and Human Resource Bylaw, Section 16, Holidays, to include Juneteenth Independence Day in the list of holidays, in accordance with Clause Eighteenth of Section 7 of Chapter 4, and Sections 13 and 16 of Chapter 136, of the General Laws of the Commonwealth of Massachusetts, as amended by the bill signed by Governor Charlie Baker on July 24, 2020; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of the Arlington Human Rights Commission)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -256,6 +334,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "This Article has also been inserted at the request of the Arlington Human Rights Commission for the purpose of recognize a Massachusetts state holiday – Juneteenth Independence Day – a celebration of the anniversary of June 19, 1865, when African-Americans in Galveston, Texas first learned of the Emancipation Proclamation, passed more than two years earlier. The Commonwealth originally recognized Juneteenth in 2007 as set forth in G.L. c. 6 sec. 15BBBBB, but on a Sunday. In 2020, Massachusetts’ recognition of the holiday was amended so that it would be observed on the 19th of June and thus created a new observed holiday. The Board thus recommends positive action on this article to join the State in commemorating the importance of Juneteenth. As a technical matter, it should be noted that the Town is still working on how the observance of Juneteenth will affect various Town employees and collective bargaining units.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -266,6 +350,8 @@
     "text": "To see if the Town will vote to amend Title VII, Historic Districts, in Article 4, by adding a provision whereby the replacement of existing gutters with fiberglass gutters, made by an approved manufacturer, may be allowed administratively, without the necessity of notice or hearing; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of the Arlington Historic Districts Commission)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -281,6 +367,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board appreciates and recommends positive action on this article to provide a new “exemption” from Arlington Historic District Commissions (“AHDC”) review for compliance with Historic District requirements. In brief, the AHDC’s experience is that appropriate modern fiberglass gutter products can sufficiently replicate the appearance of much more expensive and difficult to procure wooden gutters. As such, it does not make sense for such updates to be submitted for a full AHDC review for a certificate of appropriateness. Rather, homeowners in historic districts can simply apply for a certificate of non-applicability, which can be handled much more efficiently and without consuming as much of the commissions’ or owners’ time and resources.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -291,6 +383,8 @@
     "text": "To see if the Town will vote to amend Title I of the Town Bylaws to add a new provision to formally acknowledge domestic partnerships; define the parameters of domestic partnerships in Arlington, provide an opportunity to register such partnerships at the Office of the Town Clerk; and afford the ability to obtain a certificate attesting to their status; and share in certain rights and benefits conferred under such status under the Bylaw; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of the Rainbow Commission) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -306,6 +400,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board unanimously supports the formal recognition of domestic partnerships through adoption of this proposed Bylaw, which was also endorsed by the Town’s LGBTQIA+ Rainbow Commission. The Board recognizes that as part of the Town’s ongoing commitment to the fair and equitable treatment of its residents, a formal recognition of domestic partnerships is appropriate. A discussion of the possibility of an expansion of the definition of domestic partnership to include more than two persons was held by the Board, but the Board understands and appreciates that such an expansion would rest on uncertain legal footing. Accordingly, the Select Board supports the Bylaw as proposed, to be defined as two persons who meet the requirements set forth therein. The Select Board recognizes and embraces the diversity of the Town’s population and supports the formal recognition of domestic partnerships, which will confer certain rights and benefits as outlined in the Bylaw.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -316,6 +416,8 @@
     "text": "To see if the Town Meeting will vote to amend Title VI of the Town Bylaws to require a rodent survey-assessment of property undergoing foundation excavation before excavation begins; in order to 1) locate burrows and 2) apply integrated pest management with proven large-scale effectiveness (e.g. dry ice); or take any action related thereto. ",
     "insertby": "(Inserted at the request of Elaine Crowder and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -341,6 +443,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board values the intentions of this article, which is both to promote integrated pest management and address rodent infestations before major site work begins on demolitions and other significant projects. Unfortunately, State law prevents the Town from enacting a bylaw proscribing the manner of pest management employed by licensed professionals. Fortunately, the Town Health and Human Services Department already performs much of the work sought by the proposed bylaw, including        requiring rodent inspection and abatement prior to building demolitions through its interpretation of the State Sanitary Code and other general laws empowering public health officials to address public health nuisances and conditions such as rodent infestations. Thus, the Board believes that the best avenue for realizing the proponents’ goals is to work with the Board of Health and Health Department to see if their existing operations can and should be extended in a manner consistent with this article.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -351,6 +459,8 @@
     "text": "To see if the Town will vote to form a Committee to study the creation of a Youth and Young Adult Advisory Board, Commission, or Committee with the ability to make recommendations to the Select Board and reports to Town Meeting regarding youth and young adult involvement in governance and youth and young adult input on all issues facing the town; or take any action related thereto. ",
     "insertby": "(Inserted by the Select Board) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -366,6 +476,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board recommends positive action on the establishment of a committee of Town Meeting to explore the options for creation of an “Arlington Youth and Young Adult Advisory Board” or similar entity. The primary goal of such a Board would be proactively garnering youth perspectives on a wide array of Town policies, practices and issues, and to foster engagement that flows from including Arlington Youth in our government. It is the expectation of the Select Board that the proposed study committee would evaluate the scope and parameters for operation of similar boards in other communities; determine whether or not such a body would be effective and useful in Arlington; and make recommendations at a future Town Meeting for the creation of such an advisory board or other actions as dictated by their collective findings.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -376,6 +492,8 @@
     "text": "To see if the Town will vote to establish a Committee of the Town Meeting to examine the current issues related to residential development in the R0, R1, R2, R3, and R4 zoning districts. These issues shall include, but not be limited to, effects on the neighborhood during teardown and construction activities; new construction impacts on neighborhood character/environment; permanent negative 5 impacts on abutters; loss of healthy tree canopy; and exacerbation of particular negative impacts on abutters with existing non-conforming lots. Members of the Committee shall be appointed by the Town Moderator, and consist of not less than 5 nor more than 9 members. A quorum shall consist of a majority of the appointed members. Members of the Committee shall be residents of the Town, a majority of whom shall be persons who are not Town employees and/or have no financial interest (either directly or indirectly) in the development, building, or real estate communities. The Committee’s objectives will include development of recommendations for proposing new zoning and general bylaws and/or amendments, as applicable, to provide long-term mitigation of the significant issues identified; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of Paul Parise and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -391,6 +509,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board commends Mr. Parise and other proponents of this article for continued advocacy on issues of residential development in Arlington. As the Select Board understands it, the goal of this article is to re-establish a version of the “Residential Study Group” created at the 2016 Town Meeting, but with a more limited membership. The Select Board’s primary concern is that the subject of the proposed committee’s work is precisely the role of the ARB as the Planning Board. Hence, the proposal is essentially to create a new committee to engage already existing boards and committees like the ARB and the Zoning Bylaw Review Committee.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -401,6 +525,8 @@
     "text": "To see if the Town will vote to establish a committee to learn the annual cost of auto and property insurance premiums and insurance claims in the Town of Arlington; or take any action related thereto. ",
     "insertby": "(Inserted by the Select Board at the request of Andrew Fischer and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -416,6 +542,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The majority (4-1) of the Select Board recommends no action on this article to establish a committee to canvass residents about costs of their private insurance and claims and study models for the Town to provide municipal auto and property casualty insurance programs for residents. While all members were interested in the proponents’ discussion points and appreciated the idea conceptually, the balance of the Board could not see the practical municipal use of commissioning a study committee on this subject given the complexities and unlikely possibility that the Town would provide insurance to residents.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -426,6 +558,8 @@
     "text": "To see if the Town will vote to establish parameters for interactive, simultaneous remote participation by members of the public in meetings of all public bodies in the Town of Arlington; or take any action related thereto.",
     "insertby": "(Inserted at the request of Elizabeth Dray and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -451,6 +585,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board requests Town Meeting’s support for the creation of a study committee to evaluate the extension of remote participation opportunities in public meetings after the suspension of the Open Meeting Law’s requirement for in-person meetings is lifted. As Town Meeting knows, all public bodies are required to have meetings in-person in physical locations. However, the Select Board is responsive to the observation that video-conference meetings under pandemic conditions have largely increased public participation in public meetings. While the Board is cognizant of legal and logistical limitations of some facets of “hybrid” meetings, it unanimously supports a focused, short-term study committee to examine which committees and commissions and which portions of meetings ought to be made accessible for public participation by remote means; how to best provide such remote access; and what costs in equipment, staffing, and support would be necessary to adequately provide same.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -461,6 +601,8 @@
     "text": "To see if the Town will vote a warrant seeking to earmark a majority percentage of municipal funds allocated for affordable housing for those households/individuals making at or under 60% AMI; or take any action related thereto.",
     "insertby": "(Inserted at the request of John Sanbonmatsu, Laura Kiesel and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -486,6 +628,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board recognizes and concurs with much of the spirit of this Article. In summary, the Article asserts that the resources of the Affordable Housing Trust Fund (“AHTF”) recently established at the November 2020 Special Town Meeting should be focused on those Arlington residents of greater needs – who have incomes at or lower than 60 % of the so-called “Area Median Income” (“AMI”). However, as was debated and discussed in developing the bylaw for the AHTF Board of Trustees at the November 2020 Town Meeting, many potential funding sources, partners, and worthy recipients, including the Community Preservation Act, Community Development Block Grants employ AMI standards with greater flexibility. To that point, AHTF funds are highly likely to be used to leverage further state, federal and private resources. Restricting yet to be appointed Trustees’ ability to fund projects that are eligible for those other resources could be counter-productive in unintended ways. Furthermore, one of the first tasks for the AHTF Board of Trustees will be developing a “Trust Action Plan” and identifying housing needs and priorities in Arlington through a process that will invite community engagement. In the Select Board’s experience, committees and commissions in these arenas prioritize funds well. Indeed the overwhelming majority, if not the all of affordable housing grants provided the Select Board and the Community Preservation Act Committee (through CDBG and CPA funds respectively) have been provided to projects supporting 60% or lower AMI residents as a matter of the choices of those respective bodies rather than a bylaw directing their priorities. The Select Board believes that we should afford the AHTF Board of Trustees the same discretion to formulate priorities and plans before the Town seeks to revise their charter bylaw only approved at the November Special Town Meeting.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -496,6 +644,8 @@
     "text": "To see if the Town will vote to provide email accounts for the use of primary contact by constituents and Town business to all members of the Town Meeting; or take any action related thereto.",
     "insertby": "(Inserted at the request of Anna Henkin and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -521,6 +671,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "While the article raises several valuable ideas for increasing engagement with Town Meeting Members and securing certain privacy interests; on balance, the majority (4-1) of the Select Board believes creating Town-administered email addresses for Meeting Members poses significant challenges that can be addressed with greater autonomy and customization by Members themselves. There may be some Town Meeting Members who do not make themselves accessible via email, but in the Board’s experience, many if not most Members establish a “TMM” email address for Meeting business separate from their personal or work email addresses. Some members of the Board expressed interest in exploring the issue further, including whether or not “alias” addresses would be technically feasible.  However, as Town Meeting knows, Meeting Members are not “municipal employees” in the same manner as town staff, other committee and commission members, or elected officials. The conflict-of-interest and open meeting laws do not apply to Town Meeting or its membership. In a similar vein, public records laws do not necessarily apply to Meeting Member communications while using personal email addresses. Using a Town administered email address could make communications between members or members and precinct residents public records. Moreover, providing Meeting Member Town email accounts would not require Meeting Members to necessarily utilize them, and may require significant tech support. Thus, the Select Board is not convinced that the benefits of this Article’s proposal outweigh new issues created by it.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -531,6 +687,8 @@
     "text": "To see if the Town will vote to study how to implement an Affordable Housing Overlay District; or take any action related thereto.",
     "insertby": "(Inserted at request of Guillermo Hamlin and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -556,6 +714,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board is grateful to the proponents of this article for bringing the concept of an Affordable Housing Overlay District to the forefront, and providing several examples and models for both the Board and the public’s review. The Board recommends no action not because it does not find the proposal compelling, but because the process of updating the Housing Production Plan later this year is the ideal vehicle for pursuing development of Affordable Housing Overlay District proposals.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -566,6 +730,8 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation to elect Town offices by Ranked Choice Voting; or take any action related thereto. ",
     "insertby": "(Inserted by the Select Board at the request of the Election Modernization Committee)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -581,6 +747,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "(4-1) The Select Board requests Town Meeting’s support for this recommendation by the Election Modernization Committee to join a number of other Massachusetts jurisdictions in employing “Ranked Choice Voting” (“RCV”) for Town elections should Arlington voters agree following a local ballot question.In summary, RCV is an electoral method by which voters rank candidates by preference rather than voting for a single candidate (or multiple candidates where more than one seat is available). The Select Board is unanimous in its support for RCV in single seat elections.  In a standard race for a single seat with three or more candidates if any candidate obtains more than fifty percent of the votes in the first tabulation they are declared the winner. If not, the candidate with fewest “first-preference” votes is eliminated and those voter’s second choices are counted. This process of eliminating the candidate with fewest votes and elevating the next preference is repeated until two candidates remain. When two candidates remain, the candidate with the most votes — necessarily a majority of the votes in the final round — wins.  In a multi-seat election, the Select Board recommends a modification from previous proposals submitted to Town Meeting. The Select Board is recommending a ‘majoritarian” RCV approach (as opposed to the “proportional” model). The majoritarian RCV uses the same process as for a single-seat race, but that process is iterated as many times as there are open seats. After the first seat is filled, the winning candidate’s name is removed from choices and the process is repeated.  While there are some concerns about the need for further public outreach and unintended consequences of RCV, the majority of the Board believes that RCV, especially utilizing the majoritarian model, will allow voters to express more nuanced candidate preferences, make running for office more accessible, and enhance voter participation that better reflects voter positions.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -591,6 +763,8 @@
     "text": "To see if the Town will vote to authorize and request the Select Board to file Home Rule Legislation or other Special Legislation which would permit the Town to impose a real estate transfer fee or tax for the purposes of acquiring, creating, preserving, rehabilitating, restoring and supporting affordable housing in the Town; said fee or tax to be levied on the buyer, seller, or both on the purchase price of qualifying real estate, the proceeds of which are to be deposited in an Arlington Affordable Housing Trust Fund established pursuant to Section 55C of Chapter 44 of the General Laws; to set forth the rate, the qualifications for applicable transfers, and exemptions of and to such a tax or fee; and to authorize the procedures and requirements necessary for the collection of such fee; or take any action related thereto.",
     "insertby": "(Inserted by the Select Board at the request of the Housing Plan Implementation Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -606,6 +780,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board endorses the next step in securing steady, independent sources of revenue to assist the newly created Arlington Affordable Housing Trust Fund (“AHTF”) in supporting affordable housing throughout Arlington – filing special legislation to authorize a local real estate transfer fee. At the outset, it should be stressed that the proposal before Town Meeting, as recommended by the Housing Plan Implementation Committee is contingent upon 1) the Meeting’s approval; 2) a successful special act in the Legislature; and 3) a positive local ballot question vote to establish a fee.  If all of those approvals are gained, the Town would assess a fee of between .05 and 2.00 % of the total purchase and sale price of real estate in Arlington to benefit the specific and limited purpose of supporting AHTF projects. This Board would be charged with recommending to Town Meeting for vote or bylaw the minimum sale price for triggering application the transfer fee (for all eligible transactions, not on a case-by-case basis), apportioning responsibility for the fees, and setting the rate itself for all transactions, but many common transfers would be exempt. For example a transfer or property between immediate family where little or no financial consideration is involved would be exempt. Moreover, any transfer valued at under 100% of the statewide median sale price ($445,000 in 2020) would also be exempt. The benefits to affordable housing programs in Arlington, even at the lowest rates or applied to only higher value transactions would be substantial, as evidenced by this table provided by the Department of Planning and Community Development: (see chart in Select Board Report) Finally, the Select Board remains committed to sound management of all funds, including those placed in the AHTF through a transfer fee. The Board emphasizes the importance of the reporting requirements set forth in the transfer fee special legislation and expects the AHTF’s “Trust Action Plan” and related Town departments to identify how funds are expected to be prioritized and expended.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -634,6 +814,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "This article represents the annual vote to endorse the annual application for Community Development Block Grant funds, a summary of which Town Meeting may find attached to this report. ",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -644,6 +830,8 @@
     "text": "To see if the Town will vote to hear or receive a report concerning the receipts and expenditures of approved revolving funds, amend the Town Bylaws to adopt new revolving funds, and/or to appropriate sums of money to such revolving funds and determine how the money shall be raised or expended; or take any action related thereto.",
     "insertby": " (Inserted by the Select Board) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/board-of-selectmen",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article4",
       "article11",
@@ -659,6 +847,12 @@
       "article27",
       "article47",
       "article48"
+    ],
+    "supplements": [
+      {
+        "comment": "The above summary represents the annual vote to receive reports on expenditures and receipts of the various Town revolving funds and to authorize and reauthorize such funds in accordance with state law. These funds must be reauthorized annually in order to enable expenditures from them, and as such, must be included in our abbreviated Town Meeting session. Additional materials regarding the Revolving Funds have also been included in the Appendix to this report for further consideration.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -1404,6 +1598,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1432,6 +1631,10 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+      }
     ]
   },
   {
@@ -1442,6 +1645,8 @@
     "text": "To see if the Town will vote to endorse the Parking Benefit District operating and capital expenditures for Fiscal Year 2022 prepared by the Town Manager and the Select Board consistent with the Town Bylaws; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article6",
       "article7",
@@ -1460,6 +1665,12 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        "comment": "Pursuant to Title I, Article 11 of the Town Bylaws, “Parking Benefit District Expenditures,” proposed Parking Benefit District Operating and Capital Expenditures are  prepared by the Town Manager and the Parking Implementation Governance Committee (“PICG”) before submission for endorsement by the Finance Committee and Capital Planning Committee respectively; and subsequently Town Meeting. The Select Board approves the Manager and PICG’s proposal to the Capital Planning and Finance Committees and urges Town Meeting’s support as well.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -1488,6 +1699,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1516,6 +1732,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1544,6 +1765,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1572,6 +1798,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1584,6 +1815,11 @@
     "inserturl": "https://www.arlingtonma.gov/departments/treasurer",
     "related": [
       "article57"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1612,6 +1848,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1640,6 +1881,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1668,6 +1914,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1680,6 +1931,11 @@
     "inserturl": "http://www.arlington.k12.ma.us/home/",
     "related": [
       "article61"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1708,6 +1964,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1736,6 +1997,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1764,6 +2030,11 @@
       "article62",
       "article63",
       "article64"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1777,6 +2048,11 @@
     "related": [
       "article2",
       "article65"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1812,6 +2088,11 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1820,7 +2101,12 @@
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=11507&MeetingID=1317",
     "title": "APPROPRIATION/COMMUNITY PRESERVATION FUND",
     "text": "To see if the Town will vote to make appropriations from the Community Preservation Fund for eligible community preservation projects; for community preservation reserve accounts for historic preservation, open space and recreation, and affordable housing; for Community Preservation Act Committee administrative expenses or other eligible expenses; or take any action related thereto.",
-    "insertby": "(Inserted at the request of the Community Preservation Act Committee) "
+    "insertby": "(Inserted at the request of the Community Preservation Act Committee) ",
+    "supplements": [
+      {
+        
+      }
+    ]
   },
   {
     "article": "ARTICLE 68",
@@ -1832,6 +2118,11 @@
     "inserturl": "https://www.arlingtonma.gov/departments/health-human-services/council-on-aging",
     "related": [
       "article68"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1842,6 +2133,8 @@
     "text": "To see if the Town will vote pursuant to M.G.L. c. 71 Section 52 to provide all Arlington School Committee Members compensation consisting of an annual stipend of $3000 per member commencing in Fiscal Year 2023; or take any action related thereto.",
     "insertby": "(Inserted at the request of Christa Kelleher and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -1867,6 +2160,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board supports this petitioner-led effort to provide members of the School Committee the same stipend afforded to members of the Select Board in recognition of their commitment of time and resources to serving as Arlington Public Schools’ chief elective body. As the proponent of this Article expressed, it is equitable to provide School Committee members in Arlington the same type of stipend afforded members in many other communities and to this Board – the Town’s chief elective body. While the Select Board defers to the Finance Committee for the source of appropriation, we encourage Town Meeting to support establishing this stipend at this rate (a specific rate is required by G.L. c. 71 sec. 52). It should be noted that a stipend at this level does not confer health insurance or retirement benefits to any current members of the School Committee.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -1875,7 +2174,15 @@
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=11510&MeetingID=1317",
     "title": "VOTE/TOWN CLERK STUDY",
     "text": "To see if the Town will vote request and or appropriate a sum of money to study the options for conversion of the Town Clerk position from an elected to an appointed office; or take any action related thereto. ",
-    "insertby": "(Inserted at the request of the Town Clerk) "
+    "insertby": "(Inserted at the request of the Town Clerk) ",
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "The instant warrant article was inserted at the request of the Town Clerk, and the balance of the Board supports the Finance Committee’s vote to the appropriate up to $10,000 to conduct a community study on the conversion of the office of the Town Clerk from elected to appointed. The majority (4-1) of the Board believes that the issue is worth study to evaluate the potential benefits of professionalizing the elected position, noting some of the benefits of converting the Town Treasurer to an appointed office several years ago. Several Board members stressed that supporting study does not guarantee a given outcome. The minority view expressed concerns about consideration of taking a directly-elected office away from voters.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 71",
@@ -1888,6 +2195,11 @@
     "related": [
       "article71",
       "article72"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1901,6 +2213,11 @@
     "related": [
       "article71",
       "article72"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1918,6 +2235,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1935,6 +2257,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1952,6 +2279,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1969,6 +2301,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1986,6 +2323,11 @@
       "article75",
       "article76",
       "article77"
+    ],
+    "supplements": [
+      {
+        
+      }
     ]
   },
   {
@@ -1996,6 +2338,8 @@
     "text": "To see if the Town will vote to adopt a resolution recognizing Arlington’s tree canopy as a public health resource; or to take any action related thereto.",
     "insertby": "(Inserted at the request of Beth Melofchik and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2021,6 +2365,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "As a general matter, the Select Board supports recognizing and supporting the value of Arlington’s tree canopy. It is not yet clear what the resolution proposes to add to the Town’s commitment to or recognition of such a resource whether articulated in the Town’s already existing “Tree Protection and Preservation Bylaw;” evidenced in the work of the Tree Committee established by the Select Board; or as protected by the Town’s Wetlands Bylaw, or even the General Law’s public shade tree laws. For example, the Town’s Tree Preservation bylaw highlights the importance of trees relative to air quality, heat, noise pollution, and flood control, as well as their aesthetic value. While a minority of the Board sees no harm in forwarding the resolution to Town Meeting, the majority (4-1) does not wish to recommend a resolution without understanding with some specificity what the resolution seeks to recognize where there is broad agreement between the Select Board, Town Departments, and Town Meeting.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2031,6 +2381,8 @@
     "text": "To see if the Town will vote to urge the Arlington Historic Districts Commission to allow installation in the Historic Districts of any solar panel, heat pump, or other energy-efficient technology that does not cause irreversible changes to historic features or materials; or to take any action related thereto.",
     "insertby": "(Inserted at the request of Susan R. Doctrow and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2056,6 +2408,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board invites support for this non-binding resolution of encouragement to the Arlington Historic District Commissions (“AHDC”) to aid in promoting installation of clean energy technologies like solar panels and heat pumps on, or appurtenant to historic homes of Arlington so long as underlying historic resources are not irreversibly damaged or changed. Consistent with our vote and recommendation on a Declaration of a Climate Emergency, the Select Board encourages every Town board, body and commission to identify ways in which it can promote clean energy technologies that reduce the Town’s carbon footprint. The Select Board stresses that it well understands the AHDC is charged with the frequently difficult task of balancing historic preservation interests against other compelling interests. There are limits under both c. 40C and the Town’s Bylaws to the Commissions’ ability to broadly exempt clean energy technology from review. Further, the Board appreciates the AHDC’s work with applicants on this subject to date, including its application of Design Guidelines specifically for solar panel projects. Indeed, at hearing this Board observed a mutual recognition between AHDC members and representatives from Sustainable Arlington of the substantial efforts made by all interested parties to work on these issues. The Select Board believes this article to be a good faith effort to express support for affording clean technologies flexibility within the AHDC’s standards and processes, and joins in same.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2066,6 +2424,8 @@
     "text": "To see if the Town will vote to endorse a resolution calling for a quarterly report of achievements based on the original departmental plan, finalized January 2015, to be provided to the Select Board; or take any action related thereto.",
     "insertby": "(Inserted at the request of Barbara Thornton and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2091,6 +2451,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board appreciates the proponent’s proposal and discussion about establishing regular reporting on the state of Arlington’s facilities in a public meeting of the Board. The Board makes this recommended vote of no action because a resolution of Town Meeting is not required for the Select Board to take this valuable idea under advisement. Indeed, rather than vote to recommend a Town Meeting discussion of a matter under its jurisdiction, the Select Board voted to establish a bi-annual facilities reporting schedule and set forth parameters for same after hearing.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2101,6 +2467,8 @@
     "text": "To see if the Town Meeting will vote to allow the Town to plan and sponsor a design competition to encourage new housing and mixed use construction in the Broadway Corridor area of Arlington. This 16 warrant article builds on findings from the Fall 2019 Broadway Corridor Study, and creates a \"demonstration area project\"; or take any action related thereto. ",
     "insertby": "(Inserted at the request of Barbara Thornton and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2126,6 +2494,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board endorses this resolution to provide creative context for many of Arlington’s most pressing and controversial issues – creation of affordable housing, economic development, improving transportation options and the zoning and other policy matters that intersect with each. In brief, the purpose of the resolution is to encourage the Town to build upon the findings and recommendations of the 2020 MIT “Building a Better Broadway: Planning Study for the Broadway Corridor, Arlington MA” report by inviting design professionals to translate those recommendations into conceptual proposals for the Broadway Corridor in East Arlington. While the resolution is non- binding, it provides support for an effort that would likely require partnerships to realize, and helps to frame many of the important concerns frequently subject to debate across Town government.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2136,6 +2510,8 @@
     "text": "To see if the Town will vote to support the development of a practice by the Town Meeting Procedures Committee for prompting proponent and opponents of Town Meeting Warrant Articles to register in advance of the beginning of the first night of Town Meeting to allow for the equal presentation of perspectives; or take any action related thereto.",
     "insertby": "(Inserted at the request of Barbara Thornton and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2161,6 +2537,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board appreciates the goals of the proponent, but also respects the Town Moderator’s objections, as well as Arlington’s long-standing practices in a representative Town Meeting. Town Meeting may by resolution comment on the Moderator’s administration of the Meeting of course. However, in sum, while well intentioned, the Moderator has serious concerns about developing speaker lists or limiting discourse outside of the proceedings of the Meeting in ordinary contexts. The majority (4-1) of the Board is inclined to defer to the Moderator.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2171,6 +2553,8 @@
     "text": "To see if the Town will vote to endorse a resolution in support of directing at least one member of each Town government initiated citizen committee to have formal training or certification as a “Facilitator” in order to help ensure that the committee is a place where all members are respected, allowed to speak, are not intimidated and that agendas are developed that lead to productive outcomes or to reassess the productivity and purpose of every committee at least once every five years to re-authorize the committee’s purpose and continuity; or limit the number of Town government-initiated committees to no more than seven per year; or take any action related thereto.",
     "insertby": "(Inserted at the request of Barbara Thornton and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2196,6 +2580,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board (4-1) recognizes the issues highlighted by the proponent and respects the desire to provide training and resources to boards and commissions where needed. However, Town Meeting has no authority to require any public body engage in such programs. Moreover, it would seem more appropriate to evaluate the need for such resources on a case-by-case basis and then work with relevant town or school departments and support staff to identify available training opportunities tailored to specific circumstances.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2206,6 +2596,8 @@
     "text": "To see if the Town will vote to endorse a resolution calling for a the Director of the Arlington Housing Authority to be formally invited to present the AHA proposed annual budget and other key initiatives to the Town Meeting as a regular, annual event; or take any action related thereto.",
     "insertby": "(Inserted at the request of Barbara Thornton and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2231,6 +2623,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board supports an invitation being extended to the Arlington Housing Authority (“AHA”), but notes that neither it, nor Town Meeting have any  authority to require AHA, which is governed by the State’s Department of Housing and Community Development, not the Town. The Board urges no action because the Town Moderator, present at hearing, advised the proponent and the Board that he will extend an invitation to AHA this year and every following year.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2239,7 +2637,15 @@
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=11525&MeetingID=1317",
     "title": "RESOLUTION/ACKNOWLEDGING NATIVE LANDS",
     "text": "To see if the Town will vote to celebrate and recognize the heritage of the peoples indigenous to Massachusetts and Arlington by resolving to encourage the reading of this land acknowledgement statement at the beginning of all public meetings of the Town; or to take any action related thereto.\r\n             \r\n            Accordingly, the text of such a land acknowledgement statement would read: \r\n            \t“We acknowledge that the Town of Arlington is located on the ancestral lands of the Massachusett Tribe, the tribe of Indigenous peoples from whom the Colony, Province, and Commonwealth have taken their names. We pay our respects to the ancestral bloodline of the Massachusett Tribe and their descendants who still inhabit historic Massachusett territories today.”",
-    "insertby": "(Inserted at the request of the Arlington Human Rights Commission)"
+    "insertby": "(Inserted at the request of the Arlington Human Rights Commission)",
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "The Select Board respectfully recommends positive action on this non- binding resolution to encourage, but not require recitation of a land acknowledgment prior to commencing public meetings in a form substantially similar to the language recommended to the Board by the Arlington Human Rights Commission. The purpose of the acknowledgments in whatever form and on whatever schedule any given public body utilizes them, is to recognize and respect peoples indigenous to Massachusetts and Arlington as historical stewards of the land we live upon and the relationship that exists between indigenous peoples in modern American and their traditional territories.  Some members of the Board noted some concern with choosing which historic and present matters bear reflecting upon prior to commencing public meetings. Similarly, Board members also noted that committee and commission chairs have substantial discretion to determine how to structure and operate their meetings. However, on balance, the Select Board unanimously agreed that a non-binding recommendation that boards and bodies provide opportunity for land acknowledgments tailored to their work is important, and that Town Meetings endorsement of same is valuable.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 86",
@@ -2247,7 +2653,15 @@
     "official": "https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=11526&MeetingID=1317",
     "title": "RESOLUTION/CELEBRATING INDIGENOUS PEOPLES DAY",
     "text": "To see if the Town will vote to celebrate and recognize the heritage of the peoples indigenous to Massachusetts and Arlington by resolving to encourage celebration of Indigenous Peoples Day throughout the Town on the second Monday in October; or take any action related thereto.",
-    "insertby": "(Inserted at the Request of the Arlington Human Rights Commission) "
+    "insertby": "(Inserted at the Request of the Arlington Human Rights Commission) ",
+    "board": "Select Board",
+    "recommend": "Select Board",
+    "supplements": [
+      {
+        "comment": "This Article from the Arlington Human Rights Commission builds upon a January 25, 2020 proclamation and is nearly identical in substance to what the Select Board has already endorsed within its capacity and jurisdiction. While there is some overlap with said previous action, the Board urges Town Meeting’s support for a non- binding Resolution to further promote the celebration of the rich and diverse history and cultures of Indigenous Peoples.    The Board takes care to note that celebrating Indigenous Peoples Day is in no way a repudiation of celebration of Italian-Americans and their forebears. The mythologized Columbus expeditions and cruel governance over Caribbean islands has little to do with Italian-Americans’ enormous contributions to United States history and culture. While it is not an easy matter to navigate ways of celebrating all of the diverse populations in the United States for their unique histories and contributions, the Board is convinced that in light of the injustices suffered by indigenous peoples and the present challenges indigenous persons and communities face, refocusing the holiday in question on the value of the  indigenous communities of the past and present should be prioritized here in Arlington as increasingly is the case throughout our neighboring communities, the Commonwealth and the nation.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
+    ]
   },
   {
     "article": "ARTICLE 87",
@@ -2257,6 +2671,8 @@
     "text": "Be it hereby resolved, that it is the will of Town Meeting that a waiver of Town bylaws be adopted to allow residents of multi-family dwelling with long, narrow driveways in Precinct 4 in East Arlington to park overnight on Town streets outside their homes. Such a waiver is intended to address the unique hardship faced by residents who experience significant delays and inconvenience during morning hours when trying to gain access to their vehicles blocked-in by those other residents; or take any action related there to.",
     "insertby": "(Inserted at the request of Silvia Dominguez and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2282,6 +2698,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board recommends no action on this article because parking regulation of public streets is within the sole jurisdiction of the Select Board. However, the Board and the article’s proponent have committed to further discussions in recognition of the substantive issues raised by the proponent.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2292,6 +2714,8 @@
     "text": "Be it hereby resolved, that it is the will of Town Meeting that the Town establish a resident permit parking program for precinct 4 in East Arlington in order to alleviate weekday street parking scarcity created by Alewife T Commuters. Such a program would make allowances for contingencies including but not limited to the parking needs of Mass Ave businesses; DPW snow removal; emergency vehicle access; and visitor parking; or take any action related thereto.",
     "insertby": "(Inserted at the request of Silvia Dominguez and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "noaction": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2317,6 +2741,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "Similar to Article 87, the Select Board recommends no action on this article because parking regulation of public streets is within the sole jurisdiction of the Select Board. However, as with the previous article, the Board and the article’s proponent have committed to further discussions of potential pilot programs in recognition of the substantive issues raised by the proponent.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2327,6 +2757,8 @@
     "text": "To see if the Town will vote to declare June 24 as Prince Hall Day; or take any action related thereto.",
     "insertby": "(Inserted at the request of Beth Melofchik and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2352,6 +2784,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board is unanimous in its support for honoring one of America’s first civil rights leaders and a too often forgotten founding father – Prince Hall by commemorating June 24th each year as “Prince Hall Day” in Arlington. Hall was a contemporary of other celebrated Boston Revolutionary Era luminaries like John Adams, likely fought at the Battle of Bunker Hill, and as early as 1777 began petitioning the Massachusetts Legislature (or “General Court”) for emancipation and education of black Commonwealth citizens.  Prince Hall advocated for civil rights informed by and through freemasonry, similar many other founding fathers. Denied admittance into white Freemason Lodges and other privileges, Prince Hall first secured the ability for black Freemasons to commemorate June 24th – “St. John’s Day” in the customs of masonic lodges of the time. Subsequently, in 1777, he established the first black Freemason lodge, “African Lodge No. 1” in Boston a formal charter granted in 1787, and served as its Grand Master. Ten years later on June 24th, 1797 Prince Hall offered “A Charge Delivered to the African Lodge at Menotomy” in   what is now known as Arlington and Cambridge (a copy of which is attached for Town Meeting’s reference). After Prince Hall's death land was purchased in 1856 on Gardner Street and a cemetery dedicated in 1864 for the Prince Hall Lodge of Freemasons, furthering Arlington’s connection to his life and legacy.   On a technical note, the Select Board notes that Town Meeting action is not required to declare an honorary day, a function performed by the Board. The Board nonetheless very much welcomes the deserved attention for Prince Hall and Arlington history at Town Meeting, and your resolution to support such a worthy cause of celebration and commemoration.  In addition to the petitioner, the Select Board recognizes the long-standing work of the Arlington Historical Society, which joins with members of the Prince Hall Grand Lodge in a Memorial Day ceremony every year at the Prince Hall cemetery.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2362,6 +2800,8 @@
     "text": "Be it hereby resolved, that this is the will of Town Meeting that the Town of Arlington should implement, along with adequate funding, a comprehensive program to install electric vehicle charging stations throughout the Town starting with East Arlington where none have been installed to date; or take any action related thereto.",
     "insertby": "(Inserted at the request of Silvia Dominguez and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2387,6 +2827,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "Consistent with many of the other resolutions of this Town Meeting, the Declaration of a Climate Emergency, the Town Manager’s “Net Zero” goals, and the ongoing efforts of the Clean Energy Future Committee and other Town boards and commissions, the Select Board unanimously recommends positive action on this Town Meeting resolution to expand the electric vehicle infrastructure throughout Arlington. The Town is already a leader in providing public electric vehicle charging stations at a variety of locations such as the Gibbs School and Town Hall. However, the growing number of electric vehicles and the Town’s commitment to carbon neutrality merit further development and planning for stations distributed in an equitable way throughout the Arlington.   While the resolution is non-binding, cultivating the momentum of Town Meeting’s support is valuable for seeking both internal and external resources and financial planning. It should however be understood that such plans must of course exist within the restraints of the Capital Budget and availability of funds.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   },
   {
@@ -2397,6 +2843,8 @@
     "text": "To see if the Town will vote to endorse a resolution calling for a Declaration of Climate Emergency in which the Town would take immediate action in areas within the Town’s authority to reduce greenhouse gas emissions, report on the quantity of the Town’s emissions, promote and encourage climate action by other government authorities, and protect the rights of people at greatest risk, for the purpose of reducing harm from the pace of warming and global ecological collapse to the maximum extent possible; or take any action related thereto. ",
     "insertby": "(Inserted at the request of Parke Wilde and ten registered voters)",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    "board": "Select Board",
+    "recommend": "Select Board",
     "related": [
       "article16",
       "article20",
@@ -2422,6 +2870,12 @@
       "article89",
       "article90",
       "article91"
+    ],
+    "supplements": [
+      {
+        "comment": "The Select Board unanimously urges Town Meeting to adopt this Climate Emergency Resolution to convey and reflect upon the urgency and centrality of the threat of climate change to the Town’s policies and commitments. While the resolution largely speaks for itself, the Board specifically wishes to highlight that the five “action steps” set forth in the resolution build upon the work and goals of the Town’s present Climate & Resiliency Planning and the Town Manager’s “Net Zero Plan,” while also reaffirming our convictions to build climate change into Town decision making within the respective boundaries of duties and authorities of various town bodies and officials. Further, this resolution follows previous efforts such as special legislation seeking to allow the Town to limit installation of fossil fuel infrastructure by urging the Town to continue to vigorously pursue new and additional tools and resources for greenhouse gas emission reductions and elimination. Finally, this resolution recognizes the fundamental role of equity and justice in attacking climate change and its impacts both locally and globally.  The Board also encourages members of Town Meeting to avail themselves of the many resources on this resolution and subject developed and published by “Emergency Arlington” on their website.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      }
     ]
   }
 ]
