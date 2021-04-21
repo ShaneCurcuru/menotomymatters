@@ -18,10 +18,11 @@ While all reports to Town Meeting are provided to the official email list ([see 
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showpublisheddocument?id=55790)
 - [Master Plan Implementation Committee](https://www.arlingtonma.gov/home/showpublisheddocument?id=55728)
 - [Capital Planning Committee]() (not available yet)
-- [Town Manager's Complete Annual Report]() (not available yet)
+- [Town Manager's Annual Budget](https://www.arlingtonma.gov/departments/town-manager/town-manager-s-annual-budget-financial-report/fy2022)
+- [FY2022 Budget Review with Arlington’s Deputy Town Manager](https://www.youtube.com/watch?v=XCZPp5qixto) <i class="fa fa-video" aria-hidden="true"></i>
 
 
-Board recommendations may be seen on articles below (in progress - not complete as of 20-April):
+Board recommendations (once published) may be seen on articles below:
 
 - <i class="fa fa-check" aria-hidden="true" style="color: green"></i> Boards recommend the article
 - <i class="fa fa-times" aria-hidden="true" style="color: red"></i> Boards that recommend "No Action"
