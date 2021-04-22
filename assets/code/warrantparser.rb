@@ -292,6 +292,47 @@ module WarrantParser
     end
     return { INSERT_BY => insertby, ARTICLE_TYPE => types}
   end
+
+  # Construct markdown text of the TOC
+  # NOTE: inefficient loops, don't use on giant files 8-)
+  # @param original warrant
+  # @return markdown text lines as a blob
+  def create_tocmarkdown(warrant)
+    insertby = Hash.new{|h,k| h[k] = []} 
+    types = Hash.new{|h,k| h[k] = []} 
+    warrant.each do |article|
+      tmp = "#{article['article']}: [#{article['title']}](##{article['id']})"
+      if article.has_key?(ARTICLE_TYPE)
+        types[article[ARTICLE_TYPE]] << tmp
+      end
+      if article.has_key?(INSERT_BY)
+        BOARD_MAP.each do |regex, l|
+          if regex =~ article[INSERT_BY]
+            insertby[regex.source] << tmp
+            break
+          end
+        end
+      end
+    end
+    s = "# Table Of Contents\n\n"
+    s << "## Articles By Submitter\n\n"
+    insertby.each do |submitter, list|
+      s << "- **#{submitter}** "
+      list.each do |itm|
+        s << "#{itm}, "
+      end
+      s << "\n"
+    end
+    s << "\n## Articles By Topic\n\n"
+    types.each do |type, list|
+      s << "- **#{type}** "
+      list.each do |itm|
+        s << "#{itm}, "
+      end
+      s << "\n"
+    end
+    return s
+  end
   
   # ## ### #### ##### ######
   # Check commandline options
@@ -321,6 +362,10 @@ module WarrantParser
       opts.on('-x', 'ONLY crossindex a previously created JSON') do |crossindex|
         options[:crossindex] = true
       end
+      opts.on('-m', 'ONLY output markdown TOC of a previously created JSON') do |markdown|
+        options[:markdown] = true
+      end
+
       opts.on('-c', 'ONLY add inserturls to committees from a previously created JSON') do |comm|
         options[:comm] = true
       end
@@ -372,6 +417,17 @@ module WarrantParser
       puts "Parsing existing file: #{options[:infile]}, crossindexing into: #{options[:out]}"
       warrant = JSON.parse(File.read(options[:infile]))
       warrant = create_tocindex(warrant) # We only write out the TOC, not back to original file
+    elsif options[:markdown]
+      # Create a markdown table of contents about articles
+      options[:infile] ||= 'warrant.json'
+      options[:out] ||= 'warrant-toc.md'
+      puts "Parsing existing file: #{options[:infile]}, markdown TOC into: #{options[:out]}"
+      warrant = JSON.parse(File.read(options[:infile]))
+      s = create_tocmarkdown(warrant) # We only write out the TOC, not back to original file
+      ### DEBUG: just output text
+      puts s
+      exit 1
+
     else
       # Default processing is to read HTML and process all data
       warrant = do_warrant(options)
