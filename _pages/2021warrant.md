@@ -17,7 +17,9 @@ While all reports to Town Meeting are provided to the official email list ([see 
 - [Select Board](https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showpublisheddocument?id=55790)
 - [Master Plan Implementation Committee](https://www.arlingtonma.gov/home/showpublisheddocument?id=55728)
-- [Capital Planning Committee]() (not available yet)
+- [Community Preservation Act Committee](https://www.arlingtonma.gov/home/showpublisheddocument/56014)
+- [Capital Planning Committee](https://www.arlingtonma.gov/home/showpublisheddocument/55968/637546097745395639)
+- [Finance Committee](https://www.arlingtonma.gov/home/showpublisheddocument/56025)
 - [Town Manager's Annual Budget](https://www.arlingtonma.gov/departments/town-manager/town-manager-s-annual-budget-financial-report/fy2022)
 - [FY2022 Budget Review with Arlington’s Deputy Town Manager](https://www.youtube.com/watch?v=XCZPp5qixto) <i class="fa fa-video" aria-hidden="true"></i>
 
