@@ -297,6 +297,10 @@
       {
         "comment": "This Article, inserted at the request Arlington Human Rights Commission, seeks to amend the Town Bylaws to rename the federal and state holiday on the second Monday in October known as “Columbus Day” to “Indigenous Peoples Day”. The holiday falls annually on the second Monday in October. The proposed amendment is a piece of a wider effort to celebrate and recognize the heritage of the peoples indigenous to Massachusetts and Arlington in lieu of the often mythologized 15th Century explorer Christopher Columbus and his expeditions and colonies established on behalf of the Spanish Crown.        The Select Board unanimously recommends positive action on this article, and notes that the Massachusetts Legislature is presently considering similar changes to the state law. We further note that the above motion includes the language “known as the state and federal holiday ‘Columbus Day’” to make it clear that a new holiday is not being created for Town employees.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      },
+      {
+        "comment": "The Finance Committee supports the favorable action recommendation of the Select Board (12-2-4)",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -331,6 +335,10 @@
       {
         "comment": "This Article has also been inserted at the request of the Arlington Human Rights Commission for the purpose of recognize a Massachusetts state holiday – Juneteenth Independence Day – a celebration of the anniversary of June 19, 1865, when African-Americans in Galveston, Texas first learned of the Emancipation Proclamation, passed more than two years earlier. The Commonwealth originally recognized Juneteenth in 2007 as set forth in G.L. c. 6 sec. 15BBBBB, but on a Sunday. In 2020, Massachusetts’ recognition of the holiday was amended so that it would be observed on the 19th of June and thus created a new observed holiday. The Board thus recommends positive action on this article to join the State in commemorating the importance of Juneteenth. As a technical matter, it should be noted that the Town is still working on how the observance of Juneteenth will affect various Town employees and collective bargaining units.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      },
+      {
+        "comment": "The Finance Committee supports the favorable action recommendation of the Select Board (12-2-4)",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1702,6 +1710,8 @@
     "text": "To see if the Town will vote to accept any local option taxes or other revenue raising options, which are made available to cities and towns through enactments of the legislature, by state regulation or court action; or take any action related thereto. ",
     "insertby": " (Inserted at the request of the Finance Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "noaction": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -1712,7 +1722,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That no action be taken under this article. No such local option taxes are available.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1725,6 +1736,8 @@
     "text": "To see if the Town will vote to appropriate or transfer a sum or sums of money for the support of public, educational, and/or governmental (“PEG”) access cable television services, said sum or sums to be provided for by the cable franchise agreements and cable licensing fees, detailed in an operational cost, building expenses, and capital expense budget, and expended under the direction of the Town Manager; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -1746,6 +1759,8 @@
     ],
     "supplements": [
       {
+        "comment": "These are funds which formerly were transferred directly from the cable providers to the cable access network (ACMI). However, the State has issued new rules requiring these funds to be appropriated through Town Meeting..",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1783,6 +1798,10 @@
       {
         "comment": "Pursuant to Title I, Article 11 of the Town Bylaws, “Parking Benefit District Expenditures,” proposed Parking Benefit District Operating and Capital Expenditures are  prepared by the Town Manager and the Parking Implementation Governance Committee (“PICG”) before submission for endorsement by the Finance Committee and Capital Planning Committee respectively; and subsequently Town Meeting. The Select Board approves the Manager and PICG’s proposal to the Capital Planning and Finance Committees and urges Town Meeting’s support as well.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      },
+      {
+        "comment": "That the Town does hereby endorse the following expenditures from the Parking Fund: ...",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1795,6 +1814,8 @@
     "text": "To see if the Town will vote to make additions, deletions and/or modifications to the Classification and Pay Plan, appropriate a sum of money to fund same if necessary, determine how the money will be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager and the Director of Human Resources) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -1816,7 +1837,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That the Classification Plan, as established by Title 1, Article 6, Section 1, Schedule A of the By-Laws, be and hereby is amended as follows: ...",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1829,6 +1851,8 @@
     "text": "To see if the Town will vote to fund any fiscal items in the event that any are contained in collective bargaining agreements between the Town and the following named collective bargaining units, and to fund for non-union, M Schedule, and elected officials’ salaries or fringe benefits, determine how the money shall be raised and expended; or take any action related thereto:\r\n            A. Local 680, American Federation of State, County and Municipal Employees; \r\n            B. Service Employees International Union; \r\n            C. Robbins Library Professional Association; \r\n            D. Local 1297, International Association of Firefighters; \r\n            E. Arlington Police Patrol Officers’ Association (formerly Arlington Patrolmen’s Association); \r\n            F. Arlington Ranking Police Officers’ Association; \r\n            G. M Schedule and non-union employees; and \r\n            H. Full-time elected officials",
     "insertby": " (Inserted at the request of the Town Manager) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -1850,7 +1874,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That the same of $671,485 is hereby appropriated, to be set aside for funding future collective bargaining agreements, said sum to be raised by general taxes and said sum shall not be expended without a future vote of Town Meeting.  COMMENT: Negotiations are still in process with several Town unions. If a settlement is achieved before the end of Town Meeting, the Finance Committee will bring that settlement before the meeting.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1922,6 +1947,10 @@
       {
         "comment": "In this Vote Summary section, we have brought forward the requested action, the Capital Budget Vote, with an explanation of its sections. The exact wording of the Capital Budget Vote immediately follows. In the main body of the report, we detail the capital planning process, its scope and sources of funding, the size of the budget, its impact on Town debt, and finally an in-depth review of the capital programs and projects.  We respectfully ask for your approval of Article 56, the Capital Budget Vote for Fiscal Year 2022, as printed in this report and in the report of the Finance Committee. As always, this vote specifically covers Fiscal Year 2022 only, not the Five-Year Capital Plan.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55968/637546097745395639": "Capital Planning Committee Report"
+      },
+      {
+        "comment": "See the Finance Committee Report for detailed recommendations on pp 15-19.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1934,12 +1963,15 @@
     "text": "To see if the Town will vote to rescind the authority to borrow, from prior years' authorizations, the amounts remaining with regard to any numbered prior Annual and/or Special Town Meeting Warrant Articles; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Treasurer) ",
     "inserturl": "https://www.arlingtonma.gov/departments/treasurer",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article57"
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That no action be taken under this article.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1952,6 +1984,8 @@
     "text": "To see if the Town will vote to appropriate $39,153.70 received by the Town from the Commonwealth Transportation Infrastructure Fund to address the impact of transportation network services on municipal roads, bridges and other transportation infrastructure or any other public purpose substantially related to the operation of transportation network services in the Town including, but not 12 limited to, the Complete Streets Program, accepted by Town Meeting on May 4, 2015, established in Massachusetts General Laws Chapter 90I, Section 1 and other programs that support alternative modes of transportation; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Town Manager) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -1973,7 +2007,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That the Town appropriate the sum of $39,153 received by the Town from the Commonwealth Transportation Infrastructure Fund to address the impact of transportation network services on municipal roads, bridges and other transportation infrastructure or any other public purpose substantially related to the operation of transportation network services in the Town including, but not limited to, the Complete Streets Program, accepted by Town Meeting on May 4, 2015, established in Massachusetts General Laws Chapter 90I, Section 1 and other programs that support alternative modes of transportation.  COMMENT: Monies from this Fund, together with monies from the Parking District Fund, will be used for the rehabilitation and/or replacement of sidewalks in the Center.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -1986,6 +2021,8 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of sewers and sewerage facilities for inflow/infiltration reduction or system rehabilitation, including costs incidental and related thereto, and to determine how the appropriation shall be raised or expended, including the possibility of borrowing all or some of same; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager and the Director of Public Works) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -2007,7 +2044,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That the sum of $800,000 be and hereby is appropriated for the purpose of financing the construction or reconstruction of sewers and sewerage facilities, inflow/infiltration reduction or system rehabilitation, including costs incidental and related thereto; that to raise this appropriation the Treasurer, with the approval of the Board of Selectmen, is authorized to borrow $800,000 under and pursuant to Chapter 44, Section 7, of the General Laws, as amended, or any other enabling authority and to issue bonds or notes of the Town therefor; and that the Board of Selectmen and the Town Manager be and hereby are authorized to enter into any agreements they determine to be necessary in connection with the project and its financing and are further authorized to accept and expend in addition to the foregoing appropriation any grants that may become available from the Massachusetts Water Resources Authority or other sources.  COMMENT: This authorization allows the Town to receive an interest free loan from the MWRA and issue municipal debt in support of capital construction projects. (requires a 2/3 vote)",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2020,6 +2058,8 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of financing the construction or reconstruction of water mains and water facilities, including costs incidental and related thereto, and to determine how the appropriation shall be raised and expended including the possibility of borrowing all or some of same; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager and the Director of Public Works) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -2041,7 +2081,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "That the sum of $1,300,000 be and hereby is appropriated for the purpose of financing the construction or reconstruction of water mains and water facilities, including costs incidental and related thereto; that to raise this appropriation the Treasurer, with the approval of the Board of Selectmen, is authorized to borrow $1,300,000 under and pursuant to Chapter 44, Section 8, of the General Laws, as amended, or any other enabling authority and to issue bonds or notes of the Town therefor; and that the Board of Selectmen and the Town Manager be and hereby are authorized to enter into any agreements they determine to be necessary in connection with the project and its financing and are further authorized to accept and expend in addition to the foregoing appropriation any grants that may become available from the Massachusetts Water Resources Authority or other sources.  COMMENT: This authorization allows the Town to receive an interest free loan from the MWRA and issue municipal debt in support of capital construction projects. (requires a 2/3 vote)",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2054,12 +2095,15 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the purpose of paying the Town’s apportioned share of the operating and maintenance costs, including capital costs, tuition, and all of Arlington's other obligations under the Minuteman Regional School District Agreement for the Minuteman Regional Vocational Technical High School, as well as paying the tuition for all other out of district vocational education placements, determine how the money shall be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of Minuteman Regional Vocational School District Committee) ",
     "inserturl": "http://www.arlington.k12.ma.us/home/",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article61"
     ],
     "supplements": [
       {
-        
+        "comment": "That the sum of $6,795,546 be and hereby is appropriated for the purpose of paying the Town’s apportioned share of the operating and maintenance costs, including capital costs, of the Minuteman Regional Vocational Technical High School District Budget; said sum to be raised by general tax and expended under the direction of the Minuteman Regional Vocational High School Committee.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2072,6 +2116,8 @@
     "text": "To see if the Town will vote to appropriate a sum or sums of money to be expended under the direction of various committees, commissions, and boards of the Town, determine how the money shall be raised; provided that any funds appropriated hereunder shall remain under the jurisdiction of said entities until expended at their direction, unless otherwise appropriated by the Town Meeting; the entities included hereunder, without limitation, are: Arlington Historical Commission, Arlington Recycling Committee, Avon Place Historic District Commission, Broadway Historic District Commission, Central Street Historic District Commission, Mt. Gilboa/Crescent Hill Historic District Commission, Jason/Gray Historic District Commission, Pleasant Street Historic District Commission, Russell Historic District Commission, Conservation Commission, Capital Planning Committee, Commission on Disability, Human Recourses Board, Public Memorial Committee, Human Rights Commission, Arlington Committee on Tourism and Economic Development, Envision Arlington, Transportation Advisory Committee, Arlington Commission for Arts and Culture, Open Space Committee, and any other Town Committee or Commission; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -2093,7 +2139,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $88,835 be and hereby is appropriated to be expended by the following commissions, committees, and boards in the amounts indicated: ...",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2106,6 +2153,8 @@
     "text": "To see if the Town will vote to appropriate a sum or sums of money to be expended under the direction of the Town Manager for the following celebrations and memorials, determine how the money shall be raised and expended; or take any action related thereto:.\r\n            \tMemorial Day Observation and the Patriots’ Day Celebration \r\n            \tDisplay of American Flags on Massachusetts Avenue \r\n            \tPlacing of American Flags on the Graves of Veterans \r\n            \tTown Day Celebration \r\n            \tVeterans’ Day Parade ",
     "insertby": "(Inserted at the request of the Town Manager)",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -2127,7 +2176,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: The sum of $15,167 be and hereby is appropriated for the following celebrations and memorials in the amounts indicated: ...",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2140,6 +2190,8 @@
     "text": "To see if the Town will vote the following: Legal Defense – To appropriate a sum of money to replenish the Legal Defense Fund established under Article 13, Section 5 of Title 1 of the Town Bylaws, Indemnification of Medical Costs, to appropriate a sum of money in accordance with the provisions of Chapter 41, Section 100B of the General Laws, to indemnify certain retired Police Officers and Firefighters for all reasonable medical and surgical expenses which they incurred, determine how the money will be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Town Manager) ",
     "inserturl": "https://www.arlingtonma.gov/departments/town-manager",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article6",
       "article7",
@@ -2161,7 +2213,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: The sum of $10,759 be and hereby is appropriated for the following purposes: ...",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2174,13 +2227,16 @@
     "text": "To see if the Town will vote to appropriate a sum of money to the Town’s Water Bodies Fund for the maintenance, treatment, and oversight of all the Town’s water bodies, said sum to be raised by the general tax and expended under the direction of the Town Manager, who will also report to Town Meeting on the status of the fund; or take any action related thereto. ",
     "insertby": "(Inserted at the request of the Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/envision-arlington",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article2",
       "article65"
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $50,000 be and hereby is appropriated to the Water Bodies Fund for the purpose of testing, maintaining, treating and oversight of the Town’s water bodies. Said sum to be raised by the general taxes and expended under the direction of the Town Manager.  COMMENT: The Water Bodies Fund, established by special legislation in 2008, is used for periodic testing, treatment, maintenance and oversight of the town's water bodies. The fund receives private donations as well as public appropriations.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2193,6 +2249,9 @@
     "text": "To see if the town will vote approximately $5k to undertake a study of the need for an additional traffic light at the intersection of Park Avenue and Appleton Street; or take any action related thereto.",
     "insertby": "(Inserted at the request of Joseph Solomon and ten registered voters) ",
     "inserturl": "https://www.arlingtonma.gov/services/request-answer-center?qaframe=answerdetail.aspx%3Finc%3D12067",
+    
+    "board": "Finance Committee",
+    "noaction": "Finance Committee",
     "related": [
       "article16",
       "article20",
@@ -2221,7 +2280,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That no action be taken under this article.  Comment: This study is being undertaken with funds available from Public Works.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2233,10 +2293,17 @@
     "title": "APPROPRIATION/COMMUNITY PRESERVATION FUND",
     "text": "To see if the Town will vote to make appropriations from the Community Preservation Fund for eligible community preservation projects; for community preservation reserve accounts for historic preservation, open space and recreation, and affordable housing; for Community Preservation Act Committee administrative expenses or other eligible expenses; or take any action related thereto.",
     "insertby": "(Inserted at the request of the Community Preservation Act Committee) ",
+    "board": "Community Preservation Act Committee",
+    "recommend": "Community Preservation Act Committee",
     "supplements": [
       {
-        
-      }
+        "comment": "See the detailed CPAC report for specific funding recommendations.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56014": "Community Preservation Act Committee"
+      },
+      {
+        "comment": "That the Finance Committee supports all of the projects recommended by the Community Preservation Committee.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
+      }     
     ]
   },
   {
@@ -2248,12 +2315,15 @@
     "text": "To see if the Town will vote to appropriate a sum of money for the Harry Barber Community Service Program for the Council on Aging, to determine how the money will be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Council on Aging)",
     "inserturl": "https://www.arlingtonma.gov/departments/health-human-services/council-on-aging",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article68"
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $7,500 be and hereby is appropriated for the purpose of conducting the Harry Barber Community Service Program; said sum to be raised by general tax and expended under the direction of the Town Manager.  COMMENT: This program provides the opportunity for senior citizens to provide service in various Town departments in exchange for payment, which they can use to help with taxes and rent.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2298,6 +2368,10 @@
       {
         "comment": "The Select Board supports this petitioner-led effort to provide members of the School Committee the same stipend afforded to members of the Select Board in recognition of their commitment of time and resources to serving as Arlington Public Schools’ chief elective body. As the proponent of this Article expressed, it is equitable to provide School Committee members in Arlington the same type of stipend afforded members in many other communities and to this Board – the Town’s chief elective body. While the Select Board defers to the Finance Committee for the source of appropriation, we encourage Town Meeting to support establishing this stipend at this rate (a specific rate is required by G.L. c. 71 sec. 52). It should be noted that a stipend at this level does not confer health insurance or retirement benefits to any current members of the School Committee.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      },
+      {
+        "comment": "The Finance Committee supports the favorable action recommendation of the Select Board",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2315,6 +2389,10 @@
       {
         "comment": "The instant warrant article was inserted at the request of the Town Clerk, and the balance of the Board supports the Finance Committee’s vote to the appropriate up to $10,000 to conduct a community study on the conversion of the office of the Town Clerk from elected to appointed. The majority (4-1) of the Board believes that the issue is worth study to evaluate the potential benefits of professionalizing the elected position, noting some of the benefits of converting the Town Treasurer to an appointed office several years ago. Several Board members stressed that supporting study does not guarantee a given outcome. The minority view expressed concerns about consideration of taking a directly-elected office away from voters.",
         "https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000": "Select Board Report"
+      },
+      {
+        "comment": "VOTED: That the sum of $10,000 be and hereby is appropriated for the purpose of conducting a study of the options for conversion of the Town Clerk position from an elected to an appointed office; said sum to be raised by general tax and expended under the direction of the Town Clerk.   COMMENT: The Finance Committee supports retaining a consultant/outside expert to assess the pros and cons of converting the position of Town Clerk from elected to appointed and make any recommendations for reorganization or other systemic changes that will improve operations.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2327,13 +2405,17 @@
     "text": "To see if the Town will vote to accept into the Other Post Employment Benefits (OPEB) Trust Fund, established by Chapter 161 of the Acts of 2005, an appropriation of funds and/or the transfer of additional monies that the Town may deem advisable from other sources, including any monies previously deposited into any of the Town’s stabilization funds for this purpose, in order to administer and fund its OPEB obligation as described in the said Chapter 161 of the Acts of 2005; determine how the monies shall be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Contributory Retirement Board) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
+    
     "related": [
       "article71",
       "article72"
     ],
     "supplements": [
       {
-        
+        "comment": "COMMENT: These recommendations continue the program to fund the unfunded liability for retiree health insurance.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2345,13 +2427,16 @@
     "text": "To see if the Town will vote to appropriate a sum of money to implement the provisions of Chapter 32 of Massachusetts General Laws Section 90A, 90C, 90D and 90E, pursuant to which the Town pays up to fifty percent of the maximum salary as set forth in the Compensation and Pay Plan for the position formerly held by retired employees with twenty-five or more years of service to the Town and those employees who retired under an Accidental Disability; provided, however, that no one who retires after May 1, 2010 shall be eligible under this vote unless they qualify for at least a fifty percent pension, without this vote upon their retirement; this adjustment to be paid to those who qualify and administered in accordance with prior practice and understanding relating to the retirement allowance of said retirees; determine how the money shall be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Contributory Retirement Board) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/retirement-board",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article71",
       "article72"
     ],
     "supplements": [
       {
-        
+        "comment": "COMMENT: This vote, which is required annually, allows the Retirement Board to ensure that retired employees will not drop below 50% of the current salary of the position they held as an active Town employee. An amount of $0 is voted so that funds may be expended under this article from available sources without further appropriation.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2364,6 +2449,8 @@
     "text": "To see if the Town will vote to transfer a sum of money to the Cemetery Commissioners for the improvement of Town cemeteries, said sum shall be taken from the Mt. Pleasant Cemetery \"Sale of Lots and Graves\" and/or \"Perpetual Care Funds\"; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Finance Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -2374,7 +2461,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the Town transfers $150,000 to the Cemetery Commissioners for the care of Town cemeteries and $10,000 to the Capital Budget for headstone cleaning and repair, said sums to be taken from the Perpetual Care Fund.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2387,6 +2475,8 @@
     "text": "To see if the Town will vote to appropriate a sum of money from previous years overlay reserve surplus accounts, determine to what purpose this appropriation shall be made; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Finance Committee)",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -2397,7 +2487,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $400,000 be and hereby is appropriated, to be transferred from Overlay Reserve Surplus Accounts of previous fiscal years, said sum to be utilized in the determination of the tax rate.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2410,6 +2501,8 @@
     "text": "To see if the Town will make an appropriation to or from the Fiscal Stability Stabilization Fund created under Article 65 of the 2005 Annual Town Meeting or any other enabling action of Town Meeting in accordance with the provisions of the General Laws, Chapter 40, Section 5B, as amended, or other appropriate provisions of law, determine how the money shall be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Finance Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -2420,7 +2513,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $6,248,581 be and hereby is appropriated from the Fiscal Stability Stabilization Fund, and that the Board of Assessors is instructed to use said amount in the determination of the tax rate.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2433,6 +2527,8 @@
     "text": "To see if the Town will make an appropriation to the Long Term Stabilization Fund in accordance with the provisions of the General Laws, Chapter 40, Section 5B, as amended, or other appropriate provisions of law, determine how the money shall be raised and expended; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Finance Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -2443,7 +2539,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $100,000 be and hereby is appropriated to the Long Term Stabilization Fund, said sum to be raised by general tax.  COMMENT: TheFinanceCommitteerecommendsthatweappropriateayearlysuminthis account for the foreseeable future to both protect the financial position of the Town and reinforce the Town’s bond rating. Last year this was suspended because of uncertainties of the pandemic, but it is now being resumed.",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
@@ -2456,6 +2553,8 @@
     "text": "To see if the Town will vote to authorize the taking of a sum of money voted for appropriations heretofore made at the Town Meeting under the Warrant and not voted to be borrowed from available funds in the Treasury, and authorize the Assessors to use free cash in the Treasury to that amount in the determination of the tax rate for the Fiscal Year beginning July 1, 2021; or take any action related thereto.",
     "insertby": " (Inserted at the request of the Finance Committee) ",
     "inserturl": "https://www.arlingtonma.gov/town-governance/all-boards-and-committees/finance-committee",
+    "board": "Finance Committee",
+    "recommend": "Finance Committee",
     "related": [
       "article50",
       "article73",
@@ -2466,7 +2565,8 @@
     ],
     "supplements": [
       {
-        
+        "comment": "VOTED: That the sum of $5,659,184 be taken from available funds in the treasury, and that the Board of Assessors is instructed to use said amount in the determination of the tax rate. (16-0-1)",
+        "https://www.arlingtonma.gov/home/showpublisheddocument/56025": "Finance Committee Report"
       }
     ]
   },
