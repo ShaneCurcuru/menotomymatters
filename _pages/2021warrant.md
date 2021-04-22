@@ -5,7 +5,7 @@ permalink: /tm/2021/
 datafile: 2021warrant
 ---
 
-The 2021 Annual Town Meeting begins [Monday, April 26, 2021](https://www.arlingtonma.gov/town-governance/town-meeting) at 8PM as a remote meeting over Zoom and the town's special TM member voting software.
+The 2021 Annual Town Meeting begins [Monday, April 26, 2021](https://www.arlingtonma.gov/town-governance/town-meeting) at 8PM as a remote meeting over Zoom and the town's special TM member voting software.  
 
 Below you'll find the text of all articles on the warrant, with some annotations, and links back to the [official warrant on the town website](https://www.arlingtonma.gov/town-governance/town-meeting/2021-town-meeting-warrant).  See also what happened during the [2020 Regular TM](/tm/2020draft/) and [2020 Special TM](/tm/2020special/).
 
@@ -13,6 +13,8 @@ Below you'll find the text of all articles on the warrant, with some annotations
 ## Reports To Town Meeting
 
 While all reports to Town Meeting are provided to the official email list ([see the TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)), you may find it easier to see them all in one place.
+
+See the latest [Consent Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/56002/637546940227432887) proposed for the meeting.
 
 - [Select Board](https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showpublisheddocument?id=55790)
