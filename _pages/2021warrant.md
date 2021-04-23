@@ -22,6 +22,7 @@ Reports to Town Meeting are all from ([the official TMM list archive](https://ww
 - [Finance Committee](https://www.arlingtonma.gov/home/showpublisheddocument/56025)
 - [Town Manager's Annual Budget](https://www.arlingtonma.gov/departments/town-manager/town-manager-s-annual-budget-financial-report/fy2022)
 - [FY2022 Budget Review with Arlington’s Deputy Town Manager](https://www.youtube.com/watch?v=XCZPp5qixto) <i class="fa fa-video" aria-hidden="true"></i>
+- [Clean Energy Future Committee video report on the Net Zero Action Plan](https://acmi.tv/videos/clean-energy-future-committee-report-to-2021-town-meeting/) <i class="fa fa-video" aria-hidden="true"></i>
 - [Memo from Town Counsel to Town Meeting Re Zoning Act Amendments and AG Decision on STM Article 17](https://www.arlingtonma.gov/home/showdocument?id=56037) 
 
 Board recommendations (once published) may be seen on articles below:
@@ -38,6 +39,7 @@ Board recommendations (once published) may be seen on articles below:
 - ARTICLE 21: [VOTE/RESERVE AFFORDABLE HOUSING FOR PEOPLE EARNING AT OR UNDER 60% AMI](#article21)
 - ARTICLE 22: [VOTE/PROVISION OF TOWN EMAIL ADDRESSES FOR TOWN MEETING MEMBERS](#article22)
 - ARTICLE 23: [VOTE/AFFORDABLE OVERLAY STUDY](#article23)
+- ARTICLE 39: [ZONING BYLAW AMENDMENT/ CLARIFICATION OF DEFINITION OF MIXED USE](#article39)
 - ARTICLE 43: [ZONING BYLAW/ADOPTION OF ACCESSORY DWELLING UNITS](#article43)
 - ARTICLE 44: [ZONING BYLAW/PARKING MINIMUMS](#article44)
 - ARTICLE 45: [ZONING BYLAW/INCREASE PERCENTAGE OF AFFORDABLE HOUSING UNITS](#article45)
