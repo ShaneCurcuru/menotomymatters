@@ -12,7 +12,7 @@ Below you'll find the text of all articles on the warrant, with some annotations
 
 ## Reports To Town Meeting
 
-Reports to Town Meeting are all from ([the official TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)).  See the latest [Consent Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/56002/637546940227432887) proposed for the meeting.
+Reports to Town Meeting are all from ([the official TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)).  See the official [Consent Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/56002/637546940227432887) proposed, and [Gordon Jamieson's Annotated Consent Agenda](https://www.arlingtonma.gov/home/showdocument?id=56035).
 
 - [Select Board](https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showpublisheddocument?id=55790)
