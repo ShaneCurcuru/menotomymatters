@@ -12,9 +12,7 @@ Below you'll find the text of all articles on the warrant, with some annotations
 
 ## Reports To Town Meeting
 
-While all reports to Town Meeting are provided to the official email list ([see the TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)), you may find it easier to see them all in one place.
-
-See the latest [Consent Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/56002/637546940227432887) proposed for the meeting.
+Reports to Town Meeting are all from ([the official TMM list archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)).  See the latest [Consent Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/56002/637546940227432887) proposed for the meeting.
 
 - [Select Board](https://www.arlingtonma.gov/home/showpublisheddocument/55916/637540902738200000)
 - [Redevelopment Board](https://www.arlingtonma.gov/home/showpublisheddocument?id=55790)
@@ -32,9 +30,7 @@ Board recommendations (once published) may be seen on articles below:
 - <i class="fa fa-sign-in-alt" aria-hidden="true" style="color: orange"></i> No opinion
 
 
-## Topics At Town Meeting
-
-### Citizen Submitted Articles
+### Citizen Submitted Articles - Index
 
 - ARTICLE 16: [BYLAW AMENDMENT/PRE-CONSTRUCTION RODENT SURVEY AND PEST MANAGEMENT](#article16)
 - ARTICLE 20: [VOTE/PUBLIC REMOTE PARTICIPATION](#article20)
@@ -61,7 +57,8 @@ Board recommendations (once published) may be seen on articles below:
 - ARTICLE 90: [RESOLUTION/PROGRAM TO INSTALL ELECTRIC VEHICLE CHARGING STATIONS](#article90)
 - ARTICLE 91: [RESOLUTION/DECLARE CLIMATE EMERGENCY IN THE TOWN OF ARLINGTON](#article91), 
 
-### Key Articles By Topic
+
+### Key Articles By Topic - Index
 
 - **Bylaw Changes** ARTICLE 6: [CPAC MEMBER TERM LIMITS](#article6), ARTICLE 7: [ROCK REMOVAL REQUIREMENTS](#article7), ARTICLE 8: [CANINE CONTROL FEES & FINES](#article8), ARTICLE 9: [DISPLAY OF NOTICE FINES](#article9), ARTICLE 10: [STREET PERFORMANCE DEFINITIONS](#article10), ARTICLE 11: [STORMWATER MANAGEMENT](#article11), ARTICLE 12: [CHANGING COLUMBUS DAY TO INDIGENOUS PEOPLES DAY](#article12), ARTICLE 13: [ADDING JUNETEENTH INDEPENDENCE DAY TO HOLIDAYS](#article13), ARTICLE 14: [GUTTERS IN HISTORIC DISTRICTS](#article14), ARTICLE 15: [DOMESTIC PARTNERSHIPS](#article15), ARTICLE 16: [PRE-CONSTRUCTION RODENT SURVEY AND PEST MANAGEMENT](#article16)
 - **Zoning Changes** ARTICLE 28: [AFFORDABLE HOUSING REQUIREMENTS](#article28), ARTICLE 29: [APARTMENT CONVERSION](#article29), ARTICLE 30: [GROSS FLOOR AREA](#article30), ARTICLE 31: [PROHIBITED USES](#article31), ARTICLE 32: [OTHER DISTRICTS DIMENSIONAL AND DENSITY REGULATIONS](#article32), ARTICLE 33: [ADMINISTRATIVE AMENDMENTS](#article33), ARTICLE 34: [MARIJUANA USES](#article34), ARTICLE 35: [INDUSTRIAL USES](#article35), ARTICLE 36: [ZONING MAP ADOPTION ](#article36), ARTICLE 37: [MULTIFAMILY ZONING FOR MBTA COMMUNITIES](#article37), ARTICLE 38: [ENERGY EFFICIENT HOMES ON NONCONFORMING LOTS](#article38), ARTICLE 39: [CLARIFICATION OF DEFINITION OF MIXED USE](#article39), ARTICLE 40: [CONVERSION OF COMMERCIAL TO RESIDENTIAL](#article40), ARTICLE 41: [DEFINITION OF FOUNDATION](#article41), ARTICLE 42: [AFFORDABLE HOUSING ON PRIVATELY OWNED PARCELS OF “NON-CONFORMING” SIZE](#article42), ARTICLE 43: [ADOPTION OF ACCESSORY DWELLING UNITS](#article43), ARTICLE 44: [PARKING MINIMUMS](#article44), ARTICLE 45: [INCREASE PERCENTAGE OF AFFORDABLE HOUSING UNITS](#article45), ARTICLE 46: [TEARDOWN MORATORIUM](#article46), ARTICLE 47: [ESTABLISHING REQUIREMENTS FOR OFF-STREET HP (HANDICAP PLACARD) PARKING](#article47), ARTICLE 48: [ADA/MAAB STANDARDS IN ADMINISTRATION AND ENFORCEMENT](#article48), ARTICLE 49: [SIDEYARD SKY EXPOSURE PLANES](#article49)
@@ -69,10 +66,11 @@ Board recommendations (once published) may be seen on articles below:
 - **Home Rule Articles** ARTICLE 24: [RANKED CHOICE VOTING](#article24), ARTICLE 25: [REAL ESTATE TRANSFER](#article25)
 - **Other Resolutions** ARTICLE 78: [TREE CANOPY AS A PUBLIC HEALTH RESOURCE](#article78), ARTICLE 79: [ENCOURAGEMENT OF ENERGY EFFICIENT AND/OR SUSTAINABLE ENERGY INSTALLATIONS IN HISTORIC DISTRICTS](#article79), ARTICLE 80: [FACILITIES DEPARTMENT REPORT/CLARIFY RESPONSIBILITIES, TRACK PROGRESS OF THE DEPARTMENT OF FACILITIES AND MAINTENANCE](#article80), ARTICLE 81: [BROADWAY CORRIDOR DESIGN COMPETITION](#article81), ARTICLE 82: [ADVANCED REGISTRATION AND ORGANIZATION OF TOWN MEETING SPEAKERS](#article82), ARTICLE 83: [PROTOCOLS FOR DELIBERATIVE COLLABORATION IN TOWN GOVERNMENT](#article83), ARTICLE 84: [FORMALLY INVITE ARLINGTON HOUSING AUTHORITY REPRESENTATIVES TO PRESENT TO TOWN MEETING](#article84), ARTICLE 85: [ACKNOWLEDGING NATIVE LANDS](#article85), ARTICLE 86: [CELEBRATING INDIGENOUS PEOPLES DAY](#article86), ARTICLE 87: [OVERNIGHT PARKING WAIVER FOR RESIDENTS OF MULTI-FAMILY DWELLINGS IN PRECINCT 4](#article87), ARTICLE 88: [RESIDENT PARKING PROGRAM FOR PRECINCT 4](#article88), ARTICLE 89: [PRINCE HALL DAY](#article89), ARTICLE 90: [PROGRAM TO INSTALL ELECTRIC VEHICLE CHARGING STATIONS](#article90), ARTICLE 91: [DECLARE CLIMATE EMERGENCY IN THE TOWN OF ARLINGTON](#article91)
 
-## Meeting Updates Due To Pandemic
+### Meeting Updates Due To Pandemic
 
 This meeting will be held remotely via Zoom and the town's voting software.  [Training videos for TMM's available](https://www.youtube.com/playlist?list=PLidfjMQfWetjYc6eMLx2BaYyJ8VwJjzZz).
 
-**REMINDER:** these articles have manually transcribed from various submissions or the original draft warrant, and are **NOT OFFICIAL**.  The [official, final Town Warrant](https://www.arlingtonma.gov/home/showpublisheddocument?id=54842) is on the town website.
+**REMINDER:** these articles have manually transcribed from various submissions or the original draft warrant, and are **NOT OFFICIAL**.  The [official, final Town Warrant](https://www.arlingtonma.gov/home/showpublisheddocument?id=54842) is on the town website.  [See how I build this page](/tm/) or the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting).
 
-[See how I build this page](/tm/) or the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting).
+
+## Annotated Town Meeting Warrant
