@@ -71,7 +71,6 @@ include:
   - _issues
   
 exclude: 
-  - assets/code
   - vendor
   
 # Collections - expose data via archive pages

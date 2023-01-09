@@ -84,4 +84,4 @@ Town Meeting will be held virtually over both Zoom (for broadcast, also sent to 
 - [Calendar of Precinct Meetings](https://www.arlingtonma.gov/Home/Components/News/News/10668/3824?backlist=%2ftown-governance%2ftown-meeting)
 - [ACMi broadcasts and saves](https://acmi.tv/special-town-meeting/) (for later posting) video of this remote meeting
 
-[See how I build this page](/tm/), [what happened during the 2020 Annual Town Meeting](/tm/2020draftwarrant), or the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting).
+[See how I build this page](/tm/), [what happened during the 2020 Annual Town Meeting](/tm/2020draft/), or the [official Town Meeting page](https://www.arlingtonma.gov/town-governance/town-meeting).
