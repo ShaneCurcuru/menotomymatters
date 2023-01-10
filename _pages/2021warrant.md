@@ -5,10 +5,18 @@ permalink: /tm/2021/
 datafile: 2021warrant
 ---
 
-The 2021 Annual Town Meeting begins [Monday, April 26, 2021](https://www.arlingtonma.gov/town-governance/town-meeting) at 8PM as a remote meeting over Zoom and the town's special TM member voting software.  
+The 2021 Annual Town Meeting began [Monday, April 26, 2021](https://www.arlingtonma.gov/town-governance/town-meeting) at 8PM as a remote meeting over Zoom and the town's special TM member voting software.  Town meeting was ended after 11 sessions on June 2nd.
 
-Below you'll find the text of all articles on the warrant, with some annotations, and links back to the [official warrant on the town website](https://www.arlingtonma.gov/town-governance/town-meeting/2021-town-meeting-warrant).  See also what happened during the [2020 Regular TM](/tm/2020draft/) and [2020 Special TM](/tm/2020special/).
+Below you'll find the text of all articles on the warrant, with some annotations, and links back to the [official warrant on the town website](https://www.arlingtonma.gov/town-governance/town-meeting/2021-town-meeting).  Note that in 2021 the town's website was updated to include a [fully Annotated 2021 Town Meeting warrant](https://www.arlingtonma.gov/town-governance/town-meeting/2021-town-meeting-warrant), which includes most/all of the information provided below, and is much improved over past year's town websites.
 
+## What Happened At Town Meeting
+
+- [ACMi recorded video of town meeting](https://acmi.tv/?s=2021+town+meeting) with reports from every session
+- [Your Arlington news site recap of 2021 Town Meeting](https://yourarlington.com/arlington-archives/town-school/town-meeting/tm-1-2021.html)
+- The town's online meeting system [recorded all 2021 Town Meeting Votes](https://arl2021atm.townmeeting.online/view-votes-public)
+- [Christian's ATMNotes blogs from each night of 2021 Town Meeting](https://atmnotes.blogspot.com/2021/06/)
+
+See also what happened during the [2020 Regular TM](/tm/2020draft/) and [2020 Special TM](/tm/2020special/).
 
 ## Reports To Town Meeting
 
