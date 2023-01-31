@@ -26,6 +26,7 @@ classes: wide
         {% if itm.licensing %}<li><i class='fa fa-fw fa-id-badge' aria-hidden='true'></i><a href='{{ itm.licensing }}'> Licensing & Permits</a></li>{% endif %}
         {% if itm.schools %}<li><i class='fa fa-fw fa-school' aria-hidden='true'></i><a href='{{ itm.schools }}'> Schools</a></li>{% endif %}
         {% if itm.maps %}<li><i class='fa fa-fw fa-map' aria-hidden='true'></i><a href='{{ itm.maps }}'> GIS / Mapping</a></li>{% endif %}
+        {% if itm.parking %}<li><i class='fa fa-fw fa-car' aria-hidden='true'></i><a href='{{ itm.parking }}'> Parking Rules</a>{% if itm.parkingovernight %} <i class='fa fa-fw fa-moon' aria-hidden='true'></i> {{ itm.parkingovernight }}{% endif %}</li>{% endif %}
       </ul>
       <strong>Police Links</strong>
       <ul>
