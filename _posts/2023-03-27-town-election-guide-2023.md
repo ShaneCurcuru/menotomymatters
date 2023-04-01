@@ -29,7 +29,7 @@ Vote for not more than two candidates for Select Board:
 
 ## School Committee (3 years)
 
-Watch the [ACMi School Committee Debate](https://www.youtube.com/watch?v=rDgFNBIGhE4).
+Watch the [ACMi School Committee Debate](https://www.youtube.com/watch?v=rDgFNBIGhE4) or [read candidate answers to ACMi questions](https://yourarlington.com/arlington-archives/town-school/elections/21289-questions-032423.html).
 
 Vote for not more than three School Committee members:
 - [Paul Schlichtman](https://schlichtman.org/index.html) *(incumbent)* "Experienced leadership for challenging times" [*on ACMi*](https://www.youtube.com/watch?v=9H5TvMOuF0I)
