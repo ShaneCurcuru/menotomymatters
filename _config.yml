@@ -43,9 +43,9 @@ paginate_path: /page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 analytics:
-  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google4" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-6070690-9"
+    tracking_id: "G-REQKY9F237"
 
 google:
   search_engine_id: "008313295041711467873:f701rjbr93s"
