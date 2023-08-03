@@ -17,6 +17,10 @@ main:
 archive:
   - title: "Issues Research"
     children: &issuesnav
+      - title: "MBTA Communities"
+        url: /issues/mbtacommunity
+      - title: "Budgets & Finance"
+        url: /issues/finances/
       - title: "882 Mass Ave / Toraya Block"
         url: /issues/882massave
       - title: "AHS Rebuild"
@@ -27,24 +31,20 @@ archive:
         url: /issues/mirak
       - title: "Mugar Thorndike Place"
         url: /issues/thorndike
-      - title: "Budgets & Finance"
-        url: /issues/finances/
   - title: "Town Resources"
     children: &resourcenav
-      - title: "Mutual Aid Arlington"
-        url: https://mutualaidarlington.org/?mm
-      - title: "Meeting Tracker"
-        url: /meetings/
       - title: "Town How-Tos"
         url: /resources/
       - title: "Town Hall Guide"
         url: /townhall/
       - title: "Town Meeting"
         url: /tm/
+      - title: "Meeting Tracker"
+        url: /meetings/
+      - title: "Mutual Aid Arlington"
+        url: https://mutualaidarlington.org/?mm
   - title: "About This Site"
     children: &aboutnav
-      - title: "Shane for 12 TMM!"
-        url: /townmeeting/campaign/
       - title: "About This Site"
         url: /about/
       - title: "All By Tag"
