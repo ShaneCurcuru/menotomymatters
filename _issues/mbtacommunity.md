@@ -23,6 +23,17 @@ Resources about how Arlington is complying with MBTA Communities law required zo
 - Follow [Your Arlington's news coverage](https://yourarlington.com/arlington-archives/town-school/planning.html)
 - State [resources for towns complying with MBTA Communities](https://www.mass.gov/info-details/resources-for-mbta-communities)
 
+## Mapping Tools
+
+Along with the [normal Arlington GIS maps](https://www.arlingtonma.gov/departments/information-technology/geographic-information-system-gis/map-library), various state agencies have useful mapping tools to visualize maps with multiple dimensions, including density, parking, open space, and more.
+
+- [MHP Residensity Map tool](https://residensity.mhp.net/) - Interactive map showing residential density in specific areas, down to parcel level.
+- [MHP TODEX Transit Map tool](https://mhpcenterforhousingdata.shinyapps.io/todex/) - Interactive map showing density near all MBTA stations.
+- [MAPC Transit Mapper tool](https://www.tstation.info/#fss/q/by_name=MASSACHUSETTS%20AVE%20@%20DANIELS%20ST) - Map of transit stations with detailed analysis of nearby neighborhoods.
+- [MassMapper, generalized mapping tool.](https://maps.massgis.digital.mass.gov/MassMapper/MassMapper.html) - Detailed and interactive mapping tool covering all of Mass with multiple layers.
+- [State GIS Mapping homepage](https://www.mass.gov/info-details/special-topic-web-maps) - lists a wide variety of interactive MA maps.
+- [MHP DataTown open data](https://mhpcenterforhousingdata.shinyapps.io/DataTown/) - Open data listing of housing & demographic info for all MA towns.
+
 ## Comparable Towns Approaches
 
 Here's how some [comparable or nearby towns](/comparable/) to Arlington are addressing the MBTA Communities law.  You can also see all [Action Plans submitted to the state](https://www.mass.gov/doc/submitted-section-3a-action-plans).
