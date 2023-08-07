@@ -23,6 +23,12 @@ Resources about how Arlington is complying with MBTA Communities law required zo
 - Follow [Your Arlington's news coverage](https://yourarlington.com/arlington-archives/town-school/planning.html)
 - State [resources for towns complying with MBTA Communities](https://www.mass.gov/info-details/resources-for-mbta-communities)
 
+## Who's Who
+
+- [MBTA Communities Working Group](https://www.arlingtonma.gov/Home/Components/News/News/12760/16) is made up of a number of town resident volunteers and two ARB board representatives.
+- [Arlington's Redevelopment Board](https://www.arlingtonma.gov/town-governance/boards-and-committees/redevelopment-board) is the town's official Planning Board with responsibilities for zoning laws, and is made of five appointed members (four by the town manager; one from the state).
+- [Planning and Community Development](https://www.arlingtonma.gov/departments/planning-community-development) is made up of town employees who direct planning work and are providing resources and support to the WG.
+
 ## Mapping Tools
 
 Along with the [normal Arlington GIS maps](https://www.arlingtonma.gov/departments/information-technology/geographic-information-system-gis/map-library), various state agencies have useful mapping tools to visualize maps with multiple dimensions, including density, parking, open space, and more.
