@@ -10,8 +10,8 @@
   {
     "title": "Visualization of Arlington's Budgets/Expenses",
     "preview": "An interactive tool to learn more about the town of Arlington, Massachusetts.",
-    "url": "http://arlingtonvisualbudget.org/",
-    "content": "Easy-to-use visualizer tool to see where town tax dollars go in a visual map, both in the past and in the future. See either [Revenues](http://arlingtonvisualbudget.org/revenues) or [Expenses](http://arlingtonvisualbudget.org/expenses), and use the year at the top right to explore over time.",
+    "url": "https://arlingtonvisualbudget.org/",
+    "content": "Easy-to-use visualizer tool to see where town tax dollars go in a visual map, both in the past and in the future. See either [Revenues](https://arlingtonvisualbudget.org/revenues) or [Expenses](https://arlingtonvisualbudget.org/expenses), and use the year at the top right to explore over time.",
     "icon": "chart-pie",
     "image": "/assets/images/visualbudget.png"
   },
@@ -63,7 +63,7 @@
   {
     "title": "APS Official School Budget Information",
     "preview": "FY13 School Committee Presentation - January 27, 2012. • FY13 Budget Timeline - Approved January 26, 2012. • New Massachusetts Educator Evaluations Regulations - November 2011. FISCAL YEAR 2012. FY12 END OF YEAR REPORTS. • FY12 End of Year Report Highlights - October 11, 2012.",
-    "url": "http://www.arlington.k12.ma.us/administration/budget/",
+    "url": "https://www.arlington.k12.ma.us/administration/budget/",
     "content": "School department overall budget page, including actual budgets from past years, and detailed financial reporting in some cases. The School budget is the largest in town, and is managed by the School Committee directly.",
     "related": "/meetings/school/",
     "icon": "school",
@@ -148,7 +148,7 @@
   },
   {
     "title": "ACMi Video Coverage Of Finance Committee Meetings",
-    "url": "http://acmi.tv/financecommittee/",
+    "url": "https://acmi.tv/financecommittee/",
     "content": "ACMi records all regular Finance Committee Meetings when they meet in early spring to review the budget before town meeting.",
     "image": "/assets/images/acmilogo.jpg",
     "icon": "newspaper"
