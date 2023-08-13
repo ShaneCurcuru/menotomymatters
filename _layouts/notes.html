@@ -1,0 +1,32 @@
+---
+layout: single
+---
+
+<article itemscope itemtype="http://schema.org/Article">
+  {% if page.title %}<meta itemprop="headline" content="{{ page.title }}">{% endif %}
+  {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt }}">{% endif %}
+  {% if page.about %}<meta itemprop="about" content="{{ page.about }}">{% endif %}
+  {% if page.isPartOf %}<meta itemprop="about" content="{{ page.isPartOf }}">{% endif %}
+  {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+  {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+
+  <h2>{{ page.meeting }}{% if page.date %} of: {{ page.date | date: "%B %d, %Y" }}{% endif %}</h2>
+  <div id="preamble">
+    By: 
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      {% if page.authorurl %}
+      <a itemprop="sameAs" href="{{ page.authorurl }}">
+        <strong><span itemprop="name">{{ page.author }}</span></strong>
+      </a>
+      {% else %}
+      <strong><span itemprop="name">{{ page.author }}</span></strong>
+      {% endif %}
+    </span>
+    <br/>
+    <small>These notes are provided by Arlingtonians who attend various town meetings and provide well-written <i>unofficial</i> summaries of meetings.  All content is &copy; Copyright the original author and is reprinted with permission.</small>
+  </div>
+  <hr/>
+  <div id="article_body">
+  {{ content }}
+  </div>
+</article>

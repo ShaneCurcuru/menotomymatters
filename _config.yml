@@ -69,6 +69,7 @@ footer:
 include:
   - _pages
   - _issues
+  - _notes
   
 exclude: 
   - vendor
@@ -111,6 +112,15 @@ defaults:
       type: issues
     values:
       layout: single
+      share: true
+      related: true
+      sidebar:
+        nav: "archive"
+  - scope:
+      path: "_notes"
+      type: notes
+    values:
+      layout: notes
       share: true
       related: true
       sidebar:
