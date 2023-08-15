@@ -138,3 +138,5 @@ Developer bonuses were discussed, incentivizing SITES green building standards a
 ### BUILDING HEIGHTS
 
 Building heights were set at 13' per story.
+
+*End of Meeting Notes*

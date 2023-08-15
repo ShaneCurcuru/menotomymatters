@@ -2,6 +2,27 @@
 layout: single
 ---
 
+<style>
+  table,
+  .tableimport {
+    border-collapse: collapse;
+    border: 3px solid;
+  }
+  .tableimportrow {
+    border-collapse: collapse;
+    border: 2px solid;
+  }
+  .tableimportcell {
+    border-collapse: collapse;
+    border: 1px solid;
+  }
+  .figureheader {
+    font-weight: bold;
+    font-size: larger;
+    text-indent: 5%;
+    margin-bottom: 2%;
+  }
+</style>
 <article itemscope itemtype="http://schema.org/Article">
   {% if page.title %}<meta itemprop="headline" content="{{ page.title }}">{% endif %}
   {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt }}">{% endif %}
