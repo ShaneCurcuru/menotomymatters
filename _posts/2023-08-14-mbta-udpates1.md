@@ -21,6 +21,10 @@ The ARB plans to review recommendations from the WG at their [normal 11-Septembe
 
 ## August 15th WG Meeting 
 
+- Official [15-August Meeting Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/66407)
+- [UTILE's presentation slides](https://www.arlingtonma.gov/home/showpublisheddocument/66449), titled "8/15 Draft HCA Districts Update".
+- **NEW!** [15-August Draft Map](https://www.arlingtonma.gov/home/showpublisheddocument/66453) has major updates since the 25-July map, and includes updated draft calculations on housing numbers.
+
 The [WG is meeting tonight, 15-August, at the police station at 7PM](https://www.arlingtonma.gov/Home/Components/Calendar/Event/32572/); expect some spirited questions.  *I'll update this page* whenever I get attendee's personal minutes.
 
 ## August 8th WG Meeting
