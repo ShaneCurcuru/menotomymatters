@@ -28,7 +28,7 @@ The ARB plans to review recommendations from the WG at their [normal 11-Septembe
 - [Official 29-August Meeting Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/66541)
 - [Report and analysis of the July WG Survey](https://www.arlingtonma.gov/home/showpublisheddocument/66573/638289876844016771) - this detailed 88 page PDF provides both analyses and full responses of the July survey.
   - Official Meeting Minutes are *not yet posted*.
-  - [Your Arlington news coverage](https://yourarlington.com/arlington-archives/town-school/planning/21619-mbta-082923.html), detailing various petitions brought forth and the moderation of earlier plans during this meeting.
+  - [Your Arlington news coverage](https://yourarlington.com/arlington-archives/town-school/planning/21619-mbta-082923.html), detailing various petitions brought forth and the moderation of earlier plans during this meeting - a very detailed article!
   - [ARFRR group meeting notes](https://blog-arfrr.blogspot.com/2023/08/what-happened-at-august-29th-working.html)
 
 ## August 15th WG Meeting 
