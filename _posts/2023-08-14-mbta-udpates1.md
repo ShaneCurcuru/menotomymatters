@@ -15,17 +15,31 @@ header:
 
 The MBTA Communities Working Group (WG) has been covering a lot of ground in recent meetings, and it's hard to keep track of what the most recent decisions are.  Thankfully several Arlington residents have been taking detailed unofficial minutes of meetings lately.  To help folks understand the context of different meetings, we've arranged all the information about each meeting together here.
 
+## October 17th Special Town Meeting
+
+After the WG makes a recommendation, and the ARB reviews it, final decisions will be made at the [Special Town Meeting starting 17-October](https://www.arlingtonma.gov/Home/Components/Calendar/Event/32645/3784?backlist=%2ftown-governance%2ftown-meeting).
+
 ## September 11th Arlington Redevelopment Board Hearing
 
 The ARB plans to review recommendations from the WG at their [normal 11-September meeting](https://www.arlingtonma.gov/Home/Components/Calendar/Event/32574/264?backlist=%2ftown-governance%2fboards-and-committees%2fredevelopment-board), so expect a lot of changes and finalizations in the next couple of weeks.
+
+## August 29th WG Meeting 
+
+- [Official 29-August Meeting Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/66541)
+- [Report and analysis of the July WG Survey](https://www.arlingtonma.gov/home/showpublisheddocument/66573/638289876844016771) - this detailed 88 page PDF provides both analyses and full responses of the July survey.
+  - Official Meeting Minutes are *not yet posted*.
+  - [Your Arlington news coverage](https://yourarlington.com/arlington-archives/town-school/planning/21619-mbta-082923.html), detailing various petitions brought forth and the moderation of earlier plans during this meeting.
+  - [ARFRR group meeting notes](https://blog-arfrr.blogspot.com/2023/08/what-happened-at-august-29th-working.html)
 
 ## August 15th WG Meeting 
 
 - Official [15-August Meeting Agenda](https://www.arlingtonma.gov/home/showpublisheddocument/66407)
 - [UTILE's presentation slides](https://www.arlingtonma.gov/home/showpublisheddocument/66449), titled "8/15 Draft HCA Districts Update".
 - **NEW!** [15-August Draft Map](https://www.arlingtonma.gov/home/showpublisheddocument/66453) has major updates since the 25-July map, and includes updated draft calculations on housing numbers.
-
-The [WG is meeting tonight, 15-August, at the police station at 7PM](https://www.arlingtonma.gov/Home/Components/Calendar/Event/32572/); expect some spirited questions.  *I'll update this page* whenever I get attendee's personal minutes.
+- Official Meeting Minutes are *not yet posted*. 
+  - [Meeting summary from the WG](https://www.arlingtonma.gov/home/showpublisheddocument/66571/638289876301352766) includes discussion and details of votes taken.
+  - [Meeting Notes by Steve Revilak](https://www.srevilak.net/wiki/MBTA_Communities_Working_Group_-_Aug_15th,_2023).
+  - [ARFRR group meeting notes](https://blog-arfrr.blogspot.com/2023/08/what-happened-at-august-15th-7pm-mbta.html).
 
 ## August 8th WG Meeting
 
