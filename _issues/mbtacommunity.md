@@ -21,9 +21,10 @@ Resources about how Arlington is complying with MBTA Communities law required zo
 
 The **WG final recommendations** are sent to the ARB, [read about additional reports presented](/townhall/mbta-udpates2/).
 
-- [WG Recommended Zoning Bylaw Amendments](https://www.arlingtonma.gov/home/showpublisheddocument/66579) *detailed zoning changes suggested*
-- [WG Zoning Map Plan - Alternative 1](https://www.arlingtonma.gov/home/showpublisheddocument/66583) *[See individual map images here](/townhall/mbta-udpates2/)*
-- [WG Zoning Map Plan - Alternative 2](https://www.arlingtonma.gov/home/showpublisheddocument/66585) *[See individual map images here](/townhall/mbta-udpates2/)*
+- [WG Final Process Report](https://www.arlingtonma.gov/home/showpublisheddocument/66621/638295974594270000) - a detailed report of actions and decisions by the WG.
+- [WG **FINAL** Recommended Zoning Bylaw Amendments](https://www.arlingtonma.gov/home/showpublisheddocument/66579/638296112612334760) - detailed zoning changes suggested.
+- [WG **FINAL** Zoning Map Plan - Alternative 1](https://www.arlingtonma.gov/home/showpublisheddocument/66583/638290929702230000), see also [GIS software shape datafiles](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/EVLGZnEmcyhGlmlpAUetBDIBmvMM_6QJS-IgDtaCbFUe4g?e=UC2hv7)
+- [WG **FINAL** Zoning Map Plan - Alternative 2](https://www.arlingtonma.gov/home/showpublisheddocument/66585/638290929950500000), see also [GIS software shape datafiles](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/ERjlrMFiZEVGgON0IHdb1DUB4lmcuz9clm8ajtKxrEad1A?e=0Hoebm)
 
 The **ARB meets 11-September** to discuss:
 

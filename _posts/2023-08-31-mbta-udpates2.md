@@ -1,5 +1,5 @@
 ---
-title: "MBTA Communities Draft Plans & Maps"
+title: "MBTA Communities FINAL Plans & Maps"
 excerpt: "Latest copies of draft maps and detailed plans."
 toc: true
 categories:
@@ -15,11 +15,14 @@ header:
 
 Plenty of changes have been discussed and decided at recent WG meetings.  While official meeting minutes take time to post, several helpful Arlingtonians have been collecting materials at meetings or making public records requests to get the latest scoop!
 
-**UPDATE** The Town has posted official versions of many documents, and this page is updated to link to official copies where available.
+**UPDATE** The Town has posted official versions of many documents, and this page is updated to link to official copies where available.  The ARB still needs to weigh in, and then Special Town Meeting will be asked to approve changes.
 
+## WG Final Comprehensive Report
+
+The [WG issued a 51 page report](https://www.arlingtonma.gov/home/showpublisheddocument/66621/638295974594270000) detailing their process, the surveys, all the various map versions, and the decisions made during the process.  This is a must-read for anyone wishing to understand how the town has approached and worked on this process.
 ## Updated Zoning Regulations Details
 
-The final [Working Group's proposed Zoning Bylaw Amendment](https://www.arlingtonma.gov/home/showpublisheddocument/66579) *(PDF, 4pp, official town document)* is now available.  This document will be discussed at the 11-Sep ARB meeting to get the final language ready, and for the ARB to provide a recommendation to Special Town Meeting. While reading Zoning regulations requires a lot of patience, these specific proposed regulations give a good sense of what to expect at TMM.
+The final [Working Group's proposed Zoning Bylaw Amendment](https://www.arlingtonma.gov/home/showpublisheddocument/66579/638296112612334760) *(PDF, 4pp, official town document updated 6-Sep)* is now available.  This document will be discussed at the 11-Sep ARB meeting to get the final language ready, and for the ARB to provide a recommendation to Special Town Meeting. While reading Zoning regulations requires a lot of patience, these specific proposed regulations give a good sense of what to expect at TMM.
 
 ## New Guidance On MBTA Communities Compliance
 
@@ -31,7 +34,7 @@ On 29-August, [Arlington's Director of planning, Claire Ricker](https://www.arli
 
 The WG has come up with two alternative maps to send to the ARB, and is also reportedly in the process of sending both maps and compliance worksheets to the state, to **test** if they would be acceptable to the state to comply with the law.  Here are the two alternatives being proposed (with a decision not yet made).
 
-**Alternative 1** has five districts with an extended Heights district stretching towards Lexington, and a total of 7,391 total unit capacity.  The **official PDF of the [Alternative 1 Map Plan](https://www.arlingtonma.gov/home/showpublisheddocument/66583)** is posted.
+**Alternative 1** has five districts with an extended Heights district stretching towards Lexington, and a total of 7,391 total unit capacity.  The **FINAL PDF of the [Alternative 1 Map Plan](https://www.arlingtonma.gov/home/showpublisheddocument/66583/638290929702230000)** is posted, including [GIS shape data files](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/EVLGZnEmcyhGlmlpAUetBDIBmvMM_6QJS-IgDtaCbFUe4g?e=UC2hv7).
 
 ### Alternative 1 - East Arlington Map
 
@@ -52,7 +55,7 @@ The WG has come up with two alternative maps to send to the ARB, and is also rep
 
 This is the second alternative set of maps the WG is considering.
 
-**Alternative 2** has four districts, dropping the extension in the Heights, and a total of 6,766 total unit capacity.  The **official PDF of the [Alternative 2 Map Plan](https://www.arlingtonma.gov/home/showpublisheddocument/66585)** is posted.
+**Alternative 2** has four districts, dropping the extension in the Heights, and a total of 6,766 total unit capacity.  The **FINAL PDF of the [Alternative 2 Map Plan](https://www.arlingtonma.gov/home/showpublisheddocument/66585/638290929950500000)** is posted, including [GIS shape data files](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/ERjlrMFiZEVGgON0IHdb1DUB4lmcuz9clm8ajtKxrEad1A?e=0Hoebm).
 
 ### Alternative 2 - East Arlington Map
 
