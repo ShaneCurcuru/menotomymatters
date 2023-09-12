@@ -17,7 +17,16 @@ header:
 
 Resources about how Arlington is complying with MBTA Communities law required zoning changes.
 
-## Key Documents - Early September Update
+On 17-October [**Special Town Meeting**](https://www.arlingtonma.gov/Home/Components/News/News/13495/3819) will meet to take up any ARB-recommended warrant articles, as well as any other properly submitted articles to TM.  Once any final articles are passed by Town Meeting, they will be sent to the state for approval.
+## ARB Meeting 11-September Discussed Changes
+
+The ARB had a long meeting to discuss their regular agenda as well as the WG report, including voluminous public comment.
+
+- [Download the 208pp ARB Agenda](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913) or [read the ARB agenda online](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913).
+- View just the [dozens of public comment emails](https://arlington.novusagenda.com/agendapublic/CoverSheet.aspx?ItemID=16564&MeetingID=1913) sent before the meeting. 
+- Your Arlington has [early coverage of the contentious meeting](https://yourarlington.com/arlington-archives/town-school/planning/21641-mbta-091123.html) which included disruptions.
+
+## Final WG Report And Recommendations
 
 The **WG final recommendations** are sent to the ARB, [read about additional reports presented](/townhall/mbta-udpates2/).
 
@@ -25,13 +34,6 @@ The **WG final recommendations** are sent to the ARB, [read about additional rep
 - [WG **FINAL** Recommended Zoning Bylaw Amendments](https://www.arlingtonma.gov/home/showpublisheddocument/66579/638296112612334760) - detailed zoning changes suggested.
 - [WG **FINAL** Zoning Map Plan - Alternative 1](https://www.arlingtonma.gov/home/showpublisheddocument/66583/638290929702230000), see also [GIS software shape datafiles](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/EVLGZnEmcyhGlmlpAUetBDIBmvMM_6QJS-IgDtaCbFUe4g?e=UC2hv7)
 - [WG **FINAL** Zoning Map Plan - Alternative 2](https://www.arlingtonma.gov/home/showpublisheddocument/66585/638290929950500000), see also [GIS software shape datafiles](https://arlingtonma-my.sharepoint.com/:x:/g/personal/jenniferjs_town_arlington_ma_us/ERjlrMFiZEVGgON0IHdb1DUB4lmcuz9clm8ajtKxrEad1A?e=0Hoebm)
-
-The **ARB meets 11-September** to discuss:
-
-- [Zoning Bylaw Amendment](https://www.arlingtonma.gov/Home/Components/News/News/13533/3864?backlist=%2ftown-governance%2fboards-and-committees%2fredevelopment-board)
-- [Proposed maps of zoning changes](https://www.arlingtonma.gov/Home/Components/News/News/12760/3864?backlist=%2ftown-governance%2fboards-and-committees%2fredevelopment-board)
-
-On 17-October [**Special Town Meeting**](https://www.arlingtonma.gov/Home/Components/News/News/13495/3819) will meet to take up any ARB-recommended warrant articles, as well as any other properly submitted articles to TM.  Once any final articles are passed by Town Meeting, they will be sent to the state for approval.
 
 - Follow [Your Arlington's news coverage](https://yourarlington.com/arlington-archives/town-school/planning.html)
 - State [resources for towns complying with MBTA Communities](https://www.mass.gov/info-details/resources-for-mbta-communities)

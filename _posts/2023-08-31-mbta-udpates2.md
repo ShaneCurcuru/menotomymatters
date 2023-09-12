@@ -15,7 +15,13 @@ header:
 
 Plenty of changes have been discussed and decided at recent WG meetings.  While official meeting minutes take time to post, several helpful Arlingtonians have been collecting materials at meetings or making public records requests to get the latest scoop!
 
-**UPDATE** The Town has posted official versions of many documents, and this page is updated to link to official copies where available.  The ARB still needs to weigh in, and then Special Town Meeting will be asked to approve changes.
+## ARB Meeting 11-September Discussed Changes
+
+The ARB had a **long** meeting to discuss their regular agenda as well as the WG report, including *dozens* public comments in person and many more via email.
+
+- [Download the 208pp ARB Agenda](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913) or [read the ARB agenda online](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913).
+- View just the [dozens of public comment emails](https://arlington.novusagenda.com/agendapublic/CoverSheet.aspx?ItemID=16564&MeetingID=1913) sent before the meeting. 
+- Your Arlington has [early coverage of the contentious meeting](https://yourarlington.com/arlington-archives/town-school/planning/21641-mbta-091123.html) which included disruptions.
 
 ## WG Final Comprehensive Report
 
