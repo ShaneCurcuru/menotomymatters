@@ -25,6 +25,7 @@ The ARB had a long meeting to discuss their regular agenda as well as the WG rep
 - [Download the 208pp ARB Agenda](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913) or [read the ARB agenda online](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913).
 - View just the [dozens of public comment emails](https://arlington.novusagenda.com/agendapublic/CoverSheet.aspx?ItemID=16564&MeetingID=1913) sent before the meeting. 
 - Your Arlington has [early coverage of the contentious meeting](https://yourarlington.com/arlington-archives/town-school/planning/21641-mbta-091123.html) which included disruptions.
+- [Watch the ACMi 3 hour video](https://www.youtube.com/watch?v=5Tr8gI0l7p0) of the ARB meeting.
 
 ## Final WG Report And Recommendations
 
