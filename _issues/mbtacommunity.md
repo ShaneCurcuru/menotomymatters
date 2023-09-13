@@ -61,14 +61,27 @@ Along with the [normal Arlington GIS maps](https://www.arlingtonma.gov/departmen
 
 Here's how some [comparable or nearby towns](/comparable/) to Arlington are addressing the MBTA Communities law.  You can also see all [Action Plans submitted to the state](https://www.mass.gov/doc/submitted-section-3a-action-plans).
 
-- [Belmont](https://www.belmont-ma.gov/mbta-communities-advisory-committee), [MAPC Resources page on Belmont](https://www.mapc.org/resource-library/belmont-multifam-zoning/)
+- [Belmont](https://www.belmont-ma.gov/mbta-communities-advisory-committee) is not required to comply until 2024, and is still in the planning process in Fall 2023.
+  - [MAPC Resources page on Belmont](https://www.mapc.org/resource-library/belmont-multifam-zoning/)
 - [Brookline](https://www.brooklinema.gov/2044/Multifamily-MBTA), [Brookline For Everyone advocacy group](https://brooklineforeveryone.com/)
 - [Milton](https://www.townofmilton.org/301/Massachusetts-Bay-Transportation-Authori) 
 - [Needham](https://www.needhamma.gov/5402/MBTA-Communities-Law) 
 - [Reading](https://www.readingma.gov/826/MBTA-Communities-Process) 
 - [Stoneham](https://www.stoneham-ma.gov/documentcenter/view/5394) 
 - [Winchester](https://www.winchester.us/1090/MBTA-3A) 
-- [Lexington](https://www.lexingtonma.gov/1496/Zoning-Amendments---MBTA-Communities), [Lexington Cluster Housing advocacy group](https://www.lexclusterhousing.org/)
-- [Cambridge](https://www.cambridgema.gov/CDD/News/detail.aspx?path=/sitecore/content/home/cdd/news/2023/2/cambridgesubmitsinterimactionplanformbtacommunities) 
+- [Lexington](https://www.lexingtonma.gov/1496/Zoning-Amendments---MBTA-Communities) is not required to comply with MBTA Communities law until 2024, but has already passed town meeting with updated zoning.
+  - State requirements for Lexington were: *(TM Slides, p11)*
+    - 50 acres minimum; effectively 82 acres needed due to units/acre
+    - Capacity for 1,231 units
+  - Lexington final plan was: *(TM Slides, p14)*
+    - 227 acres
+    - Includes 279 total properties
+    - *Estimated* possible new housing units: 400-800 in 4-10 years
+  - [Planning Board's Report](https://www.lexingtonma.gov/DocumentCenter/View/8292) on zoning and map proposals.
+  - [Town Meeting Slide Deck](https://www.lexingtonma.gov/DocumentCenter/View/8734) providing a high-level overview of their process and results, with plenty of detail maps and charts
+  - [Comprehensive Zoning Bylaw Change and maps](https://www.lexingtonma.gov/DocumentCenter/View/8696) passed by Lexington Town Meeting in April with 107 for, 63 against votes.
+  - [LexObserver news coverage](https://lexobserver.org/2023/04/13/town-meeting-approves-planning-boards-multi-family-zoning-proposal/) of town meeting passage.
+  - [Lexington Cluster Housing advocacy group](https://www.lexclusterhousing.org/)
+- [Cambridge](https://www.cambridgema.gov/CDD/News/detail.aspx?path=/sitecore/content/home/cdd/news/2023/2/cambridgesubmitsinterimactionplanformbtacommunities) may already comply with MBTA Communities requirements given the zoning size that already allows multifamily housing.
 
 ## History
