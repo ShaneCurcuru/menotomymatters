@@ -13,6 +13,9 @@ header:
   caption: "Photo: [**Yassine Khalfalli / Unsplash**](https://unsplash.com/photos/suWo7aT9nqE)"
 ---
 
+**NEW!** Read the [latest updates on MBTA Communities](https://menotomymatters.com/townhall/mbta-udpates3/?up)!
+{: .notice--warning}
+
 Plenty of changes have been discussed and decided at recent WG meetings.  While official meeting minutes take time to post, several helpful Arlingtonians have been collecting materials at meetings or making public records requests to get the latest scoop!
 
 ## ARB Meeting 11-September Discussed Changes

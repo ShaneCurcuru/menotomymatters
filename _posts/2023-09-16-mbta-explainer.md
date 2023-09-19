@@ -2,6 +2,7 @@
 title: "MBTA Explainer In Plain Language"
 excerpt: "A plain-language explainer about the MBTA communities law and Arlington - By Gina Sonder"
 toc: true
+author_profile: false
 categories:
   - TownHall
 tags:

@@ -13,6 +13,9 @@ header:
   caption: "Photo: [**Yassine Khalfalli / Unsplash**](https://unsplash.com/photos/suWo7aT9nqE)"
 ---
 
+**NEW!** Read the [latest updates on MBTA Communities](https://menotomymatters.com/townhall/mbta-udpates3/?up)!
+{: .notice--warning}
+
 The MBTA Communities Working Group (WG) has been covering a lot of ground in recent meetings, and it's hard to keep track of what the most recent decisions are.  Thankfully several Arlington residents have been taking detailed unofficial minutes of meetings lately.  To help folks understand the context of different meetings, we've arranged all the information about each meeting together here.
 
 ## October 17th Special Town Meeting

@@ -15,6 +15,9 @@ header:
   caption: "Photo: [**Yassine Khalfalli / Unsplash**](https://unsplash.com/photos/suWo7aT9nqE)"
 ---
 
+**NEW!** Read the [latest updates on MBTA Communities](https://menotomymatters.com/townhall/mbta-udpates3/?up)!
+{: .notice--warning}
+
 Resources about how Arlington is complying with MBTA Communities law required zoning changes.
 
 On 17-October [**Special Town Meeting**](https://www.arlingtonma.gov/Home/Components/News/News/13495/3819) will meet to take up any ARB-recommended warrant articles, as well as any other properly submitted articles to TM.  Once any final articles are passed by Town Meeting, they will be sent to the state for approval.
