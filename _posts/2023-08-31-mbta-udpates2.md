@@ -20,12 +20,17 @@ Plenty of changes have been discussed and decided at recent WG meetings.  While 
 
 ## ARB Meeting 11-September Discussed Changes
 
-The ARB had a **long** meeting to discuss their regular agenda as well as the WG report, including *dozens* public comments in person and many more via email.
+The ARB had a **long** meeting to discuss their regular agenda as well as the WG report, including *dozens* public comments in person and over 50 comments via email.
 
 - [Download the 208pp ARB Agenda](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913) or [read the ARB agenda online](https://arlington.novusagenda.com/agendapublic/DisplayAgendaPDF.ashx?MeetingID=1913).
 - View just the [dozens of public comment emails](https://arlington.novusagenda.com/agendapublic/CoverSheet.aspx?ItemID=16564&MeetingID=1913) sent before the meeting. 
 - Your Arlington has [early coverage of the contentious meeting](https://yourarlington.com/arlington-archives/town-school/planning/21641-mbta-091123.html) which included disruptions.
 - [Watch the ACMi 3 hour video](https://www.youtube.com/watch?v=5Tr8gI0l7p0) of the ARB meeting.
+
+Public comment was lengthy and loud, as well as a long list of written comments.  While the ARB has said they will read all comments, a couple of sources in town have *roughly* categorized the comments as pro or con to the current proposals:
+
+- [Your Arlington coverage](https://yourarlington.com/arlington-archives/town-school/planning/21656-arbmbta-091723.html) tracked public comments during the meeting as 20 in favor; 27 opposed or questioning.
+- Another resident got similar results for verbal comments, and also read written comments in the agenda: 12 in favor; 42 opposed; and 3 other comments with questions.
 
 ## WG Final Comprehensive Report
 
