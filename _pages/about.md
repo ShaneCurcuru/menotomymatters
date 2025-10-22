@@ -15,11 +15,12 @@ handful of [local residents who take detailed notes during some meetings](/colop
 
 I appreciate your feedback, so please do reach out if you have any 
 factual corrections, or ideas of where to find useful information on 
-the town website or elsewhere. 
+the town website or elsewhere.  Many thanks to the Town government for 
+improving their website's structured data after the pandemic!
 
 ## About Shane
 
-A 23 year resident of Arlington, Shane lives with his family and cats 
+A 20++ year resident of Arlington, Shane lives with his family and cats 
 atop the Heights just under the water tower.  Our daughter enjoyed 
 Robbins Farm Park and the Brackett School - especially Mrs. Z! - and 
 made it through Ottoson too.  We love the feel of Arlington, and appreciate 
@@ -34,4 +35,4 @@ work to help the average voter more easily understand the workings
 of our town by making meetings, reports, and other things much easier 
 to find and get explained.
 
-Shane has a [professional resume site](http://shanecurcuru.org/) as well about software and open source.
+Shane has a [professional resume site](https://shanecurcuru.org/) detailing his work in community management, and nonprofit governance.
